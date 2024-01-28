@@ -1,0 +1,490 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 620.8, 844.8883, 0, 0, 0.0002, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 84748887,
+                        "@": 84748888,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            47, -106, 1, 1, 532.3338, 282.4013, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [0.0758, -0.1257, 0.3458, 0.1955],
+                        "MG": [334.4, 169.6, 75.2, 289.6],
+                        "Scale9": [106, 79, 4, 4],
+                        "Tag": 84748885,
+                        "@": 84748886,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            46, -511, 1, 1, 533.6845, 287.4112, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [0.0742, -0.6062, 0.3458, 0.1955],
+                        "MG": [982.4, 817.6, 73.6, 288],
+                        "Scale9": [106, 79, 4, 4],
+                        "Tag": 84748883,
+                        "@": 84748884,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [592, -28, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.9548, -0.0332, 0.0887, 0.0676],
+                        "MG": [758, 28, 592, -27],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748881,
+                        "@": 84748882,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_progress_bg1.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            87, -576, 1, 1, 249.9984, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1403, -0.6833, 0.1161, 0.0835],
+                        "MG": [992, 921.6, 139.2, 211.2],
+                        "Scale9": [32, 17, 8, 34],
+                        "Tag": 84748879,
+                        "@": 84748880,
+                        "Alpha": 255,
+                        "Name": "bg_star",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_progress_bg2.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            85, -697, 1, 1, 249.9984, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1371, -0.8268, 0.1161, 0.0835],
+                        "MG": [1185.6, 1115.2, 136, 208],
+                        "Scale9": [32, 17, 8, 34],
+                        "Tag": 84748877,
+                        "@": 84748878,
+                        "Alpha": 255,
+                        "Name": "bg_time",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_star_bar.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            99, -588, 1, 1, 225.9992, 46.4, 0, 0, 0.0018, 0.9978
+                        ],
+                        "PrePos": [0.1597, -0.6975, 0.0903, 0.055],
+                        "MG": [987.2, 940.8, 158.4, 214.4],
+                        "Scale9": [24, 11, 8, 22],
+                        "Tag": 84748875,
+                        "@": 84748876,
+                        "Alpha": 255,
+                        "Name": "bar_star",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_wait_bar.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            97, -709, 1, 1, 225.988, 46.4, 0, 0, 0.0018, 0.9978
+                        ],
+                        "PrePos": [0.1565, -0.841, 0.0903, 0.055],
+                        "MG": [1180.8, 1134.4, 155.2, 211.2],
+                        "Scale9": [24, 13, 8, 20],
+                        "Tag": 84748873,
+                        "@": 84748874,
+                        "Alpha": 255,
+                        "Name": "bar_time",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star2_full.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            103, -609, 0.55, 0.5495, 147.2, 147.2, 0, 0, 0.4966,
+                            0.5068
+                        ],
+                        "PrePos": [0.1661, -0.7224, 0.2374, 0.1746],
+                        "MG": [1121.6, 974.4, 164.8, 312],
+                        "Tag": 84748871,
+                        "@": 84748872,
+                        "Alpha": 255,
+                        "Name": "icon_star",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_icolok.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            65, -694, 1, 1, 75.2, 75.2, 0, 0, 0.0146, 0.9854
+                        ],
+                        "PrePos": [0.1048, -0.8233, 0.1213, 0.0892],
+                        "MG": [1185.6, 1110.4, 104, 179.2],
+                        "Tag": 84748869,
+                        "@": 84748870,
+                        "Alpha": 255,
+                        "Name": "icon_time",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_green_friend@6x.json"
+                        },
+                        "Pos": [303, -394, 1, 1, 369, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4887, -0.4674, 0.5952, 0.1423],
+                        "MG": [329, 394, 303, -52],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748867,
+                        "@": 84748868,
+                        "Alpha": 255,
+                        "Name": "btn_friend",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            459, -608, 0.6192, 0.6192, 337, 129, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.7403, -0.7212, 0.5435, 0.153],
+                        "MG": [106, 608, 459, -176],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748865,
+                        "@": 84748866,
+                        "Alpha": 255,
+                        "Name": "btn_star",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_blue_start@6x.json"
+                        },
+                        "Pos": [
+                            457, -731, 0.6301, 0.6301, 327, 123, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.7371, -0.8671, 0.5274, 0.1459],
+                        "MG": [-11, 731, 457, -164],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748863,
+                        "@": 84748864,
+                        "Alpha": 255,
+                        "Name": "btn_time",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            460, -731, 0.6192, 0.6192, 337, 129, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.7419, -0.8671, 0.5435, 0.153],
+                        "MG": [-17, 731, 460, -177],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748861,
+                        "@": 84748862,
+                        "Alpha": 255,
+                        "Name": "btn2_time",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_line.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            116, -481, 1, 1, 84.8, 4.8, 0, 0, 0.0012, 0.9792
+                        ],
+                        "PrePos": [0.1871, -0.5706, 0.1368, 0.0057],
+                        "MG": [774.4, 769.6, 185.6, 270.4],
+                        "Tag": 84748859,
+                        "@": 84748860,
+                        "Alpha": 255,
+                        "Name": "line1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/res_line.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            420, -481, 1, 1, 84.8, 4.8, 0, 0, 0.0012, 0.9792
+                        ],
+                        "PrePos": [0.6774, -0.5706, 0.1368, 0.0057],
+                        "MG": [774.4, 769.6, 672, 756.8],
+                        "Tag": 84748857,
+                        "@": 84748858,
+                        "Alpha": 255,
+                        "Name": "line2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [172, -591, 1, 1, 107, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 142, "G": 98, "B": 0 },
+                        "PrePos": [0.2774, -0.7011, 0.1726, 0.0439],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [215, 591, 172, 341],
+                        "IsCustomSize": true,
+                        "LabelText": "120/125",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84748855,
+                        "@": 84748856,
+                        "Name": "star",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [161, -709, 1, 1, 132, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 112, "B": 123 },
+                        "PrePos": [0.2597, -0.841, 0.2129, 0.0439],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [97, 709, 161, 327],
+                        "IsCustomSize": true,
+                        "LabelText": "24:00:00",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84748853,
+                        "@": 84748854,
+                        "Name": "time",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [209, -42, 1, 1, 201, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "PrePos": [0.3371, -0.0498, 0.3242, 0.0652],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [746, 42, 209, 210],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "关卡解锁",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84748851,
+                        "@": 84748852,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [200, -464, 1, 1, 220, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3226, -0.5504, 0.3548, 0.0439],
+                        "MG": [342, 464, 200, 200],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "其他解锁方式",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84748849,
+                        "@": 84748850,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [67, -537, 1, 1, 373, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 121, "B": 61 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1081, -0.637, 0.6016, 0.0356],
+                        "MG": [276, 537, 67, 180],
+                        "IsCustomSize": true,
+                        "LabelText": "收集星星解锁",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84748847,
+                        "@": 84748848,
+                        "Name": "desc_star",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [66, -657, 1, 1, 134, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 121, "B": 61 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1065, -0.7794, 0.2161, 0.0356],
+                        "MG": [156, 657, 66, 420],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "等待时间解锁",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84748845,
+                        "@": 84748846,
+                        "Name": "desc_time",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            147, -206, 1.0556, 1.0556, 124.8, 124.8, 0, 0,
+                            0.498, 0.502
+                        ],
+                        "PrePos": [0.2371, -0.2444, 0.2013, 0.148],
+                        "MG": [454.4, 329.6, 235.2, 360],
+                        "Tag": 84748843,
+                        "@": 84748844,
+                        "Alpha": 255,
+                        "Name": "circle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/nike_bottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            191, -177, 0.5, 0.5, 83.2, 72, 0, 0, 0.494, 0.5056
+                        ],
+                        "PrePos": [0.3081, -0.21, 0.1342, 0.0854],
+                        "MG": [355.2, 283.2, 305.6, 388.8],
+                        "Tag": 84748841,
+                        "@": 84748842,
+                        "Alpha": 255,
+                        "Name": "check",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [33, -275, 1, 1, 222, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0532, -0.3262, 0.3581, 0.0356],
+                        "MG": [538, 275, 33, 365],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "jason williams",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84748839,
+                        "@": 84748840,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 620, "Y": 843 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

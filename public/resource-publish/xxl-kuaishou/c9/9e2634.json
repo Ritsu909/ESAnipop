@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            9, -6, 1.0922, 1.0922, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.0566, -0.0377, 0.634, 0.634],
+                        "MG": [110.4, 9.6, 14.4, 115.2],
+                        "Tag": 84748067,
+                        "@": 84748068,
+                        "Alpha": 255,
+                        "Name": "iconplaceholder",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 3, 1.594, 1.594, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "PrePos": [0, 0.0189, 0.634, 0.634],
+                        "MG": [96, -4.8, 0, 100.8],
+                        "Tag": 84748065,
+                        "@": 84748066,
+                        "Alpha": 255,
+                        "Name": "headdd",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 159, "Y": 159 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

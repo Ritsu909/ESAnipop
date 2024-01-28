@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanelbtn.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -60, 20, 1, 1, 123.2774, 42.472, 0, 0, 0.0009,
+                            0.9975
+                        ],
+                        "PrePos": [-0.4959, 0.4878, 0.8727, 0.9756],
+                        "MG": [8, -32, -96, 9.6],
+                        "Scale9": [26, 9, 52, 19],
+                        "Tag": 87667280,
+                        "@": 87667281,
+                        "Alpha": 255,
+                        "Name": "select",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_tab.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -60, 20, 1, 1, 123.2774, 40, 0, 0, 0.0161, 0.9975
+                        ],
+                        "PrePos": [-0.4959, 0.4878, 0.8727, 0.9756],
+                        "MG": [8, -32, -96, 9.6],
+                        "Scale9": [26, 9, 52, 19],
+                        "Tag": 87667278,
+                        "@": 87667279,
+                        "Alpha": 255,
+                        "Name": "unselect",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 121, "Y": 41 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

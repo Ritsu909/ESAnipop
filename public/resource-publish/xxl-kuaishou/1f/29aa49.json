@@ -1,0 +1,203 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -86, 1, 1, 620.8, 694.4966, 0, 0, 0.0002, 0.9993
+                        ],
+                        "PrePos": [0, -0.1104, 1.0013, 0.1787],
+                        "MG": [276.8, 137.6, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 9417106,
+                        "@": 9417107,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [580, -122, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.9355, -0.1566, 0.0887, 0.0732],
+                        "MG": [600, 122, 580, -15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417104,
+                        "@": 9417105,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_bottom_btn_blue_start3@6x.json"
+                        },
+                        "Pos": [
+                            297, -643, 1.0168, 1.0168, 306, 145, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.479, -0.8254, 0.4935, 0.1861],
+                        "MG": [-9, 643, 297, 17],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417102,
+                        "@": 9417103,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            312, -544, 0.4, 0.4, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.5032, -0.6983, 0.1626, 0.1294],
+                        "MG": [971.2, 870.4, 499.2, 600],
+                        "Tag": 9417100,
+                        "@": 9417101,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_bow.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            166, -291, 1, 1, 294.4, 118.4, 0, 0, 0.0003, 0.9992
+                        ],
+                        "PrePos": [0.2677, -0.3736, 0.4748, 0.152],
+                        "MG": [584, 465.6, 265.6, 560],
+                        "Tag": 9417098,
+                        "@": 9417099,
+                        "Alpha": 255,
+                        "Name": "bow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_res_box@6x.json"
+                        },
+                        "Pos": [292, -317, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.471, -0.4069, 0, 0],
+                        "MG": [462, 317, 292, 328],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417096,
+                        "@": 9417097,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_leaf.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            342, -340, 0.9268, 0.9268, 72, 67.2, 0, 0, 0.0014,
+                            0.9985
+                        ],
+                        "PrePos": [0.5516, -0.4365, 0.1161, 0.0863],
+                        "MG": [611.2, 544, 547.2, 619.2],
+                        "Tag": 9417094,
+                        "@": 9417095,
+                        "Alpha": 255,
+                        "Name": "leaf",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [197, -508, 1.25, 1.25, 225, 61, 0, 0, 0, 1],
+                        "PrePos": [0.3177, -0.6521, 0.3629, 0.0783],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [210, 508, 197, 198],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "24:00:00\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9417092,
+                        "@": 9417093,
+                        "Name": "time",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [124, -413, 0.75, 0.75, 370, 82, 0, 0, 0, 1],
+                        "PrePos": [0.2, -0.5302, 0.5968, 0.1053],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [284, 413, 124, 126],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "连续签到x天，功夫不负有心人获得打折大礼包\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9417090,
+                        "@": 9417091,
+                        "Name": "desc",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [96, 0, 1, 1, 427, 94, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 242, "B": 130 },
+                        "PrePos": [0.1548, 0, 0.6887, 0.1207],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_greenstroke@6x.fnt"
+                        },
+                        "MG": [685, 0, 96, 97],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "每日签到",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 9417088,
+                        "@": 9417089,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 620, "Y": 779 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

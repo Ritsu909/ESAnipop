@@ -1,0 +1,77 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        1,
+                        "uilibrary/pnl_common03.png",
+                        "cocos/uilibrary@6x"
+                    ],
+                    "Pos": [
+                        0, 0, 1, 1, 477.5814, 299.4331, 0, 0, 0.0002, 0.9993
+                    ],
+                    "Scale9": [188, 40, 10, 4],
+                    "Tag": 50004,
+                    "@": 50005,
+                    "#": "bg",
+                    "$": "IV"
+                },
+                {
+                    "Pos": [42, -46, 1, 1, 394, 144, 0, 0, 0, 1],
+                    "CColor": { "A": 255, "R": 0, "G": 0, "B": 0 },
+                    "T": "测试一二三",
+                    "i": 24,
+                    "Tag": 50006,
+                    "@": 50007,
+                    "#": "message",
+                    "$": "TextFieldObjectData"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/exception_panel_bottom_btn_green_cancel@6x.json",
+                        ""
+                    ],
+                    "Pos": [462, -18, 1, 1, 55, 57, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50008,
+                    "@": 50009,
+                    "#": "btn_close",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/exception_panel_btn_green_small@6x.json",
+                        ""
+                    ],
+                    "Pos": [159, -225, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50018,
+                    "@": 50019,
+                    "#": "btn_cancel",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/exception_panel_btn_green_small@6x.json",
+                        ""
+                    ],
+                    "Pos": [317, -225, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50020,
+                    "@": 50021,
+                    "#": "btn_ok",
+                    "$": "PN"
+                }
+            ],
+            "Size": { "X": 490, "Y": 309 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,667 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50185,
+                        [
+                            { "P": [-30.15, -8], "I": 0, "T": 0 },
+                            { "P": [-30.15, -8], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50187,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50187,
+                        [
+                            { "P": [-32.65, 0], "I": 0, "T": 0 },
+                            { "P": [-32.65, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50189,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50189,
+                        [
+                            { "P": [-13.65, -6], "I": 0, "T": 0 },
+                            { "P": [-13.65, -6], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50191,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50191,
+                        [
+                            { "P": [-42.65, 0.5], "I": 0, "T": 0 },
+                            { "P": [-42.65, 0.5], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50193,
+                        [
+                            { "P": [-38.15, -37.5], "I": 0, "T": 0 },
+                            { "P": [-38.15, -37.5], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50195,
+                        [
+                            { "P": [-12.15, -29.35], "I": 0, "T": 0 },
+                            { "P": [-12.15, -29.35], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50197,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50197,
+                        [
+                            { "P": [-22.65, -42.5], "I": 0, "T": 0 },
+                            { "P": [-22.65, -42.5], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50199,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50199,
+                        [
+                            { "P": [-34.65, -50.5], "I": 0, "T": 0 },
+                            { "P": [-34.65, -50.5], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50201,
+                        [
+                            {
+                                "P": [-7.3, 18.15],
+                                "I": 0,
+                                "E": [0.4207, 0, 0.6057, 1]
+                            },
+                            {
+                                "P": [-13.15, 16.1],
+                                "I": 49,
+                                "E": [0.3699, 0, 0.624, 1]
+                            },
+                            { "P": [-7.3, 18.15], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50201,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4207, 0, 0.6057, 1]
+                            },
+                            {
+                                "P": [-1.45, -1.45],
+                                "I": 49,
+                                "E": [0.3699, 0, 0.624, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50203,
+                        [
+                            {
+                                "P": [-5.6, 25.2],
+                                "I": 0,
+                                "E": [0.4207, 0, 0.6057, 1]
+                            },
+                            {
+                                "P": [-10.75, 26.7],
+                                "I": 49,
+                                "E": [0.3699, 0, 0.624, 1]
+                            },
+                            { "P": [-5.6, 25.2], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50203,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4207, 0, 0.6057, 1]
+                            },
+                            {
+                                "P": [-1.45, -1.45],
+                                "I": 49,
+                                "E": [0.3699, 0, 0.624, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50205,
+                        [
+                            { "P": [-47.15, 11.15], "I": 0, "T": 0 },
+                            { "P": [-47.15, 11.15], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50207,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50207,
+                        [
+                            { "P": [-34, -65.45], "I": 0, "T": 0 },
+                            { "P": [-34, -65.45], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50209,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50209,
+                        [
+                            { "P": [-15.6, -63.45], "I": 0, "T": 0 },
+                            { "P": [-15.6, -63.45], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50211,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 73,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50211,
+                        [
+                            { "P": [-26.6, -56.4], "I": 0, "T": 0 },
+                            { "P": [-26.6, -56.4], "I": 24, "T": 0 },
+                            { "P": [56.4, -56.4], "I": 73, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50211,
+                        [
+                            { "P": [1.8986, 1.0456], "I": 0, "T": 0 },
+                            { "P": [1.8986, 1.0456], "I": 24, "T": 0 },
+                            { "P": [1, 1], "I": 73, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50211,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 24, "T": 0 },
+                            { "V": 0, "I": 73, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50213,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 85,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50213,
+                        [
+                            { "P": [-20, -63.6], "I": 0, "T": 0 },
+                            { "P": [-20, -63.6], "I": 36, "T": 0 },
+                            { "P": [63.6, -63.6], "I": 85, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50213,
+                        [
+                            { "P": [2.457, 1.3531], "I": 0, "T": 0 },
+                            { "P": [2.457, 1.3531], "I": 36, "T": 0 },
+                            { "P": [1, 1], "I": 85, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50213,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 36, "T": 0 },
+                            { "V": 0, "I": 85, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_overlaybase.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [
+                            -30, -8, 1, 1, 108.8, 177.6, 0, 0, 0.4972, 0.5011
+                        ],
+                        "MG": [190.4, 12.8, -48, 60.8],
+                        "Tag": 50184,
+                        "@": 50185,
+                        "Alpha": 255,
+                        "Name": "base",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_1@6x.json"
+                        },
+                        "Pos": [-32, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, -32, 32],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50186,
+                        "@": 50187,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_2@6x.json"
+                        },
+                        "Pos": [-13, -6, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-6, 6, -13, 13],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50188,
+                        "@": 50189,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_3@6x.json"
+                        },
+                        "Pos": [-42, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, -42, 42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50190,
+                        "@": 50191,
+                        "Alpha": 255,
+                        "Name": "3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_5.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [-38, -37, 1, 1, 49.6, 64, 0, 0, 0.496, 0.5062],
+                        "MG": [123.2, 59.2, -60.8, -11.2],
+                        "Tag": 50192,
+                        "@": 50193,
+                        "Alpha": 255,
+                        "Name": "5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_6.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [-12, -29, 1, 1, 32, 14.4, 0, 0, 0.5031, 0.5417],
+                        "MG": [60.8, 46.4, -19.2, 12.8],
+                        "Tag": 50194,
+                        "@": 50195,
+                        "Alpha": 255,
+                        "Name": "6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_7@6x.json"
+                        },
+                        "Pos": [-22, -42, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-42, 42, -22, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50196,
+                        "@": 50197,
+                        "Alpha": 255,
+                        "Name": "7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_4@6x.json"
+                        },
+                        "Pos": [-34, -50, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-50, 50, -34, 34],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50198,
+                        "@": 50199,
+                        "Alpha": 255,
+                        "Name": "4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_s2.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [-7, 18, 1, 1, 19.2, 99.2, 0, 0, 0.6042, 0.8881],
+                        "MG": [70.4, -28.8, -11.2, 8],
+                        "Tag": 50200,
+                        "@": 50201,
+                        "Alpha": 255,
+                        "Name": "straw02",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_s1.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [-5, 25, 1, 1, 20.8, 86.4, 0, 0, 0.4183, 0.0613],
+                        "MG": [46.4, -40, -8, 12.8],
+                        "Tag": 50202,
+                        "@": 50203,
+                        "Alpha": 255,
+                        "Name": "straw01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_overlaymint.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [
+                            -47, 11, 1, 1, 115.2, 212.8, 0, 0, 0.4957, 0.5014
+                        ],
+                        "MG": [195.2, -17.6, -75.2, 40],
+                        "Tag": 50204,
+                        "@": 50205,
+                        "Alpha": 255,
+                        "Name": "ol",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_bubblegrps@6x.json"
+                        },
+                        "Pos": [-34, -65, 1.3506, 1.3506, 0, 0, 0, 0, 0, 0],
+                        "MG": [-65, 65, -34, 34],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50206,
+                        "@": 50207,
+                        "Alpha": 255,
+                        "Name": "b1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_bubblegrps@6x.json"
+                        },
+                        "Pos": [-15, -63, 1.2779, 1.0456, 0, 0, 0, 0, 0, 0],
+                        "MG": [-63, 63, -15, 15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50208,
+                        "@": 50209,
+                        "Alpha": 255,
+                        "Name": "b2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_bubblegrps@6x.json"
+                        },
+                        "Pos": [-26, -56, 1.8986, 1.0456, 0, 0, 0, 0, 0, 0],
+                        "MG": [-56, 56, -26, 26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50210,
+                        "@": 50211,
+                        "Alpha": 0,
+                        "Name": "b3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/frog_finish_mintfolder_bubblegrps@6x.json"
+                        },
+                        "Pos": [-20, -63, 2.457, 1.3531, 0, 0, 0, 0, 0, 0],
+                        "MG": [-63, 63, -20, 20],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50212,
+                        "@": 50213,
+                        "Alpha": 0,
+                        "Name": "b4",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

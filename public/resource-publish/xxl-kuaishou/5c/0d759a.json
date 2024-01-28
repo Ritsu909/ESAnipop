@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 5,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        89194667,
+                        [
+                            { "P": [-1.5, -12.35], "I": 0 },
+                            { "P": [-1.5, -14.65], "I": 2 },
+                            { "P": [-1.5, -12.35], "I": 4, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        89194667,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1.2, 1.2], "I": 2 },
+                            { "P": [1, 1], "I": 4, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_bellDoor/bell_note2.png",
+                            "Plist": "cocos/homeAnim_bellDoor@6x.plist"
+                        },
+                        "Pos": [-1, -12, 1, 1, 20.8, 24, 0, 0, 0.4904, 0.0271],
+                        "MG": [43.2, 19.2, -1.6, 19.2],
+                        "Tag": 89194666,
+                        "@": 89194667,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

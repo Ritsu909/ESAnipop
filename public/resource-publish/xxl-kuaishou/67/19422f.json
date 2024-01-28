@@ -1,0 +1,145 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 644.825, 991.4242, 0, 0, 0.0002, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 80603649,
+                        "@": 80603650,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_invite_panel.lua/poser.png",
+                            "Plist": "cocos/energy_invite_panel.lua@6x.plist"
+                        },
+                        "Pos": [
+                            322, -403, 1, 1, 598.4, 667.2, 0, 0, 0.499, 0.5007
+                        ],
+                        "PrePos": [0.4864, -0.4002, 0.9039, 0.6626],
+                        "MG": [1312, 644.8, 515.2, 1113.6],
+                        "Tag": 80603647,
+                        "@": 80603648,
+                        "Alpha": 255,
+                        "Name": "poser",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_invite_panel.lua/mask.png",
+                            "Plist": "cocos/energy_invite_panel.lua@6x.plist"
+                        },
+                        "Pos": [
+                            29, -651, 58.5, 15.9999, 11.2, 11.2, 0, 0, 0.0089,
+                            0.9911
+                        ],
+                        "PrePos": [0.0438, -0.6465, 0.0169, 0.0111],
+                        "MG": [1052.8, 1041.6, 46.4, 57.6],
+                        "Tag": 80603645,
+                        "@": 80603646,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_invite_panel.lua_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [622, -22, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9396, -0.0218, 0.1193, 0.0785],
+                        "MG": [906, 22, 622, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80603643,
+                        "@": 80603644,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -651, 1, 1, 575.5147, 196.7198, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [0.0529, -0.6465, 0.1958, 0.1287],
+                        "MG": [1171.2, 1041.6, 56, 185.6],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 80603641,
+                        "@": 80603642,
+                        "Alpha": 255,
+                        "Name": "white",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_invite_panel.lua_btn_green_start1_send@6x.json"
+                        },
+                        "Pos": [182, -908, 0.9, 0.9, 276, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2749, -0.9017, 0.4169, 0.1212],
+                        "MG": [-23, 908, 182, 204],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80603639,
+                        "@": 80603640,
+                        "Alpha": 255,
+                        "Name": "button1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_invite_panel.lua_btn_green_start1_icon_askfor@6x.json"
+                        },
+                        "Pos": [453, -908, 0.9, 0.9, 276, 122, 0, 0, 0, 0],
+                        "PrePos": [0.6843, -0.9017, 0.4169, 0.1212],
+                        "MG": [-23, 908, 453, -67],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80603637,
+                        "@": 80603638,
+                        "Alpha": 255,
+                        "Name": "button2",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 662, "Y": 1007 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

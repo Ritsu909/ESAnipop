@@ -1,0 +1,66 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/island1water.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [0, -22, 1, 1, 84.8, 67.2, 0, 0, 0.0012, 0.9985],
+                        "PrePos": [0, -0.2157, 0.8742, 0.6588],
+                        "MG": [102.4, 35.2, 0, 84.8],
+                        "Tag": 84746843,
+                        "@": 84746844,
+                        "Alpha": 255,
+                        "Name": "water",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/inviteReward1_light.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [-4, 7, 1, 1, 97.6, 102.4, 0, 0, 0.001, 0.999],
+                        "PrePos": [-0.0412, 0.0686, 1.0062, 1.0039],
+                        "MG": [91.2, -11.2, -6.4, 91.2],
+                        "Tag": 84746841,
+                        "@": 84746842,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/island1sprite.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [4, 0, 1, 1, 80, 84.8, 0, 0, 0.0012, 0.9988],
+                        "PrePos": [0.0412, 0, 0.8247, 0.8314],
+                        "MG": [84.8, 0, 6.4, 86.4],
+                        "Tag": 84746839,
+                        "@": 84746840,
+                        "Alpha": 255,
+                        "Name": "island",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 97, "Y": 102 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

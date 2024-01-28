@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/Symbol_37.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -110, 26, 1.0001, 1, 225.6, 57.6, 0, 0, 0.0093,
+                            0.9635
+                        ],
+                        "PrePos": [-0.4911, 0.4643, 1.0071, 1.0286],
+                        "MG": [16, -41.6, -176, 49.6],
+                        "Tag": 50048,
+                        "@": 50049,
+                        "Alpha": 255,
+                        "Name": "_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-67, 17, 1, 1, 116, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 255, "B": 251 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2991, 0.3036, 0.5179, 0.625],
+                        "MG": [38, -17, -67, 175],
+                        "IsCustomSize": true,
+                        "LabelText": "查看演示",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 50050,
+                        "@": 50051,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 224, "Y": 56 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,926 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50001,
+                        [
+                            { "P": [0, -0.35], "I": 0 },
+                            { "P": [0, -0.35], "I": 19 },
+                            { "P": [0, -0.35], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            {
+                                "P": [3.0287, 2.7367],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [2.8981, 2.6187],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [3.0287, 2.7367], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50003,
+                        [
+                            {
+                                "P": [-3.15, 48.05],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.15, 53],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-3.15, 48.05], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50005,
+                        [
+                            { "P": [38.2, 130.25], "I": 0 },
+                            { "P": [38.2, 130.25], "I": 19 },
+                            { "P": [38.2, 130.25], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50005,
+                        [
+                            {
+                                "P": [-37.54, -37.54],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-40.78, -40.78],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-37.54, -37.54], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50007,
+                        [
+                            { "P": [-35.35, 53.85], "I": 0 },
+                            { "P": [-35.35, 53.85], "I": 19 },
+                            { "P": [-35.35, 53.85], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50009,
+                        [
+                            { "P": [31.65, 53.85], "I": 0 },
+                            { "P": [31.65, 53.85], "I": 19 },
+                            { "P": [31.65, 53.85], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50011,
+                        [
+                            {
+                                "P": [-3.5, 83.15],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, 84.8],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-3.5, 83.15], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50013,
+                        [
+                            {
+                                "P": [11.9, 50.3],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [11.9, 51.95],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [11.9, 50.3], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50013,
+                        [
+                            {
+                                "P": [0.9115, 1],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [0.9115, 0.9998],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [0.9115, 1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50015,
+                        [
+                            { "P": [-2.75, 121.85], "I": 0 },
+                            { "P": [-2.75, 121.85], "I": 19 },
+                            { "P": [-2.75, 121.85], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50017,
+                        [
+                            {
+                                "P": [-3.15, 48.05],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.15, 53],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-3.15, 48.05], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50019,
+                        [
+                            { "P": [-45.8, 123.45], "I": 0 },
+                            { "P": [-45.8, 123.45], "I": 19 },
+                            { "P": [-45.8, 123.45], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50019,
+                        [
+                            {
+                                "P": [39.47, -140.53],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [44.45, -135.55],
+                                "I": 19,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [39.47, -140.53], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50021,
+                        [
+                            {
+                                "P": [63.75, 324.95],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [58.8, 331.55],
+                                "I": 23,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [63.75, 324.95], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50021,
+                        [
+                            {
+                                "P": [3.43, -172.75],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [0.2, -175.98],
+                                "I": 23,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [3.43, -172.75], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50023,
+                        [
+                            {
+                                "P": [-5.95, 124.65],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-5.65, 129.5],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-5.95, 124.65], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50023,
+                        [
+                            {
+                                "P": [-2.55, 177.56],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, 176.61],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, 177.56], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50025,
+                        [
+                            {
+                                "P": [23.75, 204.65],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [22.7, 210],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [23.75, 204.65], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50025,
+                        [
+                            {
+                                "P": [-2.55, 177.56],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, 176.61],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, 177.56], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50027,
+                        [
+                            {
+                                "P": [21.65, 267],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [19.6, 277.3],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [21.65, 267], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50027,
+                        [
+                            {
+                                "P": [-2.55, -2.44],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, -3.39],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, -2.44], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50029,
+                        [
+                            {
+                                "P": [-35.2, 201.35],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-36.2, 212.35],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-35.2, 201.35], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50029,
+                        [
+                            {
+                                "P": [-2.55, 177.56],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, 176.61],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, 177.56], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50033,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50033,
+                        [
+                            {
+                                "P": [-29.15, 203.55],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-29.15, 213.9],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-29.15, 203.55], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50035,
+                        [
+                            {
+                                "P": [69.9, 205.8],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [68.85, 218.55],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [69.9, 205.8], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50035,
+                        [
+                            {
+                                "P": [-2.55, -2.44],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, -3.39],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, -2.44], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50037,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50037,
+                        [
+                            {
+                                "P": [65.1, 207.65],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [65.1, 218.7],
+                                "I": 24,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [65.1, 207.65], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50037,
+                        [
+                            { "P": [0.7898, 0.9858], "I": 0 },
+                            { "P": [0.7898, 0.9858], "I": 24 },
+                            { "P": [0.7898, 0.9858], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50039,
+                        [
+                            {
+                                "P": [24.95, 157.05],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [24.7, 169.05],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [24.95, 157.05], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50039,
+                        [
+                            {
+                                "P": [-2.55, -2.44],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-3.5, -3.39],
+                                "I": 22,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, -2.44], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50041,
+                        [
+                            {
+                                "P": [-80.75, 315.8],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-86.95, 319.45],
+                                "I": 23,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-80.75, 315.8], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50041,
+                        [
+                            {
+                                "P": [1.0079, 0.9859],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [1.0078, 0.9859],
+                                "I": 23,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [1.0079, 0.9859], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50041,
+                        [
+                            {
+                                "P": [-2.55, 177.56],
+                                "I": 0,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            {
+                                "P": [-11.73, 168.38],
+                                "I": 23,
+                                "E": [0.4211, 0, 0.5789, 1]
+                            },
+                            { "P": [-2.55, 177.56], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_shadow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 3.0287, 2.7367, 64, 20.8, 0, 0, 0.5047, 0.4928
+                        ],
+                        "MG": [20.8, 0, 0, 64],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_swim_ring_02.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -3, 48, 1, 1, 158.4, 46.4, 0, 0, 0.4931, 0.2522
+                        ],
+                        "MG": [-30.4, -76.8, -4.8, 153.6],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 255,
+                        "Name": "swim_ring_behind",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_hand.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            38, 130, 0.854, 0.7612, 43.2, 112, -37.54, -37.54,
+                            0.4699, 0.9759
+                        ],
+                        "MG": [-96, -208, 60.8, 104],
+                        "Tag": 50004,
+                        "@": 50005,
+                        "Alpha": 255,
+                        "Name": "hippo_hand_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_leg.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -35, 53, 1, 1, 49.6, 64, 0, 180, 0.4899, 0.9031
+                        ],
+                        "MG": [-20.8, -84.8, -56, -6.4],
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Alpha": 255,
+                        "Name": "hippo_leg_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_leg.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [31, 53, 1, 1, 49.6, 64, 0, 0, 0.4899, 0.9031],
+                        "MG": [-20.8, -84.8, 49.6, 99.2],
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Alpha": 255,
+                        "Name": "hippo_leg_R",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_body.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [-3, 83, 1, 1, 128, 123.2, 0, 0, 0.4953, 0.5024],
+                        "MG": [-9.6, -132.8, -4.8, 123.2],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Alpha": 255,
+                        "Name": "hippo_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_dupi.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            11, 50, 0.9115, 1, 97.6, 104, 0, 0, 0.4928, 0.1639
+                        ],
+                        "MG": [24, -80, 17.6, 115.2],
+                        "Tag": 50012,
+                        "@": 50013,
+                        "Alpha": 255,
+                        "Name": "hippo_dupi",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_headshaow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 121, 1, 1, 118.4, 51.2, 0, 0, 0.4962, 0.4775
+                        ],
+                        "MG": [-142.4, -193.6, -3.2, 115.2],
+                        "Tag": 50014,
+                        "@": 50015,
+                        "Alpha": 255,
+                        "Name": "hippo_headshaow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_swim_ring_01.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [-3, 48, 1, 1, 160, 52.8, 0, 0, 0.4994, 0.5237],
+                        "MG": [-24, -76.8, -4.8, 155.2],
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "swim_ring_ahead",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_hand1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -45, 123, 1, 0.9626, 35.2, 78.4, 39.47, -140.53,
+                            0.4673, 0.9509
+                        ],
+                        "MG": [-118.4, -196.8, -72, -36.8],
+                        "Tag": 50018,
+                        "@": 50019,
+                        "Alpha": 255,
+                        "Name": "hippo_hand_R",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_ear.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            63, 324, 0.9472, 0.9868, 52.8, 49.6, 3.43, -172.75,
+                            0.6638, 0.2036
+                        ],
+                        "MG": [-468.8, -518.4, 100.8, 153.6],
+                        "Tag": 50020,
+                        "@": 50021,
+                        "Alpha": 255,
+                        "Name": "hippo_ear",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_headhalfside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -5, 124, 1.0079, 0.9859, 232, 243.2, -2.55, 177.56,
+                            0.5015, 0.0352
+                        ],
+                        "MG": [44.8, -198.4, -8, 224],
+                        "Tag": 50022,
+                        "@": 50023,
+                        "Alpha": 255,
+                        "Name": "hippo_headhalfside",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_face.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            23, 204, 1.0079, 0.9859, 113.6, 49.6, -2.55, 177.56,
+                            0.4982, 0.501
+                        ],
+                        "MG": [-276.8, -326.4, 36.8, 150.4],
+                        "Tag": 50024,
+                        "@": 50025,
+                        "Alpha": 255,
+                        "Name": "hippo_face",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_eyerow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            21, 267, 0.9176, 0.9859, 115.2, 11.2, -2.55, -2.44,
+                            0.4952, 0.4688
+                        ],
+                        "MG": [-416, -427.2, 33.6, 148.8],
+                        "Tag": 50026,
+                        "@": 50027,
+                        "Alpha": 255,
+                        "Name": "hippo_eyerow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -35, 201, 1.0079, 0.9859, 73.6, 73.6, -2.55, 177.56,
+                            0.498, 0.502
+                        ],
+                        "MG": [-248.0, -321.6, -56, 17.6],
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Alpha": 255,
+                        "Name": "hippo_eyeball2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_hippo_idle_pupil_blink@6x.json"
+                        },
+                        "Pos": [-29, 203, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [203, -203, -29, 29],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "hippo_eyeinside2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            69, 205, 0.7899, 0.9859, 73.6, 73.6, -2.55, -2.44,
+                            0.498, 0.502
+                        ],
+                        "MG": [-254.4, -328, 110.4, 184],
+                        "Tag": 50034,
+                        "@": 50035,
+                        "Alpha": 255,
+                        "Name": "hippo_eyeball1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_hippo_idle_pupil_blink@6x.json"
+                        },
+                        "Pos": [
+                            65, 207, 0.7897, 0.9857, 0, 0, -2.51, -2.3, 0, 0
+                        ],
+                        "MG": [207, -207, 65, -65],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "hippo_eyeinside1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_nose.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            24, 157, 1.0079, 0.9859, 52.8, 11.2, -2.55, -2.44,
+                            0.5009, 0.5357
+                        ],
+                        "MG": [-240, -251.2, 38.4, 91.2],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "hippo_nose",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/aaatrashs_hippo_hippo_ear2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -80, 315, 1.0079, 0.9859, 60.8, 57.6, -2.55, 177.56,
+                            0.301, 0.2795
+                        ],
+                        "MG": [-446.4, -504, -128, -67.2],
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "hippo_ear_R",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

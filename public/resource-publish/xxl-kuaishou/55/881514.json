@@ -1,0 +1,77 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/disable.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -65, 25, 0.85, 0.84, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.5, 0.4902, 1.1815, 1.2235],
+                        "MG": [22.4, -40, -104, 49.6],
+                        "Tag": 111055,
+                        "@": 111056,
+                        "Alpha": 255,
+                        "Name": "disable",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/green_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -65, 25, 0.85, 0.84, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.5, 0.4902, 1.1815, 1.2235],
+                        "MG": [22.4, -40, -104, 49.6],
+                        "Tag": 111051,
+                        "@": 111052,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-30, 17, 1, 1, 61, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2308, 0.3333, 0.4692, 0.6863],
+                        "MG": [33, -17, -30, 99],
+                        "IsCustomSize": true,
+                        "LabelText": "取消",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 111163,
+                        "@": 111164,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 130, "Y": 51 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

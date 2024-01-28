@@ -1,0 +1,153 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 620.8, 732.2338, 0, 0, 0.0002, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/preprop_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [557, -54, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8984, -0.0739, 0.1371, 0.1135],
+                        "MG": [594, 54, 557, -22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [56, -119, 1, 1, 504, 72, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0903, -0.1628, 0.8129, 0.0985],
+                        "MG": [540, 119, 56, 60],
+                        "IsCustomSize": true,
+                        "LabelText": "此处选择的道具在关卡开始后立刻生效，仅限当局哦",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [163, -45, 1, 1, 295, 62, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "PrePos": [0.2629, -0.0616, 0.4758, 0.0848],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [624, 45, 163, 162],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "说明",
+                        "FontSize": 45,
+                        "Shadow": [2, -2],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/darksquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            68, -200, 1, 1, 537.1829, 143.9962, 0, 0, 0.0494,
+                            1.0089
+                        ],
+                        "PrePos": [0.1097, -0.2736, 0.24, 0.1839],
+                        "MG": [454.4, 320, 108.8, 257.6],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 50012,
+                        "@": 50013,
+                        "Alpha": 255,
+                        "Name": "itembg1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/darksquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            68, -360, 1, 1, 537.1829, 143.9962, 0, 0, 0.0494,
+                            1.0089
+                        ],
+                        "PrePos": [0.1097, -0.4925, 0.24, 0.1839],
+                        "MG": [710.4, 576, 108.8, 257.6],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 50014,
+                        "@": 50015,
+                        "Alpha": 255,
+                        "Name": "itembg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/darksquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            68, -521, 1, 1, 537.1829, 143.9962, 0, 0, 0.0494,
+                            1.0089
+                        ],
+                        "PrePos": [0.1097, -0.7127, 0.24, 0.1839],
+                        "MG": [968, 833.6, 108.8, 257.6],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "itembg3",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 620, "Y": 731 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

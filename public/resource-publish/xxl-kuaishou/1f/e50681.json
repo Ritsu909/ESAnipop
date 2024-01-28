@@ -1,0 +1,112 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fc/tipssbg.png",
+                            "Plist": "cocos/fc@6x.plist"
+                        },
+                        "Pos": [
+                            0, -6, 1, 1, 602.7566, 449.2584, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [0, -0.0132, 0.216, 0.2855],
+                        "MG": [139.2, 9.6, 0, 129.6],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 1217,
+                        "@": 1218,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/groove_01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            16, -77, 1, 1, 571.3171, 247.4605, 0, 0, 0.0019,
+                            0.9978
+                        ],
+                        "PrePos": [0.0267, -0.1696, 0.088, 0.1022],
+                        "MG": [169.6, 123.2, 25.6, 78.4],
+                        "Scale9": [23, 21, 4, 2],
+                        "Tag": 1215,
+                        "@": 1216,
+                        "Alpha": 38,
+                        "Name": "input_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [241, -25, 1, 1, 111, 55, 0, 0, 0, 1],
+                        "PrePos": [0.4017, -0.0551, 0.185, 0.1211],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [374, 25, 241, 248],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "反馈",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1213,
+                        "@": 1214,
+                        "Name": "titile",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fc_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [542, -41, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9033, -0.0903, 0.1417, 0.1828],
+                        "MG": [330, 41, 542, -27],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1211,
+                        "@": 1212,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fc_bottom_btn_orange_start@6x.json"
+                        },
+                        "Pos": [464, -371, 0.9, 0.9, 195, 120, 0, 0, 0, 0],
+                        "PrePos": [0.7733, -0.8172, 0.325, 0.2643],
+                        "MG": [-37, 371, 464, -59],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1209,
+                        "@": 1210,
+                        "Alpha": 255,
+                        "Name": "btn_send",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 600, "Y": 454 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

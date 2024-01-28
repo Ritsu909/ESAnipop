@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.7496, 0.7566, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.02, -0.01, 1.152, 1.152],
+                        "MG": [116.8, 1.6, 3.2, 118.4],
+                        "Tag": 29325563,
+                        "@": 29325564,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.7496, 0.7566, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.02, -0.01, 1.152, 1.152],
+                        "MG": [116.8, 1.6, 3.2, 118.4],
+                        "Tag": 29325561,
+                        "@": 29325562,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_ring.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.9739, 0.9739, 104, 104, 0, 0, 0.4962, 0.499
+                        ],
+                        "PrePos": [0.02, -0.01, 1.04, 1.04],
+                        "MG": [105.6, 1.6, 3.2, 107.2],
+                        "Tag": 29325559,
+                        "@": 29325560,
+                        "Alpha": 255,
+                        "Name": "ring",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 100 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

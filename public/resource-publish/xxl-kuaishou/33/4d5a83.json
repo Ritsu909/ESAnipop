@@ -1,0 +1,53 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_langhua1@6x.json"
+                        },
+                        "Pos": [-59, -137, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.1148, -0.5437, 0, 0],
+                        "MG": [115, 137, -59, 573],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753231,
+                        "@": 84753232,
+                        "Alpha": 255,
+                        "Name": "lang",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/shape264.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 515.2, 152, 0, 0, 0.4996, 0.5155],
+                        "MG": [152, 0, 0, 515.2],
+                        "Tag": 84753211,
+                        "@": 84753212,
+                        "Alpha": 255,
+                        "Name": "Layer 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 514, "Y": 252 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

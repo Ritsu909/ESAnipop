@@ -1,0 +1,289 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/rope.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [99, -23, 1, 1, 6.4, 73.6, 0, 0, 0.4375, 0.5048],
+                        "PrePos": [0.161, -0.0785, 0.0104, 0.2512],
+                        "MG": [110.4, 36.8, 158.4, 164.8],
+                        "Tag": 87977106,
+                        "@": 87977107,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/rope.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            515, -23, 1, 1, 6.4, 73.6, 0, 0, 0.4375, 0.5048
+                        ],
+                        "PrePos": [0.8374, -0.0785, 0.0104, 0.2512],
+                        "MG": [110.4, 36.8, 824, 830.4],
+                        "Tag": 87977104,
+                        "@": 87977105,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/res_panel_title_bg3.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            62, -209, 1, 1, 480.9984, 72, 0, 0, 0.001, 0.9986
+                        ],
+                        "PrePos": [0.1008, -0.7133, 0.1561, 0.2457],
+                        "MG": [406.4, 334.4, 99.2, 195.2],
+                        "Scale9": [32, 17, 32, 35],
+                        "Tag": 87977102,
+                        "@": 87977103,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/newboards.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            0, -55, 1, 1, 621.0109, 165.0197, 0, 0, 0.0006,
+                            0.9994
+                        ],
+                        "PrePos": [0, -0.1877, 0.2784, 0.5843],
+                        "MG": [259.2, 88, 0, 171.2],
+                        "Scale9": [66, 72, 31, 22],
+                        "Tag": 87977100,
+                        "@": 87977101,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/cd_sprite.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [122, -235, 1, 1, 49.6, 56, 0, 0, 0.496, 0.4982],
+                        "PrePos": [0.1984, -0.802, 0.0807, 0.1911],
+                        "MG": [432, 376, 195.2, 244.8],
+                        "Tag": 87977098,
+                        "@": 87977099,
+                        "Alpha": 255,
+                        "Name": "cd",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [180, -209, 1.2355, 1.2355, 59, 46, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 248, "B": 197 },
+                        "PrePos": [0.2927, -0.7133, 0.0959, 0.157],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [38, 209, 180, 376],
+                        "IsCustomSize": true,
+                        "LabelText": "125",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 87977096,
+                        "@": 87977097,
+                        "Name": "time_hour",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [242, -221, 0.738, 0.738, 32, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 105, "G": 150, "B": 250 },
+                        "PrePos": [0.3935, -0.7543, 0.052, 0.1399],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [31, 221, 242, 341],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "时",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87977094,
+                        "@": 87977095,
+                        "Name": "time1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [288, -209, 1.2355, 1.2355, 43, 49, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 248, "B": 197 },
+                        "PrePos": [0.4683, -0.7133, 0.0699, 0.1672],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [35, 209, 288, 284],
+                        "IsCustomSize": true,
+                        "LabelText": "48",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 87977092,
+                        "@": 87977093,
+                        "Name": "time_min",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [339, -221, 0.738, 0.738, 32, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 105, "G": 150, "B": 250 },
+                        "PrePos": [0.5512, -0.7543, 0.052, 0.1399],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [31, 221, 339, 244],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "分",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87977090,
+                        "@": 87977091,
+                        "Name": "time2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [387, -209, 1.2355, 1.2355, 40, 49, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 248, "B": 197 },
+                        "PrePos": [0.6293, -0.7133, 0.065, 0.1672],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [35, 209, 387, 188],
+                        "IsCustomSize": true,
+                        "LabelText": "21",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 87977088,
+                        "@": 87977089,
+                        "Name": "time_sec",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [433, -221, 0.738, 0.738, 32, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 105, "G": 150, "B": 250 },
+                        "PrePos": [0.7041, -0.7543, 0.052, 0.1399],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [31, 221, 433, 150],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "秒",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87977086,
+                        "@": 87977087,
+                        "Name": "time3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_question2@6x.json"
+                        },
+                        "Pos": [543, -63, 1, 1, 47, 48, 0, 0, 0, 0],
+                        "PrePos": [0.8829, -0.215, 0.0764, 0.1638],
+                        "MG": [182, 63, 543, 25],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977084,
+                        "@": 87977085,
+                        "Alpha": 255,
+                        "Name": "ques",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/title_img2.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            99, -129, 1, 1, 136, 158.4, 0, 0, 0.4971, 0.5006
+                        ],
+                        "PrePos": [0.161, -0.4403, 0.2211, 0.5406],
+                        "MG": [364.8, 206.4, 158.4, 294.4],
+                        "Tag": 87977082,
+                        "@": 87977083,
+                        "Alpha": 255,
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [194, -101, 1, 1, 365, 95, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 58, "B": 156 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3154, -0.3447, 0.5935, 0.3242],
+                        "MG": [97, 101, 194, 56],
+                        "IsCustomSize": true,
+                        "LabelText": "在活动期间内，闯关后获得的星星将注入许愿瓶，新玩家更容易获得星星哦！快去邀请新朋友一起闯关吧！",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 87977080,
+                        "@": 87977081,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/panel_title_title2.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            335, -58, 1, 1, 270.4, 64, 0, 0, 0.4978, 0.4984
+                        ],
+                        "PrePos": [0.5447, -0.198, 0.4397, 0.2184],
+                        "MG": [156.8, 92.8, 536, 806.4],
+                        "Tag": 87977078,
+                        "@": 87977079,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 615, "Y": 293 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

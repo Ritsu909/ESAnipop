@@ -1,0 +1,253 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/background.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [
+                            330, -271, 1, 1, 660.8, 544, 0, 0, 0.4995, 0.4987
+                        ],
+                        "PrePos": [0.5, -0.5, 1.0012, 1.0037],
+                        "MG": [977.6, 433.6, 528, 1188.8],
+                        "Tag": 3115525,
+                        "@": 3115526,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            609, -39, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9227, -0.072, 0.0703, 0.0856],
+                        "MG": [108.8, 62.4, 974.4, 1020.8],
+                        "Tag": 3115523,
+                        "@": 3115524,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/bg_yellow.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [
+                            323, -251, 0.9641, 1.3084, 633.6, 113.6, 0, 0,
+                            0.4941, 0.3957
+                        ],
+                        "PrePos": [0.4894, -0.4631, 0.96, 0.2096],
+                        "MG": [515.2, 401.6, 516.8, 1150.4],
+                        "Tag": 3115521,
+                        "@": 3115522,
+                        "Alpha": 255,
+                        "Name": "bg_yellow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/bg_blue.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [
+                            326, -409, 0.9643, 1.3016, 633.6, 110.4, 0, 0,
+                            0.4993, 0.4221
+                        ],
+                        "PrePos": [0.4939, -0.7546, 0.96, 0.2037],
+                        "MG": [764.8, 654.4, 521.6, 1155.2],
+                        "Tag": 3115519,
+                        "@": 3115520,
+                        "Alpha": 255,
+                        "Name": "bg_blue",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [142, -25, 1, 1, 412, 109, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2152, -0.0461, 0.6242, 0.2011],
+                        "MG": [408, 25, 142, 106],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "别放弃，再抢救一下！\\n立即复活？\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 3115517,
+                        "@": 3115518,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/yellowback.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [99, -228, 1, 1, 91.2, 91.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [0.15, -0.4207, 0.1382, 0.1683],
+                        "MG": [456, 364.8, 158.4, 249.6],
+                        "Tag": 3115515,
+                        "@": 3115516,
+                        "Alpha": 255,
+                        "Name": "yellowback",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/blueback.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [97, -395, 1, 1, 80, 80, 0, 0, 0.5012, 0.4988],
+                        "PrePos": [0.147, -0.7288, 0.1212, 0.1476],
+                        "MG": [712, 632, 155.2, 235.2],
+                        "Tag": 3115513,
+                        "@": 3115514,
+                        "Alpha": 255,
+                        "Name": "blueback",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/_22_副本_4.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [
+                            47, -218, 0.6976, 0.6976, 115.2, 91.2, -0.29, -0.29,
+                            -0.1593, 0.7034
+                        ],
+                        "PrePos": [0.0712, -0.4022, 0.1745, 0.1683],
+                        "MG": [440, 348.8, 75.2, 190.4],
+                        "Tag": 3115511,
+                        "@": 3115512,
+                        "Alpha": 255,
+                        "Name": "share_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_revive_btn_green1@6x.json"
+                        },
+                        "Pos": [486, -232, 0.8, 0.8, 251, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7364, -0.428, 0.3803, 0.2251],
+                        "MG": [188, 232, 486, -77],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3115509,
+                        "@": 3115510,
+                        "Alpha": 255,
+                        "Name": "btn_green_start3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_revive_btn_green_start2@6x.json"
+                        },
+                        "Pos": [489, -392, 0.8, 0.8, 251, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7409, -0.7232, 0.3803, 0.2251],
+                        "MG": [28, 392, 489, -80],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3115509,
+                        "@": 3115510,
+                        "Alpha": 255,
+                        "Name": "btn_green_start3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_revive/重复项目文件夹_gold.png",
+                            "Plist": "cocos/rm_revive@6x.plist"
+                        },
+                        "Pos": [63, -364, 0.7, 0.7, 96, 96, 0, 0, 0.001, 0.999],
+                        "PrePos": [0.0955, -0.6716, 0.1455, 0.1771],
+                        "MG": [678.4, 582.4, 100.8, 196.8],
+                        "Tag": 3115507,
+                        "@": 3115508,
+                        "Alpha": 255,
+                        "Name": "gold",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [169, -217, 1, 1, 204, 36, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2561, -0.4004, 0.3091, 0.0664],
+                        "MG": [289, 217, 169, 287],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "成功分享立即复活",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 3115505,
+                        "@": 3115506,
+                        "Name": "desc_share",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [162, -375, 1, 1, 229, 36, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2455, -0.6919, 0.347, 0.0664],
+                        "MG": [131, 375, 162, 269],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "风车币购买立即复活",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 3115503,
+                        "@": 3115504,
+                        "Name": "desc_cash",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 660, "Y": 542 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

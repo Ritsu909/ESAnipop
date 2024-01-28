@@ -1,0 +1,443 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 99,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        86612900,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 98,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612900,
+                        [
+                            { "P": [-0.55, -0.05], "I": 0, "T": 0 },
+                            { "P": [-0.55, -0.05], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612894,
+                        [
+                            { "P": [209.45, -70], "I": 0, "T": 0 },
+                            { "P": [209.45, -70], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612892,
+                        [
+                            { "P": [69.5, -70.1], "I": 0, "T": 0 },
+                            { "P": [69.5, -70.1], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612890,
+                        [
+                            { "P": [139.4, -70], "I": 0, "T": 0 },
+                            { "P": [139.4, -70], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612888,
+                        [
+                            { "P": [69.5, -140.1], "I": 0, "T": 0 },
+                            { "P": [69.5, -140.1], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612886,
+                        [
+                            { "P": [139.5, -140.05], "I": 0, "T": 0 },
+                            { "P": [139.5, -140.05], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612884,
+                        [
+                            { "P": [209.5, -140], "I": 0, "T": 0 },
+                            { "P": [209.5, -140], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612882,
+                        [
+                            { "P": [174.45, -140], "I": 0, "T": 0 },
+                            { "P": [174.45, -140], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612878,
+                        [
+                            { "P": [175, -245], "I": 0, "T": 0 },
+                            {
+                                "P": [173.7, -244.4],
+                                "I": 32,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [38.85, -244.15], "I": 52, "T": 0 },
+                            { "P": [35.25, -244.15], "I": 53 },
+                            { "P": [34.75, -166.15], "I": 63, "T": 0 },
+                            { "P": [34.75, -155.4], "I": 64 },
+                            { "P": [34.6, -105.65], "I": 72, "T": 0 },
+                            { "P": [34.6, -105.65], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86612878,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 32 },
+                            { "P": [0, 0], "I": 52, "T": 0 },
+                            { "P": [0, 0], "I": 53 },
+                            { "P": [-30, -30], "I": 63, "T": 0 },
+                            { "P": [-30, -30], "I": 64 },
+                            { "P": [0, 0], "I": 72, "T": 0 },
+                            { "P": [0, 0], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86612876,
+                        [
+                            { "P": [105, -245], "I": 0, "T": 0 },
+                            {
+                                "P": [104.45, -244.4],
+                                "I": 32,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [39, -244.15], "I": 42, "T": 0 },
+                            { "P": [34.95, -244.1], "I": 43 },
+                            { "P": [34.6, -166.1], "I": 53, "T": 0 },
+                            {
+                                "P": [43.35, -159.25],
+                                "I": 54,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [34.6, -35.55], "I": 72, "T": 0 },
+                            { "P": [34.6, -35.55], "I": 98, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86612876,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 32 },
+                            { "P": [0, 0], "I": 42, "T": 0 },
+                            { "P": [0, 0], "I": 43 },
+                            { "P": [-30, -30], "I": 53, "T": 0 },
+                            {
+                                "P": [-30, -30],
+                                "I": 54,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 72, "T": 0 },
+                            { "P": [0, 0], "I": 98, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [
+                {
+                    "StartIndex": 64,
+                    "EndIndex": 72,
+                    "Name": "part5",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 152 }
+                },
+                {
+                    "StartIndex": 54,
+                    "EndIndex": 64,
+                    "Name": "part4",
+                    "RenderColor": { "A": 150, "R": 255, "G": 60, "B": 255 }
+                },
+                {
+                    "StartIndex": 72,
+                    "EndIndex": 98,
+                    "Name": "part6",
+                    "RenderColor": { "A": 150, "R": 0, "G": 254, "B": 250 }
+                },
+                {
+                    "StartIndex": 28,
+                    "EndIndex": 54,
+                    "Name": "part3",
+                    "RenderColor": { "A": 150, "R": 152, "G": 0, "B": 152 }
+                },
+                {
+                    "StartIndex": 9,
+                    "EndIndex": 28,
+                    "Name": "part2",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 0 }
+                },
+                {
+                    "StartIndex": 0,
+                    "EndIndex": 9,
+                    "Name": "part1",
+                    "RenderColor": { "A": 150, "R": 152, "G": 152, "B": 255 }
+                }
+            ],
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/obstacle_anim_fish_pull_bg@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 280, 280, 0, 0, 0, 0],
+                        "MG": [-280, 0, 0, -280],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86612899,
+                        "@": 86612900,
+                        "Alpha": 255,
+                        "Name": "checkboard",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 56, 156.8],
+                        "Tag": 86612897,
+                        "@": 86612898,
+                        "Alpha": 255,
+                        "Name": "river",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            245, -245, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "MG": [492.8, 392, 392, 492.8],
+                        "Tag": 86612895,
+                        "@": 86612896,
+                        "Alpha": 255,
+                        "Name": "exit",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [209, -70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [184, 112, 334.4, 404.8],
+                        "Tag": 86612893,
+                        "@": 86612894,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            69, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [182.4, 112, 110.4, 180.8],
+                        "Tag": 86612891,
+                        "@": 86612892,
+                        "Alpha": 255,
+                        "Name": "frog1343434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            139, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [182.4, 112, 222.4, 292.8],
+                        "Tag": 86612889,
+                        "@": 86612890,
+                        "Alpha": 255,
+                        "Name": "hippo343434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            69, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [294.4, 224, 110.4, 180.8],
+                        "Tag": 86612887,
+                        "@": 86612888,
+                        "Alpha": 255,
+                        "Name": "owl1113434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            139, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [294.4, 224, 222.4, 292.8],
+                        "Tag": 86612885,
+                        "@": 86612886,
+                        "Alpha": 255,
+                        "Name": "beer676767",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            209, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [294.4, 224, 334.4, 404.8],
+                        "Tag": 86612883,
+                        "@": 86612884,
+                        "Alpha": 255,
+                        "Name": "hippo3434342",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            174, -140, 2.099, 1.388, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "MG": [324.8, 224, 278.4, 379.2],
+                        "Tag": 86612881,
+                        "@": 86612882,
+                        "Alpha": 255,
+                        "Name": "curtain",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 56, 156.8],
+                        "Tag": 86612879,
+                        "@": 86612880,
+                        "Alpha": 255,
+                        "Name": "fish",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            175, -245, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "MG": [492.8, 392, 280, 380.8],
+                        "Tag": 86612877,
+                        "@": 86612878,
+                        "Alpha": 255,
+                        "Name": "fish2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            105, -245, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "MG": [492.8, 392, 168, 268.8],
+                        "Tag": 86612875,
+                        "@": 86612876,
+                        "Alpha": 255,
+                        "Name": "fish1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 56, 156.8],
+                        "Tag": 86612873,
+                        "@": 86612874,
+                        "Alpha": 255,
+                        "Name": "gate",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

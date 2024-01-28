@@ -1,0 +1,69 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_exchange/blueback.png",
+                            "Plist": "cocos/rm_exchange@6x.plist"
+                        },
+                        "Pos": [40, -40, 1, 1, 80, 80, 0, 0, 0.5012, 0.4988],
+                        "PrePos": [0.5, -0.339, 1, 0.678],
+                        "MG": [144, 64, 64, 144],
+                        "Tag": 27116347,
+                        "@": 27116348,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [22, -75, 1, 1, 38, 42, 0, 0, 0, 1],
+                        "PrePos": [0.275, -0.6356, 0.475, 0.3559],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1, 75, 22, 20],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "50",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 27116345,
+                        "@": 27116346,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_exchange/foxshadow.png",
+                            "Plist": "cocos/rm_exchange@6x.plist"
+                        },
+                        "Pos": [40, -43, 1, 1, 65.6, 70.4, 0, 0, 0.497, 0.5085],
+                        "PrePos": [0.5, -0.3644, 0.82, 0.5966],
+                        "MG": [139.2, 68.8, 64, 129.6],
+                        "Tag": 27116343,
+                        "@": 27116344,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 80, "Y": 118 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rescue_mission_panel/number_bg.png",
+                            "Plist": "cocos/rescue_mission_panel@6x.plist"
+                        },
+                        "Pos": [0, -1, 1, 1, 44.8, 49.6, 0, 0, 0.1094, 0.9335],
+                        "PrePos": [0, -0.0303, 1.4, 1.503],
+                        "MG": [51.2, 1.6, 0, 44.8],
+                        "Tag": 84753941,
+                        "@": 84753942,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [7, 0, 1, 1, 17, 31, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2188, 0, 0.5312, 0.9394],
+                        "MG": [2, 0, 7, 8],
+                        "IsCustomSize": true,
+                        "LabelText": "1",
+                        "FontSize": 21,
+                        "Shadow": [2, -2],
+                        "Tag": 84753939,
+                        "@": 84753940,
+                        "Name": "number",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 32, "Y": 33 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

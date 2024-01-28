@@ -1,0 +1,126 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "9": [
+                    { "X": 0.0, "Y": 0.0 },
+                    { "X": 6.95, "Y": 23.65 },
+                    { "X": 20.1, "Y": 39.5 },
+                    { "X": 32.1, "Y": 53.95 },
+                    { "X": 46.5, "Y": 58.9 },
+                    { "X": 60.45, "Y": 63.65 },
+                    { "X": 72.0, "Y": 57.9 },
+                    { "X": 84.1, "Y": 51.95 },
+                    { "X": 89.4, "Y": 36.35 }
+                ]
+            },
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50117,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "Tag": "9",
+                                "E": [0.0935, 1, 0.8394, 0.8733]
+                            },
+                            {
+                                "P": [66.75, 59.85],
+                                "I": 11,
+                                "Tag": "9",
+                                "T": 0
+                            },
+                            {
+                                "P": [-59.85, 59.85],
+                                "I": 12,
+                                "Tag": "9",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50117,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 11, "T": 0 },
+                            { "V": 0, "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        50119,
+                        [
+                            { "P": [69.25, 59.15], "I": 0, "Tag": "9", "T": 0 },
+                            {
+                                "P": [69.25, 59.15],
+                                "I": 12,
+                                "Tag": "9",
+                                "E": [0.4286, 0.089, 0.7805, 0.6164]
+                            },
+                            { "P": [91.3, 35.45], "I": 26, "Tag": "9", "T": 0 },
+                            {
+                                "P": [-35.45, 35.45],
+                                "I": 27,
+                                "Tag": "9",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50119,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 26, "T": 0 },
+                            { "V": 0, "I": 27, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/fireflower04.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 27.2, 27.2, 0, 0, 0.4761, 0.5239],
+                        "MG": [27.2, 0, 0, 27.2],
+                        "Tag": 50116,
+                        "@": 50117,
+                        "Alpha": 255,
+                        "Name": "a2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/fireflower08.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [69, 59, 1, 1, 27.2, 27.2, 0, 0, 0.4761, 0.5239],
+                        "MG": [-67.2, -94.4, 110.4, 137.6],
+                        "Tag": 50118,
+                        "@": 50119,
+                        "Alpha": 0,
+                        "Name": "a1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

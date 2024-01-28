@@ -1,0 +1,324 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/progress_blue.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            120, -60, 1, 1, 215.6016, 42.432, 0, 0, 0.0021,
+                            0.9976
+                        ],
+                        "PrePos": [0.1319, -0.1635, 0.0527, 0.1134],
+                        "MG": [137.6, 96, 192, 240],
+                        "Scale9": [20, 10, 6, 15],
+                        "Tag": 1008931,
+                        "@": 1008932,
+                        "Alpha": 255,
+                        "Name": "my_progress",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/progress_bg.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            261, -82, 1, 1.2, 294.4, 44.8, 0, 0, 0.5112, 0.4308
+                        ],
+                        "PrePos": [0.2868, -0.2234, 0.3235, 0.1221],
+                        "MG": [176, 131.2, 417.6, 712],
+                        "Tag": 1008935,
+                        "@": 1008936,
+                        "Alpha": 255,
+                        "Name": "my_progress_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            159, -90, 1, 1, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [0.1747, -0.2452, 0.1266, 0.3139],
+                        "MG": [259.2, 144, 254.4, 369.6],
+                        "Tag": 1008929,
+                        "@": 1008930,
+                        "Alpha": 255,
+                        "Name": "my_avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/progress_red.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            562, -61, 1, 1, 255.3312, 41.6, 0, 0, 0.0021, 0.9976
+                        ],
+                        "PrePos": [0.6176, -0.1662, 0.0527, 0.1134],
+                        "MG": [139.2, 97.6, 899.2, 947.2],
+                        "Scale9": [20, 15, 7, 15],
+                        "Tag": 1008927,
+                        "@": 1008928,
+                        "Alpha": 255,
+                        "Name": "enemy_progress",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/progress_bg.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            672, -82, 1, 1.2, 294.4, 44.8, 0, 0, 0.5112, 0.4308
+                        ],
+                        "PrePos": [0.7385, -0.2234, 0.3235, 0.1221],
+                        "MG": [176, 131.2, 1075.2, 1369.6],
+                        "Tag": 1008933,
+                        "@": 1008934,
+                        "Alpha": 255,
+                        "Name": "enemy_progress_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            768, -90, 1, 1, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [0.844, -0.2452, 0.1266, 0.3139],
+                        "MG": [259.2, 144, 1228.8, 1344],
+                        "Tag": 1008925,
+                        "@": 1008926,
+                        "Alpha": 255,
+                        "Name": "enemy_avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            159, -90, 1, 1, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.1747, -0.2452, 0.1371, 0.3401],
+                        "MG": [268.8, 144, 254.4, 379.2],
+                        "Tag": 1008923,
+                        "@": 1008924,
+                        "Alpha": 255,
+                        "Name": "my_circle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            768, -90, 1, 1, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.844, -0.2452, 0.1371, 0.3401],
+                        "MG": [268.8, 144, 1228.8, 1353.6],
+                        "Tag": 1008921,
+                        "@": 1008922,
+                        "Alpha": 255,
+                        "Name": "enemy_circle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/goal_bg.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            455, -287, 1, 1, 912, 160, 0, 0, 0.5008, 0.4994
+                        ],
+                        "PrePos": [0.5, -0.782, 1.0022, 0.436],
+                        "MG": [619.2, 459.2, 728, 1640],
+                        "Tag": 1008919,
+                        "@": 1008920,
+                        "Alpha": 255,
+                        "Name": "goal_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [163, -256, 1, 1, 129, 55, 0, 0, 0, 1],
+                        "PrePos": [0.1791, -0.6975, 0.1418, 0.1499],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [56, 256, 163, 618],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "目标：",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1008917,
+                        "@": 1008918,
+                        "Name": "goal",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/name_bg.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            157, -174, 0.3, 0.3, 563.2, 128, 0, 0, 0.4991,
+                            0.5031
+                        ],
+                        "PrePos": [0.1725, -0.4741, 0.6189, 0.3488],
+                        "MG": [406.4, 278.4, 251.2, 814.4],
+                        "Tag": 1008915,
+                        "@": 1008916,
+                        "Alpha": 255,
+                        "Name": "my_name_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [106, -154, 1, 1, 104, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1165, -0.4196, 0.1143, 0.1526],
+                        "MG": [157, 154, 106, 700],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "恐龙\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 1008913,
+                        "@": 1008914,
+                        "Name": "my_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/name_bg.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [
+                            768, -174, 0.3, 0.3, 563.2, 128, 0, 0, 0.4991,
+                            0.5031
+                        ],
+                        "PrePos": [0.844, -0.4741, 0.6189, 0.3488],
+                        "MG": [406.4, 278.4, 1228.8, 1792],
+                        "Tag": 1008911,
+                        "@": 1008912,
+                        "Alpha": 255,
+                        "Name": "enemy_name_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [712, -154, 1, 1, 104, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7824, -0.4196, 0.1143, 0.1526],
+                        "MG": [157, 154, 712, 94],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "呆猫\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 1008909,
+                        "@": 1008910,
+                        "Name": "enemy_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [525, -16, 1, 1, 219, 56, 0, 0, 0, 1],
+                        "PrePos": [0.5769, -0.0436, 0.2407, 0.1526],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [295, 16, 525, 166],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "完成度90%",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 1008907,
+                        "@": 1008908,
+                        "Name": "enemy_progress_label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [165, -16, 1, 1, 261, 56, 0, 0, 0, 1],
+                        "PrePos": [0.1813, -0.0436, 0.2868, 0.1526],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [295, 16, 165, 484],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "完成度100%",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 1008905,
+                        "@": 1008906,
+                        "Name": "my_progress_label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_game/vs_logo.png",
+                            "Plist": "cocos/pvp_game@6x.plist"
+                        },
+                        "Pos": [408, 0, 1, 1, 116.8, 192, 0, 0, 0.0146, 0.9995],
+                        "PrePos": [0.4484, 0, 0.1284, 0.5232],
+                        "MG": [192, 0, 652.8, 769.6],
+                        "Tag": 1008903,
+                        "@": 1008904,
+                        "Alpha": 255,
+                        "Name": "VS",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 910, "Y": 367 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

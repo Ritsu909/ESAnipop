@@ -1,0 +1,50 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_panel_cut.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [
+                        -290, 194, 1, 1, 580.9531, 388.8494, 0, 0, 0.0011,
+                        0.9989
+                    ],
+                    "Scale9": [27, 26, 6, 5],
+                    "Tag": 81947094,
+                    "@": 81947095,
+                    "#": "back",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_close_btn.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [262, 161, 1, 1, 60.8, 60.8, 0, 0, 0.4951, 0.5049],
+                    "Tag": 81947092,
+                    "@": 81947093,
+                    "#": "login_close_btn",
+                    "$": "S"
+                },
+                {
+                    "F": [0, "cocos/preloadScene_login_btn_green@6x.json", ""],
+                    "Pos": [0, -94, 1, 1, 269, 100, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 81947090,
+                    "@": 81947091,
+                    "#": "login_btn_green",
+                    "$": "PN"
+                }
+            ],
+            "Size": { "X": 582, "Y": 388 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

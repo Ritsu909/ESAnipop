@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/HE_0.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            228, -162, 1, 1, 456, 326.4, 0, 0, 0.5002, 0.5018
+                        ],
+                        "PrePos": [0.5, -0.4985, 1, 1.0043],
+                        "MG": [585.6, 259.2, 364.8, 820.8],
+                        "Tag": 111043,
+                        "@": 111044,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_canel_dialog_cancel_btn@6x.json"
+                        },
+                        "Pos": [127, -254, 1.2, 1.2, 130, 51, 0, 0, 0, 0],
+                        "PrePos": [0.2785, -0.7815, 0.2851, 0.1569],
+                        "MG": [20, 254, 127, 199],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111041,
+                        "@": 111042,
+                        "Alpha": 255,
+                        "Name": "cancel_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_canel_dialog_ok_btn@6x.json"
+                        },
+                        "Pos": [327, -254, 1.2, 1.2, 129, 50, 0, 0, 0, 0],
+                        "PrePos": [0.7171, -0.7815, 0.2829, 0.1538],
+                        "MG": [21, 254, 327, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111039,
+                        "@": 111040,
+                        "Alpha": 255,
+                        "Name": "ok_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [34, -84, 1, 1, 390, 87, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0746, -0.2585, 0.8553, 0.2677],
+                        "MG": [154, 84, 34, 32],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "取消悬赏后，其他玩家无法为你代打，\\n确定取消？\\n",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111159,
+                        "@": 111160,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 456, "Y": 325 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

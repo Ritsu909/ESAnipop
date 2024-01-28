@@ -1,0 +1,148 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -136, 42, 1, 1, 287.5491, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.4518, 0.3088, 0.6485, 0.8941],
+                        "MG": [54.4, -67.2, -217.6, -22.4],
+                        "Scale9": [54, 32, 2, 2],
+                        "Tag": 84755653,
+                        "@": 84755654,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -137, 43, 1, 1, 287.5491, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4551, 0.3162, 0.6485, 0.8824],
+                        "MG": [51.2, -68.8, -219.2, -24],
+                        "Scale9": [53, 32, 2, 2],
+                        "Tag": 84755651,
+                        "@": 84755652,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -137, 43, 1, 1, 287.5491, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4551, 0.3162, 0.6485, 0.8824],
+                        "MG": [51.2, -68.8, -219.2, -24],
+                        "Scale9": [53, 32, 2, 2],
+                        "Tag": 84755649,
+                        "@": 84755650,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -92, -4, 0.5629, 0.5629, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [-0.3056, -0.0294, 0.3349, 0.7412],
+                        "MG": [107.2, 6.4, -147.2, -46.4],
+                        "Tag": 84755737,
+                        "@": 84755738,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-1, 19, 1, 1, 118, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.0033, 0.1397, 0.392, 0.4044],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [100, -19, -1, 184],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "购买",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84755643,
+                        "@": 84755644,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-54, 13, 1, 1, 50, 48, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 255, "B": 0 },
+                        "PrePos": [-0.1794, 0.0956, 0.1661, 0.3529],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_dropshadow@6x.fnt"
+                        },
+                        "MG": [101, -13, -54, 305],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "39",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84755739,
+                        "@": 84755740,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/buy_prop_panel_discount@6x.json"
+                        },
+                        "Pos": [119, 25, 1, 1, 76, 48, 16, 16, 0, 0],
+                        "PrePos": [0.3953, 0.1838, 0.2525, 0.3529],
+                        "MG": [113, -25, 119, 106],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755761,
+                        "@": 84755762,
+                        "Alpha": 255,
+                        "Name": "discount",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 301, "Y": 136 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

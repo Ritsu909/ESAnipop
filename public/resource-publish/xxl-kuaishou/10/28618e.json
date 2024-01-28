@@ -1,0 +1,40 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.4, 0.4, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [100.8, 0, 0, 100.8],
+                        "Tag": 82385140,
+                        "@": 82385141,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 40,
+                    "Y": 40
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

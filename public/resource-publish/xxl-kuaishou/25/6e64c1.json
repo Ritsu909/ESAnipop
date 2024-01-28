@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50117,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0, 1, 0.6768, 1] },
+                            { "P": [0, 142.05], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50117,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0, 1, 0.6768, 1] },
+                            { "P": [0.5862, 2.931], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50117,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 25, "I": 24, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_big_die/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_big_die@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 24, 0, 0, 0.5062, 0.4938],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 50116,
+                        "@": 50117,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

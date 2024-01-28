@@ -1,0 +1,170 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_default_head.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            43, -43, 0.8439, 0.8439, 96, 96, 0, 0, 0.501, 0.499
+                        ],
+                        "PrePos": [0.4831, -0.2774, 1.0787, 0.6194],
+                        "MG": [164.8, 68.8, 68.8, 164.8],
+                        "Tag": 28250719,
+                        "@": 28250720,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/crown.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [17, -2, 1, 1, 35.2, 32, 0, 0, 0.4858, 0.5125],
+                        "PrePos": [0.191, -0.0129, 0.3955, 0.2065],
+                        "MG": [35.2, 3.2, 27.2, 62.4],
+                        "Tag": 28250717,
+                        "@": 28250718,
+                        "Alpha": 255,
+                        "Name": "crown",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/tx02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [43, -41, 1, 1, 88, 88, 0, 0, 0.4955, 0.5045],
+                        "PrePos": [0.4831, -0.2645, 0.9888, 0.5677],
+                        "MG": [153.6, 65.6, 68.8, 156.8],
+                        "Tag": 28250715,
+                        "@": 28250716,
+                        "Alpha": 255,
+                        "Name": "frame_me",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/tx01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [45, -41, 1, 1, 88, 88, 0, 0, 0.4955, 0.5045],
+                        "PrePos": [0.5056, -0.2645, 0.9888, 0.5677],
+                        "MG": [153.6, 65.6, 72, 160],
+                        "Tag": 28250713,
+                        "@": 28250714,
+                        "Alpha": 255,
+                        "Name": "frame",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/no3.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [72, -74, 1, 1, 32, 32, 0, 0, 0.5219, 0.4781],
+                        "PrePos": [0.809, -0.4774, 0.3596, 0.2065],
+                        "MG": [150.4, 118.4, 115.2, 147.2],
+                        "Tag": 28250711,
+                        "@": 28250712,
+                        "Alpha": 255,
+                        "Name": "three",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/no2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [72, -74, 1, 1, 32, 32, 0, 0, 0.5219, 0.4781],
+                        "PrePos": [0.809, -0.4774, 0.3596, 0.2065],
+                        "MG": [150.4, 118.4, 115.2, 147.2],
+                        "Tag": 28250709,
+                        "@": 28250710,
+                        "Alpha": 255,
+                        "Name": "two",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/no1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [72, -74, 1, 1, 32, 32, 0, 0, 0.5219, 0.4781],
+                        "PrePos": [0.809, -0.4774, 0.3596, 0.2065],
+                        "MG": [150.4, 118.4, 115.2, 147.2],
+                        "Tag": 28250707,
+                        "@": 28250708,
+                        "Alpha": 255,
+                        "Name": "one",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [4, -93, 1, 1, 79, 23, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 125, "B": 163 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0449, -0.6, 0.8876, 0.1484],
+                        "MG": [39, 93, 4, 6],
+                        "IsCustomSize": true,
+                        "LabelText": "毛利小五郎",
+                        "FontSize": 15,
+                        "Shadow": [2, -2],
+                        "Tag": 28250705,
+                        "@": 28250706,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [4, -114, 1, 1, 59, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 125, "B": 163 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0449, -0.7355, 0.6629, 0.1742],
+                        "MG": [14, 114, 4, 26],
+                        "IsCustomSize": true,
+                        "LabelText": "70800",
+                        "FontSize": 17,
+                        "Shadow": [2, -2],
+                        "Tag": 28250703,
+                        "@": 28250704,
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 89, "Y": 155 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,170 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/yuanjian_12.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            279, -237, 1.1202, 0.8453, 497.6, 600, 0, 0, 0.501,
+                            0.5601
+                        ],
+                        "PrePos": [0.5018, -0.4693, 0.895, 1.1881],
+                        "MG": [979.2, 379.2, 446.4, 944],
+                        "Tag": 84748113,
+                        "@": 84748114,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/head_frame_update_panel_star_collection@6x.json"
+                        },
+                        "Pos": [292, -259, 1, 1, 404, 79, 0, 0, 0, 0],
+                        "PrePos": [0.5252, -0.5129, 0.7266, 0.1564],
+                        "MG": [167, 259, 292, -140],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748111,
+                        "@": 84748112,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/bottom_btn_green_start.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            275, -406, 0.9, 0.9, 195.2, 123.2, 0, 0, 0.4785,
+                            0.6055
+                        ],
+                        "PrePos": [0.4946, -0.804, 0.3511, 0.244],
+                        "MG": [772.8, 649.6, 440, 635.2],
+                        "Tag": 84748109,
+                        "@": 84748110,
+                        "Alpha": 255,
+                        "Name": "btn_ok",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/head_frame_update_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [528, -43, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.9496, -0.0851, 0.0989, 0.1129],
+                        "MG": [405, 43, 528, -27],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748107,
+                        "@": 84748108,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/arrow.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            273, -155, 0.8614, 0.8592, 72, 72, 0, 0, 0.5, 0.509
+                        ],
+                        "PrePos": [0.491, -0.3069, 0.1295, 0.1426],
+                        "MG": [320, 248, 436.8, 508.8],
+                        "Tag": 84748105,
+                        "@": 84748106,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/head_frame_update_panel_head1@6x.json"
+                        },
+                        "Pos": [
+                            155, -153, 1.0401, 1.0395, 103, 102, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.2788, -0.303, 0.1853, 0.202],
+                        "MG": [250, 153, 155, 298],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748103,
+                        "@": 84748104,
+                        "Alpha": 255,
+                        "Name": "head1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/head_frame_update_panel_head1@6x.json"
+                        },
+                        "Pos": [397, -153, 1.0401, 1.039, 103, 102, 0, 0, 0, 0],
+                        "PrePos": [0.714, -0.303, 0.1853, 0.202],
+                        "MG": [250, 153, 397, 56],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748101,
+                        "@": 84748102,
+                        "Alpha": 255,
+                        "Name": "head2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [46, -314, 1, 1, 471, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 51 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0827, -0.6218, 0.8471, 0.0733],
+                        "MG": [154, 314, 46, 39],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "全三星通过XXX关~XXX关再升一级！",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84748099,
+                        "@": 84748100,
+                        "Name": "label_desc",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 556, "Y": 505 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

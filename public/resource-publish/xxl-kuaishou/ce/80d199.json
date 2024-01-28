@@ -1,0 +1,79 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        90392038,
+                        [
+                            { "P": [0.25, 0.05], "I": 0 },
+                            { "P": [74.15, 63.5], "I": 12 },
+                            { "P": [103.9, 79.25], "I": 19, "T": 0 },
+                            { "P": [-79.25, 79.25], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392038,
+                        [
+                            { "P": [0.9984, 0.9984], "I": 0 },
+                            { "P": [0.9984, 0.9984], "I": 12 },
+                            { "P": [0.3, 0.3], "I": 19, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90392038,
+                        [
+                            { "P": [176.11, 176.11], "I": 0 },
+                            { "P": [-48.89, -48.89], "I": 12 },
+                            { "P": [0, 0], "I": 19, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392038,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 19, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel_pass/light.png",
+                            "Plist": "cocos/level_panel_pass@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9983, 0.9983, 38.4, 36.8, 176.11, 176.11,
+                            0.4857, 0.5068
+                        ],
+                        "MG": [36.8, 0, 0, 38.4],
+                        "Tag": 90392037,
+                        "@": 90392038,
+                        "Alpha": 255,
+                        "Name": "Layer 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_yellow_star@6x.json"
+                        },
+                        "Pos": [-62, 1, 0.5883, 0.5883, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.3069, 0.0125, 0, 0],
+                        "MG": [81, -1, -62, 264],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325363,
+                        "@": 29325364,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-25, 36, 1.8979, 1.8979, 125, 71, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [-0.1238, 0.45, 0.6188, 0.8875],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [45, -36, -25, 102],
+                        "IsCustomSize": true,
+                        "LabelText": "230",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 29325361,
+                        "@": 29325362,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 202, "Y": 80 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,51 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/loading_down.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 331.2, 46.4, 0, 0, 0.5021, 0.514],
+                        "MG": [46.4, 0, 0, 331.2],
+                        "Tag": 1051277,
+                        "@": 1051278,
+                        "Alpha": 255,
+                        "Name": "loading_down",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/loading_green.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.0014, 1, 321.6, 40, 0, 0, 0.4992, 0.5162
+                        ],
+                        "MG": [40, 0, 0, 321.6],
+                        "Tag": 1051275,
+                        "@": 1051276,
+                        "Alpha": 255,
+                        "Name": "loading_green",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 329, "Y": 44 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

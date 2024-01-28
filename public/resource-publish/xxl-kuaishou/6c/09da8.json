@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionUpdate_restart@6x.json"
+                        },
+                        "Pos": [251, -75, 1, 1, 502, 151, 0, 0, 0, 0],
+                        "PrePos": [0.5, -0.4967, 1, 1],
+                        "MG": [-75, 75, 251, -251],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82960499,
+                        "@": 82960500,
+                        "Alpha": 255,
+                        "Name": "restart",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionUpdate_progress@6x.json"
+                        },
+                        "Pos": [250, -35, 1, 1, 339, 70, 0, 0, 0, 0],
+                        "PrePos": [0.498, -0.2318, 0.6753, 0.4636],
+                        "MG": [46, 35, 250, -87],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82960497,
+                        "@": 82960498,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 502, "Y": 151 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

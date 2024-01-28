@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/disable.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -84, 38, 1.098, 1.2459, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.5, 0.5, 0.9143, 0.8211],
+                        "MG": [1.6, -60.8, -134.4, 19.2],
+                        "Tag": 111075,
+                        "@": 111076,
+                        "Alpha": 255,
+                        "Name": "disable",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/yellow_click.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -84, 38, 1.098, 1.2459, 153.6, 62.4, 0, 0, -0.0026,
+                            1.0056
+                        ],
+                        "PrePos": [-0.5, 0.5, 0.9143, 0.8211],
+                        "MG": [1.6, -60.8, -134.4, 19.2],
+                        "Tag": 111073,
+                        "@": 111074,
+                        "Alpha": 255,
+                        "Name": "chick",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/yellpw_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -85, 38, 1.098, 1.2459, 153.6, 62.4, 0, 0, -0.0078,
+                            0.976
+                        ],
+                        "PrePos": [-0.506, 0.5, 0.9143, 0.8211],
+                        "MG": [1.6, -60.8, -136, 17.6],
+                        "Tag": 111071,
+                        "@": 111072,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-30, 20, 1, 1, 64, 43, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.1786, 0.2632, 0.381, 0.5658],
+                        "MG": [53, -20, -30, 134],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "确定",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 111165,
+                        "@": 111166,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 168, "Y": 76 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

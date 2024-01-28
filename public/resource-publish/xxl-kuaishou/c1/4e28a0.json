@@ -1,0 +1,38 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/headiconbg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9801, 0.9801, 140.8, 140.8, 0, 0, 0.5007,
+                            0.4993
+                        ],
+                        "MG": [140.8, 0, 0, 140.8],
+                        "Tag": 84747346,
+                        "@": 84747347,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 138, "Y": 138 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

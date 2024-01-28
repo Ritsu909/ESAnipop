@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/mapwhitefront.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 104.5094, 35.2, 0, 0, 0.003, 0.9972
+                        ],
+                        "MG": [35.2, 0, 0, 33.6],
+                        "Scale9": [8, 16, 2, 1],
+                        "Tag": 3035403,
+                        "@": 3035404,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/mapwhitefront.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 104.5094, 35.2, 0, 0, 0.003, 0.9972
+                        ],
+                        "MG": [35.2, 0, 0, 33.6],
+                        "Scale9": [8, 16, 2, 1],
+                        "Tag": 3035401,
+                        "@": 3035402,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 34 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

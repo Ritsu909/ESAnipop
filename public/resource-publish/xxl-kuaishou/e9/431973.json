@@ -1,0 +1,95 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/choosebtn01.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 222.4, 59.0744, 0, 0, 0.0004, 0.9982
+                        ],
+                        "MG": [56, 0, 0, 222.4],
+                        "Scale9": [51, 13, 113, 28],
+                        "Tag": 84755797,
+                        "@": 84755798,
+                        "Alpha": 255,
+                        "Name": "bg_select",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/pressth01.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            12, -3, 1, 1, 206.4, 59.2, 0, 0, 0.0005, 0.9983
+                        ],
+                        "PrePos": [0.0543, -0.0492, 0.9339, 0.9705],
+                        "MG": [64, 4.8, 19.2, 225.6],
+                        "Scale9": [48, 13, 96, 26],
+                        "Tag": 84755795,
+                        "@": 84755796,
+                        "Alpha": 255,
+                        "Name": "bg_un_select",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [19, -21, 1, 1, 184, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 121, "B": 61 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.086, -0.3443, 0.8326, 0.6066],
+                        "MG": [3, 21, 19, 18],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "优惠道具",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84755793,
+                        "@": 84755794,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/cash_icon.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            44, -33, 1, 1, 30.4, 30.4, 0, 0, 0.4819, 0.5049
+                        ],
+                        "PrePos": [0.1991, -0.541, 0.1376, 0.4984],
+                        "MG": [83.2, 52.8, 70.4, 100.8],
+                        "Tag": 84755983,
+                        "@": 84755984,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 221, "Y": 61 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

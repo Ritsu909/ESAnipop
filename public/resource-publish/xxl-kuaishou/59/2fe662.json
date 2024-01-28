@@ -1,0 +1,49 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom_light_x_click.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5186],
+                        "MG": [83.2, 0, 0, 86.4],
+                        "Tag": 84755669,
+                        "@": 84755670,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom_light_x_normal.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5186],
+                        "MG": [83.2, 0, 0, 86.4],
+                        "Tag": 84755667,
+                        "@": 84755668,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 85, "Y": 83 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

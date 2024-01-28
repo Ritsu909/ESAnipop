@@ -1,0 +1,4749 @@
+{
+    "act_mission": {
+        "1": { "1": "80001-80020", "key": "level_range" },
+        "2": { "1": "124,126,127", "key": "daily_cash_buy" },
+        "3": { "1": "49,50,51", "key": "daliy_rmb_buy" },
+        "4": { "1": "30,60,120,200", "key": "daily_exchange" },
+        "5": { "1": "888888", "key": "lucky_number" },
+        "6": {
+            "1": "10021:1,10012:1,10002:1,10008:1,10009:1,10014:1,2:20000",
+            "key": "passed_rewards"
+        },
+        "7": {
+            "1": "1:65,2:55,3:65,4:65,5:55,6:55,7:55,8:55,9:20,10:20,11:6,12:6,13:6,14:6,15:6",
+            "key": "exchange_pri"
+        },
+        "8": {
+            "1": "10027:1|10027:3|10018:1|2:888|2:1888|10018:3|2:2888|10011:1|10018:5|10019:1|10012:1|10013:1|10016:1|10008:1|10014:1",
+            "key": "exchange_rewards"
+        },
+        "9": { "1": "1", "key": "daily_max_share_get" },
+        "10": { "1": "102", "key": "test_users" },
+        "11": { "1": "0", "key": "share_config" },
+        "12": {
+            "1": "10,10,10,10,10,15,15,15,15,15,25,25,25,25,25,40,40,40,40,40",
+            "key": "level_rewards"
+        },
+        "13": { "1": "128", "key": "daily_cash_buy_10" },
+        "14": { "1": "1,5,10,15", "key": "exchange_spec_num" },
+        "15": {
+            "1": "1:20,2:20,3:10,4:10,5:10,6:10",
+            "key": "exchange_spec_pri"
+        },
+        "16": {
+            "1": "10019:1|10012:1|10013:1|10016:1|10008:1|10014:1",
+            "key": "exchange_spec_rewards"
+        },
+        "17": {
+            "1": "10008,10017,2,10014,10019,10011,10016",
+            "key": "exchange_rewards_ui"
+        }
+    },
+    "branch_level": {
+        "1": { "level": "55", "rewards": "21:1", "range": "1-3", "id": "1" },
+        "2": { "level": "72", "rewards": "21:1", "range": "4-6", "id": "2" },
+        "3": { "level": "85", "rewards": "21:1", "range": "7-9", "id": "3" },
+        "4": { "level": "101", "rewards": "21:1", "range": "10-12", "id": "4" },
+        "5": { "level": "114", "rewards": "21:1", "range": "13-15", "id": "5" },
+        "6": { "level": "129", "rewards": "21:1", "range": "16-18", "id": "6" },
+        "7": { "level": "142", "rewards": "21:1", "range": "19-21", "id": "7" }
+    },
+    "coupon": {
+        "1": { "type": "1", "value": "60", "id": "1", "reward": "2:5000" },
+        "2": { "type": "3", "value": "10", "id": "2", "reward": "10018:2" },
+        "3": { "type": "2", "value": "99", "id": "3", "reward": "10019:1" }
+    },
+    "freegift": {
+        "1": { "level": "0-29", "reward": "2:100", "id": "1" },
+        "2": { "level": "30-99", "reward": "10018:1", "id": "2" },
+        "3": { "level": "100-119", "reward": "2:500", "id": "3" },
+        "4": { "level": "120-199", "reward": "20001:1", "id": "4" },
+        "5": { "level": "200-299", "reward": "20002:1", "id": "5" },
+        "6": { "level": "300-399", "reward": "20003:1", "id": "6" },
+        "7": { "level": "400-499", "reward": "20004:1", "id": "7" },
+        "8": { "level": "500-999", "reward": "20005:1", "id": "8" }
+    },
+    "gamemode_prop": {
+        "1": {
+            "gamemode": "1",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "1",
+            "finalProps": "10007,10015"
+        },
+        "2": {
+            "gamemode": "2",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "2",
+            "finalProps": "10007,10015"
+        },
+        "3": {
+            "gamemode": "3",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "3",
+            "finalProps": "10007,10015"
+        },
+        "4": {
+            "gamemode": "4",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "4",
+            "finalProps": "10007,10015"
+        },
+        "5": {
+            "gamemode": "5",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "5",
+            "finalProps": "10007,10015"
+        },
+        "6": {
+            "gamemode": "6",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "6",
+            "finalProps": "10007,10015"
+        },
+        "7": {
+            "gamemode": "7",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "7",
+            "finalProps": "10007,10015"
+        },
+        "8": {
+            "gamemode": "8",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "8",
+            "finalProps": "10007,10015"
+        },
+        "9": {
+            "gamemode": "9",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008",
+            "id": "9",
+            "finalProps": "10007,10015"
+        },
+        "10": {
+            "id": "10",
+            "finalProps": "10007,10015",
+            "gamemode": "10",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008"
+        },
+        "11": {
+            "id": "11",
+            "finalProps": "10007,10015",
+            "gamemode": "11",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008"
+        },
+        "12": {
+            "id": "12",
+            "finalProps": "10007,10015",
+            "gamemode": "12",
+            "ingameProps": "10001,10006,10002,10005,10003,10004,10012,10013,10014,10015,10016,10017,10022,10023,10024,10025,10026,10028,10029,10030",
+            "initProps": "10011,10009,10008"
+        }
+    },
+    "global": {
+        "6": {
+            "1": "1:chinaMobile:200:1000,9:cmgame:320:1050,2:unicom:300:500,3:chinatelecom:100:300",
+            "key": "ingame_limit"
+        },
+        "7": {
+            "1": "0-59:10,60-99:11,100-299:12,300-499:13,500-699:14,700-999:15,1000-1999:16",
+            "key": "daily_max_send_gift_count"
+        },
+        "13": {
+            "1": "22:1,10006:1,10004:1,14:10",
+            "key": "new_user_reward_normal"
+        },
+        "14": { "1": "10013:2,2:5000", "key": "enter_invite_code_reward" },
+        "16": {
+            "1": "10,10,10,13,13,13,16,16,16,16,20,20,20,20,20,25,25,25,25,25,25,30,30,30,30,30,30,30",
+            "key": "fillSign"
+        },
+        "19": { "1": "10019:1", "key": "animal_invite_rewards" },
+        "24": { "1": "10006:1,10004:1,14:10", "key": "shortcut_reward" },
+        "25": { "1": "2:1000", "key": "daily_first_share_reward" },
+        "26": { "1": "0", "key": "daily_share_reward_delta" },
+        "27": { "1": "6", "key": "daily_share_count_limit" },
+        "30": { "1": "210:220", "key": "drop_color_limit_level_ids" },
+        "33": { "1": "10019:2,14:10", "key": "qzone_background_reward" }
+    },
+    "goods": {
+        "1": {
+            "items": "10002:1",
+            "sort": 2,
+            "id": 1,
+            "sign": "a8a13514abbb5f945517ea4ed5fa51e1",
+            "qCash": 88,
+            "rmb": 900,
+            "thirdRmb": 880
+        },
+        "2": {
+            "items": "10003:1",
+            "sort": 3,
+            "id": 2,
+            "sign": "e49c84cb5bbe51c6255202a413434b43",
+            "qCash": 79,
+            "rmb": 800,
+            "thirdRmb": 790
+        },
+        "3": {
+            "items": "10004:1",
+            "sort": 4,
+            "id": 3,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "qCash": 69,
+            "rmb": 700,
+            "thirdRmb": 690
+        },
+        "4": {
+            "items": "10005:1",
+            "sort": 5,
+            "id": 4,
+            "sign": "4050c03aa92b664d444a4b677c5156d4",
+            "qCash": 99,
+            "rmb": 1000,
+            "thirdRmb": 990
+        },
+        "5": {
+            "items": "10006:1",
+            "sort": 6,
+            "id": 5,
+            "sign": "b41f8af8431d0ceb9c0db83979030f66",
+            "qCash": 48,
+            "rmb": 500,
+            "thirdRmb": 480
+        },
+        "6": {
+            "items": "10004:1",
+            "sort": 9999,
+            "id": 6,
+            "sign": "deacf780fa5e6cc3608ad67cd40f8eae",
+            "qCash": 69,
+            "rmb": 700,
+            "thirdRmb": 690
+        },
+        "7": {
+            "level": 60,
+            "items": "10008:1",
+            "sort": 7,
+            "id": 7,
+            "sign": "3cef4b1691fc28c93791ea99ade1653d",
+            "qCash": 69,
+            "rmb": 700,
+            "thirdRmb": 690
+        },
+        "8": {
+            "level": 46,
+            "items": "10009:1",
+            "sort": 9999,
+            "id": 8,
+            "coin": 30000,
+            "sign": "8267d61b981761cb5f84e4afeefab2d9"
+        },
+        "9": {
+            "level": 9999,
+            "items": "10010:1",
+            "sort": 9999,
+            "id": 9,
+            "coin": 15000,
+            "sign": "47f0d58706960e10b3a633b79b220d96"
+        },
+        "10": {
+            "level": 20,
+            "items": "10011:1",
+            "sort": 9999,
+            "id": 10,
+            "coin": 8000,
+            "sign": "f1f1130b7a54174aa6c97c19d9618f2b"
+        },
+        "11": {
+            "items": "10019:1",
+            "sort": 9999,
+            "id": 11,
+            "sign": "9a9320d892e819e653fd38c50b88f6ed",
+            "qCash": 42,
+            "rmb": 500,
+            "thirdRmb": 420
+        },
+        "12": {
+            "items": "10020:1",
+            "sort": 9999,
+            "id": 12,
+            "sign": "861917e85ffb57dc6fc7bf2466ade999",
+            "qCash": 210,
+            "on": 1,
+            "rmb": 2100,
+            "thirdRmb": 2100
+        },
+        "13": {
+            "items": "40001:1",
+            "sort": 9999,
+            "id": 13,
+            "sign": "69a6459e0e0d3519e53830093eee63e8",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "14": {
+            "items": "40002:1",
+            "sort": 9999,
+            "id": 14,
+            "sign": "a6683db692c6d6271ddc0587869fc61c",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "15": {
+            "items": "40003:1",
+            "sort": 9999,
+            "id": 15,
+            "sign": "5275c5ca0709930d86fade01281560b2",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "16": {
+            "items": "40004:1",
+            "sort": 9999,
+            "id": 16,
+            "sign": "707d4b7c29c6368e8521fa834e39a6a4",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "17": {
+            "items": "40005:1",
+            "sort": 9999,
+            "id": 17,
+            "sign": "8cfeee32601d1f69d37b849ad1ddb042",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "18": {
+            "items": "40006:1",
+            "sort": 9999,
+            "id": 18,
+            "sign": "c8f85562a13c59cd4de486c9560aa866",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "19": {
+            "items": "40007:1",
+            "sort": 9999,
+            "id": 19,
+            "sign": "b34352dffef8502700d5755f6b632e1e",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "20": {
+            "items": "40008:1",
+            "sort": 9999,
+            "id": 20,
+            "sign": "8d7fb02b0e16af3094f8bd7df4d5cf5e",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "21": {
+            "items": "40009:1",
+            "sort": 9999,
+            "id": 21,
+            "sign": "ee6c2418383f2c8ddf294226816b8dc5",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "22": {
+            "items": "40010:1",
+            "sort": 9999,
+            "id": 22,
+            "sign": "f4e4cb84972542ae5f636cabcfcfd6e0",
+            "qCash": 12,
+            "rmb": 200,
+            "thirdRmb": 120
+        },
+        "23": {
+            "items": "10002:1",
+            "sort": 9999,
+            "id": 23,
+            "sign": "eaa8d7656452fa3677d028def2a67509",
+            "discountRmb": 700,
+            "limit": 1,
+            "discountThird": 660,
+            "qCash": 88,
+            "discountQCash": 66,
+            "rmb": 930,
+            "thirdRmb": 880
+        },
+        "24": {
+            "items": "10006:1",
+            "sort": 9999,
+            "id": 24,
+            "sign": "d32cc60644a27a790509ccc1e9d7003d",
+            "limit": 1,
+            "qCash": 48
+        },
+        "25": {
+            "items": "10005:1",
+            "sort": 9999,
+            "id": 25,
+            "sign": "639d41bcee44b814184c3d1f8d65b6f2",
+            "limit": 1,
+            "qCash": 99,
+            "discountQCash": 59
+        },
+        "26": {
+            "items": "10004:1",
+            "sort": 9999,
+            "id": 26,
+            "sign": "0111bd709094c6fdbf06ac957497456b",
+            "discountRmb": 400,
+            "discountThird": 340,
+            "qCash": 69,
+            "discountQCash": 34,
+            "rmb": 720,
+            "thirdRmb": 690
+        },
+        "27": {
+            "items": "60001:1",
+            "sort": 9999,
+            "id": 27,
+            "sign": "1b51b705b79a1b5f9f27bed3c46f0ff2",
+            "qCash": 19
+        },
+        "28": {
+            "items": "4:1",
+            "sort": 9999,
+            "id": 28,
+            "sign": "9988208a40b793815d3b7bf71d12f275",
+            "qCash": 7,
+            "thirdRmb": 70
+        },
+        "29": {
+            "items": "60002:1",
+            "sort": 9999,
+            "id": 29,
+            "sign": "1b2fcaa0504f10f40d25d33feef9104a",
+            "qCash": 19
+        },
+        "30": {
+            "items": "50001:1",
+            "sort": 9999,
+            "id": 30,
+            "sign": "a9008516860d5bec31c050c574b0dd92",
+            "qCash": 2,
+            "online": null
+        },
+        "31": {
+            "items": "50002:1",
+            "sort": 9999,
+            "id": 31,
+            "sign": "61f0319b624a071ee75f4358ff6bcbd0",
+            "qCash": 3,
+            "online": null
+        },
+        "32": {
+            "items": "50003:1",
+            "sort": 9999,
+            "id": 32,
+            "sign": "5006038b1c018fdfe2cb41fa8d15c545",
+            "qCash": 5,
+            "online": null
+        },
+        "33": {
+            "items": "15:1",
+            "sort": 9999,
+            "id": 33,
+            "sign": "353b00e1703680805cdd520d523bb75b",
+            "qCash": 5,
+            "online": null
+        },
+        "34": {
+            "id": 34,
+            "sign": "9e27ab33a1eda9183839faebda7e122d",
+            "on": 1,
+            "limit": 1,
+            "tag": 1,
+            "sort": 1,
+            "items": "10019:1",
+            "qCash": 42,
+            "discountQCash": 19
+        },
+        "35": {
+            "id": 35,
+            "sign": "d0fceea9a55087ba42f7377a4d8a6c0c",
+            "on": 1,
+            "limit": 1,
+            "tag": 1,
+            "sort": 2,
+            "items": "10002:3",
+            "qCash": 264,
+            "discountQCash": 188
+        },
+        "36": {
+            "id": 36,
+            "sign": "1601059c861e6692e09807fab924610f",
+            "on": 1,
+            "limit": 1,
+            "tag": 1,
+            "sort": 3,
+            "items": "10006:3",
+            "qCash": 144,
+            "discountQCash": 108
+        },
+        "37": {
+            "id": 37,
+            "sign": "802541a15e48f9faedc56e77f782b0df",
+            "on": 1,
+            "sort": 1,
+            "items": "10004:3",
+            "qCash": 207,
+            "discountQCash": 168
+        },
+        "38": {
+            "id": 38,
+            "sign": "c37f83554702a498736c4ac2951e7ee3",
+            "on": 1,
+            "tag": 2,
+            "sort": 2,
+            "items": "10020:1",
+            "qCash": 210,
+            "discountQCash": 180
+        },
+        "39": {
+            "id": 39,
+            "sign": "b8dad5d5c57928b082835df9a3b3dca9",
+            "on": 1,
+            "limit": 1,
+            "tag": 1,
+            "sort": 3,
+            "items": "10005:3",
+            "qCash": 297,
+            "discountQCash": 238
+        },
+        "40": {
+            "id": 40,
+            "sign": "ac832e7539d78c971312a3cde5fd0c1e",
+            "tag": 2,
+            "sort": 4,
+            "items": "10008:3",
+            "qCash": 177,
+            "discountQCash": 158
+        },
+        "41": {
+            "id": 41,
+            "sign": "7d9681ad2e0bf45c9c38d8d7556a4847",
+            "on": 1,
+            "tag": 2,
+            "sort": 5,
+            "items": "10003:3",
+            "qCash": 237,
+            "discountQCash": 168
+        },
+        "42": {
+            "id": 42,
+            "sign": "4948476be94cab52a0c149a7f5ac6a4f",
+            "on": 1,
+            "tag": 3,
+            "discountRmb": 3000,
+            "sort": 1,
+            "items": "10020:2,10006:12",
+            "discountThird": 3000,
+            "rmb": 10000,
+            "thirdRmb": 10000
+        },
+        "43": {
+            "id": 43,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:62",
+            "online": null,
+            "thirdRmb": 600
+        },
+        "44": {
+            "id": 44,
+            "sign": "0c46cf384cdf8099a5c2ceca47db6548",
+            "on": 1,
+            "tag": 100,
+            "sort": 2,
+            "items": "14:188",
+            "online": null,
+            "thirdRmb": 1800
+        },
+        "45": {
+            "id": 45,
+            "sign": "503cd63d72b406ff762747a6f7564c6c",
+            "on": 1,
+            "tag": 100,
+            "sort": 3,
+            "items": "14:340",
+            "online": null,
+            "rmb": 10,
+            "thirdRmb": 10
+        },
+        "46": {
+            "id": 46,
+            "sign": "d093c1a0aa84d92e58f1c8c0ff49aff6",
+            "on": 1,
+            "tag": 100,
+            "sort": 4,
+            "items": "14:2428",
+            "online": null,
+            "rmb": 19800,
+            "thirdRmb": 19800
+        },
+        "47": {
+            "items": "5:1",
+            "sort": 9999,
+            "id": 47,
+            "sign": "c57ba5c142993eef796aa87ab19d970e",
+            "qCash": 10
+        },
+        "48": {
+            "items": "5:1",
+            "sort": 9999,
+            "id": 48,
+            "sign": "b0dc84449189e121abf85f28924ec045",
+            "qCash": 10,
+            "online": true
+        },
+        "49": {
+            "items": "10006:1,10019:1",
+            "sort": 9999,
+            "id": 49,
+            "sign": "f25e0e44eccff7d3fe2323e9758101a0",
+            "limit": 1,
+            "qCash": 90,
+            "online": true,
+            "discountQCash": 10
+        },
+        "50": {
+            "items": "10004:1,10006:1,10002:1",
+            "sort": 9999,
+            "id": 50,
+            "sign": "97f4b630559de27952969ed8f21e330b",
+            "limit": 1,
+            "qCash": 205,
+            "online": true,
+            "discountQCash": 30
+        },
+        "51": {
+            "id": 51,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "14:3668",
+            "online": true,
+            "rmb": 29800,
+            "thirdRmb": 29800
+        },
+        "52": {
+            "items": "60003:1",
+            "sort": 9999,
+            "id": 52,
+            "sign": "831cf4157afbb3ab6b9bc8b93a9d4032",
+            "qCash": 19
+        },
+        "53": {
+            "items": "10006:1,10018:5,2:10000",
+            "sort": 9999,
+            "id": 53,
+            "sign": "665ff21ef9c15d332d76ae8e4dd81401",
+            "limit": 1,
+            "online": true,
+            "rmb": 100,
+            "thirdRmb": 100
+        },
+        "54": {
+            "id": 54,
+            "sign": "a94a62deba13b7032060bd6f18561f6f",
+            "on": 1,
+            "tag": 100,
+            "sort": 3,
+            "items": "14:348",
+            "online": null,
+            "thirdRmb": 3000
+        },
+        "55": {
+            "id": 55,
+            "sign": "5165e495426571521f04c0dae44b9953",
+            "on": 1,
+            "tag": 100,
+            "sort": 4,
+            "items": "14:1548",
+            "online": null,
+            "thirdRmb": 12800
+        },
+        "56": {
+            "id": 56,
+            "sign": "a9a540f81dafd8113f25748f21c45cf2",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "14:3138",
+            "online": true,
+            "thirdRmb": 25800
+        },
+        "57": {
+            "id": 57,
+            "sign": "3924b78524c159b0dbc4ed276df6c902",
+            "on": 1,
+            "limit": 1,
+            "tag": 1,
+            "sort": 4,
+            "items": "10001:5",
+            "qCash": 95
+        },
+        "58": {
+            "id": 58,
+            "sign": "efa77cf20543b2d7d1931a659fbdb4db",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:1",
+            "online": null,
+            "rmb": 10,
+            "thirdRmb": 10
+        },
+        "59": {
+            "id": 59,
+            "sign": "8cd61eb891e41b4312bfa4b5c4a26235",
+            "on": 1,
+            "tag": 100,
+            "sort": 3,
+            "items": "14:60",
+            "online": null,
+            "rmb": 600
+        },
+        "60": {
+            "id": 60,
+            "sign": "b7e43f2d707b0616904c613ee273b366",
+            "on": 1,
+            "tag": 100,
+            "sort": 4,
+            "items": "14:186",
+            "online": null,
+            "rmb": 1800
+        },
+        "61": {
+            "id": 61,
+            "sign": "8ebbb2ad7789b22d9ddcc7ec1d2345f2",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "14:325",
+            "online": null,
+            "rmb": 3000
+        },
+        "62": {
+            "items": "60004:1",
+            "sort": 9999,
+            "id": 62,
+            "sign": "dac4236fc37af1e68decf189be0585d5",
+            "qCash": 19,
+            "online": null
+        },
+        "63": {
+            "items": "60005:1",
+            "sort": 9999,
+            "id": 63,
+            "sign": "6e73a6a9300c14e7c9248b502bf68bd6",
+            "qCash": 19,
+            "online": null
+        },
+        "64": {
+            "items": "40011:1",
+            "sort": 9999,
+            "id": 64,
+            "sign": "4c331750101c10879306a88a8799364b",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "65": {
+            "items": "40012:1",
+            "sort": 9999,
+            "id": 65,
+            "sign": "1d809b6ad1c86cebdf7dc13889ceb752",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "66": {
+            "items": "40013:1",
+            "sort": 9999,
+            "id": 66,
+            "sign": "0848ae81f64d2bb77a4389b0b721e8cc",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "67": {
+            "items": "40014:1",
+            "sort": 9999,
+            "id": 67,
+            "sign": "35bb20c83628922aba717821ca5377f7",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "68": {
+            "items": "40015:1",
+            "sort": 9999,
+            "id": 68,
+            "sign": "8b9178359d334b67fc2d52137cae0d37",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "69": {
+            "items": "40016:1",
+            "sort": 9999,
+            "id": 69,
+            "sign": "e869c7e2a739fd9f66c4d42b1f0eddbb",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "70": {
+            "items": "40017:1",
+            "sort": 9999,
+            "id": 70,
+            "sign": "ec156edb348b40b0bbac5ee22a9643a2",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "71": {
+            "items": "40018:1",
+            "sort": 9999,
+            "id": 71,
+            "sign": "bb98ef43413fc731c64ecb21910a278d",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "72": {
+            "items": "40019:1",
+            "sort": 9999,
+            "id": 72,
+            "sign": "9a318e2af3d811f2193180f5cb029236",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "73": {
+            "items": "40010:1",
+            "sort": 9999,
+            "id": 73,
+            "sign": "3549c3478d00899397014156bcae750f",
+            "qCash": 29,
+            "online": null,
+            "rmb": 300,
+            "thirdRmb": 290
+        },
+        "74": {
+            "items": "10017:1,10019:1",
+            "sort": 9999,
+            "id": 74,
+            "sign": "1bd8be5923d8e0db8acca1dcc7443773",
+            "limit": 1,
+            "qCash": 100,
+            "online": true,
+            "discountQCash": 19
+        },
+        "75": {
+            "items": "10012:1,10015:1,10019:1",
+            "sort": 9999,
+            "id": 75,
+            "sign": "846d9c5eec75973f3d1c9a3af9974c65",
+            "limit": 1,
+            "qCash": 130,
+            "online": true,
+            "discountQCash": 29
+        },
+        "76": {
+            "items": "10006:1,10019:1",
+            "sort": 9999,
+            "id": 76,
+            "sign": "7624bee8a315c30ad82d9a688bae0325",
+            "limit": 1,
+            "qCash": 100,
+            "online": true,
+            "discountQCash": 19
+        },
+        "77": {
+            "items": "10001:1,10004:1,10019:1",
+            "sort": 9999,
+            "id": 77,
+            "sign": "c80b777bc7f071a6f7a88a7eb0ef9b74",
+            "limit": 1,
+            "qCash": 130,
+            "online": true,
+            "discountQCash": 29
+        },
+        "78": {
+            "items": "10027:1",
+            "sort": 9999,
+            "id": 78,
+            "sign": "4218bb09c30859a8d012398abcca7fd3",
+            "qCash": 5,
+            "online": true
+        },
+        "79": {
+            "id": 79,
+            "sign": "6b01b6e50bcd6296cf665253ee60f5cf",
+            "tag": 2,
+            "sort": 6,
+            "items": "10027:20",
+            "qCash": 100
+        },
+        "80": {
+            "items": "60006:1",
+            "sort": 9999,
+            "id": 80,
+            "sign": "975e442543951453228001dd23db1f34",
+            "qCash": 19,
+            "online": null
+        },
+        "81": {
+            "id": 81,
+            "discountQCash": 60,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "10001:2,10004:1,10019:2",
+            "online": true,
+            "qCash": 180,
+            "rmb": 2000,
+            "sign": "ccb1fe9b01b70ccebbb492578a06caeb",
+            "sort": 9999,
+            "thirdRmb": 2000
+        },
+        "82": {
+            "id": 82,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10004:1,10001:1,14:40,2:10000",
+            "limit": 1,
+            "qCash": 100,
+            "rmb": 1400,
+            "sign": "66b28cd968c8203d0193206413414835",
+            "sort": 9999,
+            "thirdRmb": 1400
+        },
+        "83": {
+            "id": 83,
+            "discountQCash": 180,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "10006:2,10002:2,10001:1,10018:8,2:20000",
+            "limit": 1,
+            "qCash": 300,
+            "rmb": 3000,
+            "sign": "3bc8800bc1cc29ce9d4aa268936c99d1",
+            "sort": 9999,
+            "thirdRmb": 3000
+        },
+        "84": {
+            "id": 84,
+            "discountQCash": 450,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "10005:3,10003:3,10019:3,10027:8,2:30000",
+            "limit": 1,
+            "qCash": 750,
+            "rmb": 7500,
+            "sign": "d76a76307e208cc3399961a2d75708d2",
+            "sort": 9999,
+            "thirdRmb": 7500
+        },
+        "85": {
+            "id": 85,
+            "discountQCash": 980,
+            "discountRmb": 9800,
+            "discountThird": 9800,
+            "items": "10004:5,10002:5,10020:2,10027:16,2:60000",
+            "limit": 1,
+            "qCash": 1400,
+            "rmb": 14000,
+            "sign": "fd2391ac0a612656621a5b3405c4aa6a",
+            "sort": 9999,
+            "thirdRmb": 14000
+        },
+        "86": {
+            "id": 86,
+            "discountQCash": 1280,
+            "discountRmb": 12800,
+            "discountThird": 12800,
+            "items": "10005:7,10006:7,10020:3,10027:20,2:70000",
+            "limit": 1,
+            "qCash": 1830,
+            "rmb": 18300,
+            "sign": "c9204bf70f168dd6358b6bf5134a69cb",
+            "sort": 9999,
+            "thirdRmb": 18000
+        },
+        "87": {
+            "id": 87,
+            "discountQCash": 1980,
+            "discountRmb": 19800,
+            "discountThird": 19800,
+            "items": "10008:10,10003:10,10020:3,10027:32,2:100000",
+            "limit": 1,
+            "qCash": 2480,
+            "rmb": 24800,
+            "sign": "ba158b93a03a795840c97794901f68a0",
+            "sort": 9999,
+            "thirdRmb": 24800
+        },
+        "88": {
+            "id": 88,
+            "items": "70001:1",
+            "qCash": 25,
+            "sign": "3ac9be0d15f893c81851612aacd323be",
+            "sort": 9999
+        },
+        "89": {
+            "id": 89,
+            "items": "70001:1",
+            "qCash": 50,
+            "sign": "f32fe0f5df27f9953271ccdc1d49373c",
+            "sort": 9999
+        },
+        "90": {
+            "id": 90,
+            "items": "70001:1",
+            "qCash": 50,
+            "sign": "9583afd5a23bb1676ef3ceb9be43cf7a",
+            "sort": 9999
+        },
+        "91": {
+            "id": 91,
+            "discountQCash": 188,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "10006:3,14:100,10027:5",
+            "limit": 1,
+            "qCash": 269,
+            "rmb": 2700,
+            "sign": "286a6bf5639a496af781c89d771e038f",
+            "sort": 9999,
+            "thirdRmb": 2700
+        },
+        "92": {
+            "id": 92,
+            "discountQCash": 500,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "10001:2,14:400,10002:2",
+            "limit": 1,
+            "qCash": 614,
+            "rmb": 6100,
+            "sign": "8dbfd54730b7e2a925841d0a7e2e93ca",
+            "sort": 9999,
+            "thirdRmb": 6100
+        },
+        "93": {
+            "id": 93,
+            "discountQCash": 1100,
+            "discountRmb": 9800,
+            "discountThird": 9800,
+            "items": "10005:6,10002:12,10027:5",
+            "limit": 1,
+            "qCash": 1675,
+            "rmb": 16700,
+            "sign": "bd68a220393132d2d4dce6388eb7ce37",
+            "sort": 9999,
+            "thirdRmb": 16700
+        },
+        "94": {
+            "id": 94,
+            "discountQCash": 1500,
+            "discountRmb": 12800,
+            "discountThird": 12800,
+            "items": "10005:3,10008:3,10020:7",
+            "limit": 1,
+            "qCash": 1974,
+            "rmb": 19700,
+            "sign": "741bec9888b61ea267b970436f67253e",
+            "sort": 9999,
+            "thirdRmb": 19700
+        },
+        "95": {
+            "id": 95,
+            "discountQCash": 2300,
+            "discountRmb": 19800,
+            "discountThird": 19800,
+            "items": "10006:33,10001:15,10002:15",
+            "limit": 1,
+            "qCash": 3189,
+            "rmb": 31800,
+            "sign": "1031b39e447a1f01c1610fb081817709",
+            "sort": 9999,
+            "thirdRmb": 31800
+        },
+        "96": {
+            "id": 96,
+            "discountQCash": 188,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "10004:2,10006:1,10001:1,10019:1",
+            "limit": 1,
+            "qCash": 247,
+            "rmb": 2500,
+            "sign": "ce2e179a80e02e9c06ff261e802facaa",
+            "sort": 9999,
+            "thirdRmb": 2500
+        },
+        "97": {
+            "id": 97,
+            "discountQCash": 500,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "10004:8,10001:3,2:10000",
+            "limit": 1,
+            "qCash": 629,
+            "rmb": 6300,
+            "sign": "4b845a34ca9e259b94f9ad930f3626e2",
+            "sort": 9999,
+            "thirdRmb": 6300
+        },
+        "98": {
+            "id": 98,
+            "discountQCash": 1100,
+            "discountRmb": 9800,
+            "discountThird": 9800,
+            "items": "10004:12,10006:5,10003:5,2:20000",
+            "limit": 1,
+            "qCash": 1503,
+            "rmb": 15000,
+            "sign": "dbaaefedd5abaab40ef5b858ec713c35",
+            "sort": 9999,
+            "thirdRmb": 15000
+        },
+        "99": {
+            "id": 99,
+            "discountQCash": 1500,
+            "discountRmb": 12800,
+            "discountThird": 12800,
+            "items": "10004:15,10001:8,10005:8",
+            "limit": 1,
+            "qCash": 1979,
+            "rmb": 19700,
+            "sign": "7be75e96e2c4a198d739159a641184be",
+            "sort": 9999,
+            "thirdRmb": 19700
+        },
+        "100": {
+            "id": 100,
+            "discountQCash": 2300,
+            "discountRmb": 19800,
+            "discountThird": 19800,
+            "items": "10004:30,10002:9,2:100000",
+            "limit": 1,
+            "qCash": 3062,
+            "rmb": 30600,
+            "sign": "3f62667cedc29b0f59eb895ae14d0b05",
+            "sort": 9999,
+            "thirdRmb": 30600
+        },
+        "101": {
+            "id": 101,
+            "discountQCash": 188,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "10019:6,10001:5,2:10000",
+            "limit": 1,
+            "qCash": 367,
+            "rmb": 3600,
+            "sign": "ed622335f5386f03803e709358c2ca19",
+            "sort": 9999,
+            "thirdRmb": 3600
+        },
+        "102": {
+            "id": 102,
+            "discountQCash": 500,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "10020:3,10005:1,10008:1",
+            "limit": 1,
+            "qCash": 798,
+            "rmb": 8000,
+            "sign": "5221e729172470365e299fa8088a45d6",
+            "sort": 9999,
+            "thirdRmb": 8000
+        },
+        "103": {
+            "id": 103,
+            "discountQCash": 1100,
+            "discountRmb": 9800,
+            "discountThird": 9800,
+            "items": "10004:3,10006:3,10008:15,2:20000",
+            "limit": 1,
+            "qCash": 1426,
+            "rmb": 14200,
+            "sign": "879bc11418f74b9f6ca1808fb6b5096e",
+            "sort": 9999,
+            "thirdRmb": 14200
+        },
+        "104": {
+            "id": 104,
+            "discountQCash": 1500,
+            "discountRmb": 12800,
+            "discountThird": 12800,
+            "items": "10005:17,10002:3,10003:3",
+            "limit": 1,
+            "qCash": 2184,
+            "rmb": 21800,
+            "sign": "8330009011e482c6824e417b5e408b15",
+            "sort": 9999,
+            "thirdRmb": 21800
+        },
+        "105": {
+            "id": 105,
+            "discountQCash": 2300,
+            "discountRmb": 19800,
+            "discountThird": 19800,
+            "items": "10006:6,10002:26,10003:6",
+            "limit": 1,
+            "qCash": 3050,
+            "rmb": 30500,
+            "sign": "6b815a573f67418c1b4d9f0028d76c35",
+            "sort": 9999,
+            "thirdRmb": 30500
+        },
+        "106": {
+            "id": 106,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10004:1,10001:1,2:10000",
+            "limit": 1,
+            "qCash": 100,
+            "rmb": 1000,
+            "sign": "dc6ca750c5fc2bab1442b0c948a32aa1",
+            "sort": 9999,
+            "thirdRmb": 1000
+        },
+        "107": {
+            "id": 107,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10019:1,14:60",
+            "limit": 1,
+            "qCash": 100,
+            "rmb": 1000,
+            "sign": "564667c257652f9d3ae252eef0be5502",
+            "sort": 9999,
+            "thirdRmb": 1000
+        },
+        "108": {
+            "id": 108,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10006:1,14:100",
+            "limit": 1,
+            "qCash": 100,
+            "rmb": 1400,
+            "sign": "0aea007a0840d31031ebe478ac83517d",
+            "sort": 9999,
+            "thirdRmb": 1400
+        },
+        "109": {
+            "id": 109,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10019:4,10027:3,2:5000",
+            "limit": 1,
+            "qCash": 100,
+            "rmb": 1900,
+            "sign": "655d253c362fa78669d6beb7bcd36166",
+            "sort": 9999,
+            "thirdRmb": 1900
+        },
+        "110": {
+            "id": 110,
+            "discountQCash": 62,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "10019:1,10008:1,14:30,2:20000",
+            "limit": 1,
+            "qCash": 181,
+            "rmb": 1800,
+            "sign": "15580940593cde08332a64f8f062c94f",
+            "sort": 9999,
+            "thirdRmb": 1800
+        },
+        "111": {
+            "id": 111,
+            "discountQCash": 62,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "10001:1,10002:1,10019:1,2:20000",
+            "limit": 1,
+            "qCash": 189,
+            "rmb": 1900,
+            "sign": "fe4883a8e1e2dabf41823e82ae6d2806",
+            "sort": 9999,
+            "thirdRmb": 1900
+        },
+        "112": {
+            "id": 112,
+            "discountQCash": 62,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "10006:1,10019:1,10027:10,2:20000",
+            "limit": 1,
+            "qCash": 180,
+            "rmb": 1800,
+            "sign": "0d908714677e95dd43e2bf7994d32a63",
+            "sort": 9999,
+            "thirdRmb": 1800
+        },
+        "113": {
+            "id": 113,
+            "discountQCash": 62,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "10004:1,10019:2,2:20000",
+            "limit": 1,
+            "qCash": 193,
+            "rmb": 1900,
+            "sign": "626e3e2b43a84074859021c8722d0281",
+            "sort": 9999,
+            "thirdRmb": 1900
+        },
+        "114": {
+            "id": 114,
+            "discountQCash": 124,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "10019:3,10008:1,2:10000",
+            "limit": 1,
+            "qCash": 215,
+            "rmb": 2200,
+            "sign": "86011892481508e1a422e97aad30a75c",
+            "sort": 9999,
+            "thirdRmb": 2200
+        },
+        "115": {
+            "id": 115,
+            "discountQCash": 124,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "10002:2,10005:1,2:10000",
+            "limit": 1,
+            "qCash": 295,
+            "rmb": 3000,
+            "sign": "e9fa6d3d7bd80e331bd1ac05377c50d6",
+            "sort": 9999,
+            "thirdRmb": 3000
+        },
+        "116": {
+            "id": 116,
+            "discountQCash": 124,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "10006:2,10003:1,10005:1",
+            "limit": 1,
+            "qCash": 274,
+            "rmb": 2800,
+            "sign": "914b78630514905bb0c42cf902e27426",
+            "sort": 9999,
+            "thirdRmb": 2800
+        },
+        "117": {
+            "id": 117,
+            "discountQCash": 124,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "10004:1,10001:2,14:60",
+            "limit": 1,
+            "qCash": 167,
+            "rmb": 1700,
+            "sign": "67dcb88d10ccb32f77f09056bfbe586a",
+            "sort": 9999,
+            "thirdRmb": 1700
+        },
+        "118": {
+            "id": 118,
+            "discountQCash": 348,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "10001:2,10020:1,10008:1,2:20000",
+            "limit": 1,
+            "qCash": 357,
+            "rmb": 3600,
+            "sign": "34118347939071fdd6d25ed64a22c197",
+            "sort": 9999,
+            "thirdRmb": 3600
+        },
+        "119": {
+            "id": 119,
+            "discountQCash": 348,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "10001:1,10002:4,10005:1",
+            "limit": 1,
+            "qCash": 470,
+            "rmb": 4700,
+            "sign": "cef87d211ed5e10d7fbbcda01db24ed5",
+            "sort": 9999,
+            "thirdRmb": 4700
+        },
+        "120": {
+            "id": 120,
+            "discountQCash": 348,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "10006:5,10005:2,10027:20",
+            "limit": 1,
+            "qCash": 538,
+            "rmb": 5400,
+            "sign": "7f96cc5c9e8c254dd0f11467d7a711d6",
+            "sort": 9999,
+            "thirdRmb": 5400
+        },
+        "121": {
+            "id": 121,
+            "discountQCash": 348,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "10004:5,10003:1,2:20000",
+            "limit": 1,
+            "qCash": 464,
+            "rmb": 4700,
+            "sign": "ec5ab39440c02bdea60ddbbd4183f812",
+            "sort": 9999,
+            "thirdRmb": 4700
+        },
+        "122": {
+            "id": 122,
+            "items": "60007:1",
+            "online": null,
+            "qCash": 19,
+            "sign": "5afec93a98b83decc78966cda622b62d",
+            "sort": 9999
+        },
+        "123": {
+            "id": 123,
+            "items": "70001:1",
+            "qCash": 75,
+            "sign": "dce9cb5303b05d735ca7e2fea803b5f3",
+            "sort": 9999
+        },
+        "124": {
+            "id": 124,
+            "discountQCash": 10,
+            "discountRmb": 100,
+            "discountThird": 100,
+            "items": "23:1",
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "db1a1316c4400e9b9f2ca6c4977c0cec",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "125": {
+            "id": 125,
+            "discountQCash": 50,
+            "discountRmb": 500,
+            "discountThird": 500,
+            "items": "70001:1",
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "9fa801ba2bda28b6f6647f5bd817f7ec",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "126": {
+            "id": 126,
+            "discountQCash": 60,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "23:1",
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "e92537860c41c4d5fe7493cf95cf5988",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "127": {
+            "id": 127,
+            "discountQCash": 120,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "23:1",
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "c9e716760791260f5d0f88ed017fcd61",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "128": {
+            "id": 128,
+            "discountQCash": 600,
+            "discountRmb": 6000,
+            "discountThird": 6000,
+            "items": "23:10",
+            "qCash": 600,
+            "rmb": 6000,
+            "sign": "221bb1b1a14999b08c93dae1938467e1",
+            "sort": 9999,
+            "thirdRmb": 6000
+        },
+        "129": {
+            "id": 129,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:120",
+            "online": null,
+            "thirdRmb": 600
+        },
+        "130": {
+            "id": 130,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:360",
+            "online": null,
+            "thirdRmb": 1800
+        },
+        "131": {
+            "id": 131,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:600",
+            "online": null,
+            "thirdRmb": 3000
+        },
+        "132": {
+            "id": 132,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:3960",
+            "online": null,
+            "thirdRmb": 19800
+        },
+        "133": {
+            "id": 133,
+            "sign": "2635542fb38455cf719389c1fa669ef4",
+            "on": 1,
+            "tag": 100,
+            "sort": 1,
+            "items": "14:5960",
+            "online": null,
+            "thirdRmb": 29800
+        },
+        "150": {
+            "id": 150,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "10004:1",
+            "online": true,
+            "rmb": 32800,
+            "thirdRmb": 32800
+        },
+        "151": {
+            "id": 151,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "10002:1",
+            "online": true,
+            "rmb": 32800,
+            "thirdRmb": 32800
+        },
+        "152": {
+            "id": 152,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "10004:1",
+            "online": true,
+            "rmb": 32800,
+            "thirdRmb": 32800
+        },
+        "153": {
+            "id": 153,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 300,
+            "sign": "3436abdd0b5647160c1da7cb8674495e",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "154": {
+            "id": 154,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 1800,
+            "sign": "f6fd103239af9437d5810bd00ce9b873",
+            "sort": 9999,
+            "thirdRmb": 1800
+        },
+        "155": {
+            "id": 155,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 3000,
+            "sign": "83e39b629fba94bc6fdc89cb3dbc725b",
+            "sort": 9999,
+            "thirdRmb": 3000
+        },
+        "156": {
+            "id": 156,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 300,
+            "sign": "c75f2a117a81637bd7a1015e666263cb",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "157": {
+            "id": 157,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 3000,
+            "sign": "698ff68627828d77148a423e11e62c80",
+            "sort": 9999,
+            "thirdRmb": 3000
+        },
+        "158": {
+            "id": 158,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10004:1,10006:1,10001:1",
+            "labelCategory": 7,
+            "limit": 1,
+            "online": true,
+            "rmb": 1360,
+            "sign": "e735092fb973ff3c1583c8f83d924444",
+            "sort": 9999,
+            "thirdRmb": 1360
+        },
+        "159": {
+            "id": 159,
+            "discountQCash": 50,
+            "discountRmb": 500,
+            "discountThird": 500,
+            "items": "10004:1,10002:1",
+            "labelCategory": 7,
+            "limit": 1,
+            "online": null,
+            "qCash": 157,
+            "rmb": 1570,
+            "sign": "8d0f75bd5e1eb2afd6ed81d9cb298442",
+            "sort": 9999,
+            "thirdRmb": 1570
+        },
+        "160": {
+            "id": 160,
+            "discountRmb": 3000,
+            "discountThird": 3000,
+            "items": "10004:5,10008:1,14:88",
+            "labelCategory": 7,
+            "limit": 1,
+            "online": null,
+            "rmb": 5020,
+            "sign": "48fccf2faafbdd3297ace8fc1fb0c6d4",
+            "sort": 9999,
+            "thirdRmb": 5020
+        },
+        "161": {
+            "id": 161,
+            "discountQCash": 10,
+            "discountRmb": 100,
+            "discountThird": 100,
+            "items": "31:1",
+            "labelCategory": 9,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "0a84d2624a901c5f2b6c7bb54c33a67c",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "162": {
+            "id": 162,
+            "discountQCash": 60,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "31:1",
+            "labelCategory": 9,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "84962103db33654c98344e3820867a6e",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "163": {
+            "id": 163,
+            "discountQCash": 120,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "31:1",
+            "labelCategory": 9,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "05379ddaa15da6e841a7fcc66bf5fe42",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "164": {
+            "id": 164,
+            "discountQCash": 1200,
+            "discountRmb": 12000,
+            "discountThird": 12000,
+            "items": "31:10",
+            "labelCategory": 9,
+            "qCash": 1200,
+            "rmb": 12000,
+            "sign": "2f8677ab6a2b3bbb08f3f146215d60ed",
+            "sort": 9999,
+            "thirdRmb": 12000
+        },
+        "165": {
+            "id": 165,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10019:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "84719416b83a8ab57459fe367a6e9ef0",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "166": {
+            "id": 166,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:2,2:2000",
+            "labelCategory": 26,
+            "qCash": 42,
+            "rmb": 420,
+            "sign": "1d1a2c474492b4e7b6d4348cf67691b8",
+            "sort": 9999,
+            "thirdRmb": 420
+        },
+        "167": {
+            "id": 167,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10017:1,10011:1",
+            "labelCategory": 26,
+            "qCash": 64,
+            "rmb": 640,
+            "sign": "ebb2dc71c29c139401c273833b19fbfb",
+            "sort": 9999,
+            "thirdRmb": 640
+        },
+        "168": {
+            "id": 168,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10014:1,2:5000",
+            "labelCategory": 26,
+            "qCash": 89,
+            "rmb": 890,
+            "sign": "30db6bccbce1219b5a4062e155f58ada",
+            "sort": 9999,
+            "thirdRmb": 890
+        },
+        "169": {
+            "id": 169,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10013:1,2:5000",
+            "labelCategory": 26,
+            "qCash": 98,
+            "rmb": 980,
+            "sign": "5bc2f8c096b830c137e91c91cdf564ba",
+            "sort": 9999,
+            "thirdRmb": 980
+        },
+        "170": {
+            "id": 170,
+            "discountQCash": 300,
+            "discountRmb": 3000,
+            "discountThird": 2900,
+            "items": "10012:1,10017:1,10013:1,10008:1,10009:1,24:3,10014:1,2:20000,",
+            "labelCategory": 26,
+            "qCash": 667,
+            "rmb": 6670,
+            "sign": "a3e6ad883c0803503c8368b6d13fa91e",
+            "sort": 9999,
+            "thirdRmb": 6670
+        },
+        "171": {
+            "id": 171,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10019:2,2:4000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "b5d4598c4e52a9b3d4dca94013750583",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "172": {
+            "id": 172,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:4,2:4000",
+            "labelCategory": 26,
+            "qCash": 42,
+            "rmb": 420,
+            "sign": "f5e38700b82b493cbea72a6a8a515d30",
+            "sort": 9999,
+            "thirdRmb": 420
+        },
+        "173": {
+            "id": 173,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10017:2,10011:2",
+            "labelCategory": 26,
+            "qCash": 64,
+            "rmb": 640,
+            "sign": "21efa06e3611c99a6835d7375559c057",
+            "sort": 9999,
+            "thirdRmb": 640
+        },
+        "174": {
+            "id": 174,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10014:2,2:10000",
+            "labelCategory": 26,
+            "qCash": 89,
+            "rmb": 890,
+            "sign": "ffd6f0aa31daafcfa80b5547ade0d1ff",
+            "sort": 9999,
+            "thirdRmb": 890
+        },
+        "175": {
+            "id": 175,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10013:2,2:10000",
+            "labelCategory": 26,
+            "qCash": 98,
+            "rmb": 980,
+            "sign": "97f84c37f0a5874713134a1d4b2d94c1",
+            "sort": 9999,
+            "thirdRmb": 980
+        },
+        "176": {
+            "id": 176,
+            "discountQCash": 300,
+            "discountRmb": 3000,
+            "discountThird": 2900,
+            "items": "10012:2,10017:2,10013:2,10008:2,10009:2,24:6,10014:2,2:40000",
+            "labelCategory": 26,
+            "qCash": 667,
+            "rmb": 6670,
+            "sign": "3df70d42706197b2bbfbb12f6454a9d9",
+            "sort": 9999,
+            "thirdRmb": 6670
+        },
+        "177": {
+            "id": 177,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 300,
+            "sign": "efbb4428b01a03927eaa28fe9e46abb5",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "178": {
+            "id": 178,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "29:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 1800,
+            "sign": "d9c3109ee0396101cbb7acc842c5a41b",
+            "sort": 9999,
+            "thirdRmb": 1800
+        },
+        "179": {
+            "id": 179,
+            "items": "80001:1",
+            "labelCategory": 8,
+            "limit": 1,
+            "qCash": 10,
+            "rmb": 100,
+            "sign": "aa1c4f73e633b959220e31ced8bb961a",
+            "sort": 9999,
+            "thirdRmb": 100
+        },
+        "180": {
+            "id": 180,
+            "items": "80001:1",
+            "labelCategory": 8,
+            "limit": 1,
+            "qCash": 30,
+            "rmb": 300,
+            "sign": "c86ce8e5d9084cf912a2b455e64a5b83",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "181": {
+            "id": 181,
+            "items": "80001:1",
+            "labelCategory": 8,
+            "limit": 1,
+            "qCash": 60,
+            "rmb": 600,
+            "sign": "72449d20c9573090a1c43f419d9d2243",
+            "sort": 9999,
+            "thirdRmb": 600
+        },
+        "182": {
+            "id": 182,
+            "items": "80001:1",
+            "labelCategory": 8,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "c5af85cccb5355b8db381fce6a3f593c",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "183": {
+            "id": 183,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 300,
+            "sign": "7bfa150c69450c684df594441788c4f9",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "184": {
+            "id": 184,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 600,
+            "sign": "19a0a42e036953764584cdea96cf63e6",
+            "sort": 9999,
+            "thirdRmb": 600
+        },
+        "185": {
+            "id": 185,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 1200,
+            "sign": "5194af1ddeea0eba1816bcad1973f97e",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "186": {
+            "id": 186,
+            "discountRmb": 2500,
+            "discountThird": 2500,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 2500,
+            "sign": "154e178556658d8d542460d3ed2f9e8d",
+            "sort": 9999,
+            "thirdRmb": 2500
+        },
+        "187": {
+            "id": 187,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 4500,
+            "sign": "9a36e404b84ea8e9e89be538c084a3af",
+            "sort": 9999,
+            "thirdRmb": 4500
+        },
+        "188": {
+            "id": 188,
+            "discountQCash": 10,
+            "discountRmb": 100,
+            "discountThird": 100,
+            "items": "34:1",
+            "labelCategory": 9,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "a5cb9704a931a6a5814bb49dba42d062",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "189": {
+            "id": 189,
+            "discountQCash": 60,
+            "discountRmb": 600,
+            "discountThird": 600,
+            "items": "34:1",
+            "labelCategory": 9,
+            "qCash": 120,
+            "rmb": 1200,
+            "sign": "f3af4b2f05a092fb54b07cb7537f824a",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "190": {
+            "id": 190,
+            "discountRmb": 1200,
+            "discountThird": 1200,
+            "items": "34:1",
+            "labelCategory": 9,
+            "rmb": 1200,
+            "sign": "4c0543a62b5aa312eb72892081e6aa75",
+            "sort": 9999,
+            "thirdRmb": 1200
+        },
+        "191": {
+            "id": 191,
+            "discountRmb": 12000,
+            "discountThird": 12000,
+            "items": "34:10",
+            "labelCategory": 9,
+            "rmb": 12000,
+            "sign": "c6f27d925e3ad571a1e0501722b3c680",
+            "sort": 9999,
+            "thirdRmb": 12000
+        },
+        "192": {
+            "id": 192,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "388f9754d615bc28aea4a87cf5f4f2e8",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "193": {
+            "id": 193,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10017:1,10011:1",
+            "labelCategory": 26,
+            "qCash": 42,
+            "rmb": 420,
+            "sign": "3ddb18184010b8cce209234157fc715a",
+            "sort": 9999,
+            "thirdRmb": 420
+        },
+        "194": {
+            "id": 194,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10014:1,2:5000",
+            "labelCategory": 26,
+            "qCash": 64,
+            "rmb": 640,
+            "sign": "7fb1fb86034a610133576e3da042da02",
+            "sort": 9999,
+            "thirdRmb": 640
+        },
+        "195": {
+            "id": 195,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10012:1,10017:1,10013:1,10009:1,24:3,10014:1,2:20000",
+            "labelCategory": 26,
+            "qCash": 89,
+            "rmb": 890,
+            "sign": "4b4e469c476121e9e1b61bde0af275b6",
+            "sort": 9999,
+            "thirdRmb": 890
+        },
+        "196": {
+            "id": 196,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "7871b5c71d2e490c8c15519e54ad8c59",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "197": {
+            "id": 197,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10017:1,10011:1",
+            "labelCategory": 26,
+            "qCash": 42,
+            "rmb": 420,
+            "sign": "aa3b72703e31ecc190d1f54bc7381049",
+            "sort": 9999,
+            "thirdRmb": 420
+        },
+        "198": {
+            "id": 198,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10014:1,2:5000",
+            "labelCategory": 26,
+            "qCash": 64,
+            "rmb": 640,
+            "sign": "ddc7fb4671d38573607c41024ac34512",
+            "sort": 9999,
+            "thirdRmb": 640
+        },
+        "199": {
+            "id": 199,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300,
+            "items": "10012:1,10017:1,10013:1,10009:1,24:3,10014:1,2:20000",
+            "labelCategory": 26,
+            "qCash": 89,
+            "rmb": 890,
+            "sign": "3361f34220b64026dd6d2de946be075f",
+            "sort": 9999,
+            "thirdRmb": 890
+        },
+        "200": {
+            "id": 200,
+            "items": "40031:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "905ff858535e9f93f866352cf894bc87",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "201": {
+            "id": 201,
+            "items": "40032:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "c471e6ff009722c9f3a7089db1a602fd",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "202": {
+            "id": 202,
+            "items": "40033:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "d5596b6e28a871f126e91afdab7b0e23",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "203": {
+            "id": 203,
+            "items": "40034:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "daa9e6af46b9c778b23beddb284210c2",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "204": {
+            "id": 204,
+            "items": "40035:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "c61912a6a108af2b644cf76e9ea73064",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "205": {
+            "id": 205,
+            "items": "40036:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "8543058c502fa78fdcb45845c157d8fd",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "206": {
+            "id": 206,
+            "items": "40037:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "3370929c0b04d3269c51cb98ca65ce94",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "207": {
+            "id": 207,
+            "items": "40038:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "7deeb292dcd2d06179b2542cb70f830f",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "208": {
+            "id": 208,
+            "items": "40039:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "be520db3728fd77fd0f8a6cdedbe2201",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "209": {
+            "id": 209,
+            "items": "40040:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "63b91b4407c5502bfb33b39fcc9602fa",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "210": {
+            "id": 210,
+            "items": "14:7888",
+            "labelCategory": 24,
+            "on": 1,
+            "online": true,
+            "sign": "9b86e9c13e4edd19bc0c1cc18053c1b2",
+            "sort": 6,
+            "tag": 100,
+            "thirdRmb": 64800
+        },
+        "211": {
+            "id": 211,
+            "discountRmb": 4500,
+            "discountThird": 4500,
+            "items": "10020:2,10019:3,10011:3,10002:1",
+            "labelCategory": 23,
+            "limit": 1,
+            "on": 1,
+            "rmb": 6800,
+            "sign": "b7bb28aa7f9f19e3f5b21916cf9d9341",
+            "sort": 1,
+            "tag": 5,
+            "thirdRmb": 6800
+        },
+        "212": {
+            "id": 212,
+            "discountRmb": 2500,
+            "discountThird": 2500,
+            "items": "10006:2,10004:2,10019:1,10003:1",
+            "labelCategory": 23,
+            "limit": 1,
+            "on": 1,
+            "rmb": 3500,
+            "sign": "087886aba663f3622826e2a678a17af7",
+            "sort": 1,
+            "tag": 5,
+            "thirdRmb": 3500
+        },
+        "213": {
+            "id": 213,
+            "discountRmb": 6000,
+            "discountThird": 6000,
+            "items": "10008:5,10002:2,10001:5,10005:2",
+            "labelCategory": 23,
+            "limit": 1,
+            "on": 1,
+            "rmb": 8100,
+            "sign": "1c6b3c5a63a9f9c8a12f64264c9362b8",
+            "sort": 1,
+            "tag": 5,
+            "thirdRmb": 8100
+        },
+        "214": {
+            "id": 214,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "2:100000",
+            "labelCategory": 23,
+            "limit": 1,
+            "on": 1,
+            "rmb": 2000,
+            "sign": "03e7242b8433c85fe461c8f475bad2fb",
+            "sort": 1,
+            "tag": 4,
+            "thirdRmb": 2000
+        },
+        "215": {
+            "id": 215,
+            "discountRmb": 5000,
+            "discountThird": 5000,
+            "items": "2:280000",
+            "labelCategory": 23,
+            "limit": 9,
+            "on": 1,
+            "rmb": 5600,
+            "sign": "602903820598968a70d683b22f64374f",
+            "sort": 2,
+            "tag": 4,
+            "thirdRmb": 5600
+        },
+        "216": {
+            "id": 216,
+            "items": "36:1",
+            "labelCategory": 0,
+            "limit": 3,
+            "online": true,
+            "sign": "e098d86af37d6ccc1dc65acc47091189",
+            "sort": 1
+        },
+        "217": {
+            "id": 217,
+            "items": "35:1",
+            "labelCategory": 0,
+            "limit": 1,
+            "online": true,
+            "sign": "e3c437cb323b36c3826a5580139e7bcb",
+            "sort": 1
+        },
+        "218": {
+            "id": 218,
+            "items": "50001:1",
+            "labelCategory": 0,
+            "limit": 1,
+            "online": true,
+            "sign": "a3782875bc5191826dc65f95cdd3e9a2",
+            "sort": 1
+        },
+        "219": {
+            "id": 219,
+            "items": "10037:4",
+            "labelCategory": 28,
+            "online": true,
+            "qCash": 40,
+            "rmb": 400,
+            "sign": "78d4f3ea1aa16ee7c1eb0a2fb9d9e741",
+            "sort": 9999,
+            "thirdRmb": 400
+        },
+        "220": {
+            "id": 220,
+            "items": "10037:6",
+            "labelCategory": 28,
+            "online": true,
+            "qCash": 60,
+            "rmb": 600,
+            "sign": "178fa544b2ac4136eaaab308f4a0bb86",
+            "sort": 9999,
+            "thirdRmb": 600
+        },
+        "221": {
+            "id": 221,
+            "items": "10037:7",
+            "labelCategory": 28,
+            "online": true,
+            "qCash": 70,
+            "rmb": 700,
+            "sign": "4ebc114ec83b373baf9b03c4156f0c6b",
+            "sort": 9999,
+            "thirdRmb": 700
+        },
+        "222": {
+            "id": 222,
+            "items": "10037:9",
+            "labelCategory": 28,
+            "online": true,
+            "qCash": 90,
+            "rmb": 900,
+            "sign": "b8448d50f6053bb22e5e5b3f78ee1354",
+            "sort": 9999,
+            "thirdRmb": 900
+        },
+        "223": {
+            "id": 223,
+            "items": "10037:60",
+            "labelCategory": 28,
+            "online": true,
+            "qCash": 600,
+            "sign": "2286afde8c103d94d0d5c65ab8083df4",
+            "sort": 9999
+        },
+        "224": {
+            "id": 224,
+            "items": "10037:1",
+            "labelCategory": 28,
+            "qCash": 10,
+            "rmb": 100,
+            "sign": "80df17454111c0f2b4f5906f185d6256",
+            "sort": 9999,
+            "thirdRmb": 100
+        },
+        "225": {
+            "id": 225,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,10019:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "075d65d6a73a957aba9efc320b7527d3",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "226": {
+            "id": 226,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10014:1,10011:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "b9c212aa047de3f3c3d120bff860fefb",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "227": {
+            "id": 227,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10017:1,10009:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "5d5d3e0f5740a0c8f492ce03aa13cd6c",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "228": {
+            "id": 228,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "24:3,10012:1,10019:1,10017:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "4317413b383b370296efd453a9321dd2",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "229": {
+            "id": 229,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "14:1,10013:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "77345b8676ad8f9086724c1e29e9ce35",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "230": {
+            "id": 230,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,10019:1,14:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "871af04d955f09b3efe7e6f536d3cd2d",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "231": {
+            "id": 231,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10014:1,10011:1,14:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "78e10fcaedf0ee714dfe11a6e75c601d",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "232": {
+            "id": 232,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "24:3,10012:1,10019:1,10017:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "692a0f943a0796fbd3218a4f2967a98a",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "233": {
+            "id": 233,
+            "discountQCash": 80,
+            "discountRmb": 800,
+            "discountThird": 800,
+            "items": "37:1",
+            "labelCategory": 26,
+            "qCash": 80,
+            "rmb": 800,
+            "sign": "700f951a3aebdb8f71a9c224236db528",
+            "sort": 9999,
+            "thirdRmb": 800
+        },
+        "234": {
+            "id": 234,
+            "discountQCash": 40,
+            "discountRmb": 400,
+            "discountThird": 400,
+            "items": "38:1",
+            "labelCategory": 26,
+            "qCash": 40,
+            "rmb": 400,
+            "sign": "f38b08f1aa6180aabd0f28344abcf105",
+            "sort": 9999,
+            "thirdRmb": 400
+        },
+        "235": {
+            "id": 235,
+            "discountRmb": 8800,
+            "discountThird": 8800,
+            "items": "33:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 8800,
+            "sign": "26da282a2286696b4ed059d1bbc85201",
+            "sort": 9999,
+            "thirdRmb": 8800
+        },
+        "236": {
+            "id": 236,
+            "discountRmb": 1800,
+            "discountThird": 1800,
+            "items": "39:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 31200,
+            "sign": "2a731828476cf772e1f64976cf68033a",
+            "sort": 9999,
+            "thirdRmb": 31200
+        },
+        "237": {
+            "id": 237,
+            "discountRmb": 9000,
+            "discountThird": 9000,
+            "items": "40:1",
+            "labelCategory": 27,
+            "online": true,
+            "rmb": 15600,
+            "sign": "7833da0f43b0682869455d561e3248f2",
+            "sort": 9999,
+            "thirdRmb": 15600
+        },
+        "238": {
+            "id": 238,
+            "discountQCash": 69,
+            "discountRmb": 690,
+            "discountThird": 690,
+            "items": "10039:1",
+            "labelCategory": 27,
+            "limit": 1,
+            "online": true,
+            "qCash": 99,
+            "rmb": 990,
+            "sign": "0f0816dd9fd2e443fcaaca9f41883614",
+            "sort": 9999,
+            "thirdRmb": 990
+        },
+        "239": {
+            "id": 239,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "8eaf6ec103012615e25793d7cb504bb9",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "240": {
+            "id": 240,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10017:1,10011:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "48254e1e48d35454c1a430f361c164ce",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "241": {
+            "id": 241,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,10017:1,10013:1,10009:1,24:3,10014:1,2:20000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "f508154cefaa1547d74af5764a934246",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "242": {
+            "id": 242,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,2:2000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "b173db5a6837f2eb80f716887be9149d",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "243": {
+            "id": 243,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10017:1,10011:1",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "29557520078b0d1be9906062eb666076",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "244": {
+            "id": 244,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 100,
+            "items": "10012:1,10017:1,10013:1,10009:1,24:3,10014:1,2:20000",
+            "labelCategory": 26,
+            "qCash": 46,
+            "rmb": 460,
+            "sign": "af8668bde34aba692bea68b68b8fdc96",
+            "sort": 9999,
+            "thirdRmb": 460
+        },
+        "245": {
+            "id": 245,
+            "items": "10039:1",
+            "labelCategory": 27,
+            "online": true,
+            "qCash": 99,
+            "rmb": 990,
+            "sign": "1a6c79ddbe48d6fe2a09788081273548",
+            "sort": 9999,
+            "thirdRmb": 990
+        },
+        "1002": {
+            "items": "10004:1",
+            "sort": 9999,
+            "id": 1002,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "qCash": 69,
+            "rmb": 700,
+            "thirdRmb": 690
+        },
+        "1003": {
+            "id": 1003,
+            "items": "10004:1",
+            "qCash": 99,
+            "rmb": 700,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "sort": 4,
+            "thirdRmb": 690
+        },
+        "1004": {
+            "id": 1004,
+            "items": "10004:1",
+            "qCash": 129,
+            "rmb": 700,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "sort": 4,
+            "thirdRmb": 690
+        },
+        "1005": {
+            "id": 1005,
+            "items": "10004:1",
+            "qCash": 159,
+            "rmb": 700,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "sort": 4,
+            "thirdRmb": 690
+        },
+        "3001": {
+            "id": 3001,
+            "items": "40021:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "b59fc82000806549e56eef788a1f5f9d",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3002": {
+            "id": 3002,
+            "items": "40022:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "d7d6bf9fa191a84a699362673ac4d57c",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3003": {
+            "id": 3003,
+            "items": "40023:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "c37111a1bdcba0e9fbbb9d1edd213cc7",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3004": {
+            "id": 3004,
+            "items": "40024:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "cf2ebbf7a167d75fec131157ab257a39",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3005": {
+            "id": 3005,
+            "items": "40025:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "297c2e45254e5f67959fc99273018e2b",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3006": {
+            "id": 3006,
+            "items": "40026:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "83ba0723d928fba5d30fecb31b586a31",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3007": {
+            "id": 3007,
+            "items": "40027:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "a8ea4c6950b92e13418c6983ca33e650",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3008": {
+            "id": 3008,
+            "items": "40028:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "22ea2672850e93b68f4933791faed05a",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3009": {
+            "id": 3009,
+            "items": "40029:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "062d6a8d8d1ca9f7b2b4eb6300449630",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3010": {
+            "id": 3010,
+            "items": "40020:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "c3b8c966791044c1018270f382ecac30",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3011": {
+            "id": 3011,
+            "items": "40030:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3012": {
+            "id": 3012,
+            "items": "40031:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3013": {
+            "id": 3013,
+            "items": "40032:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3014": {
+            "id": 3014,
+            "items": "40033:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3015": {
+            "id": 3015,
+            "items": "40034:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3016": {
+            "id": 3016,
+            "items": "40035:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "3017": {
+            "id": 3017,
+            "items": "40036:1",
+            "labelCategory": 13,
+            "online": null,
+            "qCash": 29,
+            "rmb": 300,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "thirdRmb": 300
+        },
+        "5001": {
+            "id": 5001,
+            "items": "10004:1,10019:1",
+            "online": null,
+            "sign": "1fb81ec9c82a3e18e84e5eab38ae0e14",
+            "sort": 9999,
+            "qCash": 100,
+            "rmb": 1000,
+            "thirdRmb": 1000,
+            "discountQCash": 30,
+            "discountRmb": 300,
+            "discountThird": 300
+        },
+        "5003": {
+            "id": 5003,
+            "discountQCash": 10,
+            "discountRmb": 1,
+            "discountThird": 10,
+            "items": "28:1",
+            "level": 0,
+            "on": 1,
+            "qCash": 10,
+            "rmb": 1,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "sort": 4,
+            "thirdRmb": 10
+        },
+        "5004": {
+            "id": 5004,
+            "discountQCash": 30,
+            "discountRmb": 3,
+            "discountThird": 30,
+            "items": "28:1",
+            "level": 0,
+            "on": 1,
+            "qCash": 30,
+            "rmb": 3,
+            "sign": "74f19e4cd74113dc1cc8557061e24b12",
+            "sort": 4,
+            "thirdRmb": 30
+        },
+        "5151": {
+            "id": 5151,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "14:4038",
+            "online": true,
+            "rmb": 32800,
+            "thirdRmb": 32800
+        },
+        "5152": {
+            "id": 5152,
+            "sign": "15568fca2f50be39b2ae12248ff8a450",
+            "on": 1,
+            "tag": 100,
+            "sort": 5,
+            "items": "14:6560",
+            "online": true,
+            "rmb": 32800,
+            "thirdRmb": 32800
+        }
+    },
+    "guide_prop": {
+        "1": { "reward": "10026:1", "id": "1" },
+        "2": { "reward": "10006:1", "id": "2" },
+        "3": { "reward": "10023:1", "id": "3" },
+        "4": { "reward": "10002:1", "id": "4" },
+        "5": { "reward": "10025:1", "id": "5" },
+        "6": { "reward": "10005:1", "id": "6" },
+        "7": { "reward": "10028:1", "id": "7" },
+        "8": { "reward": "10029:1", "id": "8" },
+        "9": { "reward": "10030:1", "id": "9" },
+        "10": { "reward": "10023:1", "id": "10" }
+    },
+    "head_frame": [
+        {
+            "csb_frame": "0",
+            "totalLevel": "30",
+            "id": "1",
+            "csb_name": "head_frame_%s_head_frame_%s_1.csb",
+            "level": "1"
+        },
+        {
+            "csb_frame": "1",
+            "totalLevel": "60",
+            "id": "2",
+            "csb_name": "head_frame_%s_head_frame_%s_1.csb",
+            "level": "2"
+        },
+        {
+            "csb_frame": "2",
+            "totalLevel": "90",
+            "id": "3",
+            "csb_name": "head_frame_%s_head_frame_%s_1.csb",
+            "level": "3"
+        },
+        {
+            "csb_frame": "3",
+            "totalLevel": "120",
+            "id": "4",
+            "csb_name": "head_frame_%s_head_frame_%s_1.csb",
+            "level": "4"
+        },
+        {
+            "csb_frame": "4",
+            "totalLevel": "150",
+            "id": "5",
+            "csb_name": "head_frame_%s_head_frame_%s_1.csb",
+            "level": "5"
+        },
+        {
+            "csb_frame": "0",
+            "totalLevel": "180",
+            "id": "6",
+            "csb_name": "head_frame_%s_head_frame_%s_2.csb",
+            "level": "6"
+        },
+        {
+            "csb_frame": "1",
+            "totalLevel": "210",
+            "id": "7",
+            "csb_name": "head_frame_%s_head_frame_%s_2.csb",
+            "level": "7"
+        },
+        {
+            "csb_frame": "2",
+            "totalLevel": "240",
+            "id": "8",
+            "csb_name": "head_frame_%s_head_frame_%s_2.csb",
+            "level": "8"
+        },
+        {
+            "csb_frame": "3",
+            "totalLevel": "270",
+            "id": "9",
+            "csb_name": "head_frame_%s_head_frame_%s_2.csb",
+            "level": "9"
+        },
+        {
+            "csb_frame": "4",
+            "totalLevel": "300",
+            "id": "10",
+            "csb_name": "head_frame_%s_head_frame_%s_2.csb",
+            "level": "10"
+        },
+        {
+            "id": "11",
+            "csb_frame": "0",
+            "csb_name": "head_frame_%s_head_frame_%s_3.csb",
+            "level": "11",
+            "totalLevel": "330"
+        },
+        {
+            "id": "12",
+            "csb_frame": "1",
+            "csb_name": "head_frame_%s_head_frame_%s_3.csb",
+            "level": "12",
+            "totalLevel": "360"
+        },
+        {
+            "id": "13",
+            "csb_frame": "2",
+            "csb_name": "head_frame_%s_head_frame_%s_3.csb",
+            "level": "13",
+            "totalLevel": "390"
+        },
+        {
+            "id": "14",
+            "csb_frame": "3",
+            "csb_name": "head_frame_%s_head_frame_%s_3.csb",
+            "level": "14",
+            "totalLevel": "420"
+        },
+        {
+            "id": "15",
+            "csb_frame": "4",
+            "csb_name": "head_frame_%s_head_frame_%s_3.csb",
+            "level": "15",
+            "totalLevel": "450"
+        },
+        {
+            "id": "16",
+            "csb_frame": "0",
+            "csb_name": "head_frame_%s_head_frame_%s_4.csb",
+            "level": "16",
+            "totalLevel": "480"
+        },
+        {
+            "id": "17",
+            "csb_frame": "1",
+            "csb_name": "head_frame_%s_head_frame_%s_4.csb",
+            "level": "17",
+            "totalLevel": "510"
+        },
+        {
+            "id": "18",
+            "csb_frame": "2",
+            "csb_name": "head_frame_%s_head_frame_%s_4.csb",
+            "level": "18",
+            "totalLevel": "540"
+        },
+        {
+            "id": "19",
+            "csb_frame": "3",
+            "csb_name": "head_frame_%s_head_frame_%s_4.csb",
+            "level": "19",
+            "totalLevel": "570"
+        },
+        {
+            "id": "20",
+            "csb_frame": "4",
+            "csb_name": "head_frame_%s_head_frame_%s_4.csb",
+            "level": "20",
+            "totalLevel": "600"
+        },
+        {
+            "id": "21",
+            "csb_frame": "0",
+            "csb_name": "head_frame_%s_head_frame_%s_5.csb",
+            "level": "21",
+            "totalLevel": "630"
+        },
+        {
+            "id": "22",
+            "csb_frame": "1",
+            "csb_name": "head_frame_%s_head_frame_%s_5.csb",
+            "level": "22",
+            "totalLevel": "660"
+        },
+        {
+            "id": "23",
+            "csb_frame": "2",
+            "csb_name": "head_frame_%s_head_frame_%s_5.csb",
+            "level": "23",
+            "totalLevel": "690"
+        },
+        {
+            "id": "24",
+            "csb_frame": "3",
+            "csb_name": "head_frame_%s_head_frame_%s_5.csb",
+            "level": "24",
+            "totalLevel": "720"
+        },
+        {
+            "id": "25",
+            "csb_frame": "4",
+            "csb_name": "head_frame_%s_head_frame_%s_5.csb",
+            "level": "25",
+            "totalLevel": "750"
+        },
+        {
+            "id": "26",
+            "csb_frame": "0",
+            "csb_name": "head_frame_%s_head_frame_%s_6.csb",
+            "level": "26",
+            "totalLevel": "780"
+        },
+        {
+            "id": "27",
+            "csb_frame": "1",
+            "csb_name": "head_frame_%s_head_frame_%s_6.csb",
+            "level": "27",
+            "totalLevel": "810"
+        },
+        {
+            "id": "28",
+            "csb_frame": "2",
+            "csb_name": "head_frame_%s_head_frame_%s_6.csb",
+            "level": "28",
+            "totalLevel": "840"
+        },
+        {
+            "id": "29",
+            "csb_frame": "3",
+            "csb_name": "head_frame_%s_head_frame_%s_6.csb",
+            "level": "29",
+            "totalLevel": "870"
+        },
+        {
+            "id": "30",
+            "csb_frame": "4",
+            "csb_name": "head_frame_%s_head_frame_%s_6.csb",
+            "level": "30",
+            "totalLevel": "900"
+        }
+    ],
+    "intro": {
+        "1": {
+            "sort": "1",
+            "id": "1",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10001"
+        },
+        "2": {
+            "sort": "2",
+            "id": "2",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10006"
+        },
+        "3": {
+            "sort": "3",
+            "id": "3",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10002"
+        },
+        "4": {
+            "sort": "4",
+            "id": "4",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10005"
+        },
+        "5": {
+            "sort": "5",
+            "id": "5",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10003"
+        },
+        "6": {
+            "sort": "6",
+            "id": "6",
+            "category": "1",
+            "unlockLevel": "1",
+            "itemId": "10004"
+        },
+        "7": {
+            "sort": "1",
+            "id": "7",
+            "category": "2",
+            "unlockLevel": "1",
+            "itemId": "20001"
+        },
+        "8": {
+            "sort": "2",
+            "id": "8",
+            "category": "2",
+            "unlockLevel": "5",
+            "itemId": "20002"
+        },
+        "9": {
+            "sort": "3",
+            "id": "9",
+            "category": "2",
+            "unlockLevel": "10",
+            "itemId": "20003"
+        },
+        "10": {
+            "sort": "5",
+            "id": "10",
+            "category": "2",
+            "unlockLevel": "40",
+            "itemId": "20004"
+        },
+        "11": {
+            "sort": "4",
+            "id": "11",
+            "category": "2",
+            "unlockLevel": "16",
+            "itemId": "20005"
+        },
+        "12": {
+            "sort": "6",
+            "id": "12",
+            "category": "2",
+            "unlockLevel": "106",
+            "itemId": "20006"
+        },
+        "13": {
+            "sort": "1",
+            "id": "13",
+            "category": "3",
+            "unlockLevel": "1",
+            "itemId": "30001"
+        },
+        "14": {
+            "sort": "3",
+            "id": "14",
+            "category": "3",
+            "unlockLevel": "2",
+            "itemId": "30002"
+        },
+        "15": {
+            "sort": "2",
+            "id": "15",
+            "category": "3",
+            "unlockLevel": "1",
+            "itemId": "30003"
+        },
+        "16": {
+            "sort": "5",
+            "id": "16",
+            "category": "3",
+            "unlockLevel": "24",
+            "itemId": "30004"
+        },
+        "17": {
+            "sort": "6",
+            "id": "17",
+            "category": "3",
+            "unlockLevel": "33",
+            "itemId": "30005"
+        },
+        "18": {
+            "sort": "4",
+            "id": "18",
+            "category": "3",
+            "unlockLevel": "1",
+            "itemId": "30006"
+        },
+        "19": {
+            "sort": "8",
+            "id": "19",
+            "category": "3",
+            "unlockLevel": "53",
+            "itemId": "30007"
+        },
+        "20": {
+            "sort": "13",
+            "id": "20",
+            "category": "3",
+            "unlockLevel": "91",
+            "itemId": "30008"
+        },
+        "21": {
+            "sort": "10",
+            "id": "21",
+            "category": "3",
+            "unlockLevel": "69",
+            "itemId": "30009"
+        },
+        "22": {
+            "sort": "14",
+            "id": "22",
+            "category": "3",
+            "unlockLevel": "112",
+            "itemId": "30010"
+        },
+        "23": {
+            "sort": "9",
+            "id": "23",
+            "category": "3",
+            "unlockLevel": "61",
+            "itemId": "30011"
+        },
+        "24": {
+            "sort": "11",
+            "id": "24",
+            "category": "3",
+            "unlockLevel": "76",
+            "itemId": "30012"
+        },
+        "25": {
+            "sort": "12",
+            "id": "25",
+            "category": "3",
+            "unlockLevel": "81",
+            "itemId": "30013"
+        },
+        "26": {
+            "sort": "16",
+            "id": "26",
+            "category": "3",
+            "unlockLevel": "9999",
+            "itemId": "30014"
+        },
+        "27": {
+            "sort": "1",
+            "id": "27",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40001"
+        },
+        "28": {
+            "sort": "2",
+            "id": "28",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40002"
+        },
+        "29": {
+            "sort": "3",
+            "id": "29",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40003"
+        },
+        "30": {
+            "sort": "4",
+            "id": "30",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40004"
+        },
+        "31": {
+            "sort": "5",
+            "id": "31",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40005"
+        },
+        "32": {
+            "sort": "6",
+            "id": "32",
+            "category": "4",
+            "unlockLevel": "1",
+            "itemId": "40006"
+        },
+        "33": {
+            "sort": "7",
+            "id": "33",
+            "category": "3",
+            "unlockLevel": "46",
+            "itemId": "30015"
+        },
+        "34": {
+            "sort": "15",
+            "id": "34",
+            "category": "3",
+            "unlockLevel": "121",
+            "itemId": "30016"
+        },
+        "35": {
+            "sort": "16",
+            "id": "35",
+            "category": "3",
+            "unlockLevel": "151",
+            "itemId": "30017"
+        },
+        "36": {
+            "sort": "17",
+            "id": "36",
+            "category": "3",
+            "unlockLevel": "181",
+            "itemId": "30018"
+        },
+        "37": {
+            "id": "37",
+            "category": "3",
+            "itemId": "30019",
+            "sort": "18",
+            "unlockLevel": "211"
+        }
+    },
+    "invite_count_reward": {
+        "1": {
+            "count": "1",
+            "rewards": "10018:20,10004:1,2:10000,10006:1",
+            "id": "1"
+        },
+        "2": {
+            "count": "3",
+            "rewards": "10018:20,10011:1,10002:1,10005:1",
+            "id": "2"
+        },
+        "3": {
+            "count": "6",
+            "rewards": "10018:30,10004:2,2:20000,10001:1",
+            "id": "3"
+        },
+        "4": {
+            "count": "12",
+            "rewards": "10018:50,10009:1,10002:1,10011:2",
+            "id": "4"
+        },
+        "5": {
+            "count": "20",
+            "rewards": "10018:60,10004:2,2:50000,10006:2",
+            "id": "5"
+        }
+    },
+    "invite_reward": {
+        "1": { "condition": "1", "rewards": "14:30", "id": "1" },
+        "2": { "condition": "20", "rewards": "14:40", "id": "2" },
+        "3": { "condition": "45", "rewards": "14:40", "id": "3" },
+        "4": { "condition": "69", "rewards": "14:50", "id": "4" },
+        "5": { "condition": "100000", "rewards": "2:1", "id": "5" }
+    },
+    "level_area": {
+        "1": {
+            "star": "0",
+            "id": "40001",
+            "coolDown": "259200000",
+            "minLevel": "1",
+            "maxLevel": "30"
+        },
+        "2": {
+            "star": "15",
+            "id": "40002",
+            "newItems": "20004,30004",
+            "coolDown": "259200000",
+            "minLevel": "31",
+            "maxLevel": "45"
+        },
+        "3": {
+            "star": "16",
+            "id": "40003",
+            "newItems": "30015,30007",
+            "coolDown": "259200000",
+            "minLevel": "46",
+            "maxLevel": "60"
+        },
+        "4": {
+            "star": "16",
+            "id": "40004",
+            "newItems": "30005,30009",
+            "coolDown": "259200000",
+            "minLevel": "61",
+            "maxLevel": "75"
+        },
+        "5": {
+            "star": "16",
+            "id": "40005",
+            "newItems": "30012",
+            "coolDown": "259200000",
+            "minLevel": "76",
+            "maxLevel": "90"
+        },
+        "6": {
+            "star": "20",
+            "id": "40006",
+            "newItems": "30008,30013",
+            "coolDown": "259200000",
+            "minLevel": "91",
+            "maxLevel": "105"
+        },
+        "7": {
+            "star": "25",
+            "id": "40007",
+            "newItems": "20006,30010",
+            "coolDown": "259200000",
+            "minLevel": "106",
+            "maxLevel": "120"
+        },
+        "8": {
+            "star": "28",
+            "id": "40008",
+            "newItems": "30016",
+            "coolDown": "259200000",
+            "minLevel": "121",
+            "maxLevel": "135"
+        },
+        "9": {
+            "star": "28",
+            "id": "40009",
+            "newItems": "30016",
+            "coolDown": "259200000",
+            "minLevel": "136",
+            "maxLevel": "150"
+        },
+        "10": {
+            "star": "28",
+            "id": "40010",
+            "newItems": "30017",
+            "coolDown": "259200000",
+            "minLevel": "151",
+            "maxLevel": "165"
+        },
+        "11": {
+            "star": "30",
+            "id": "40011",
+            "newItems": "30016,30017",
+            "coolDown": "259200000",
+            "minLevel": "166",
+            "maxLevel": "180"
+        },
+        "12": {
+            "star": "30",
+            "id": "40012",
+            "newItems": "30018",
+            "coolDown": "259200000",
+            "minLevel": "181",
+            "maxLevel": "195"
+        },
+        "13": {
+            "star": "30",
+            "id": "40013",
+            "newItems": "30018",
+            "coolDown": "259200000",
+            "minLevel": "196",
+            "maxLevel": "210"
+        },
+        "14": {
+            "star": "30",
+            "id": "40014",
+            "newItems": "30019",
+            "coolDown": "259200000",
+            "minLevel": "211",
+            "maxLevel": "225"
+        },
+        "15": {
+            "star": "30",
+            "id": "40015",
+            "newItems": "30020",
+            "coolDown": "259200000",
+            "minLevel": "226",
+            "maxLevel": "240"
+        },
+        "16": {
+            "star": "30",
+            "id": "40016",
+            "newItems": "30021",
+            "coolDown": "259200000",
+            "minLevel": "241",
+            "maxLevel": "255"
+        },
+        "17": {
+            "star": "30",
+            "id": "40017",
+            "newItems": "30021",
+            "coolDown": "259200000",
+            "minLevel": "256",
+            "maxLevel": "270"
+        },
+        "18": {
+            "star": "30",
+            "id": "40018",
+            "newItems": "30021",
+            "coolDown": "259200000",
+            "minLevel": "271",
+            "maxLevel": "285"
+        },
+        "19": {
+            "star": "30",
+            "id": "40019",
+            "newItems": "30022",
+            "coolDown": "259200000",
+            "minLevel": "286",
+            "maxLevel": "300"
+        },
+        "20": {
+            "star": "32",
+            "id": "40020",
+            "newItems": "30022",
+            "coolDown": "259200000",
+            "minLevel": "301",
+            "maxLevel": "315"
+        },
+        "21": {
+            "id": "40021",
+            "coolDown": "259200000",
+            "maxLevel": "330",
+            "minLevel": "316",
+            "newItems": "30022",
+            "star": "32"
+        },
+        "22": {
+            "id": "40022",
+            "coolDown": "259200000",
+            "maxLevel": "345",
+            "minLevel": "331",
+            "newItems": "30023",
+            "star": "32"
+        },
+        "23": {
+            "id": "40023",
+            "coolDown": "259200000",
+            "maxLevel": "360",
+            "minLevel": "346",
+            "newItems": "30023",
+            "star": "32"
+        },
+        "24": {
+            "id": "40024",
+            "coolDown": "259200000",
+            "maxLevel": "375",
+            "minLevel": "361",
+            "newItems": "30024",
+            "star": "32"
+        },
+        "25": {
+            "id": "40025",
+            "coolDown": "259200000",
+            "maxLevel": "390",
+            "minLevel": "376",
+            "newItems": "30011",
+            "star": "32"
+        },
+        "26": {
+            "id": "40026",
+            "coolDown": "259200000",
+            "maxLevel": "405",
+            "minLevel": "391",
+            "newItems": "30011",
+            "star": "32"
+        },
+        "27": {
+            "id": "40027",
+            "coolDown": "259200000",
+            "maxLevel": "420",
+            "minLevel": "406",
+            "newItems": "30011",
+            "star": "32"
+        },
+        "28": {
+            "id": "40028",
+            "coolDown": "259200000",
+            "maxLevel": "435",
+            "minLevel": "421",
+            "newItems": "30025",
+            "star": "32"
+        },
+        "29": {
+            "id": "40029",
+            "coolDown": "259200000",
+            "maxLevel": "450",
+            "minLevel": "436",
+            "newItems": "30025",
+            "star": "32"
+        },
+        "30": {
+            "id": "40030",
+            "coolDown": "259200000",
+            "maxLevel": "465",
+            "minLevel": "451",
+            "newItems": "30026",
+            "star": "32"
+        },
+        "31": {
+            "id": "40031",
+            "coolDown": "259200000",
+            "maxLevel": "480",
+            "minLevel": "466",
+            "newItems": "30026",
+            "star": "32"
+        },
+        "32": {
+            "id": "40032",
+            "coolDown": "259200000",
+            "maxLevel": "495",
+            "minLevel": "481",
+            "newItems": "30026",
+            "star": "32"
+        },
+        "33": {
+            "id": "40033",
+            "coolDown": "259200000",
+            "maxLevel": "9999",
+            "minLevel": "496",
+            "newItems": "30026",
+            "star": "321"
+        },
+        "34": {
+            "id": "40034",
+            "coolDown": "259200000",
+            "maxLevel": "9999",
+            "minLevel": "511",
+            "newItems": "30027",
+            "star": "321"
+        },
+        "35": {
+            "id": "40035",
+            "coolDown": "259200000",
+            "maxLevel": "9999",
+            "minLevel": "526",
+            "newItems": "30027",
+            "star": "321"
+        },
+        "36": {
+            "id": "40036",
+            "coolDown": "259200000",
+            "maxLevel": "9999",
+            "minLevel": "541",
+            "newItems": "30028",
+            "star": "321"
+        },
+        "37": {
+            "id": "40037",
+            "maxLevel": "9999",
+            "minLevel": "556",
+            "star": "9999"
+        }
+    },
+    "level_reward": {
+        "1": { "levelId": 3, "guide": true },
+        "2": { "levelId": 8, "guide": true },
+        "3": { "levelId": 16, "guide": true },
+        "4": { "levelId": 29, "guide": true },
+        "5": { "levelId": 40, "guide": true }
+    },
+    "mark": {
+        "1": { "rewards": "2:1000", "id": "1" },
+        "2": { "rewards": "2:1100", "id": "2" },
+        "3": { "rewards": "10011:1,14:2,2:1200", "id": "3" },
+        "4": { "rewards": "2:1300", "id": "4" },
+        "5": { "rewards": "2:1400", "id": "5", "goodsId": "76" },
+        "6": { "rewards": "2:1500", "id": "6" },
+        "7": { "rewards": "10006:1,10018:2,14:2,2:1600", "id": "7" },
+        "8": { "rewards": "2:1700", "id": "8" },
+        "9": { "rewards": "2:1800", "id": "9" },
+        "10": { "rewards": "2:1900", "id": "10" },
+        "11": { "rewards": "10004:1,10018:3,14:2,2:2000", "id": "11" },
+        "12": { "rewards": "2:2100", "id": "12" },
+        "13": { "rewards": "2:2200", "id": "13" },
+        "14": { "rewards": "2:2300", "id": "14" },
+        "15": { "rewards": "10003:1,10001:1,10019:1,14:3,2:2400", "id": "15" },
+        "16": { "rewards": "2:2500", "id": "16" },
+        "17": { "rewards": "2:2600", "id": "17" },
+        "18": { "rewards": "2:2700", "id": "18", "goodsId": "77" },
+        "19": { "rewards": "2:2800", "id": "19" },
+        "20": { "rewards": "2:2900", "id": "20" },
+        "21": {
+            "rewards": "10002:1,10001:1,10018:3,10019:1,14:3,2:3000",
+            "id": "21"
+        },
+        "22": { "rewards": "2:3100", "id": "22" },
+        "23": { "rewards": "2:3200", "id": "23" },
+        "24": { "rewards": "2:3300", "id": "24" },
+        "25": { "rewards": "2:3400", "id": "25" },
+        "26": { "rewards": "2:3500", "id": "26" },
+        "27": { "rewards": "2:3600", "id": "27" },
+        "28": {
+            "rewards": "22:1,10004:1,10001:1,10018:5,10019:1,14:8,2:5000",
+            "id": "28"
+        }
+    },
+    "new_user_reward": {
+        "1": {
+            "begin": "2017-02-1115:00:00",
+            "id": "1",
+            "rewards": "22:1,10006:1,10004:1,10019:2,14:10",
+            "platform": "default",
+            "end": "2017-03-1523:59:59"
+        },
+        "2": {
+            "begin": "2017-02-1115:00:00",
+            "id": "2",
+            "rewards": "22:1,10006:1,10004:1,10019:2,14:20",
+            "platform": "vivo,huawei",
+            "end": "2017-03-1523:59:59"
+        }
+    },
+    "product": [
+        {
+            "show": "1",
+            "price": "6",
+            "productId": "com.happyelements.wanba.gold.cn.1",
+            "id": "1",
+            "cash": "60",
+            "goodsId": "43",
+            "extraCash": "2",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "18",
+            "productId": "com.happyelements.wanba.gold.cn.2",
+            "id": "2",
+            "cash": "180",
+            "goodsId": "44",
+            "extraCash": "8",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "30",
+            "productId": "com.happyelements.wanba.gold.cn.3",
+            "id": "3",
+            "cash": "300",
+            "goodsId": "45",
+            "extraCash": "40",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "198",
+            "productId": "com.happyelements.wanba.gold.cn.4",
+            "id": "4",
+            "cash": "1980",
+            "goodsId": "46",
+            "extraCash": "448",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "30",
+            "productId": "com.happyelements.wanba.package.suit.cn.1",
+            "id": "5",
+            "cash": "300",
+            "goodsId": "42",
+            "discount": "0",
+            "itemKey": "salePackage1",
+            "giftBagId": 12
+        },
+        {
+            "show": "1",
+            "price": "298",
+            "productId": "com.happyelements.wanba.gold.cn.5",
+            "id": "6",
+            "cash": "2980",
+            "goodsId": "51",
+            "extraCash": "688",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "1",
+            "productId": "com.happyelements.IOSClover.gift.cn.1",
+            "id": "7",
+            "cash": "0",
+            "goodsId": "53",
+            "discount": "0"
+        },
+        {
+            "show": "1",
+            "price": "6",
+            "productId": "com.happyelements.wanba.gold.cn.6",
+            "id": "8",
+            "cash": "60",
+            "goodsId": "129",
+            "extraCash": "60",
+            "discount": "0",
+            "firstPay": "1"
+        },
+        {
+            "show": "1",
+            "price": "18",
+            "productId": "com.happyelements.wanba.gold.cn.7",
+            "id": "9",
+            "cash": "180",
+            "goodsId": "130",
+            "extraCash": "180",
+            "discount": "0",
+            "firstPay": "1"
+        },
+        {
+            "show": "1",
+            "price": "30",
+            "productId": "com.happyelements.wanba.gold.cn.8",
+            "id": "10",
+            "cash": "300",
+            "goodsId": "131",
+            "extraCash": "300",
+            "discount": "0",
+            "firstPay": "1"
+        },
+        {
+            "show": "1",
+            "price": "198",
+            "productId": "com.happyelements.wanba.gold.cn.9",
+            "id": "11",
+            "cash": "1980",
+            "goodsId": "132",
+            "extraCash": "1980",
+            "discount": "0",
+            "firstPay": "1"
+        },
+        {
+            "show": "1",
+            "price": "298",
+            "productId": "com.happyelements.wanba.gold.cn.10",
+            "id": "12",
+            "cash": "2980",
+            "goodsId": "133",
+            "extraCash": "2980",
+            "discount": "0",
+            "firstPay": "1"
+        },
+        {
+            "show": "1",
+            "price": "30",
+            "productId": "com.happyelements.wanba.package.suit.cn.1",
+            "id": "13",
+            "cash": "300",
+            "goodsId": "42",
+            "discount": "0",
+            "firstPay": "1",
+            "itemKey": "salePackage1",
+            "giftBagId": 12
+        },
+        {
+            "id": "16",
+            "cash": "60",
+            "discount": "60",
+            "goodsId": "138",
+            "price": "6",
+            "productId": "com.happyelements.wanba.special.package.1",
+            "itemKey": "discountShop1"
+        },
+        {
+            "id": "17",
+            "cash": "60",
+            "discount": "60",
+            "goodsId": "139",
+            "price": "6",
+            "productId": "com.happyelements.wanba.special.package.2",
+            "itemKey": "discountShop2"
+        },
+        {
+            "id": "18",
+            "cash": "60",
+            "discount": "60",
+            "goodsId": "140",
+            "price": "6",
+            "productId": "com.happyelements.wanba.special.package.3",
+            "itemKey": "discountShop3"
+        },
+        {
+            "id": "19",
+            "cash": "60",
+            "discount": "60",
+            "goodsId": "141",
+            "price": "6",
+            "productId": "com.happyelements.wanba.special.package.4",
+            "itemKey": "discountShop4"
+        },
+        {
+            "id": "20",
+            "cash": "60",
+            "discount": "60",
+            "goodsId": "142",
+            "price": "6",
+            "productId": "com.happyelements.wanba.special.package.5",
+            "itemKey": "discountShop5"
+        },
+        {
+            "id": "21",
+            "cash": "120",
+            "discount": "120",
+            "goodsId": "143",
+            "price": "10",
+            "productId": "com.happyelements.wanba.special.package.6",
+            "itemKey": "discountShop6"
+        },
+        {
+            "id": "22",
+            "cash": "120",
+            "discount": "120",
+            "goodsId": "144",
+            "price": "12",
+            "productId": "com.happyelements.wanba.special.package.7",
+            "itemKey": "discountShop7"
+        },
+        {
+            "id": "23",
+            "cash": "120",
+            "discount": "120",
+            "goodsId": "145",
+            "price": "12",
+            "productId": "com.happyelements.wanba.special.package.8",
+            "itemKey": "discountShop8"
+        },
+        {
+            "id": "24",
+            "cash": "180",
+            "discount": "180",
+            "goodsId": "146",
+            "price": "18",
+            "productId": "com.happyelements.wanba.special.package.9",
+            "itemKey": "discountShop9"
+        },
+        {
+            "id": "25",
+            "cash": "180",
+            "discount": "180",
+            "goodsId": "147",
+            "price": "18",
+            "productId": "com.happyelements.wanba.special.package.10",
+            "itemKey": "discountShop10"
+        },
+        {
+            "id": "26",
+            "cash": "300",
+            "discount": "300",
+            "goodsId": "148",
+            "price": "30",
+            "productId": "com.happyelements.wanba.special.package.11",
+            "itemKey": "discountShop11"
+        },
+        {
+            "id": "27",
+            "cash": "300",
+            "discount": "300",
+            "goodsId": "149",
+            "price": "30",
+            "productId": "com.happyelements.wanba.special.package.12",
+            "itemKey": "discountShop12"
+        },
+        {
+            "id": "49",
+            "cash": "0",
+            "discount": "0",
+            "goodsId": "124",
+            "price": "1",
+            "productId": "com.happyelements.IOSClover.gametime.cn.1",
+            "show": "1"
+        },
+        {
+            "id": "50",
+            "cash": "0",
+            "discount": "0",
+            "goodsId": "126",
+            "price": "6",
+            "productId": "com.happyelements.IOSClover.gametime.cn.2",
+            "show": "1"
+        },
+        {
+            "id": "51",
+            "cash": "0",
+            "discount": "0",
+            "goodsId": "127",
+            "price": "12",
+            "productId": "com.happyelements.IOSClover.gametime.cn.3",
+            "show": "1"
+        },
+        {
+            "id": "100",
+            "cash": "30",
+            "discount": "0",
+            "goodsId": "5001",
+            "price": "3",
+            "productId": "com.happyelements.three.package.1",
+            "itemKey": "threePackage1"
+        },
+        {
+            "id": "101",
+            "cash": "30",
+            "discount": "0",
+            "goodsId": "5002",
+            "price": "3",
+            "productId": "com.happyelements.market.three.package.1",
+            "itemKey": "marketThreePackage1"
+        }
+    ],
+    "product_wechatgame": [
+        { "productId": "com.happyelements.wechatgame.gold.cn.1", "id": "1" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.2", "id": "2" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.3", "id": "3" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.4", "id": "4" },
+        {
+            "productId": "com.happyelements.wechatgame.package.suit.cn.1",
+            "id": "5"
+        },
+        { "productId": "com.happyelements.wechatgame.gold.cn.6", "id": "8" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.7", "id": "9" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.8", "id": "10" },
+        { "productId": "com.happyelements.wechatgame.gold.cn.9", "id": "11" },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.1",
+            "id": "16"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.2",
+            "id": "17"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.3",
+            "id": "18"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.4",
+            "id": "19"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.5",
+            "id": "20"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.6",
+            "id": "21"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.7",
+            "id": "22"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.8",
+            "id": "23"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.9",
+            "id": "24"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.10",
+            "id": "25"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.11",
+            "id": "26"
+        },
+        {
+            "productId": "com.happyelements.wechatgame.special.package.12",
+            "id": "27"
+        },
+        { "productId": "com.happyelements.three.package.1", "id": "100" },
+        {
+            "productId": "com.happyelements.market.three.package.1",
+            "id": "101"
+        },
+        {
+            "id": "32",
+            "cash": "10",
+            "discount": "0",
+            "extraCash": "0",
+            "goodsId": "5003",
+            "price": "1",
+            "productId": "com.happyelements.gold.match.chance.1",
+            "show": "1"
+        },
+        {
+            "id": "33",
+            "cash": "30",
+            "discount": "0",
+            "extraCash": "0",
+            "goodsId": "5004",
+            "price": "3",
+            "productId": "com.happyelements.gold.match.chance.2",
+            "show": "1"
+        }
+    ],
+    "prop": {
+        "1": {
+            "unlock": "1",
+            "price": "19",
+            "id": "10001",
+            "type": "true",
+            "propMode": "2"
+        },
+        "2": {
+            "unlock": "1",
+            "price": "88",
+            "id": "10002",
+            "type": "true",
+            "propMode": "2"
+        },
+        "3": {
+            "unlock": "1",
+            "price": "79",
+            "id": "10003",
+            "type": "true",
+            "propMode": "2"
+        },
+        "4": {
+            "unlock": "1",
+            "price": "69",
+            "value": "5",
+            "id": "10004",
+            "type": "true",
+            "propMode": "2",
+            "reward": "1"
+        },
+        "5": {
+            "unlock": "1",
+            "price": "99",
+            "id": "10005",
+            "type": "true",
+            "propMode": "2"
+        },
+        "6": {
+            "unlock": "1",
+            "price": "48",
+            "id": "10006",
+            "type": "true",
+            "propMode": "2"
+        },
+        "7": {
+            "unlock": "1",
+            "price": "69",
+            "value": "5",
+            "id": "10007",
+            "type": "true",
+            "propMode": "2",
+            "reward": "1"
+        },
+        "8": {
+            "unlock": "60",
+            "price": "69",
+            "id": "10008",
+            "type": "true",
+            "propMode": "1"
+        },
+        "9": {
+            "unlock": "46",
+            "price": "30000",
+            "id": "10009",
+            "type": "true",
+            "propMode": "1"
+        },
+        "10": {
+            "unlock": "9999",
+            "price": "10",
+            "id": "10010",
+            "type": "true",
+            "propMode": "1"
+        },
+        "11": {
+            "unlock": "20",
+            "price": "8000",
+            "value": "3",
+            "id": "10011",
+            "type": "true",
+            "propMode": "1",
+            "reward": "1"
+        },
+        "12": {
+            "expireTime": "86400000",
+            "price": "19",
+            "id": "10012",
+            "type": "true",
+            "unlock": "1",
+            "propMode": "2"
+        },
+        "13": {
+            "expireTime": "86400000",
+            "price": "88",
+            "id": "10013",
+            "type": "true",
+            "unlock": "1",
+            "propMode": "2"
+        },
+        "14": {
+            "expireTime": "86400000",
+            "price": "79",
+            "id": "10014",
+            "type": "true",
+            "unlock": "1",
+            "propMode": "2"
+        },
+        "15": {
+            "expireTime": "86400000",
+            "price": "69",
+            "id": "10015",
+            "propMode": "2",
+            "unlock": "1",
+            "value": "5",
+            "type": "true",
+            "reward": "1"
+        },
+        "16": {
+            "expireTime": "86400000",
+            "price": "99",
+            "id": "10016",
+            "type": "true",
+            "unlock": "1",
+            "propMode": "2"
+        },
+        "17": {
+            "expireTime": "86400000",
+            "price": "48",
+            "id": "10017",
+            "type": "true",
+            "unlock": "1",
+            "propMode": "2"
+        },
+        "18": {
+            "unlock": "1",
+            "price": "7",
+            "value": "1",
+            "id": "10018",
+            "type": "true",
+            "useable": "true",
+            "propMode": "3",
+            "reward": "3"
+        },
+        "19": {
+            "unlock": "1",
+            "price": "42",
+            "value": "5",
+            "id": "10019",
+            "type": "true",
+            "useable": "true",
+            "propMode": "3",
+            "reward": "3"
+        },
+        "20": {
+            "unlock": "1",
+            "price": "210",
+            "value": "30",
+            "id": "10020",
+            "type": "true",
+            "useable": "true",
+            "propMode": "3",
+            "reward": "3"
+        },
+        "21": {
+            "unlock": "1",
+            "price": "300",
+            "value": "60",
+            "id": "10021",
+            "type": "true",
+            "useable": "true",
+            "propMode": "3",
+            "reward": "7"
+        },
+        "22": {
+            "unlock": "1",
+            "price": "9",
+            "id": "10022",
+            "type": "false",
+            "propMode": "4"
+        },
+        "23": {
+            "unlock": "1",
+            "price": "44",
+            "id": "10023",
+            "type": "false",
+            "propMode": "4"
+        },
+        "24": {
+            "unlock": "1",
+            "price": "39",
+            "id": "10024",
+            "type": "false",
+            "propMode": "4"
+        },
+        "25": {
+            "unlock": "1",
+            "price": "49",
+            "id": "10025",
+            "type": "false",
+            "propMode": "4"
+        },
+        "26": {
+            "unlock": "1",
+            "price": "24",
+            "id": "10026",
+            "type": "false",
+            "propMode": "4"
+        },
+        "27": {
+            "unlock": "1",
+            "price": "5",
+            "id": "10027",
+            "type": "true",
+            "propMode": "2",
+            "reward": "10"
+        },
+        "28": {
+            "unlock": "1",
+            "price": "999",
+            "id": "20001",
+            "type": "false",
+            "rewardList": "10018:1,2:100",
+            "propMode": "5"
+        },
+        "29": {
+            "unlock": "1",
+            "price": "999",
+            "id": "20002",
+            "type": "false",
+            "rewardList": "10018:1,2:200",
+            "propMode": "5"
+        },
+        "30": {
+            "unlock": "1",
+            "price": "999",
+            "id": "20003",
+            "type": "false",
+            "rewardList": "10018:1,2:300",
+            "propMode": "5"
+        },
+        "31": {
+            "unlock": "1",
+            "price": "999",
+            "id": "20004",
+            "type": "false",
+            "rewardList": "10018:1,2:400",
+            "propMode": "5"
+        },
+        "32": {
+            "unlock": "1",
+            "price": "999",
+            "id": "20005",
+            "type": "false",
+            "rewardList": "10018:1,2:500",
+            "propMode": "5"
+        },
+        "33": {
+            "id": "10028",
+            "price": "999",
+            "propMode": "6",
+            "type": "false",
+            "unlock": "1"
+        },
+        "34": {
+            "id": "10029",
+            "price": "999",
+            "propMode": "6",
+            "type": "false",
+            "unlock": "1"
+        },
+        "35": {
+            "id": "10030",
+            "price": "999",
+            "propMode": "6",
+            "type": "false",
+            "unlock": "1"
+        }
+    },
+    "prop_max_use": {
+        "1": {
+            "levelIdstart": "1",
+            "levelIdend": "9999",
+            "maxUsetime": "10001:5,10002:1,10003:5,10005:1,10006:5",
+            "id": "1"
+        },
+        "2": {
+            "levelIdstart": "10000",
+            "levelIdend": "19999",
+            "maxUsetime": "10001:5,10002:1,10003:5,10005:1,10006:5",
+            "id": "2"
+        }
+    },
+    "rank_rewards": {
+        "1": {
+            "id": "1",
+            "range": "2-2",
+            "rewards": "14:188,2:50000",
+            "type": "3"
+        },
+        "2": {
+            "id": "2",
+            "range": "3-3",
+            "rewards": "14:100,2:40000",
+            "type": "3"
+        },
+        "3": {
+            "id": "3",
+            "range": "4-50",
+            "rewards": "10013:1,2:30000",
+            "type": "3"
+        },
+        "4": {
+            "id": "4",
+            "range": "51-100",
+            "rewards": "10017:1,2:20000",
+            "type": "3"
+        },
+        "5": { "id": "5", "range": "1-1", "rewards": "10015:1", "type": "2" },
+        "6": { "id": "6", "range": "2-50", "rewards": "10019:1", "type": "2" },
+        "7": {
+            "id": "7",
+            "range": "51-200",
+            "rewards": "10012:1",
+            "type": "2"
+        },
+        "8": {
+            "id": "8",
+            "range": "201-500",
+            "rewards": "10018:2",
+            "type": "2"
+        },
+        "9": {
+            "id": "9",
+            "range": "501-1000",
+            "rewards": "2:10000",
+            "type": "2"
+        },
+        "10": { "id": "10", "range": "1-1", "rewards": "", "type": "3" },
+        "11": {
+            "id": "11",
+            "range": "1001-1500",
+            "rewards": "2:8000",
+            "type": "2"
+        },
+        "12": {
+            "id": "12",
+            "range": "1501-2000",
+            "rewards": "2:6000",
+            "type": "2"
+        },
+        "13": {
+            "id": "12",
+            "range": "2001-2500",
+            "rewards": "2:4000",
+            "type": "2"
+        },
+        "14": {
+            "id": "14",
+            "range": "2501-3000",
+            "rewards": "2:2000",
+            "type": "2"
+        },
+        "15": {
+            "id": "15",
+            "range": "3001-4000",
+            "rewards": "2:1000",
+            "type": "2"
+        }
+    },
+    "weekly_match": {
+        "1": { "1": "89", "key": "time_buy_coins" },
+        "2": { "1": "0.2", "key": "passLevel_prop_chance" },
+        "3": {
+            "1": "10022:30,10023:15,10024:30,10025:10,10026:15",
+            "key": "prop_reward"
+        },
+        "4": { "1": "1", "key": "prop_reward_max_num" },
+        "5": { "1": "2", "key": "prop_reward_interval_min" },
+        "6": { "1": "3", "key": "prop_reward_interval_max" },
+        "7": { "1": "0", "key": "passLevel_plus_chance" },
+        "8": { "1": "9999", "key": "plus_cycle" },
+        "9": { "1": "0.1", "key": "plus_value" },
+        "10": { "1": "130,250,350", "key": "skill_energy" }
+    },
+    "weekly_match_rank_rewards": {
+        "1": {
+            "id": "1",
+            "category": "1",
+            "range": "0-4",
+            "rank_rewards": "2:1000"
+        },
+        "2": {
+            "id": "2",
+            "category": "1",
+            "range": "5-9",
+            "rank_rewards": "10011:1"
+        },
+        "3": {
+            "id": "3",
+            "category": "1",
+            "range": "10-14",
+            "rank_rewards": "10009:1"
+        },
+        "4": {
+            "id": "4",
+            "category": "1",
+            "range": "15-29",
+            "rank_rewards": "10001:1"
+        },
+        "5": {
+            "id": "5",
+            "category": "1",
+            "range": "30-9999",
+            "rank_rewards": "10003:1"
+        },
+        "6": {
+            "id": "6",
+            "category": "2",
+            "range": "1-1",
+            "rank_rewards": "10004:1,2:30000"
+        },
+        "7": {
+            "id": "7",
+            "category": "2",
+            "range": "2-2",
+            "rank_rewards": "10008:1,2:20000"
+        },
+        "8": {
+            "id": "8",
+            "category": "2",
+            "range": "3-3",
+            "rank_rewards": "10003:1,2:10000"
+        },
+        "9": {
+            "id": "9",
+            "category": "2",
+            "range": "4-50",
+            "rank_rewards": "10009:1,2:5000"
+        },
+        "10": {
+            "id": "10",
+            "category": "2",
+            "range": "51-500",
+            "rank_rewards": "10011:1,2:3000"
+        }
+    },
+    "weekly_match_rewards": {
+        "1": { "id": "1", "conditions": "350", "rewards": "10019:1,2:3000" },
+        "2": { "id": "2", "conditions": "800", "rewards": "10012:1,2:5000" },
+        "3": {
+            "id": "3",
+            "conditions": "1600",
+            "rewards": "10014:1,10011:1,2:5000"
+        },
+        "4": {
+            "id": "4",
+            "conditions": "2300",
+            "rewards": "10017:1,10019:1,2:10000"
+        },
+        "5": {
+            "id": "5",
+            "conditions": "3400",
+            "rewards": "10013:1,10009:1,10011:1,10019:1,2:20000"
+        }
+    }
+}

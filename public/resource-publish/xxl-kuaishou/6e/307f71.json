@@ -1,0 +1,46 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 3,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        92773324,
+                        [
+                            { "P": [0.9, 0.9], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 2, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_weekly/blue_light_f.png",
+                            "Plist": "cocos/clover_animation_weekly@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9, 0.9, 25.6, 25.6, 0, 0, 0.4766, 0.5234
+                        ],
+                        "MG": [25.6, 0, 0, 25.6],
+                        "Tag": 92773323,
+                        "@": 92773324,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

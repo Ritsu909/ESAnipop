@@ -1,0 +1,82 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "MG": [70.4, 0, 0, 70.4],
+                        "Tag": 81283612,
+                        "@": 81283613,
+                        "Alpha": 255,
+                        "Name": "hippo343434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            70, -71, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3318, -0.5035, 0.3336, 0.4993],
+                        "MG": [184, 113.6, 112, 182.4],
+                        "Tag": 81283610,
+                        "@": 81283611,
+                        "Alpha": 255,
+                        "Name": "hippo343434_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [1, -70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.0047, -0.4965, 0.3336, 0.5106],
+                        "MG": [184, 112, 1.6, 72],
+                        "Tag": 81283608,
+                        "@": 81283609,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [141, -70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.6682, -0.4965, 0.3336, 0.5106],
+                        "MG": [184, 112, 225.6, 296],
+                        "Tag": 81283608,
+                        "@": 81283609,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 211, "Y": 141 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 301.7472, 72.5472, 0, 0, 0.002, 0.9979
+                        ],
+                        "MG": [48, 0, 0, 51.2],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 84744246,
+                        "@": 84744247,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [49, -14, 1, 1, 206, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 153, "B": 153 },
+                        "PrePos": [0.1639, -0.1972, 0.689, 0.6056],
+                        "MG": [14, 14, 49, 44],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "PlaceHolderText": "",
+                        "IsCustomSize": true,
+                        "LabelText": "请输入验证码",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84744244,
+                        "@": 84744245,
+                        "Name": "txt",
+                        "ctype": "TextFieldObjectData"
+                    }
+                ],
+                "Size": { "X": 299, "Y": 71 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,40 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [181, -9, 1, 1, 199, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 27, "G": 126, "B": 145 },
+                        "PrePos": [0.9095, -0.1636, 1, 1],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [-9, 9, 181, -181],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请有奖",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746675,
+                        "@": 84746676,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 199, "Y": 55 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

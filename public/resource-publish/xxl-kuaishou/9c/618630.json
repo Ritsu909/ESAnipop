@@ -1,0 +1,192 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50055,
+                        [
+                            { "P": [201.95, -58.95], "I": 0 },
+                            { "P": [225.1, 6.85], "I": 12 },
+                            { "P": [248.9, 17.75], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50055,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.6891, 0.6891], "I": 12 },
+                            { "P": [0.6891, 0.6891], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50055,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 25, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50057,
+                        [
+                            { "P": [192.4, -74.2], "I": 0 },
+                            { "P": [233.1, -27.8], "I": 12 },
+                            { "P": [271.25, -23.2], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50057,
+                        [
+                            { "P": [0.6555, 0.6555], "I": 0 },
+                            { "P": [0.6555, 0.6555], "I": 12 },
+                            { "P": [0.3277, 0.3277], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50057,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 25, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50059,
+                        [
+                            { "P": [54.8, -74.25], "I": 0 },
+                            { "P": [10.4, -37.45], "I": 12 },
+                            { "P": [-19.15, -22.2], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50059,
+                        [
+                            { "P": [0.6134, 0.6134], "I": 0 },
+                            { "P": [0.6134, 0.6134], "I": 12 },
+                            { "P": [0.3067, 0.3067], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50059,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 25, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50061,
+                        [
+                            { "P": [66.15, -55.7], "I": 0 },
+                            { "P": [36.95, -6.6], "I": 12 },
+                            { "P": [-1, 21.3], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50061,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.9, 0.9], "I": 12 },
+                            { "P": [0.5, 0.5], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50061,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 25, "I": 24, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/huihui.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [201, -58, 1, 1, 14.4, 12.8, 0, 0, 0.5486, 0.5],
+                        "MG": [105.6, 92.8, 321.6, 336],
+                        "Tag": 50054,
+                        "@": 50055,
+                        "Alpha": 255,
+                        "Name": "huihui_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/huihui.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            192, -74, 0.6555, 0.6555, 14.4, 12.8, 0, 0, 0.5486,
+                            0.5
+                        ],
+                        "MG": [131.2, 118.4, 307.2, 321.6],
+                        "Tag": 50056,
+                        "@": 50057,
+                        "Alpha": 255,
+                        "Name": "huihui_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/huihui.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            54, -74, 0.6134, 0.6134, 14.4, 12.8, 0, 0, 0.5486,
+                            0.5
+                        ],
+                        "MG": [131.2, 118.4, 86.4, 100.8],
+                        "Tag": 50058,
+                        "@": 50059,
+                        "Alpha": 255,
+                        "Name": "huihui_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/huihui.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [66, -55, 1, 1, 14.4, 12.8, 0, 0, 0.5486, 0.5],
+                        "MG": [100.8, 88, 105.6, 120],
+                        "Tag": 50060,
+                        "@": 50061,
+                        "Alpha": 255,
+                        "Name": "huihui_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

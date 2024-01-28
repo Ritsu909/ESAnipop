@@ -1,0 +1,373 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/background.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 960, 1280, 0, 0, 0.5001, 0.4999],
+                        "MG": [1280, 0, 0, 960],
+                        "Tag": 87667156,
+                        "@": 87667157,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -284, -571, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.2958, -0.4461, 0.0117, 0.0087],
+                        "MG": [924.8, 913.6, -454.4, -443.2],
+                        "Tag": 87667154,
+                        "@": 87667155,
+                        "Alpha": 255,
+                        "Name": "level_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -160, -573, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.1667, -0.4477, 0.0117, 0.0087],
+                        "MG": [928, 916.8, -256, -244.8],
+                        "Tag": 87667152,
+                        "@": 87667153,
+                        "Alpha": 255,
+                        "Name": "level_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -42, -569, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.0438, -0.4445, 0.0117, 0.0087],
+                        "MG": [921.6, 910.4, -67.2, -56],
+                        "Tag": 87667150,
+                        "@": 87667151,
+                        "Alpha": 255,
+                        "Name": "level_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            65, -553, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.0677, -0.432, 0.0117, 0.0087],
+                        "MG": [896, 884.8, 104, 115.2],
+                        "Tag": 87667148,
+                        "@": 87667149,
+                        "Alpha": 255,
+                        "Name": "level_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            171, -515, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.1781, -0.4023, 0.0117, 0.0087],
+                        "MG": [835.2, 824, 273.6, 284.8],
+                        "Tag": 87667146,
+                        "@": 87667147,
+                        "Alpha": 255,
+                        "Name": "level_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            261, -459, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.2719, -0.3586, 0.0117, 0.0087],
+                        "MG": [745.6, 734.4, 417.6, 428.8],
+                        "Tag": 87667144,
+                        "@": 87667145,
+                        "Alpha": 255,
+                        "Name": "level_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            319, -375, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.3323, -0.293, 0.0117, 0.0087],
+                        "MG": [611.2, 600, 510.4, 521.6],
+                        "Tag": 87667142,
+                        "@": 87667143,
+                        "Alpha": 255,
+                        "Name": "level_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            297, -295, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.3094, -0.2305, 0.0117, 0.0087],
+                        "MG": [483.2, 472, 475.2, 486.4],
+                        "Tag": 87667140,
+                        "@": 87667141,
+                        "Alpha": 255,
+                        "Name": "level_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            243, -235, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.2531, -0.1836, 0.0117, 0.0087],
+                        "MG": [387.2, 376, 388.8, 400],
+                        "Tag": 87667138,
+                        "@": 87667139,
+                        "Alpha": 255,
+                        "Name": "level_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            153, -189, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.1594, -0.1477, 0.0117, 0.0087],
+                        "MG": [313.6, 302.4, 244.8, 256],
+                        "Tag": 87667136,
+                        "@": 87667137,
+                        "Alpha": 255,
+                        "Name": "level_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            55, -155, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.0573, -0.1211, 0.0117, 0.0087],
+                        "MG": [259.2, 248, 88, 99.2],
+                        "Tag": 87667134,
+                        "@": 87667135,
+                        "Alpha": 255,
+                        "Name": "level_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -28, -123, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.0292, -0.0961, 0.0117, 0.0087],
+                        "MG": [208, 196.8, -44.8, -33.6],
+                        "Tag": 87667132,
+                        "@": 87667133,
+                        "Alpha": 255,
+                        "Name": "level_12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -102, -77, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.1062, -0.0602, 0.0117, 0.0087],
+                        "MG": [134.4, 123.2, -163.2, -152],
+                        "Tag": 87667130,
+                        "@": 87667131,
+                        "Alpha": 255,
+                        "Name": "level_13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -134, -9, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.1396, -0.007, 0.0117, 0.0087],
+                        "MG": [25.6, 14.4, -214.4, -203.2],
+                        "Tag": 87667128,
+                        "@": 87667129,
+                        "Alpha": 255,
+                        "Name": "level_14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -82, 52, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [-0.0854, 0.0406, 0.0117, 0.0087],
+                        "MG": [-72, -83.2, -131.2, -120.0],
+                        "Tag": 87667126,
+                        "@": 87667127,
+                        "Alpha": 255,
+                        "Name": "level_15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [-4, 86, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911],
+                        "PrePos": [-0.0042, 0.0672, 0.0117, 0.0087],
+                        "MG": [-126.4, -137.6, -6.4, 4.8],
+                        "Tag": 87667124,
+                        "@": 87667125,
+                        "Alpha": 255,
+                        "Name": "level_16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            85, 112, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.0885, 0.0875, 0.0117, 0.0087],
+                        "MG": [-168, -179.2, 136, 147.2],
+                        "Tag": 87667122,
+                        "@": 87667123,
+                        "Alpha": 255,
+                        "Name": "level_17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            173, 150, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.1802, 0.1172, 0.0117, 0.0087],
+                        "MG": [-228.8, -240, 276.8, 288],
+                        "Tag": 87667120,
+                        "@": 87667121,
+                        "Alpha": 255,
+                        "Name": "level_18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            227, 210, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.2365, 0.1641, 0.0117, 0.0087],
+                        "MG": [-324.8, -336, 363.2, 374.4],
+                        "Tag": 87667118,
+                        "@": 87667119,
+                        "Alpha": 255,
+                        "Name": "level_19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/level_place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            211, 274, 1, 1, 11.2, 11.2, 0, 0, 0.0089, 0.9911
+                        ],
+                        "PrePos": [0.2198, 0.2141, 0.0117, 0.0087],
+                        "MG": [-427.2, -438.4, 337.6, 348.8],
+                        "Tag": 87667116,
+                        "@": 87667117,
+                        "Alpha": 255,
+                        "Name": "level_20",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 960, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

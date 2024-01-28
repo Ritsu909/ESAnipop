@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            103, 36, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [0.2934, 0.4932, 0.2234, 1.074],
+                        "MG": [20.8, -57.6, 164.8, 243.2],
+                        "Tag": 88333314,
+                        "@": 88333315,
+                        "Alpha": 255,
+                        "Name": "snowba",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 36, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [-0.4986, 0.4932, 0.2234, 1.074],
+                        "MG": [20.8, -57.6, -280, -201.6],
+                        "Tag": 88333312,
+                        "@": 88333313,
+                        "Alpha": 255,
+                        "Name": "snowba1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 351, "Y": 73 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,109 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -127, 46, 1, 1, 277.76, 120, 0, 0, 0.0134, 0.9992
+                        ],
+                        "PrePos": [-0.4585, 0.3833, 0.7162, 1],
+                        "MG": [46.4, -73.6, -203.2, -4.8],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 28249809,
+                        "@": 28249810,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -127, 45, 1, 1, 273.28, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4585, 0.375, 0.7047, 1],
+                        "MG": [48, -72, -203.2, -8],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 28249807,
+                        "@": 28249808,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -127, 46, 1, 1, 273.2605, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4585, 0.3833, 0.7047, 1],
+                        "MG": [46.4, -73.6, -203.2, -8],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 28249805,
+                        "@": 28249806,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-54, 17, 1, 1, 181, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1949, 0.1417, 0.6534, 0.4583],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [82, -17, -54, 150],
+                        "IsCustomSize": true,
+                        "LabelText": "重玩本关",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28249803,
+                        "@": 28249804,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/restart_icon.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -77, -1, 0.8, 0.8, 56, 64, 0, 0, 0.5116, 0.5031
+                        ],
+                        "PrePos": [-0.278, -0.0083, 0.2022, 0.5333],
+                        "MG": [65.6, 1.6, -123.2, -67.2],
+                        "Tag": 28249801,
+                        "@": 28249802,
+                        "Alpha": 255,
+                        "Name": "restartIcon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 277, "Y": 120 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,66 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star_bg.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 150.4, 150.4, 0, 0, 0.5, 0.5],
+                        "MG": [150.4, 150.4],
+                        "Tag": 3316,
+                        "@": 3317,
+                        "Name": "star_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_effect@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [413, 415],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3380,
+                        "@": 3381,
+                        "Name": "effect",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_star_anim@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [413, 415],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3386,
+                        "@": 3387,
+                        "Name": "star_anim",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 415, "Y": 413 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

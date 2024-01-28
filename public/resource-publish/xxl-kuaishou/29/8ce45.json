@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_prompt.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [32, -32, 1, 1, 64, 64, 0, 0, 0.5016, 0.4984],
+                        "PrePos": [0.32, -0.5079, 0.64, 1.0159],
+                        "MG": [115.2, 51.2, 51.2, 115.2],
+                        "Scale9": [0, 0, 0, 0],
+                        "Tag": 84759730,
+                        "@": 84759731,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-17, -11, 1, 1, 100, 47, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.17, -0.1746, 1, 0.746],
+                        "MG": [5, 11, -17, 17],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "99",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84759728,
+                        "@": 84759729,
+                        "Name": "num",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 63 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

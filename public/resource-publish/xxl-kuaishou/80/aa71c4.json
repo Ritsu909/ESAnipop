@@ -1,0 +1,754 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 247,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        84994982,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 246,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994980,
+                        [
+                            { "P": [140.2, -209.95], "I": 0, "T": 0 },
+                            {
+                                "P": [140.2, -209.95],
+                                "I": 113,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [157.7, -227.45], "I": 122, "T": 0 },
+                            { "P": [157.7, -227.45], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84994980,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 113,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.5, 0.5], "I": 122, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994980,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 113 },
+                            { "V": 0, "I": 122, "T": 0 },
+                            { "V": 0, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994978,
+                        [
+                            { "P": [140.2, -69.15], "I": 0, "T": 0 },
+                            {
+                                "P": [140.2, -69.15],
+                                "I": 113,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [157.7, -89.15], "I": 122, "T": 0 },
+                            { "P": [157.7, -89.15], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84994978,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 113,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.5, 0.5], "I": 122, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994978,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 113 },
+                            { "V": 0, "I": 122, "T": 0 },
+                            { "V": 0, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994976,
+                        [
+                            { "P": [209.7, 71.75], "I": 0, "T": 0 },
+                            {
+                                "P": [209.7, 71.75],
+                                "I": 124,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [209.7, -6.8], "I": 131 },
+                            { "P": [209.7, 0.2], "I": 136, "T": 0 },
+                            { "P": [209.7, 0.2], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994976,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 124 },
+                            { "V": 255, "I": 131 },
+                            { "V": 255, "I": 136, "T": 0 },
+                            { "V": 255, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994974,
+                        [
+                            { "P": [210.05, 0], "I": 0, "T": 0 },
+                            {
+                                "P": [210.05, 0],
+                                "I": 123,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [210.05, -76.55], "I": 130 },
+                            { "P": [210.05, -70.3], "I": 135, "T": 0 },
+                            { "P": [210.05, -70.3], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994972,
+                        [
+                            { "P": [210.35, -68.75], "I": 0, "T": 0 },
+                            {
+                                "P": [210.35, -68.75],
+                                "I": 122,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [210.35, -144.75], "I": 129 },
+                            { "P": [210.35, -140.25], "I": 134, "T": 0 },
+                            { "P": [210.35, -140.25], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84994970,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 246,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994970,
+                        [
+                            { "P": [-0.15, -70], "I": 0, "T": 0 },
+                            { "P": [-0.15, -70], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994968,
+                        [
+                            { "P": [210.3, -138.75], "I": 0, "T": 0 },
+                            { "P": [210.3, -138.75], "I": 121 },
+                            { "P": [214.2, -147.25], "I": 125 },
+                            { "P": [140.35, -216.3], "I": 129 },
+                            { "P": [140.35, -210.3], "I": 134, "T": 0 },
+                            { "P": [140.35, -210.3], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84994968,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 121 },
+                            { "P": [37.72, 37.72], "I": 125 },
+                            { "P": [0, 0], "I": 129 },
+                            { "P": [0, 0], "I": 134, "T": 0 },
+                            { "P": [0, 0], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994966,
+                        [
+                            { "P": [70.15, 0.6], "I": 0, "T": 0 },
+                            {
+                                "P": [70.15, 0.6],
+                                "I": 99,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [70.15, -70.4], "I": 111, "T": 0 },
+                            { "P": [70.15, -70.4], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994964,
+                        [
+                            { "P": [70.3, -70.45], "I": 0, "T": 0 },
+                            {
+                                "P": [70.3, -70.45],
+                                "I": 99,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [70.3, 0.55], "I": 111, "T": 0 },
+                            {
+                                "P": [70.3, 0.55],
+                                "I": 112,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [87.8, -16.45], "I": 121, "T": 0 },
+                            { "P": [87.8, -16.45], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84994964,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 99 },
+                            { "P": [1, 1], "I": 111, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 112,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.5, 0.5], "I": 121, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994964,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 99 },
+                            { "V": 255, "I": 111, "T": 0 },
+                            { "V": 255, "I": 112 },
+                            { "V": 0, "I": 121, "T": 0 },
+                            { "V": 0, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994962,
+                        [
+                            { "P": [0.3, 0.25], "I": 0, "T": 0 },
+                            {
+                                "P": [0.3, 0.25],
+                                "I": 112,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [17.8, -16.25], "I": 121, "T": 0 },
+                            { "P": [17.8, -16.25], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84994962,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 112,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.5, 0.5], "I": 121, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994962,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 112 },
+                            { "V": 0, "I": 121, "T": 0 },
+                            { "V": 0, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84994960,
+                        [
+                            { "P": [0.7, 0.7], "I": 0, "T": 0 },
+                            {
+                                "P": [0.7, 0.7],
+                                "I": 112,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.35, 0.35], "I": 121, "T": 0 },
+                            { "P": [0.35, 0.35], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994960,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 112 },
+                            { "V": 0, "I": 121, "T": 0 },
+                            { "V": 0, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994954,
+                        [
+                            { "P": [-0.2, 71], "I": 0, "T": 0 },
+                            {
+                                "P": [-0.2, 71],
+                                "I": 126,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-0.2, -7], "I": 133 },
+                            { "P": [-0.2, 0], "I": 138, "T": 0 },
+                            { "P": [-0.2, 0], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994954,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 126 },
+                            { "V": 255, "I": 133 },
+                            { "V": 255, "I": 138, "T": 0 },
+                            { "V": 255, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994952,
+                        [
+                            { "P": [70.05, 71.85], "I": 0, "T": 0 },
+                            {
+                                "P": [70.05, 71.85],
+                                "I": 127,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [70.05, -6.65], "I": 134 },
+                            { "P": [70.05, -0.15], "I": 139, "T": 0 },
+                            { "P": [70.05, -0.15], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994952,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 127 },
+                            { "V": 255, "I": 134 },
+                            { "V": 255, "I": 139, "T": 0 },
+                            { "V": 255, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994950,
+                        [
+                            { "P": [141.55, 72.15], "I": 0, "T": 0 },
+                            {
+                                "P": [141.55, 72.15],
+                                "I": 125,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [139.55, -75.35], "I": 132 },
+                            { "P": [139.55, -69.85], "I": 137, "T": 0 },
+                            { "P": [139.55, -69.85], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994950,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 125 },
+                            { "V": 255, "I": 132 },
+                            { "V": 255, "I": 137, "T": 0 },
+                            { "V": 255, "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84994948,
+                        [
+                            { "P": [139.55, 107.2], "I": 0, "T": 0 },
+                            {
+                                "P": [139.55, 107.2],
+                                "I": 128,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [139.55, -6.3], "I": 135 },
+                            { "P": [139.55, -0.3], "I": 140, "T": 0 },
+                            { "P": [139.55, -0.3], "I": 246, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84994948,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 128 },
+                            { "V": 255, "I": 135 },
+                            { "V": 255, "I": 140, "T": 0 },
+                            { "V": 255, "I": 246, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [
+                {
+                    "StartIndex": 49,
+                    "EndIndex": 112,
+                    "Name": "part2",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 152 }
+                },
+                {
+                    "StartIndex": 113,
+                    "EndIndex": 246,
+                    "Name": "part4",
+                    "RenderColor": { "A": 150, "R": 255, "G": 60, "B": 255 }
+                },
+                {
+                    "StartIndex": 112,
+                    "EndIndex": 113,
+                    "Name": "part3",
+                    "RenderColor": { "A": 150, "R": 0, "G": 254, "B": 250 }
+                },
+                {
+                    "StartIndex": 0,
+                    "EndIndex": 49,
+                    "Name": "part1",
+                    "RenderColor": { "A": 150, "R": 152, "G": 0, "B": 152 }
+                }
+            ],
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/obstacle_anim_jellyfish_checkboard@6x.json"
+                        },
+                        "Pos": [140, -140, 1, 1, 280, 280, 0, 0, 0, 0],
+                        "MG": [-420, 140, 140, -420],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84994981,
+                        "@": 84994982,
+                        "Alpha": 255,
+                        "Name": "guide",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            140, -209, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [404.8, 334.4, 224, 294.4],
+                        "Tag": 84994979,
+                        "@": 84994980,
+                        "Alpha": 255,
+                        "Name": "frog2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            140, -69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [180.8, 110.4, 224, 294.4],
+                        "Tag": 84994977,
+                        "@": 84994978,
+                        "Alpha": 255,
+                        "Name": "frog1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [209, 71, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [-41.6, -113.6, 334.4, 404.8],
+                        "Tag": 84994975,
+                        "@": 84994976,
+                        "Alpha": 0,
+                        "Name": "fox2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [210, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [72, 0, 336, 406.4],
+                        "Tag": 84994973,
+                        "@": 84994974,
+                        "Alpha": 255,
+                        "Name": "fox1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -68, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [179.2, 108.8, 336, 406.4],
+                        "Tag": 84994971,
+                        "@": 84994972,
+                        "Alpha": 255,
+                        "Name": "bear3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/obstacle_anim_jellyfish_animals@6x.json"
+                        },
+                        "Pos": [0, -70, 1, 1, 280, 209, 0, 0, 0, 0],
+                        "MG": [-279, 70, 0, -280],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84994969,
+                        "@": 84994970,
+                        "Alpha": 255,
+                        "Name": "hippo8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -138, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [291.2, 220.8, 336, 406.4],
+                        "Tag": 84994967,
+                        "@": 84994968,
+                        "Alpha": 255,
+                        "Name": "hippo7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "MG": [70.4, 0, 112, 182.4],
+                        "Tag": 84994965,
+                        "@": 84994966,
+                        "Alpha": 255,
+                        "Name": "hippo5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, -70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [184, 112, 112, 182.4],
+                        "Tag": 84994963,
+                        "@": 84994964,
+                        "Alpha": 255,
+                        "Name": "chick2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [72, 0, 0, 70.4],
+                        "Tag": 84994961,
+                        "@": 84994962,
+                        "Alpha": 255,
+                        "Name": "chick1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            175, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 280, 380.8],
+                        "Tag": 84994959,
+                        "@": 84994960,
+                        "Alpha": 255,
+                        "Name": "chickenfx",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 56, 156.8],
+                        "Tag": 84994957,
+                        "@": 84994958,
+                        "Alpha": 255,
+                        "Name": "blastfx",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -35, 0.7, 0.7, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [156.8, 56, 56, 156.8],
+                        "Tag": 84994955,
+                        "@": 84994956,
+                        "Alpha": 255,
+                        "Name": "linefx",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 71, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [-41.6, -113.6, 0, 70.4],
+                        "Tag": 84994953,
+                        "@": 84994954,
+                        "Alpha": 0,
+                        "Name": "animaldown1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, 71, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [-41.6, -113.6, 112, 182.4],
+                        "Tag": 84994951,
+                        "@": 84994952,
+                        "Alpha": 0,
+                        "Name": "animaldown2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [141, 72, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [-43.2, -115.2, 225.6, 296],
+                        "Tag": 84994949,
+                        "@": 84994950,
+                        "Alpha": 0,
+                        "Name": "animaldown3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            139, 107, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "MG": [-100.8, -171.2, 222.4, 292.8],
+                        "Tag": 84994947,
+                        "@": 84994948,
+                        "Alpha": 0,
+                        "Name": "animaldown4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

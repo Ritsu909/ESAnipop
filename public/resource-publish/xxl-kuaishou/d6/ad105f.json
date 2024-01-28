@@ -1,0 +1,91 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 438.1496, 273.4416, 0, 0, 0.0018, 0.9982
+                        ],
+                        "MG": [54.4, 0, 0, 56],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 29325879,
+                        "@": 29325880,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            404, -25, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9439, -0.0919, 0.1084, 0.1706],
+                        "MG": [86.4, 40, 646.4, 692.8],
+                        "Tag": 29325877,
+                        "@": 29325878,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_selectpanelbtn1@6x.json"
+                        },
+                        "Pos": [213, -75, 1, 1, 316, 83, 0, 0, 0, 0],
+                        "PrePos": [0.4977, -0.2757, 0.7383, 0.3051],
+                        "MG": [114, 75, 213, -101],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325875,
+                        "@": 29325876,
+                        "Alpha": 255,
+                        "Name": "session",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_selectpanelbtn2@6x.json"
+                        },
+                        "Pos": [213, -199, 1, 1, 316, 83, 0, 0, 0, 0],
+                        "PrePos": [0.4977, -0.7316, 0.7383, 0.3051],
+                        "MG": [-10, 199, 213, -101],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325873,
+                        "@": 29325874,
+                        "Alpha": 255,
+                        "Name": "timeline",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 428, "Y": 272 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

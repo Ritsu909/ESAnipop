@@ -1,0 +1,36 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/help.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [0, -1, 1, 1, 46.4, 48, 0, 0, 0.5108, 0.4979],
+                        "PrePos": [0, -0.0213, 1.0087, 1.0213],
+                        "MG": [49.6, 1.6, 0, 46.4],
+                        "Tag": 29325501,
+                        "@": 29325502,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 46, "Y": 47 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

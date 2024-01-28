@@ -1,0 +1,50 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/board_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 152, 88, 0, 0, 0.4974, 0.504],
+                        "MG": [88, 0, 0, 152],
+                        "Tag": 88702885,
+                        "@": 88702886,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/target_icon_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [-7, 3, 1, 1, 97.6, 78.4, 0, 0, 0.4544, 0.5561],
+                        "PrePos": [-0.0467, 0.0345, 0.6507, 0.9011],
+                        "MG": [73.6, -4.8, -11.2, 86.4],
+                        "Tag": 88702883,
+                        "@": 88702884,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 150, "Y": 87 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

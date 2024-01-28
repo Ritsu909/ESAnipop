@@ -1,0 +1,227 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_starglowx0x0_anime@6x.json"
+                        },
+                        "Pos": [0, -1, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0, -0.0067, 0, 0],
+                        "MG": [148, 1, 0, 668],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751339,
+                        "@": 84751340,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/credit03.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [56, -49, 1, 1, 88, 100.8, 0, 0, 0.4926, 0.4965],
+                        "PrePos": [0.0838, -0.3289, 0.1317, 0.6765],
+                        "MG": [179.2, 78.4, 89.6, 177.6],
+                        "Tag": 84751335,
+                        "@": 84751336,
+                        "Alpha": 255,
+                        "Name": "num3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/credit2.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [56, -48, 1, 1, 88, 97.6, 0, 0, 0.4926, 0.5072],
+                        "PrePos": [0.0838, -0.3221, 0.1317, 0.655],
+                        "MG": [174.4, 76.8, 89.6, 177.6],
+                        "Tag": 84751333,
+                        "@": 84751334,
+                        "Alpha": 255,
+                        "Name": "num2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_credit01@6x.json"
+                        },
+                        "Pos": [54, -53, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.0808, -0.3557, 0, 0],
+                        "MG": [96, 53, 54, 614],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751331,
+                        "@": 84751332,
+                        "Alpha": 255,
+                        "Name": "num1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_star_bg.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            318, -27, 1, 1, 235.9526, 59.2, 0, 0, 0.0011, 0.9983
+                        ],
+                        "PrePos": [0.476, -0.1812, 0.1365, 0.3973],
+                        "MG": [102.4, 43.2, 508.8, 600],
+                        "Scale9": [30, 14, 30, 29],
+                        "Tag": 84751329,
+                        "@": 84751330,
+                        "Alpha": 255,
+                        "Name": "starbg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/stars_icon.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [359, -57, 1, 1, 70.4, 48, 0, 0, 0.4339, 0.5229],
+                        "PrePos": [0.5374, -0.3826, 0.1054, 0.3221],
+                        "MG": [139.2, 91.2, 574.4, 644.8],
+                        "Tag": 84751327,
+                        "@": 84751328,
+                        "Alpha": 255,
+                        "Name": "staricon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [405, -32, 0.5714, 0.5714, 106, 47, 0, 0, 0, 1],
+                        "PrePos": [0.6063, -0.2148, 0.1587, 0.3154],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_70_white_redtroke@6x.fnt"
+                        },
+                        "MG": [70, 32, 405, 157],
+                        "IsCustomSize": true,
+                        "LabelText": "9999",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84751325,
+                        "@": 84751326,
+                        "Name": "star",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/gificon.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            608, -83, 1, 1, 38.4, 38.4, 0, 0, 0.5195, 0.5156
+                        ],
+                        "PrePos": [0.9102, -0.557, 0.0575, 0.2577],
+                        "MG": [171.2, 132.8, 972.8, 1011.2],
+                        "Tag": 84751323,
+                        "@": 84751324,
+                        "Alpha": 255,
+                        "Name": "gift",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            150, -56, 0.6142, 0.6198, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.2246, -0.3758, 0.1725, 0.7732],
+                        "MG": [204.8, 89.6, 240, 355.2],
+                        "Tag": 84751321,
+                        "@": 84751322,
+                        "Alpha": 255,
+                        "Name": "avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_avatar_ring.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [150, -56, 1, 1, 86.4, 86.4, 0, 0, 0.4954, 0.5],
+                        "PrePos": [0.2246, -0.3758, 0.1293, 0.5799],
+                        "MG": [176, 89.6, 240, 326.4],
+                        "Tag": 84751319,
+                        "@": 84751320,
+                        "Alpha": 255,
+                        "Name": "avatar_ring",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [196, -45, 1, 1, 115, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 9, "G": 35, "B": 81 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2934, -0.302, 0.1722, 0.2013],
+                        "MG": [74, 45, 196, 357],
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84751317,
+                        "@": 84751318,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/myself.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -17, 8, 1, 1, 669.7763, 128.737, 0, 0, 0.0007,
+                            0.9991
+                        ],
+                        "PrePos": [-0.0254, 0.0537, 0.2251, 0.7087],
+                        "MG": [92.8, -12.8, -27.2, 123.2],
+                        "Scale9": [50, 35, 50, 35],
+                        "Tag": 84751315,
+                        "@": 84751316,
+                        "Alpha": 255,
+                        "Name": "player",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 668, "Y": 149 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

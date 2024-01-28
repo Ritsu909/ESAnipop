@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 490.6182, 330.4608, 0, 0, 0.0002, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 50104,
+                        "@": 50105,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [40, -79, 1, 1, 410, 126, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0816, -0.2394, 0.8367, 0.3818],
+                        "MG": [125, 79, 40, 40],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "添加附近玩家为好友需获得“位置信息”，请在系统设置中允许访问“位置”\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 50106,
+                        "@": 50107,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [245, -239, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.5, -0.7242, 0.3959, 0.3697],
+                        "MG": [-31, 239, 245, 51],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50108,
+                        "@": 50109,
+                        "Alpha": 255,
+                        "Name": "btn_green_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [437, -52, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8918, -0.1576, 0.1735, 0.2515],
+                        "MG": [195, 52, 437, -32],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50114,
+                        "@": 50115,
+                        "Alpha": 255,
+                        "Name": "btn_no",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 490, "Y": 330 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/markbg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -37, 25, 1, 1, 76.8, 43.2, 0, 0, 0.0488, 1.1042
+                        ],
+                        "PrePos": [-0.4868, 0.5208, 1.0105, 0.9],
+                        "MG": [3.2, -40, -59.2, 17.6],
+                        "Tag": 84757976,
+                        "@": 84757977,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-18, 27, 1, 1, 33, 48, 0, 0, 0, 1],
+                        "PrePos": [-0.2368, 0.5625, 0.4342, 1],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [27, -27, -18, 61],
+                        "IsCustomSize": true,
+                        "LabelText": "2",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84757974,
+                        "@": 84757975,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 76, "Y": 48 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

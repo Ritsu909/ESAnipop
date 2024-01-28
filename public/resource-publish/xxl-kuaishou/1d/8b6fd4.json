@@ -1,0 +1,127 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3182534,
+                        [
+                            { "P": [-197.5, 21.3], "I": 0, "T": 0 },
+                            { "P": [-197.5, 21.3], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182532,
+                        [
+                            { "P": [0.1, -0.1], "I": 0 },
+                            { "P": [0.1, -0.1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3182532,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182530,
+                        [
+                            { "P": [-0.05, -0.15], "I": 0 },
+                            { "P": [-0.05, -0.15], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3182530,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/magicbird_color.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            -197, 21, 0.9, 0.9, 113.6, 113.6, 0, 0, -1.4498,
+                            0.7205
+                        ],
+                        "MG": [80, -33.6, -315.2, -201.6],
+                        "Tag": 3182533,
+                        "@": 3182534,
+                        "Alpha": 255,
+                        "Name": "color",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/magicbird_tornado2.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.858, 0.858, 123.2, 124.8, 0, 0, 0.5069,
+                            0.4996
+                        ],
+                        "MG": [124.8, 0, 0, 123.2],
+                        "Tag": 3182531,
+                        "@": 3182532,
+                        "Alpha": 255,
+                        "Name": "tornado",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/zhuanzhuanzhuan.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.7755, 0.7755, 94.4, 100.8, 0, 0, 0.5212,
+                            0.4985
+                        ],
+                        "MG": [100.8, 0, 0, 94.4],
+                        "Tag": 3182529,
+                        "@": 3182530,
+                        "Alpha": 255,
+                        "Name": "zhuanzhuanzhuan",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/red1.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [1, 0, 1, 1, 64, 65.6, 0, 0, 0.4938, 0.4939],
+                        "MG": [65.6, 0, 1.6, 65.6],
+                        "Tag": 3182527,
+                        "@": 3182528,
+                        "Alpha": 255,
+                        "Name": "magic_bird",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

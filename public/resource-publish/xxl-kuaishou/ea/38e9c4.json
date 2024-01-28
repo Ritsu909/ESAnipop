@@ -1,0 +1,217 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/recode_square.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            364, -641, 5, 5, 144, 256, 0, 0, 0.5007, 0.4996
+                        ],
+                        "PrePos": [0.5007, -0.5008, 0.1981, 0.2],
+                        "MG": [1281.6, 1025.6, 582.4, 726.4],
+                        "Tag": 84756091,
+                        "@": 84756092,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/record_bg.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            47, -107, 1, 1, 709.5208, 1125.9192, 0, 0, 0.0484,
+                            1.0093
+                        ],
+                        "PrePos": [0.0646, -0.0836, 0.2091, 0.1087],
+                        "MG": [310.4, 171.2, 75.2, 227.2],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 84756089,
+                        "@": 84756090,
+                        "Alpha": 255,
+                        "Name": "innerbg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [688, -44, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9464, -0.0344, 0.1169, 0.0648],
+                        "MG": [1153, 44, 688, -46],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84756087,
+                        "@": 84756088,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_btn_blue_clearRecord@6x.json"
+                        },
+                        "Pos": [178, -1151, 0.91, 0.91, 314, 120, 0, 0, 0, 0],
+                        "PrePos": [0.2448, -0.8992, 0.4319, 0.0938],
+                        "MG": [9, 1151, 178, 235],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84756085,
+                        "@": 84756086,
+                        "Alpha": 255,
+                        "Name": "clearBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_btn_orange_showFc@6x.json"
+                        },
+                        "Pos": [540, -1149, 0.91, 0.91, 307, 120, 0, 0, 0, 0],
+                        "PrePos": [0.7428, -0.8977, 0.4223, 0.0938],
+                        "MG": [11, 1149, 540, -120],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84756083,
+                        "@": 84756084,
+                        "Alpha": 255,
+                        "Name": "fcBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/recode_square.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            364, -629, 4.7601, 3.44, 144, 256, 0, 0, 0.5007,
+                            0.4996
+                        ],
+                        "PrePos": [0.5007, -0.4914, 0.1981, 0.2],
+                        "MG": [1262.4, 1006.4, 582.4, 726.4],
+                        "Tag": 84756081,
+                        "@": 84756082,
+                        "Alpha": 255,
+                        "Name": "scrollbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [63, -146, 1, 1, 112, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 224, "G": 129, "B": 26 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0867, -0.1141, 0.1541, 0.0289],
+                        "MG": [1097, 146, 63, 552],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "购买内容",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84756079,
+                        "@": 84756080,
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [274, -146, 1, 1, 139, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 224, "G": 129, "B": 26 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3769, -0.1141, 0.1912, 0.0289],
+                        "MG": [1097, 146, 274, 314],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "花费人民币",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84756077,
+                        "@": 84756078,
+                        "Name": "price",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [530, -146, 1, 1, 112, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 224, "G": 129, "B": 26 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.729, -0.1141, 0.1541, 0.0289],
+                        "MG": [1097, 146, 530, 85],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "购买时间",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84756075,
+                        "@": 84756076,
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [160, -42, 1, 1, 382, 56, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 177, "G": 93, "B": 11 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2201, -0.0328, 0.5254, 0.0438],
+                        "MG": [1182, 42, 160, 185],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "人民币支付账单记录",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84756073,
+                        "@": 84756074,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 727, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

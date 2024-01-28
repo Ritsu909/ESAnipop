@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_fail_rm_start_panel@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 621, 500, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 348468,
+                        "@": 348469,
+                        "Alpha": 255,
+                        "Name": "start_panel 副本",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_fail_btn_blue_start@6x.json"
+                        },
+                        "Pos": [154, -358, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.248, -0.716, 0.4509, 0.244],
+                        "MG": [20, 358, 154, 187],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 348466,
+                        "@": 348467,
+                        "Alpha": 255,
+                        "Name": "btn_blue_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_fail_btn_green_start2@6x.json"
+                        },
+                        "Pos": [436, -359, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7021, -0.718, 0.4509, 0.244],
+                        "MG": [19, 359, 436, -95],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 348464,
+                        "@": 348465,
+                        "Alpha": 255,
+                        "Name": "btn_green_start2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [202, -229, 1, 1, 236, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 51, "B": 153 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3253, -0.458, 0.38, 0.086],
+                        "MG": [228, 229, 202, 183],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "我的最高分：898\\n",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 348462,
+                        "@": 348463,
+                        "Name": "highest_score",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 621, "Y": 500 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

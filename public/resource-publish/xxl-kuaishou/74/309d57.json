@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [160, -115, 1, 1, 194, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 27, "G": 126, "B": 145 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7692, -1, 0.9327, 0.3043],
+                        "MG": [-35, 115, 160, -146],
+                        "IsCustomSize": true,
+                        "LabelText": "我的排名：99999",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 84746567,
+                        "@": 84746568,
+                        "Name": "myrank",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [204, -35, 1, 1, 164, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 27, "G": 126, "B": 145 },
+                        "PrePos": [0.9808, -0.3043, 0.7885, 0.4783],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [25, 35, 204, -160],
+                        "IsCustomSize": true,
+                        "LabelText": "好友排名",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746565,
+                        "@": 84746566,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 208, "Y": 115 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

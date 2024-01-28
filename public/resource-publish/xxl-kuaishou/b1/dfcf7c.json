@@ -1,0 +1,197 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_47/background.png",
+                            "Plist": "cocos/hssg_47@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 195.2, 220.8, 0, 0, 0.5005, 0.5007],
+                        "MG": [220.8, 0, 0, 195.2],
+                        "Tag": 194091,
+                        "@": 194092,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -34, 86, 0.25, 0.25, 64, 64, -14.01, -14.01, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [-0.1818, 0.4279, 0.3422, 0.3184],
+                        "MG": [-73.6, -137.6, -54.4, 9.6],
+                        "Tag": 194089,
+                        "@": 194090,
+                        "Alpha": 255,
+                        "Name": "star_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -88, -25, 0.25, 0.25, 64, 64, 22.94, 22.94, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [-0.4706, -0.1244, 0.3422, 0.3184],
+                        "MG": [104, 40, -140.8, -76.8],
+                        "Tag": 194087,
+                        "@": 194088,
+                        "Alpha": 255,
+                        "Name": "star_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -45, -44, 0.25, 0.25, 64, 64, 7.94, 7.94, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [-0.2406, -0.2189, 0.3422, 0.3184],
+                        "MG": [134.4, 70.4, -72, -8],
+                        "Tag": 194085,
+                        "@": 194086,
+                        "Alpha": 255,
+                        "Name": "star_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            6, -41, 0.25, 0.25, 64, 64, -15.78, -15.78, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [0.0321, -0.204, 0.3422, 0.3184],
+                        "MG": [129.6, 65.6, 9.6, 73.6],
+                        "Tag": 194083,
+                        "@": 194084,
+                        "Alpha": 255,
+                        "Name": "star_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            53, -9, 0.25, 0.25, 64, 64, -38.72, -38.72, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [0.2834, -0.0448, 0.3422, 0.3184],
+                        "MG": [78.4, 14.4, 84.8, 148.8],
+                        "Tag": 194081,
+                        "@": 194082,
+                        "Alpha": 255,
+                        "Name": "star_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            75, 27, 0.25, 0.25, 64, 64, -60.41, -60.41, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [0.4011, 0.1343, 0.3422, 0.3184],
+                        "MG": [20.8, -43.2, 120, 184],
+                        "Tag": 194079,
+                        "@": 194080,
+                        "Alpha": 255,
+                        "Name": "star_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -51, -83, 0.25, 0.25, 64, 64, -0.41, -0.41, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [-0.2727, -0.4129, 0.3422, 0.3184],
+                        "MG": [196.8, 132.8, -81.6, -17.6],
+                        "Tag": 194077,
+                        "@": 194078,
+                        "Alpha": 255,
+                        "Name": "star_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            22, -81, 0.25, 0.25, 64, 64, -15.41, -15.41, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [0.1176, -0.403, 0.3422, 0.3184],
+                        "MG": [193.6, 129.6, 35.2, 99.2],
+                        "Tag": 194075,
+                        "@": 194076,
+                        "Alpha": 255,
+                        "Name": "star_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/placeholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            78, -44, 0.25, 0.25, 64, 64, -15.41, -15.41, 0.5016,
+                            0.4984
+                        ],
+                        "PrePos": [0.4171, -0.2189, 0.3422, 0.3184],
+                        "MG": [134.4, 70.4, 124.8, 188.8],
+                        "Tag": 194073,
+                        "@": 194074,
+                        "Alpha": 255,
+                        "Name": "star_9",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 187, "Y": 201 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50001,
+                        [
+                            {
+                                "P": [0.15, -0.35],
+                                "I": 0,
+                                "E": [0.0894, 0.5377, 0.6667, 1]
+                            },
+                            { "P": [195.75, -68.05], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.0894, 0.5377, 0.6667, 1]
+                            },
+                            { "P": [0.0625, 0.225], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "polar_bear/polarbear_shinydots1.png",
+                            "Plist": "cocos/polar_bear@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 8, 8, 0, 0, 0.5125, 0.4875],
+                        "MG": [8, 0, 0, 8],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,87 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50297,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4512, 0, 0.5918, 1]
+                            },
+                            {
+                                "P": [0, -6.95],
+                                "I": 49,
+                                "E": [0.4289, 0, 0.6, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50297,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.4512, 0, 0.5918, 1]
+                            },
+                            {
+                                "P": [1.0103, 1],
+                                "I": 49,
+                                "E": [0.4289, 0, 0.6, 1]
+                            },
+                            { "P": [1, 1], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50297,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4512, 0, 0.5918, 1]
+                            },
+                            {
+                                "P": [0, -8.17],
+                                "I": 49,
+                                "E": [0.4289, 0, 0.6, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "frog_finish/mintfolder_02.png",
+                            "Plist": "cocos/frog_finish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 40, 38.4, 0, 0, 0.49, 0.5156],
+                        "MG": [38.4, 0, 0, 40],
+                        "Tag": 50296,
+                        "@": 50297,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,140 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/suoming_bg.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 590.5382, 867.8835, 0, 0, 0.0004, 0.9996
+                        ],
+                        "MG": [243.2, 0, 0, 243.2],
+                        "Scale9": [60, 95, 120, 45],
+                        "Tag": 85998738,
+                        "@": 85998739,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/title_img.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            293, -64, 1, 1, 396.8, 51.2, 0, 0, 0.4967, 0.3486
+                        ],
+                        "PrePos": [0.5, -0.0742, 0.6771, 0.0594],
+                        "MG": [153.6, 102.4, 468.8, 865.6],
+                        "Tag": 85998736,
+                        "@": 85998737,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/close_img.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [538, -47, 1, 1, 32, 32, 0, 0, 0.4875, 0.5125],
+                        "PrePos": [0.9181, -0.0545, 0.0546, 0.0371],
+                        "MG": [107.2, 75.2, 860.8, 892.8],
+                        "Tag": 85998734,
+                        "@": 85998735,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/small_bg.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            65, -295, 1, 1, 477.8323, 513.0541, 0, 0, 0.0139,
+                            0.9946
+                        ],
+                        "PrePos": [0.1109, -0.3422, 0.344, 0.2153],
+                        "MG": [657.6, 472, 104, 305.6],
+                        "Scale9": [80, 75, 36, 30],
+                        "Tag": 85998732,
+                        "@": 85998733,
+                        "Alpha": 255,
+                        "Name": "small_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/wwwrtop.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            179, -829, 1, 1, 89.6, 36.8, -180, 0, 0.178, 0.8247
+                        ],
+                        "PrePos": [0.3055, -0.9617, 0.1529, 0.0427],
+                        "MG": [1363.2, 1326.4, 286.4, 376],
+                        "Tag": 85998730,
+                        "@": 85998731,
+                        "Alpha": 255,
+                        "Name": "wwwrtop1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/wwwrtop.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            180, -263, 1, 1, 89.6, 36.8, 0, 0, 0.178, 0.8247
+                        ],
+                        "PrePos": [0.3072, -0.3051, 0.1529, 0.0427],
+                        "MG": [457.6, 420.8, 288, 377.6],
+                        "Tag": 85998728,
+                        "@": 85998729,
+                        "Alpha": 255,
+                        "Name": "wwwrtop2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationHeadTip/star_group.png",
+                            "Plist": "cocos/constellationHeadTip@6x.plist"
+                        },
+                        "Pos": [
+                            207, -268, 1, 1, 94.4, 46.4, 0, 0, 0.4693, 0.4763
+                        ],
+                        "PrePos": [0.3532, -0.3109, 0.1611, 0.0538],
+                        "MG": [475.2, 428.8, 331.2, 425.6],
+                        "Tag": 85998726,
+                        "@": 85998727,
+                        "Alpha": 255,
+                        "Name": "star_group",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 586, "Y": 862 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

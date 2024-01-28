@@ -1,0 +1,195 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_invite/item_blue_bg.png",
+                            "Plist": "cocos/share_invite@6x.plist"
+                        },
+                        "Pos": [
+                            304, -89, 1, 1, 609.6, 179.2, 0, 0, 0.4997, 0.5028
+                        ],
+                        "PrePos": [0.4992, -0.5, 1.001, 1.0067],
+                        "MG": [321.6, 142.4, 486.4, 1096],
+                        "Tag": 83804094,
+                        "@": 83804095,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            72, -70, 0.8073, 0.8073, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.1182, -0.3933, 0.1892, 0.6472],
+                        "MG": [227.2, 112, 115.2, 230.4],
+                        "Tag": 83804092,
+                        "@": 83804093,
+                        "Alpha": 255,
+                        "Name": "userhead",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            72, -71, 0.8073, 0.8073, 124.8, 124.8, 0, 0, 0.498,
+                            0.502
+                        ],
+                        "PrePos": [0.1182, -0.3989, 0.2049, 0.7011],
+                        "MG": [238.4, 113.6, 115.2, 240],
+                        "Tag": 83804090,
+                        "@": 83804091,
+                        "Alpha": 255,
+                        "Name": "head_box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_gold.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            228, -104, 0.28, 0.28, 118.4, 123.2, 0, 0, 0.4992,
+                            0.5
+                        ],
+                        "PrePos": [0.3744, -0.5843, 0.1944, 0.6921],
+                        "MG": [289.6, 166.4, 364.8, 483.2],
+                        "Tag": 83804088,
+                        "@": 83804089,
+                        "Alpha": 255,
+                        "Name": "gold",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_invite_btn_get_reward2@6x.json"
+                        },
+                        "Pos": [500, -78, 1, 0.7692, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.821, -0.4382, 0.3186, 0.6854],
+                        "MG": [-22, 78, 500, -85],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 83804086,
+                        "@": 83804087,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [137, -88, 1, 1, 264, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 53, "G": 65, "B": 168 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.225, -0.4944, 0.4335, 0.1854],
+                        "MG": [57, 88, 137, 208],
+                        "IsCustomSize": true,
+                        "LabelText": "奖励：\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804084,
+                        "@": 83804085,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [250, -88, 1, 1, 151, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 53, "G": 65, "B": 168 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4105, -0.4944, 0.2479, 0.191],
+                        "MG": [56, 88, 250, 208],
+                        "IsCustomSize": true,
+                        "LabelText": "X30（0/1关）\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804082,
+                        "@": 83804083,
+                        "Name": "rewards",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [17, -122, 1, 1, 104, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 53, "G": 65, "B": 168 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0279, -0.6854, 0.1708, 0.1854],
+                        "MG": [23, 122, 17, 488],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请好友\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804080,
+                        "@": 83804081,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [137, -46, 1, 1, 259, 36, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 53, "G": 65, "B": 168 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.225, -0.2584, 0.4253, 0.2022],
+                        "MG": [96, 46, 137, 213],
+                        "IsCustomSize": true,
+                        "LabelText": "邀请到第1位新好友\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804078,
+                        "@": 83804079,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 609, "Y": 178 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

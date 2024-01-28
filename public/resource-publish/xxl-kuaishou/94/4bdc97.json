@@ -1,0 +1,95 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/award.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            228, -162, 1, 1, 456, 326.4, 0, 0, 0.5002, 0.5018
+                        ],
+                        "PrePos": [0.5, -0.4985, 1, 1.0043],
+                        "MG": [585.6, 259.2, 364.8, 820.8],
+                        "Tag": 111225,
+                        "@": 111226,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_get_reward_ok_btn@6x.json"
+                        },
+                        "Pos": [228, -231, 0.88, 0.8, 168, 76, 0, 0, 0, 0],
+                        "PrePos": [0.5, -0.7108, 0.3684, 0.2338],
+                        "MG": [18, 231, 228, 60],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111223,
+                        "@": 111224,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            228, -159, 1, 1, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "PrePos": [0.5, -0.4892, 0.2211, 0.3102],
+                        "MG": [355.2, 254.4, 364.8, 465.6],
+                        "Tag": 111221,
+                        "@": 111222,
+                        "Alpha": 255,
+                        "Name": "reward",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [19, -55, 1, 1, 417, 56, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0417, -0.1692, 0.9145, 0.1723],
+                        "MG": [214, 55, 19, 20],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "悬赏代打奖励",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 111219,
+                        "@": 111220,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 456, "Y": 325 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

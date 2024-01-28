@@ -1,0 +1,155 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTipTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 19, 1.366, 1.3015, 27.2, 16, 0, 0, 0.5018, 0.9906
+                        ],
+                        "PrePos": [0, 0.0377, 0.0507, 0.0317],
+                        "MG": [-14.4, -30.4, 0, 27.2],
+                        "Tag": 87976766,
+                        "@": 87976767,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -122, 504, 1, 1, 538.501, 494.3203, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.2276, 1, 0.2418, 0.2571],
+                        "MG": [-676.8, -806.4, -195.2, -65.6],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 87976764,
+                        "@": 87976765,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/res_share_bottle_bg.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            9, 398, 1.1655, 1.1655, 233.6, 278.4, 0, 0, 0.0004,
+                            0.9996
+                        ],
+                        "PrePos": [0.0168, 0.7897, 0.4358, 0.5524],
+                        "MG": [-358.4, -636.8, 14.4, 248],
+                        "Tag": 87976762,
+                        "@": 87976763,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [89, 60, 0.8667, 0.8667, 112, 25, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 89, "G": 159, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.166, 0.119, 0.209, 0.0496],
+                        "MG": [539, -60, 89, 335],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "保存二维码",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87976760,
+                        "@": 87976761,
+                        "Name": "save",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-86, 472, 1, 1, 462, 66, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 24, "G": 82, "B": 138 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.1604, 0.9365, 0.8619, 0.131],
+                        "MG": [910, -472, -86, 160],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "好友在游戏内加好友功能中扫描下方二维码即可入队。扫码功能流程：加好友-扫码加好友-扫二维码",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 87976758,
+                        "@": 87976759,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            145, 195, 1.7721, 1.7727, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.2705, 0.3869, 0.1881, 0.2],
+                        "MG": [-211.2, -312, 232, 332.8],
+                        "Tag": 87976756,
+                        "@": 87976757,
+                        "Alpha": 255,
+                        "Name": "code",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/share_logo.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            145, 195, 0.5565, 0.5565, 57.6, 56, 0, 0, 0.4965,
+                            0.4982
+                        ],
+                        "PrePos": [0.2705, 0.3869, 0.1075, 0.1111],
+                        "MG": [-256, -312, 232, 289.6],
+                        "Tag": 87977058,
+                        "@": 87977059,
+                        "Alpha": 255,
+                        "Name": "logo",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 536, "Y": 504 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

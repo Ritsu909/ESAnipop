@@ -1,0 +1,145 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/reward_box_panel_bg2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [18, 0, 1, 1, 512, 376, 0, 0, 0.5015, 0.4995],
+                        "PrePos": [0.0298, 0, 0.8463, 0.4753],
+                        "MG": [376, 0, 28.8, 540.8],
+                        "Tag": 87667302,
+                        "@": 87667303,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/textimg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            23, -213, 1, 1, 430.4, 76.8, 0, 0, 0.5078, 0.5208
+                        ],
+                        "PrePos": [0.038, -0.2693, 0.7114, 0.0971],
+                        "MG": [417.6, 340.8, 36.8, 467.2],
+                        "Tag": 87667300,
+                        "@": 87667301,
+                        "Alpha": 255,
+                        "Name": "descb_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_green_start3@6x.json"
+                        },
+                        "Pos": [-27, -309, 1, 1, 346, 122, 0, 0, 0, 0],
+                        "PrePos": [-0.0446, -0.3906, 0.5719, 0.1542],
+                        "MG": [360, 309, -27, 286],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667298,
+                        "@": 87667299,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-91, -376, 1, 1, 178, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 88, "B": 166 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.1504, -0.4753, 0.2942, 0.043],
+                        "MG": [381, 376, -91, 518],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "拥有：5000\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 87667296,
+                        "@": 87667297,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/color_heart.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            101, -393, 0.21, 0.21, 219.2, 169.6, 0, 0, 0.5,
+                            0.5015
+                        ],
+                        "PrePos": [0.1669, -0.4968, 0.3623, 0.2144],
+                        "MG": [798.4, 628.8, 161.6, 380.8],
+                        "Tag": 87667294,
+                        "@": 87667295,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/titleimg1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            23, 337, 1, 1, 347.2, 86.4, 0, 0, 0.4986, 0.5069
+                        ],
+                        "PrePos": [0.038, 0.426, 0.5739, 0.1092],
+                        "MG": [-452.8, -539.2, 36.8, 384],
+                        "Tag": 87667292,
+                        "@": 87667293,
+                        "Alpha": 255,
+                        "Name": "titleimg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/close_btn_blue.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            321, 255, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.5306, 0.3224, 0.1428, 0.1092],
+                        "MG": [-321.6, -408, 513.6, 600],
+                        "Tag": 87667290,
+                        "@": 87667291,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 605, "Y": 791 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

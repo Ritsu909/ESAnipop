@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_sliver.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            31, -32, 0.5252, 0.5252, 120, 123.2, 0, 0, 0.5058,
+                            0.5
+                        ],
+                        "PrePos": [0.1722, -0.5, 0.6667, 1.925],
+                        "MG": [174.4, 51.2, 49.6, 169.6],
+                        "Tag": 1051281,
+                        "@": 1051282,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [73, -12, 1, 1, 107, 38, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 65, "G": 134, "B": 41 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4056, -0.1875, 0.5944, 0.5938],
+                        "MG": [14, 12, 73, 0],
+                        "IsCustomSize": true,
+                        "LabelText": "2000",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 1051279,
+                        "@": 1051280,
+                        "Name": "num",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 180, "Y": 64 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

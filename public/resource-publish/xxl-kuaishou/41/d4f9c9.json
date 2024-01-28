@@ -1,0 +1,184 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 26,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        10128104,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 13,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128104,
+                        [
+                            {
+                                "P": [-48, 48],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [-55.2, 55.2], "I": 13 },
+                            { "P": [-48, 48], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        10128104,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [1.15, 1.15], "I": 13 },
+                            { "P": [1, 1], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        10128104,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 13
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 25,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128102,
+                        [
+                            {
+                                "P": [44.3, 1.05],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [54.3, 1.05], "I": 13 },
+                            { "P": [44.3, 1.05], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128100,
+                        [
+                            {
+                                "P": [-43.3, 1.05],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-53.3, 1.05], "I": 13 },
+                            { "P": [-43.3, 1.05], "I": 25, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/propPrompt_line_row@6x.json"
+                        },
+                        "Pos": [-48, 48, 1, 1, 96, 96, 0, 0, 0, 0],
+                        "MG": [-48, -48, -48, -48],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 10128103,
+                        "@": 10128104,
+                        "Alpha": 255,
+                        "Name": "chuizi",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/heng.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            44, 1, 1.5883, 1.5883, 43.2, 28.8, 90, 90, 0.4861,
+                            0.4896
+                        ],
+                        "MG": [27.2, -1.6, 70.4, 113.6],
+                        "Tag": 10128101,
+                        "@": 10128102,
+                        "Alpha": 255,
+                        "Name": "heng2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/heng.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            -43, 1, 1.5883, 1.5883, 43.2, 28.8, -90, 90, 0.4861,
+                            0.4896
+                        ],
+                        "MG": [27.2, -1.6, -68.8, -25.6],
+                        "Tag": 10128099,
+                        "@": 10128100,
+                        "Alpha": 255,
+                        "Name": "heng",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

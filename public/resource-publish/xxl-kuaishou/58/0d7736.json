@@ -1,0 +1,94 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/share_bg.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -279, 286, 1, 1, 960, 960, 0, 0, 0.0001, 0.9999
+                        ],
+                        "PrePos": [-0.2906, 0.2979, 1, 1],
+                        "MG": [502.4, -457.6, -446.4, 513.6],
+                        "Tag": 84748093,
+                        "@": 84748094,
+                        "Alpha": 255,
+                        "Name": "sp_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-66, 103, 1.4679, 1.4648, 491, 276, 0, 0, 0, 1],
+                        "PrePos": [-0.0688, 0.1073, 0.5115, 0.2875],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [787, -103, -66, 535],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "全三星 ！",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84748091,
+                        "@": 84748092,
+                        "Name": "stars",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/head_frame_update_panel_head1@6x.json"
+                        },
+                        "Pos": [542, 146, 1.7777, 1.7646, 103, 102, 0, 0, 0, 0],
+                        "PrePos": [0.5646, 0.1521, 0.1073, 0.1062],
+                        "MG": [1004, -146, 542, 315],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748089,
+                        "@": 84748090,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [
+                            -207, 176, 1.1065, 1.1049, 321, 192, 0, 0, 0, 1
+                        ],
+                        "PrePos": [-0.2156, 0.1833, 0.3344, 0.2],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [944, -176, -207, 846],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "XXX关",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84748087,
+                        "@": 84748088,
+                        "Name": "label_level",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 960, "Y": 960 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

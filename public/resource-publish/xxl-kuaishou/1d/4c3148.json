@@ -1,0 +1,45 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 9,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        84190121,
+                        [
+                            { "P": [0.8, 1.2], "I": 0 },
+                            { "P": [1.2, 0.8], "I": 4 },
+                            { "P": [0.8, 1.2], "I": 8, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/boom_sp.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, 0, 0.8, 1.2, 17.6, 17.6, 0, 0, 0.483, 0.517],
+                        "MG": [17.6, 0, 0, 17.6],
+                        "Tag": 84190120,
+                        "@": 84190121,
+                        "Alpha": 255,
+                        "Name": "ss",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

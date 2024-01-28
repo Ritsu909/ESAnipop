@@ -1,0 +1,45 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 15,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        85383258,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.596, 0.596], "I": 7 },
+                            { "P": [1, 1], "I": 14, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/star1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 51.2, 52.8, 0, 0, 0.5107, 0.5047],
+                        "MG": [52.8, 0, 0, 51.2],
+                        "Tag": 85383257,
+                        "@": 85383258,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

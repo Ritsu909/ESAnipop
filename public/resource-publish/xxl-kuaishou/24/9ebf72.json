@@ -1,0 +1,93 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            211, 0, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [0.7456, 0, 0.277, 0.277],
+                        "MG": [78.4, 0, 337.6, 416],
+                        "Tag": 92744494,
+                        "@": 92744495,
+                        "Alpha": 255,
+                        "Name": "snowba4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, -210, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [0, -0.742, 0.277, 0.277],
+                        "MG": [414.4, 336, 0, 78.4],
+                        "Tag": 92744492,
+                        "@": 92744493,
+                        "Alpha": 255,
+                        "Name": "snowba3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            1, 0, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [0.0035, 0, 0.277, 0.277],
+                        "MG": [78.4, 0, 1.6, 80],
+                        "Tag": 92744490,
+                        "@": 92744491,
+                        "Alpha": 255,
+                        "Name": "snowba2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/snowba.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            1, -71, 0.9999, 0.9999, 78.4, 78.4, 0, 0, 0.0491,
+                            0.9821
+                        ],
+                        "PrePos": [0.0035, -0.2509, 0.277, 0.277],
+                        "MG": [192, 113.6, 1.6, 80],
+                        "Tag": 92744488,
+                        "@": 92744489,
+                        "Alpha": 255,
+                        "Name": "snowba1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 283, "Y": 283 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

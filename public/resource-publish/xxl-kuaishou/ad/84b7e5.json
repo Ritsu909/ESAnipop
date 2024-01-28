@@ -1,0 +1,1033 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        50059,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50059,
+                        [
+                            { "P": [10.85, 6], "I": 0, "T": 0 },
+                            { "P": [10.85, 6], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50059,
+                        [
+                            { "P": [3.72, -12.24], "I": 0, "T": 0 },
+                            { "P": [3.72, -12.24], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50059,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.26, 0.56, 0.17, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.26, 0.56, 0.17, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50061,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50061,
+                        [
+                            { "P": [24.25, -5.85], "I": 0, "T": 0 },
+                            { "P": [24.25, -5.85], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50061,
+                        [
+                            { "P": [15.72, 34.14], "I": 0, "T": 0 },
+                            { "P": [15.72, 34.14], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50061,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.55, 0, 0.01, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.55, 0, 0.01, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50063,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50063,
+                        [
+                            { "P": [1.5, 17.85], "I": 0, "T": 0 },
+                            { "P": [1.5, 17.85], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50063,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.03, 0, 0.49, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.03, 0, 0.49, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50065,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50065,
+                        [
+                            { "P": [-19.65, 1], "I": 0, "T": 0 },
+                            { "P": [-19.65, 1], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50065,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.39, 0.1, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.39, 0.1, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50067,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50067,
+                        [
+                            { "P": [14.8, -46.8], "I": 0, "T": 0 },
+                            { "P": [14.8, -46.8], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50067,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.05, 0.47, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.05, 0.47, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50069,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50069,
+                        [
+                            { "P": [-17.85, -33.55], "I": 0, "T": 0 },
+                            { "P": [-17.85, -33.55], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50069,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.56, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.56, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50071,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50071,
+                        [
+                            { "P": [18.35, -46.05], "I": 0, "T": 0 },
+                            { "P": [18.35, -46.05], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50071,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.17, 0.56, 0.5, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.17, 0.56, 0.5, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50073,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50073,
+                        [
+                            { "P": [-8.15, 11], "I": 0, "T": 0 },
+                            { "P": [-8.15, 11], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50073,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0, 0.27, 0.54, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0, 0.27, 0.54, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50075,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50075,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.33, 0.49, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.33, 0.49, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50077,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50077,
+                        [
+                            { "P": [7.6, -51.9], "I": 0, "T": 0 },
+                            { "P": [7.6, -51.9], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50077,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.16, 0.16, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.16, 0.16, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50079,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50079,
+                        [
+                            { "P": [-9.9, -44.9], "I": 0, "T": 0 },
+                            { "P": [-9.9, -44.9], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50079,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.52, 0.2, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.52, 0.2, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50081,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50081,
+                        [
+                            { "P": [11.1, -41.2], "I": 0, "T": 0 },
+                            { "P": [11.1, -41.2], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50081,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.28, 0.55, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.56, 0.28, 0.55, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50083,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50083,
+                        [
+                            { "P": [18.85, -43.7], "I": 0, "T": 0 },
+                            { "P": [18.85, -43.7], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50083,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.11, 0.02, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.11, 0.02, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50085,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50085,
+                        [
+                            { "P": [-15.15, -48.7], "I": 0, "T": 0 },
+                            { "P": [-15.15, -48.7], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50085,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.11, 0.02, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.44, 0.44, 0.44, 1],
+                                    "u_delta": [0.11, 0.02, 0.56, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 24,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            10, 6, 1.4484, 0.8621, 0, 0, 3.72, -12.25, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 178, "G": 255, "B": 155 },
+                        "MG": [6, -6, 10, -10],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50058,
+                        "@": 50059,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            24, -5, 1.4677, 0.8621, 0, 0, 15.73, 34.14, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 253, "G": 112, "B": 115 },
+                        "MG": [-5, 5, 24, -24],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50060,
+                        "@": 50061,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [1, 17, 1.1996, 1.0188, 0, 0, 1.72, 0.11, 0, 0],
+                        "CColor": { "A": 255, "R": 119, "G": 112, "B": 238 },
+                        "MG": [17, -17, 1, -1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50062,
+                        "@": 50063,
+                        "Alpha": 255,
+                        "Name": "3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            -19, 1, 1.4483, 0.8621, 0, 0, -25.48, -41.45, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 255, "G": 211, "B": 137 },
+                        "MG": [1, -1, -19, 19],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50064,
+                        "@": 50065,
+                        "Alpha": 255,
+                        "Name": "4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            14, -46, 1.4682, 1.154, 0, 0, 23.23, 7.26, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 255, "G": 125, "B": 232 },
+                        "MG": [-46, 46, 14, -14],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50066,
+                        "@": 50067,
+                        "Alpha": 255,
+                        "Name": "5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            -17, -33, 1.4483, 0.8621, 0, 0, -30.73, -46.69, 0, 0
+                        ],
+                        "MG": [-33, 33, -17, 17],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50068,
+                        "@": 50069,
+                        "Alpha": 255,
+                        "Name": "6",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            18, -46, 2.2043, 1.0367, 0, 0, 33.95, -16.4, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 155, "G": 255, "B": 240 },
+                        "MG": [-46, 46, 18, -18],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50070,
+                        "@": 50071,
+                        "Alpha": 255,
+                        "Name": "7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            -8, 11, 1.0666, 0.7801, 0, 0, -7.73, -23.69, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 112, "G": 181, "B": 250 },
+                        "MG": [11, -11, -8, 8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50072,
+                        "@": 50073,
+                        "Alpha": 255,
+                        "Name": "8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [0, -51, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "CColor": { "A": 255, "R": 197, "G": 236, "B": 255 },
+                        "MG": [-51, 51, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50074,
+                        "@": 50075,
+                        "Alpha": 255,
+                        "Name": "9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            7, -51, 1.4981, 0.8252, 0, 0, 3.52, -44.6, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 255, "G": 153, "B": 153 },
+                        "MG": [-51, 51, 7, -7],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50076,
+                        "@": 50077,
+                        "Alpha": 255,
+                        "Name": "10",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            -9, -44, 1.1341, 1.042, 0, 0, -11.45, 16.7, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 162 },
+                        "MG": [-44, 44, -9, 9],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50078,
+                        "@": 50079,
+                        "Alpha": 255,
+                        "Name": "11",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            11, -41, 1.9226, 0.7502, 0, 0, 18.46, -35.28, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 255, "G": 184, "B": 253 },
+                        "MG": [-41, 41, 11, -11],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50080,
+                        "@": 50081,
+                        "Alpha": 255,
+                        "Name": "12",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            18, -43, 1.6949, 0.7673, 0, 0, 15.72, -41.82, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 139, "G": 118, "B": 255 },
+                        "MG": [-43, 43, 18, -18],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50082,
+                        "@": 50083,
+                        "Alpha": 255,
+                        "Name": "13",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFITTI_POPOUT@6x.json"
+                        },
+                        "Pos": [
+                            -15, -48, 1.6306, 0.9489, 0, 0, -38.65, 17.44, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 139, "G": 118, "B": 255 },
+                        "MG": [-48, 48, -15, 15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50084,
+                        "@": 50085,
+                        "Alpha": 255,
+                        "Name": "14",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

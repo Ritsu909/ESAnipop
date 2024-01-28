@@ -1,0 +1,168 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/coinnnnnnnnn.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            195, -162, 1, 1, 150.4, 120, 0, 0, 0.5037, 0.5054
+                        ],
+                        "PrePos": [0.325, -0.4563, 0.2507, 0.338],
+                        "MG": [379.2, 259.2, 312, 462.4],
+                        "Tag": 84746857,
+                        "@": 84746858,
+                        "Alpha": 255,
+                        "Name": "coinnnnnnnnn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/groupppppppppp.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            503, -166, 1, 1, 140.8, 108.8, 0, 0, 0.4972, 0.4986
+                        ],
+                        "PrePos": [0.8383, -0.4676, 0.2347, 0.3065],
+                        "MG": [374.4, 265.6, 804.8, 945.6],
+                        "Tag": 84746855,
+                        "@": 84746856,
+                        "Alpha": 255,
+                        "Name": "groupppppppppp",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [124, -215, 1, 1, 154, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 166, "G": 90, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2067, -0.6056, 0.2567, 0.1211],
+                        "MG": [97, 215, 124, 322],
+                        "IsCustomSize": true,
+                        "LabelText": "风车币购买",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746853,
+                        "@": 84746854,
+                        "Name": "descb1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [407, -215, 1, 1, 195, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 166, "G": 90, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6783, -0.6056, 0.325, 0.1211],
+                        "MG": [97, 215, 407, -2],
+                        "IsCustomSize": true,
+                        "LabelText": "好友帮助+1次",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746851,
+                        "@": 84746852,
+                        "Name": "descb2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_btn_green_start2@6x.json"
+                        },
+                        "Pos": [172, -306, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2867, -0.862, 0.4667, 0.3437],
+                        "MG": [-73, 306, 172, 148],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746849,
+                        "@": 84746850,
+                        "Alpha": 255,
+                        "Name": "btn1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_btn_blue_start@6x.json"
+                        },
+                        "Pos": [480, -302, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.8, -0.8507, 0.4667, 0.3437],
+                        "MG": [-69, 302, 480, -160],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746847,
+                        "@": 84746848,
+                        "Alpha": 255,
+                        "Name": "btn2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            651, -47, 0.9, 0.9, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [1.085, -0.1324, 0.144, 0.2344],
+                        "MG": [158.4, 75.2, 1041.6, 1128],
+                        "Tag": 84746845,
+                        "@": 84746846,
+                        "Alpha": 255,
+                        "Name": "closebtn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [194, -26, 1, 1, 322, 55, 0, 0, 0, 1],
+                        "PrePos": [0.3233, -0.0732, 0.5367, 0.1549],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [274, 26, 194, 84],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得闯关次数",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746843,
+                        "@": 84746844,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 600, "Y": 355 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

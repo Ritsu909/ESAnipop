@@ -1,0 +1,597 @@
+{
+    "0": { "mapKey": "kRandom", "itemType": 1, "color": 0, "special": 0 },
+    "1": { "mapKey": "kBlue", "itemType": 1, "color": 1, "special": 0 },
+    "2": { "mapKey": "kGreen", "itemType": 1, "color": 2, "special": 0 },
+    "3": { "mapKey": "kBrown", "itemType": 1, "color": 3, "special": 0 },
+    "4": { "mapKey": "kPurple", "itemType": 1, "color": 4, "special": 0 },
+    "5": { "mapKey": "kRed", "itemType": 1, "color": 5, "special": 0 },
+    "6": { "mapKey": "kYellow", "itemType": 1, "color": 6, "special": 0 },
+    "7": { "mapKey": "kHLineRandom", "itemType": 1, "color": 0, "special": 8 },
+    "8": { "mapKey": "kHLineBlue", "itemType": 1, "color": 1, "special": 8 },
+    "9": { "mapKey": "kHLineGreen", "itemType": 1, "color": 2, "special": 8 },
+    "10": { "mapKey": "kHLineBrown", "itemType": 1, "color": 3, "special": 8 },
+    "11": { "mapKey": "kHLinePurple", "itemType": 1, "color": 4, "special": 8 },
+    "12": { "mapKey": "kHLineRed", "itemType": 1, "color": 5, "special": 8 },
+    "13": { "mapKey": "kHLineYellow", "itemType": 1, "color": 6, "special": 8 },
+    "14": { "mapKey": "kVLineRandom", "itemType": 1, "color": 0, "special": 9 },
+    "15": { "mapKey": "kVLineBlue", "itemType": 1, "color": 1, "special": 9 },
+    "16": { "mapKey": "kVlineGreen", "itemType": 1, "color": 2, "special": 9 },
+    "17": { "mapKey": "kVlineBrown", "itemType": 1, "color": 3, "special": 9 },
+    "18": { "mapKey": "kVlinePurple", "itemType": 1, "color": 4, "special": 9 },
+    "19": { "mapKey": "kVLineRed", "itemType": 1, "color": 5, "special": 9 },
+    "20": { "mapKey": "kVlineYellow", "itemType": 1, "color": 6, "special": 9 },
+    "21": { "mapKey": "kCrossRandom", "itemType": 1, "color": 0, "special": 7 },
+    "22": { "mapKey": "kCrossBlue", "itemType": 1, "color": 1, "special": 7 },
+    "23": { "mapKey": "kCrossGreen", "itemType": 1, "color": 2, "special": 7 },
+    "24": { "mapKey": "kCrossBrown", "itemType": 1, "color": 3, "special": 7 },
+    "25": { "mapKey": "kCrossPurple", "itemType": 1, "color": 4, "special": 7 },
+    "26": { "mapKey": "kCrossRed", "itemType": 1, "color": 5, "special": 7 },
+    "27": { "mapKey": "kCrossYellow", "itemType": 1, "color": 6, "special": 7 },
+    "28": { "mapKey": "kWrapRandom", "itemType": 1, "color": 0, "special": 10 },
+    "29": { "mapKey": "kWrapBlue", "itemType": 1, "color": 1, "special": 10 },
+    "30": { "mapKey": "kWrapGreen", "itemType": 1, "color": 2, "special": 10 },
+    "31": { "mapKey": "kWrapBrown", "itemType": 1, "color": 3, "special": 10 },
+    "32": { "mapKey": "kWrapPurple", "itemType": 1, "color": 4, "special": 10 },
+    "33": { "mapKey": "kWrapRed", "itemType": 1, "color": 5, "special": 10 },
+    "34": { "mapKey": "kWrapYellow", "itemType": 1, "color": 6, "special": 10 },
+    "35": { "mapKey": "kBird", "itemType": 1, "color": 0, "special": 11 },
+    "36": { "mapKey": "kEmpty" },
+    "37": { "mapKey": "kIceLevel_1", "strength": 1 },
+    "38": { "mapKey": "kIceLevel_2", "strength": 2 },
+    "39": { "mapKey": "kIceLevel_3", "strength": 3 },
+    "40": { "mapKey": "kSnowLevel_1", "itemType": 40, "strength": 1 },
+    "41": { "mapKey": "kSnowLevel_2", "itemType": 40, "strength": 2 },
+    "42": { "mapKey": "kSnowLevel_3", "itemType": 40, "strength": 3 },
+    "43": { "mapKey": "kSnowLevel_4", "itemType": 40, "strength": 4 },
+    "44": { "mapKey": "kSnowLevel_5", "itemType": 40, "strength": 5 },
+    "45": { "mapKey": "kLock" },
+    "46": { "mapKey": "kCoin", "itemType": 46, "level": 80 },
+    "47": { "mapKey": "kCrystal", "itemType": 47, "color": 0 },
+    "48": {
+        "mapKey": "kAlienA",
+        "itemType": 48,
+        "color": 20,
+        "level": 65,
+        "special": 0
+    },
+    "49": {
+        "mapKey": "kAlienB",
+        "itemType": 49,
+        "color": 21,
+        "level": 65,
+        "special": 0
+    },
+    "50": { "mapKey": "kCloud_1", "itemType": 50, "strength": 1 },
+    "51": { "mapKey": "kCloud_2", "itemType": 50, "strength": 2 },
+    "52": { "mapKey": "kCloud_3", "itemType": 50, "strength": 3 },
+    "53": { "mapKey": "kJewel_1", "itemType": 53, "strength": 1 },
+    "54": { "mapKey": "kJewel_2", "itemType": 53, "strength": 2 },
+    "55": { "mapKey": "kJewel_3", "itemType": 53, "strength": 3 },
+    "56": { "mapKey": "kRope", "itemType": 56 },
+    "57": {
+        "mapKey": "kChain_1",
+        "itemType": 57,
+        "remove": true,
+        "strength": 1,
+        "isolate": true,
+        "level": 73
+    },
+    "58": {
+        "mapKey": "kChain_2",
+        "itemType": 57,
+        "remove": true,
+        "strength": 2,
+        "isolate": true,
+        "level": 73
+    },
+    "59": {
+        "mapKey": "kChain_3",
+        "itemType": 57,
+        "remove": true,
+        "strength": 3,
+        "isolate": true,
+        "level": 73
+    },
+    "60": {
+        "mapKey": "kChain_4",
+        "itemType": 57,
+        "remove": true,
+        "strength": 4,
+        "isolate": true,
+        "level": 73
+    },
+    "61": {
+        "mapKey": "kChain_5",
+        "itemType": 57,
+        "remove": true,
+        "strength": 5,
+        "isolate": true,
+        "level": 73
+    },
+    "62": { "mapKey": "kWater", "layer": 3 },
+    "63": { "mapKey": "kSeaAnimal_1_1", "width": 1, "height": 1 },
+    "64": { "mapKey": "kSeaAnimal_1_2", "width": 1, "height": 2 },
+    "65": { "mapKey": "kSeaAnimal_2_1", "width": 2, "height": 1 },
+    "66": { "mapKey": "kSeaAnimal_2_2", "width": 2, "height": 2 },
+    "67": { "mapKey": "kSeaAnimal_2_3", "width": 2, "height": 3 },
+    "68": { "mapKey": "kSeaAnimal_3_2", "width": 3, "height": 2 },
+    "69": { "mapKey": "kColorBlock_1", "color": 1 },
+    "70": { "mapKey": "kColorBlock_2", "color": 2 },
+    "71": { "mapKey": "kColorBlock_3", "color": 3 },
+    "72": { "mapKey": "kColorBlock_4", "color": 4 },
+    "73": { "mapKey": "kColorBlock_5", "color": 5 },
+    "74": { "mapKey": "kColorBlock_6", "color": 6 },
+    "75": { "mapKey": "kFish_1", "itemType": 75, "color": 0, "strength": 1 },
+    "76": { "mapKey": "kFish_2", "itemType": 75, "color": 0, "strength": 2 },
+    "77": { "mapKey": "kFish_3", "itemType": 75, "color": 0, "strength": 3 },
+    "78": { "mapKey": "kCircle", "itemType": 83, "color": 22, "strength": 1 },
+    "79": { "mapKey": "kCircle2", "itemType": 83, "color": 22, "strength": 2 },
+    "80": { "mapKey": "kCircle3", "itemType": 83, "color": 22, "strength": 3 },
+    "81": { "mapKey": "kCircle4", "itemType": 83, "color": 22, "strength": 4 },
+    "82": { "mapKey": "kCircle5", "itemType": 83, "color": 22, "strength": 5 },
+    "83": { "mapKey": "kCircle6", "itemType": 83, "color": 22, "strength": 6 },
+    "84": { "mapKey": "kRoost", "itemType": 84 },
+    "85": { "mapKey": "kRandomArea_1_1", "seaAnimalType": 63 },
+    "86": { "mapKey": "kRandomArea_1_2", "seaAnimalType": 64 },
+    "87": { "mapKey": "kRandomArea_2_2", "seaAnimalType": 66 },
+    "88": { "mapKey": "kRandomArea_3_2", "seaAnimalType": 68 },
+    "89": {
+        "mapKey": "kBlue_Surper_Bird",
+        "itemType": 1,
+        "color": 1,
+        "special": 12
+    },
+    "90": {
+        "mapKey": "kGreen_Surper_Bird",
+        "itemType": 1,
+        "color": 2,
+        "special": 12
+    },
+    "91": {
+        "mapKey": "kBrown_Surper_Bird",
+        "itemType": 1,
+        "color": 3,
+        "special": 12
+    },
+    "92": {
+        "mapKey": "kPurple_Surper_Bird",
+        "itemType": 1,
+        "color": 4,
+        "special": 12
+    },
+    "93": {
+        "mapKey": "kRed_Surper_Bird",
+        "itemType": 1,
+        "color": 5,
+        "special": 12
+    },
+    "94": {
+        "mapKey": "kYellow_Surper_Bird",
+        "itemType": 1,
+        "color": 6,
+        "special": 12
+    },
+    "95": {
+        "mapKey": "kRandom_Surper_Bird",
+        "itemType": 1,
+        "color": 0,
+        "special": 12
+    },
+    "96": { "mapKey": "kHoneyBottle", "itemType": 96 },
+    "97": { "mapKey": "kHoney", "strength": 1, "itemType": 97 },
+    "98": { "mapKey": "kStone", "itemType": 98 },
+    "99": { "mapKey": "kMissile", "itemType": 99, "color": 23, "level": 95 },
+    "101": {
+        "mapKey": "kVar_Snow_1",
+        "strength": 1,
+        "itemType": 101,
+        "level": 6
+    },
+    "102": {
+        "mapKey": "kVar_Snow_2",
+        "strength": 2,
+        "itemType": 101,
+        "level": 6
+    },
+    "103": {
+        "mapKey": "kVar_Snow_3",
+        "strength": 3,
+        "itemType": 101,
+        "level": 6
+    },
+    "104": {
+        "mapKey": "kVar_Snow_4",
+        "strength": 4,
+        "itemType": 101,
+        "level": 6
+    },
+    "105": {
+        "mapKey": "kVar_Snow_5",
+        "strength": 5,
+        "itemType": 101,
+        "level": 6
+    },
+    "106": { "mapKey": "kBoss_Ignore_Area" },
+    "107": {
+        "mapKey": "kHVLineRandom",
+        "itemType": 1,
+        "color": 0,
+        "special": 15
+    },
+    "108": { "mapKey": "kRandomArea_0", "seaAnimalType": 108 },
+    "109": {
+        "mapKey": "kFurball_1",
+        "strength": 2,
+        "furballType": 1,
+        "level": 245
+    },
+    "110": {
+        "mapKey": "kFurball_2",
+        "strength": 2,
+        "furballType": 2,
+        "level": 245
+    },
+    "111": {
+        "mapKey": "kFurball_3",
+        "strength": 2,
+        "furballType": 3,
+        "level": 245
+    },
+
+    "119": { "mapKey": "kDandelion", "itemType": 119 },
+    "120": { "mapKey": "kDandelionSeed", "itemType": 120 },
+    "121": { "mapKey": "kSubmarine", "itemType": 121 },
+    "122": { "mapKey": "kGather" },
+    "123": { "mapKey": "kReef_1", "strength": 1 },
+    "124": { "mapKey": "kReef_2", "strength": 2 },
+    "125": { "mapKey": "kReef_3", "strength": 3 },
+    "126": { "mapKey": "kBoat", "itemType": 126 },
+    "127": { "mapKey": "kDigWater" },
+    "128": { "mapKey": "kSoil_1", "strength": 1 },
+    "129": { "mapKey": "kSoil_2", "strength": 2 },
+    "130": { "mapKey": "kSoil_3", "strength": 3 },
+    "131": { "mapKey": "kGum_0", "itemType": 131, "color": 0, "special": 0 },
+    "132": { "mapKey": "kGum_1", "itemType": 131, "color": 1, "special": 0 },
+    "133": { "mapKey": "kGum_2", "itemType": 131, "color": 2, "special": 0 },
+    "134": { "mapKey": "kGum_3", "itemType": 131, "color": 3, "special": 0 },
+    "135": { "mapKey": "kGum_4", "itemType": 131, "color": 4, "special": 0 },
+    "136": { "mapKey": "kGum_5", "itemType": 131, "color": 5, "special": 0 },
+    "137": { "mapKey": "kGum_6", "itemType": 131, "color": 6, "special": 0 },
+    "138": { "mapKey": "kVariousBox", "itemType": 138, "level": 57 },
+    "139": { "mapKey": "kFishLock" },
+    "140": { "mapKey": "kBoss_Prefer_Area" },
+    "141": { "mapKey": "kBoss_None_Area" },
+    "142": { "mapKey": "kFishClock", "itemType": 142 },
+    "143": { "mapKey": "kStarfish", "itemType": 143, "color": 0, "special": 0 },
+    "144": { "mapKey": "kMoveTile" },
+    "145": { "mapKey": "kMissile_Hate_Area" },
+    "146": { "mapKey": "kVenom", "level": 125 },
+    "147": { "mapKey": "kVenomTroublesome", "level": 125 },
+    "148": { "mapKey": "kFlowerVine_1", "strength": 1 },
+    "149": { "mapKey": "kFlowerVine_2", "strength": 2 },
+    "150": { "mapKey": "kFlowerVine_3", "strength": 3 },
+    "151": { "mapKey": "kFlowerVine_4", "strength": 4 },
+    "152": {
+        "mapKey": "kJellyfish",
+        "itemType": 152,
+        "strength": 3,
+        "level": 185
+    },
+    "153": { "mapKey": "kLighthouse", "itemType": 153, "strength": 0 },
+    "154": { "mapKey": "kLotus" },
+    "155": {
+        "mapKey": "kFurball_4",
+        "strength": 2,
+        "furballType": 4,
+        "level": 245
+    },
+    "156": { "mapKey": "kMigicBox", "itemType": 156 },
+    "157": { "mapKey": "kMagicLight" },
+    "158": { "mapKey": "kRabbit" },
+    "159": {
+        "mapKey": "kSurfingCat_0",
+        "itemType": 159,
+        "color": 0,
+        "special": 0
+    },
+    "160": {
+        "mapKey": "kSurfingCat_1",
+        "itemType": 159,
+        "color": 1,
+        "special": 0
+    },
+    "161": {
+        "mapKey": "kSurfingCat_2",
+        "itemType": 159,
+        "color": 2,
+        "special": 0
+    },
+    "162": {
+        "mapKey": "kSurfingCat_3",
+        "itemType": 159,
+        "color": 3,
+        "special": 0
+    },
+    "163": {
+        "mapKey": "kSurfingCat_4",
+        "itemType": 159,
+        "color": 4,
+        "special": 0
+    },
+    "164": {
+        "mapKey": "kSurfingCat_5",
+        "itemType": 159,
+        "color": 5,
+        "special": 0
+    },
+    "165": {
+        "mapKey": "kSurfingCat_6",
+        "itemType": 159,
+        "color": 6,
+        "special": 0
+    },
+    "166": { "mapKey": "kPaw_0", "itemType": 166, "color": 0, "special": 0 },
+    "167": { "mapKey": "kPaw_1", "itemType": 166, "color": 1, "special": 0 },
+    "168": { "mapKey": "kPaw_2", "itemType": 166, "color": 2, "special": 0 },
+    "169": { "mapKey": "kPaw_3", "itemType": 166, "color": 3, "special": 0 },
+    "170": { "mapKey": "kPaw_4", "itemType": 166, "color": 4, "special": 0 },
+    "171": { "mapKey": "kPaw_5", "itemType": 166, "color": 5, "special": 0 },
+    "172": { "mapKey": "kPaw_6", "itemType": 166, "color": 6, "special": 0 },
+    "173": { "mapKey": "kPursueStart", "itemType": 173 },
+    "174": { "mapKey": "kPursueEnd", "itemType": 174 },
+    "175": { "mapKey": "kForbitRefresh" },
+    "176": {
+        "mapKey": "kColorCollector_0",
+        "itemType": 176,
+        "color": 0,
+        "special": 0
+    },
+    "177": {
+        "mapKey": "kColorCollector_1",
+        "itemType": 176,
+        "color": 1,
+        "special": 0
+    },
+    "178": {
+        "mapKey": "kColorCollector_2",
+        "itemType": 176,
+        "color": 2,
+        "special": 0
+    },
+    "179": {
+        "mapKey": "kColorCollector_3",
+        "itemType": 176,
+        "color": 3,
+        "special": 0
+    },
+    "180": {
+        "mapKey": "kColorCollector_4",
+        "itemType": 176,
+        "color": 4,
+        "special": 0
+    },
+    "181": {
+        "mapKey": "kColorCollector_5",
+        "itemType": 176,
+        "color": 5,
+        "special": 0
+    },
+    "182": {
+        "mapKey": "kColorCollector_6",
+        "itemType": 176,
+        "color": 6,
+        "special": 0
+    },
+    "183": { "mapKey": "kVarousIgnore" },
+    "184": { "mapKey": "kSurpriseBox_1", "itemType": 184, "strength": 1 },
+    "185": { "mapKey": "kSurpriseBox_2", "itemType": 184, "strength": 2 },
+    "186": { "mapKey": "kSurpriseBonus", "itemType": 186 },
+    "187": { "mapKey": "kSoil_lock", "strength": 999999 },
+    "188": { "mapKey": "kSnowCord" },
+    "189": { "mapKey": "kBigBox_1", "itemType": 189, "strength": 1 },
+    "190": { "mapKey": "kBigBox_2", "itemType": 189, "strength": 2 },
+    "191": { "mapKey": "kBigBox_3", "itemType": 189, "strength": 3 },
+    "192": { "mapKey": "kBigBox_4", "itemType": 189, "strength": 4 },
+    "193": { "mapKey": "kCake_1", "itemType": 193, "strength": 1 },
+    "194": { "mapKey": "kCake_2", "itemType": 193, "strength": 2 },
+    "195": { "mapKey": "kCake_3", "itemType": 193, "strength": 3 },
+    "196": { "mapKey": "kCake_4", "itemType": 193, "strength": 4 },
+    "197": { "mapKey": "kCake_5", "itemType": 193, "strength": 5 },
+    "198": { "mapKey": "kCake_6", "itemType": 193, "strength": 6 },
+    "199": { "mapKey": "kCake_7", "itemType": 193, "strength": 7 },
+    "200": { "mapKey": "kCake_8", "itemType": 193, "strength": 8 },
+    "201": { "mapKey": "kOneLife", "itemType": 201 },
+    "202": { "mapKey": "kBlockMachine", "itemType": 202 },
+    "203": { "mapKey": "kBowknot_1", "itemType": 203, "strength": 1 },
+    "204": { "mapKey": "kBowknot_2", "itemType": 203, "strength": 2 },
+    "205": { "mapKey": "kBowknot_3", "itemType": 203, "strength": 3 },
+    "206": { "mapKey": "kBowknot_4", "itemType": 203, "strength": 4 },
+    "207": { "mapKey": "kBowknot_5", "itemType": 203, "strength": 5 },
+    "208": { "mapKey": "kScoreAnimal_0", "color": 0, "itemType": 208 },
+    "209": { "mapKey": "kScoreAnimal_1", "color": 1, "itemType": 208 },
+    "210": { "mapKey": "kScoreAnimal_2", "color": 2, "itemType": 208 },
+    "211": { "mapKey": "kScoreAnimal_3", "color": 3, "itemType": 208 },
+    "212": { "mapKey": "kScoreAnimal_4", "color": 4, "itemType": 208 },
+    "213": { "mapKey": "kScoreAnimal_5", "color": 5, "itemType": 208 },
+    "214": { "mapKey": "kScoreAnimal_6", "color": 6, "itemType": 208 },
+    "215": { "mapKey": "kShell_1", "strength": 1, "itemType": 215 },
+    "216": { "mapKey": "kShell_2", "strength": 2, "itemType": 215 },
+    "217": { "mapKey": "kShell_3", "strength": 3, "itemType": 215 },
+    "218": { "mapKey": "kSoda_1_2", "width": 1, "height": 2 },
+    "219": { "mapKey": "kSoda_2_1", "width": 2, "height": 1 },
+    "220": {
+        "mapKey": "kStarfish_1",
+        "itemType": 143,
+        "color": 1,
+        "special": 0
+    },
+    "221": {
+        "mapKey": "kStarfish_2",
+        "itemType": 143,
+        "color": 2,
+        "special": 0
+    },
+    "222": {
+        "mapKey": "kStarfish_3",
+        "itemType": 143,
+        "color": 3,
+        "special": 0
+    },
+    "223": {
+        "mapKey": "kStarfish_4",
+        "itemType": 143,
+        "color": 4,
+        "special": 0
+    },
+    "224": {
+        "mapKey": "kStarfish_5",
+        "itemType": 143,
+        "color": 5,
+        "special": 0
+    },
+    "225": {
+        "mapKey": "kStarfish_6",
+        "itemType": 143,
+        "color": 6,
+        "special": 0
+    },
+
+    "226": {
+        "mapKey": "kSuperHoneyBottle_1",
+        "itemType": 226,
+        "strength": 1,
+        "dir": 1
+    },
+    "227": {
+        "mapKey": "kSuperHoneyBottle_2",
+        "itemType": 226,
+        "strength": 2,
+        "dir": 1
+    },
+    "228": {
+        "mapKey": "kSuperHoneyBottle_3",
+        "itemType": 226,
+        "strength": 3,
+        "dir": 1
+    },
+    "229": {
+        "mapKey": "kSuperHoneyBottle_4",
+        "itemType": 226,
+        "strength": 1,
+        "dir": 2
+    },
+    "230": {
+        "mapKey": "kSuperHoneyBottle_5",
+        "itemType": 226,
+        "strength": 2,
+        "dir": 2
+    },
+    "231": {
+        "mapKey": "kSuperHoneyBottle_6",
+        "itemType": 226,
+        "strength": 3,
+        "dir": 2
+    },
+    "232": { "mapKey": "kSoda_1_2_symmetry", "width": 1, "height": 2 },
+    "233": { "mapKey": "kSoda_2_1_symmetry", "width": 2, "height": 1 },
+
+    "234": { "mapKey": "kWaterBomb_0", "color": 0, "itemType": 234 },
+    "235": { "mapKey": "kWaterBomb_1", "color": 1, "itemType": 234 },
+    "236": { "mapKey": "kWaterBomb_2", "color": 2, "itemType": 234 },
+    "237": { "mapKey": "kWaterBomb_3", "color": 3, "itemType": 234 },
+    "238": { "mapKey": "kWaterBomb_4", "color": 4, "itemType": 234 },
+    "239": { "mapKey": "kWaterBomb_5", "color": 5, "itemType": 234 },
+    "240": { "mapKey": "kWaterBomb_6", "color": 6, "itemType": 234 },
+
+    "241": { "mapKey": "kRiceBag", "itemType": 241 },
+    "242": { "mapKey": "kGold", "itemType": 242 },
+    "243": { "mapKey": "kSilver", "itemType": 243 },
+    "244": { "mapKey": "kGoldPackage_1", "lockType": 244, "strength": 1 },
+    "245": { "mapKey": "kGoldPackage_2", "lockType": 244, "strength": 2 },
+    "246": { "mapKey": "kGoldPackage_3", "lockType": 244, "strength": 3 },
+    "247": { "mapKey": "kCandyFloss", "lockType": 247, "strength": 1 },
+
+    "248": { "mapKey": "kRatel_1", "itemType": 248, "strength": 2 },
+    "249": { "mapKey": "kRatel_2", "itemType": 248, "strength": 2 },
+    "250": { "mapKey": "kRatel_3", "itemType": 248, "strength": 2 },
+    "251": { "mapKey": "kRatel_4", "itemType": 248, "strength": 2 },
+
+    "252": { "mapKey": "kWaterBox", "lockType": 252 },
+
+    "253": {
+        "mapKey": "kVulnerable_1_1",
+        "lockType": 253,
+        "strength": 1,
+        "dir": 1
+    },
+    "254": {
+        "mapKey": "kVulnerable_1_2",
+        "lockType": 253,
+        "strength": 1,
+        "dir": 2
+    },
+    "255": {
+        "mapKey": "kVulnerable_1_3",
+        "lockType": 253,
+        "strength": 1,
+        "dir": 3
+    },
+    "256": {
+        "mapKey": "kVulnerable_1_4",
+        "lockType": 253,
+        "strength": 1,
+        "dir": 4
+    },
+    "257": {
+        "mapKey": "kVulnerable_2_1",
+        "lockType": 253,
+        "strength": 2,
+        "dir": 1
+    },
+    "258": {
+        "mapKey": "kVulnerable_2_2",
+        "lockType": 253,
+        "strength": 2,
+        "dir": 2
+    },
+    "259": {
+        "mapKey": "kVulnerable_2_3",
+        "lockType": 253,
+        "strength": 2,
+        "dir": 3
+    },
+    "260": {
+        "mapKey": "kVulnerable_2_4",
+        "lockType": 253,
+        "strength": 2,
+        "dir": 4
+    },
+    "261": {
+        "mapKey": "kVulnerable_3_1",
+        "lockType": 253,
+        "strength": 3,
+        "dir": 1
+    },
+    "262": {
+        "mapKey": "kVulnerable_3_2",
+        "lockType": 253,
+        "strength": 3,
+        "dir": 2
+    },
+    "263": {
+        "mapKey": "kVulnerable_3_3",
+        "lockType": 253,
+        "strength": 3,
+        "dir": 3
+    },
+    "264": {
+        "mapKey": "kVulnerable_3_4",
+        "lockType": 253,
+        "strength": 3,
+        "dir": 4
+    },
+
+    "265": { "mapKey": "kCapsuleToy_3", "itemType": 265, "strength": 3 },
+    "266": { "mapKey": "kCapsuleToy_2", "itemType": 265, "strength": 2 },
+    "267": { "mapKey": "kCapsuleToy_1", "itemType": 265, "strength": 1 }
+}

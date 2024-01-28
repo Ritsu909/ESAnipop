@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            17, -27, 1, 1, 35.2, 35.2, 0, 0, 0.4886, 0.5114
+                        ],
+                        "PrePos": [0.1828, -0.7941, 0.3785, 1.0353],
+                        "MG": [78.4, 43.2, 27.2, 62.4],
+                        "Tag": 87667252,
+                        "@": 87667253,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/place_holder.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            76, -27, 1, 1, 35.2, 35.2, 0, 0, 0.4886, 0.5114
+                        ],
+                        "PrePos": [0.8172, -0.7941, 0.3785, 1.0353],
+                        "MG": [78.4, 43.2, 121.6, 156.8],
+                        "Tag": 87667250,
+                        "@": 87667251,
+                        "Alpha": 255,
+                        "Name": "label",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 93, "Y": 34 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

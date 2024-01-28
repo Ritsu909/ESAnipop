@@ -1,0 +1,53 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_prompt_1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            1, -1, 0.9, 0.9, 49.6, 48, 0, 0, 0.5141, 0.4979
+                        ],
+                        "PrePos": [0.0213, -0.0208, 1.0553, 1],
+                        "MG": [49.6, 1.6, 1.6, 51.2],
+                        "Tag": 29325499,
+                        "@": 29325500,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_prompt_1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [1, -1, 1, 1, 49.6, 48, 0, 0, 0.5141, 0.4979],
+                        "PrePos": [0.0213, -0.0208, 1.0553, 1],
+                        "MG": [49.6, 1.6, 1.6, 51.2],
+                        "Tag": 29325497,
+                        "@": 29325498,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 47, "Y": 48 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

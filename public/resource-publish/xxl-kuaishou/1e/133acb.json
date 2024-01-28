@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50151,
+                        [
+                            { "P": [-2.25, -0.5], "I": 0, "T": 0 },
+                            { "P": [-2.25, -0.5], "I": 30 },
+                            { "P": [-2.25, -0.5], "I": 33 },
+                            { "P": [-2.25, -0.5], "I": 36, "T": 0 },
+                            { "P": [-2.25, -0.5], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50151,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 30 },
+                            { "P": [1, 0.2103], "I": 33 },
+                            { "P": [1, 1], "I": 36, "T": 0 },
+                            { "P": [1, 1], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [-2, 0, 1, 1, 32, 38.4, 0, 0, 0.4172, 0.4896],
+                        "MG": [38.4, 0, -3.2, 28.8],
+                        "Tag": 50150,
+                        "@": 50151,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

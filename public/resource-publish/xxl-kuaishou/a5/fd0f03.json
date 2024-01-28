@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 151.9238, 157.4005, 0, 0, 0.0005, 0.9994
+                        ],
+                        "MG": [164.8, 0, 0, 214.4],
+                        "Scale9": [67, 50, 3, 3],
+                        "Tag": 84748616,
+                        "@": 84748617,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_commons_ui_fontsize_rect.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            15, -17, 15.0019, 15.0019, 8, 8, 0, 0, 0.0125,
+                            0.9875
+                        ],
+                        "PrePos": [0.0993, -0.1083, 0.053, 0.051],
+                        "MG": [35.2, 27.2, 24, 32],
+                        "Tag": 84748614,
+                        "@": 84748615,
+                        "Alpha": 255,
+                        "Name": "item",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [66, -99, 1, 1, 69, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.4371, -0.6306, 0.457, 0.2357],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [21, 99, 66, 16],
+                        "IsCustomSize": true,
+                        "LabelText": "x100",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84748612,
+                        "@": 84748613,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 151, "Y": 157 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

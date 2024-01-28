@@ -1,0 +1,250 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted_publish/bg2.png",
+                            "Plist": "cocos/wanted_publish@6x.plist"
+                        },
+                        "Pos": [
+                            209, 0, 1, 1, 196.8, 115.2, 0, 0, 0.0168, 0.9991
+                        ],
+                        "PrePos": [0.3438, 0, 0.3237, 0.2194],
+                        "MG": [115.2, 0, 334.4, 531.2],
+                        "Tag": 84983225,
+                        "@": 84983226,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -87, 1, 1, 615.1008, 444.6146, 0, 0, 0.001,
+                            0.9989
+                        ],
+                        "PrePos": [0, -0.1657, 0.1579, 0.1798],
+                        "MG": [233.6, 139.2, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84983183,
+                        "@": 84983184,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            142, -125, 1, 1, 327.2544, 76.8888, 0, 0, 0.001,
+                            0.9989
+                        ],
+                        "PrePos": [0.2336, -0.2381, 0.1579, 0.1798],
+                        "MG": [294.4, 200, 227.2, 323.2],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84983181,
+                        "@": 84983182,
+                        "Alpha": 255,
+                        "Name": "inner_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_publish_btn_plus@6x.json"
+                        },
+                        "Pos": [410, -165, 1, 1, 44, 44, 0, 0, 0, 0],
+                        "PrePos": [0.6743, -0.3143, 0.0724, 0.0838],
+                        "MG": [316, 165, 410, 154],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84983179,
+                        "@": 84983180,
+                        "Alpha": 255,
+                        "Name": "plus_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_publish_btn_minus@6x.json"
+                        },
+                        "Pos": [196, -164, 1, 1, 44, 44, 0, 0, 0, 0],
+                        "PrePos": [0.3224, -0.3124, 0.0724, 0.0838],
+                        "MG": [317, 164, 196, 368],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84983177,
+                        "@": 84983178,
+                        "Alpha": 255,
+                        "Name": "minus_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            345, -163, 1, 1, 51.2, 51.2, 0, 0, 0.4902, 0.5098
+                        ],
+                        "PrePos": [0.5674, -0.3105, 0.0842, 0.0975],
+                        "MG": [312, 260.8, 552, 603.2],
+                        "Tag": 84983175,
+                        "@": 84983176,
+                        "Alpha": 255,
+                        "Name": "item",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_publish_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            187, -337, 0.8354, 0.8317, 194, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.3076, -0.6419, 0.3191, 0.2286],
+                        "MG": [68, 337, 187, 227],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84983173,
+                        "@": 84983174,
+                        "Alpha": 255,
+                        "Name": "btn_green_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_publish_bottom_btn_orange_start@6x.json"
+                        },
+                        "Pos": [
+                            422, -336, 0.8367, 0.8317, 194, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.6941, -0.64, 0.3191, 0.2286],
+                        "MG": [69, 336, 422, -8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84983171,
+                        "@": 84983172,
+                        "Alpha": 255,
+                        "Name": "btn_orange_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            104, -412, 1, 1, 405.3254, 78.4, 0, 0, 0.0012,
+                            0.9987
+                        ],
+                        "PrePos": [0.1711, -0.7848, 0.1368, 0.1493],
+                        "MG": [737.6, 659.2, 166.4, 249.6],
+                        "Scale9": [38, 35, 5, 5],
+                        "Tag": 84983169,
+                        "@": 84983170,
+                        "Alpha": 255,
+                        "Name": "pnl_common02",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [115, -425, 0.9829, 0.9829, 377, 73, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 98, "G": 58, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1891, -0.8095, 0.6201, 0.139],
+                        "MG": [27, 425, 115, 116],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "悬赏发布成功后，系统将收取20%的赏金作为税金。\\n若该悬赏被取消，将返还全部赏金\\n",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 84983167,
+                        "@": 84983168,
+                        "Name": "msg2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [7, -233, 0.9829, 0.9829, 591, 38, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 153, "B": 255 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0115, -0.4438, 0.972, 0.0724],
+                        "MG": [254, 233, 7, 10],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "赏金越多，越容易被其他玩家接受哦!\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 84983165,
+                        "@": 84983166,
+                        "Name": "msg1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [254, -137, 0.9829, 0.9829, 49, 54, 0, 0, 0, 1],
+                        "PrePos": [0.4178, -0.261, 0.0806, 0.1029],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [334, 137, 254, 305],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "20",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84983163,
+                        "@": 84983164,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 608, "Y": 525 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

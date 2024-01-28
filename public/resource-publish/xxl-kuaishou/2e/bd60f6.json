@@ -1,0 +1,232 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/hunter_item_selected.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 598.4, 136, 0, 0, 0.0002, 0.9993],
+                        "MG": [136, 0, 0, 598.4],
+                        "Tag": 111273,
+                        "@": 111274,
+                        "Alpha": 255,
+                        "Name": "selected",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/bg_hunter_blue.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            300, -70, 1, 1, 574.4, 123.2, 0, 0, 0.499, 0.5041
+                        ],
+                        "PrePos": [0.5025, -0.5185, 0.9621, 0.9126],
+                        "MG": [235.2, 112, 480, 1054.4],
+                        "Tag": 111269,
+                        "@": 111270,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/modal_1.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            66, -45, 0.75, 0.749, 104, 100.8, 0, 0, 0.4962,
+                            0.503
+                        ],
+                        "PrePos": [0.1106, -0.3333, 0.1742, 0.7467],
+                        "MG": [172.8, 72, 105.6, 209.6],
+                        "Tag": 111267,
+                        "@": 111268,
+                        "Alpha": 255,
+                        "Name": "modal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/modal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [67, -39, 0.8, 0.8, 88, 80, 0, 0, 0.508, 0.4988],
+                        "PrePos": [0.1122, -0.2889, 0.1474, 0.5926],
+                        "MG": [142.4, 62.4, 107.2, 195.2],
+                        "Tag": 111265,
+                        "@": 111266,
+                        "Alpha": 255,
+                        "Name": "modal_normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [31, -6, 1, 1, 63, 48, 0, 0, 0, 1],
+                        "PrePos": [0.0519, -0.0444, 0.1055, 0.3556],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [81, 6, 31, 503],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "4",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 111263,
+                        "@": 111264,
+                        "Name": "modal_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/headplaceholder.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            142, -68, 0.9, 0.9, 70.4, 70.4, 0, 0, 0.4986, 0.5014
+                        ],
+                        "PrePos": [0.2379, -0.5037, 0.1179, 0.5215],
+                        "MG": [179.2, 108.8, 227.2, 297.6],
+                        "Tag": 111261,
+                        "@": 111262,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            143, -68, 0.6, 0.6, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.2395, -0.5037, 0.209, 0.9244],
+                        "MG": [233.6, 108.8, 228.8, 353.6],
+                        "Tag": 111259,
+                        "@": 111260,
+                        "Alpha": 255,
+                        "Name": "head_box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/x1.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            481, -66, 1, 1, 22.4, 22.4, 0, 0, 0.4933, 0.5067
+                        ],
+                        "PrePos": [0.8057, -0.4889, 0.0375, 0.1659],
+                        "MG": [128, 105.6, 769.6, 792],
+                        "Tag": 111257,
+                        "@": 111258,
+                        "Alpha": 255,
+                        "Name": "x1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [497, -39, 1, 1, 64, 55, 0, 0, 0, 1],
+                        "PrePos": [0.8325, -0.2889, 0.1072, 0.4074],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [41, 39, 497, 36],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "140",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 111255,
+                        "@": 111256,
+                        "Name": "gold_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/gold_coin.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            445, -67, 0.45, 0.45, 96, 96, 0, 0, 0.501, 0.499
+                        ],
+                        "PrePos": [0.7454, -0.4963, 0.1608, 0.7111],
+                        "MG": [203.2, 107.2, 712, 808],
+                        "Tag": 111271,
+                        "@": 111272,
+                        "Alpha": 255,
+                        "Name": "gold",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [183, -51, 1, 1, 99, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 57, "B": 19 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3065, -0.3778, 0.1658, 0.237],
+                        "MG": [52, 51, 183, 315],
+                        "IsCustomSize": true,
+                        "LabelText": "猪仔萌萌\\n",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 111253,
+                        "@": 111254,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [324, -52, 1, 1, 99, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 57, "B": 19 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5427, -0.3852, 0.1658, 0.237],
+                        "MG": [51, 52, 324, 174],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "赏金收入：\\n",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 111251,
+                        "@": 111252,
+                        "Name": "income_label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 597, "Y": 135 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

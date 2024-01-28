@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 54,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        87595253,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 53,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595253,
+                        [
+                            { "P": [2.4, -10.75], "I": 0, "T": 0 },
+                            { "P": [2.4, -10.75], "I": 53, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_animation_goldgot_3@6x.json"
+                        },
+                        "Pos": [2, -10, 1.2, 1.2, 0, 0, 0, 0, 0, 0],
+                        "MG": [-10, 10, 2, -2],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87595252,
+                        "@": 87595253,
+                        "Alpha": 255,
+                        "Name": "layer",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

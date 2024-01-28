@@ -1,0 +1,93 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/hippo_guide.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            446, -149, 1, 1, 195.2, 163.2, 0, 0, 0.2984, 0.8379
+                        ],
+                        "PrePos": [0.788, -0.2005, 0.3449, 0.2197],
+                        "MG": [401.6, 238.4, 713.6, 908.8],
+                        "Tag": 84747195,
+                        "@": 84747196,
+                        "Alpha": 255,
+                        "Name": "hippo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bubbleAnim@6x.json"
+                        },
+                        "Pos": [255, -150, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4505, -0.2019, 0, 0],
+                        "MG": [593, 150, 255, 311],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747193,
+                        "@": 84747194,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            16, -254, 1, 1, 553.1355, 527.809, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.0283, -0.3419, 0.1385, 0.1744],
+                        "MG": [536, 406.4, 25.6, 104],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84747191,
+                        "@": 84747192,
+                        "Alpha": 128,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [210, -36, 1, 1, 164, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 27, "G": 126, "B": 145 },
+                        "PrePos": [0.371, -0.0485, 0.2898, 0.074],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [652, 36, 210, 192],
+                        "IsCustomSize": true,
+                        "LabelText": "添加好友",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746233,
+                        "@": 84746234,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 566, "Y": 743 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

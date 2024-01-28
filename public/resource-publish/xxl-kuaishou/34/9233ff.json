@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyerowshadow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            32, -35, 0.7174, 1, 83.2, 51.2, 0, 176.39, 0.0162,
+                            0.0146
+                        ],
+                        "PrePos": [0.3902, -0.4861, 1.0146, 0.7111],
+                        "MG": [107.2, 56, 51.2, 134.4],
+                        "Tag": 87595268,
+                        "@": 87595269,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyerow1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            24, -31, 1, 1, 83.2, 70.4, 0, 0, 0.7873, 0.0533
+                        ],
+                        "PrePos": [0.2927, -0.4306, 1.0146, 0.9778],
+                        "MG": [120, 49.6, 38.4, 121.6],
+                        "Tag": 87595266,
+                        "@": 87595267,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 82, "Y": 72 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

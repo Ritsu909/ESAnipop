@@ -1,0 +1,77 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bar.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            60, -42, 1, 1, 139.2, 62.4, -0.23, 0, 0.0054, 0.4904
+                        ],
+                        "PrePos": [0.3015, -0.525, 0.6995, 0.78],
+                        "MG": [129.6, 67.2, 96, 235.2],
+                        "Tag": 84746457,
+                        "@": 84746458,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/portraitn.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            40, -40, 0.8, 0.8, 100.8, 100.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.201, -0.5, 0.5065, 1.26],
+                        "MG": [164.8, 64, 64, 164.8],
+                        "Tag": 84746455,
+                        "@": 84746456,
+                        "Alpha": 255,
+                        "Name": "round",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [69, -15, 1, 1, 127, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 229, "G": 166, "B": 44 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3467, -0.1875, 0.6382, 0.375],
+                        "MG": [35, 15, 69, 3],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "昵称昵称昵称\\n",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84746453,
+                        "@": 84746454,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 199, "Y": 80 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

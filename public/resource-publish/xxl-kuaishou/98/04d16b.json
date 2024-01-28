@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "permission_show/close_btn.png",
+                            "Plist": "cocos/permission_show@6x.plist"
+                        },
+                        "Pos": [
+                            -32, 22, 1, 1, 65.6, 46.4, 0, 0, 0.0015, 0.9978
+                        ],
+                        "PrePos": [-0.5, 0.4889, 1.025, 1.0311],
+                        "MG": [11.2, -35.2, -51.2, 14.4],
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "permission_show/close_btn.png",
+                            "Plist": "cocos/permission_show@6x.plist"
+                        },
+                        "Pos": [
+                            -32, 22, 1, 1, 65.6, 46.4, 0, 0, 0.0015, 0.9978
+                        ],
+                        "PrePos": [-0.5, 0.4889, 1.025, 1.0311],
+                        "MG": [11.2, -35.2, -51.2, 14.4],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 64, "Y": 45 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candybear.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, -0.1667, 1.0057, 0.3352],
+                        "MG": [126.4, 56, -56, 14.4],
+                        "Tag": 50208,
+                        "@": 50209,
+                        "Alpha": 255,
+                        "Name": "candybear_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candybear.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0.5, 1.0057, 0.3352],
+                        "MG": [-97.6, -168, -56, 14.4],
+                        "Tag": 50210,
+                        "@": 50211,
+                        "Alpha": 255,
+                        "Name": "candybear_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 70, "Y": 210 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

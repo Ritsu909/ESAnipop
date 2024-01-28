@@ -1,0 +1,567 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 45,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        87667171,
+                        [
+                            {
+                                "P": [-401.45, 452.1],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-445.45, 452.1], "I": 4 },
+                            { "P": [69.85, 452.1], "I": 7 },
+                            { "P": [56.55, 452.1], "I": 14, "T": 0 },
+                            {
+                                "P": [56.55, 452.1],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [68.45, 452.1], "I": 36 },
+                            { "P": [-445.45, 452.1], "I": 39 },
+                            { "P": [-401.45, 452.1], "I": 42, "T": 0 },
+                            { "P": [-401.45, 452.1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87667171,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1, 1], "I": 4 },
+                            { "P": [1.0338, 1], "I": 7 },
+                            { "P": [1, 1], "I": 14, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.0357, 1], "I": 36 },
+                            { "P": [1, 1], "I": 39 },
+                            { "P": [1, 1], "I": 42, "T": 0 },
+                            { "P": [1, 1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667169,
+                        [
+                            {
+                                "P": [-386.7, 337.75],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-426.7, 337.75], "I": 4 },
+                            { "P": [109.3, 337.75], "I": 7 },
+                            { "P": [75.3, 337.75], "I": 14, "T": 0 },
+                            {
+                                "P": [75.3, 337.75],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [103.3, 337.75], "I": 36 },
+                            { "P": [-430.7, 337.75], "I": 39 },
+                            { "P": [-386.7, 337.75], "I": 42, "T": 0 },
+                            { "P": [-386.7, 337.75], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667167,
+                        [
+                            {
+                                "P": [272.65, 387.7],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [246.55, 387.7], "I": 4 },
+                            { "P": [766.7, 387.7], "I": 7 },
+                            { "P": [732.7, 387.7], "I": 14, "T": 0 },
+                            {
+                                "P": [732.7, 387.7],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [766.7, 387.7], "I": 36 },
+                            { "P": [246.55, 387.7], "I": 39 },
+                            { "P": [272.65, 387.7], "I": 42, "T": 0 },
+                            { "P": [272.65, 387.7], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87667167,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [2.28, 1], "I": 4 },
+                            { "P": [1, 1], "I": 7 },
+                            { "P": [1, 1], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 33 },
+                            { "P": [1, 1], "I": 36 },
+                            { "P": [2.28, 1], "I": 39 },
+                            { "P": [1, 1], "I": 42, "T": 0 },
+                            { "P": [1, 1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87667165,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 42,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 44,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667165,
+                        [
+                            {
+                                "P": [183.5, -410.6],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [139.4, -410.6], "I": 4 },
+                            { "P": [675.6, -410.6], "I": 7 },
+                            { "P": [635.6, -410.6], "I": 14, "T": 0 },
+                            {
+                                "P": [635.6, -410.6],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [671.6, -410.6], "I": 36 },
+                            { "P": [135.6, -410.6], "I": 39 },
+                            { "P": [183.5, -410.6], "I": 42, "T": 0 },
+                            { "P": [183.5, -410.6], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667163,
+                        [
+                            {
+                                "P": [169.75, 406.05],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [125.7, 406.05], "I": 4 },
+                            { "P": [467.85, 410.05], "I": 7 },
+                            { "P": [415.8, 410.05], "I": 14, "T": 0 },
+                            {
+                                "P": [415.8, 410.05],
+                                "I": 33,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [467.85, 410.05], "I": 37 },
+                            { "P": [125.7, 406.05], "I": 40 },
+                            { "P": [169.75, 406.05], "I": 43, "T": 0 },
+                            { "P": [169.75, 406.05], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87667163,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1, 1], "I": 4 },
+                            { "P": [1.2128, 1.2128], "I": 7 },
+                            { "P": [1.2128, 1.2128], "I": 14, "T": 0 },
+                            { "P": [1.2128, 1.2128], "I": 33 },
+                            { "P": [1.2128, 1.2128], "I": 37 },
+                            { "P": [1, 1], "I": 40 },
+                            { "P": [1, 1], "I": 43, "T": 0 },
+                            { "P": [1, 1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87667161,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 42,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 44,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667161,
+                        [
+                            {
+                                "P": [13.1, 356.35],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-13.05, 356.35], "I": 4 },
+                            { "P": [479.1, 356.35], "I": 7 },
+                            { "P": [488.1, 356.35], "I": 14, "T": 0 },
+                            { "P": [488.1, 356.35], "I": 33 },
+                            { "P": [479.1, 356.35], "I": 36 },
+                            { "P": [-175.05, 356.35], "I": 39 },
+                            { "P": [13.1, 356.35], "I": 42, "T": 0 },
+                            { "P": [13.1, 356.35], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87667161,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1, 1], "I": 4 },
+                            { "P": [1, 1], "I": 7 },
+                            { "P": [1, 1], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 33 },
+                            { "P": [1, 1], "I": 36 },
+                            { "P": [1.3, 1], "I": 39 },
+                            { "P": [1, 1], "I": 42, "T": 0 },
+                            { "P": [1, 1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87667159,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 42,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 44,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87667159,
+                        [
+                            {
+                                "P": [168.5, 355.4],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [130.45, 355.4], "I": 4 },
+                            { "P": [644.6, 355.4], "I": 7 },
+                            { "P": [619.6, 355.4], "I": 14, "T": 0 },
+                            { "P": [619.6, 355.4], "I": 33 },
+                            { "P": [624.6, 355.4], "I": 36 },
+                            { "P": [130.45, 355.4], "I": 39 },
+                            { "P": [168.5, 355.4], "I": 42, "T": 0 },
+                            { "P": [168.5, 355.4], "I": 44, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -401, 452, 1, 1, 671.1514, 908.9443, 0, 0, 0.0005,
+                            0.9997
+                        ],
+                        "MG": [-412.8, -723.2, -641.6, -430.4],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667170,
+                        "@": 87667171,
+                        "Alpha": 255,
+                        "Name": "magicpanle",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanelinside.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -386, 337, 1, 1, 633.3517, 724.2592, 0, 0, 0.0006,
+                            0.999
+                        ],
+                        "MG": [-440.0, -539.2, -617.6, -451.2],
+                        "Scale9": [41, 24, 83, 49],
+                        "Tag": 87667168,
+                        "@": 87667169,
+                        "Alpha": 255,
+                        "Name": "magicpanelinside",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_trine.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [272, 387, 1, 1, 25.6, 56, 0, 0, 0.4922, 0.4991],
+                        "MG": [-563.2, -619.2, 435.2, 460.8],
+                        "Tag": 87667166,
+                        "@": 87667167,
+                        "Alpha": 255,
+                        "Name": "trine",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_rank_record@6x.json"
+                        },
+                        "Pos": [183, -410, 1, 1, 227, 27, 0, 0, 0, 0],
+                        "MG": [-437, 410, 183, -410],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667164,
+                        "@": 87667165,
+                        "Alpha": 255,
+                        "Name": "record",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_title.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            169, 406, 1, 1, 113.6, 41.6, 0, 0, 0.4978, 0.5577
+                        ],
+                        "MG": [-608, -649.6, 270.4, 384],
+                        "Tag": 87667162,
+                        "@": 87667163,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_rank_tab_container_1@6x.json"
+                        },
+                        "Pos": [13, 356, 1, 1, 121, 41, 0, 0, 0, 0],
+                        "MG": [315, -356, 13, -134],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667160,
+                        "@": 87667161,
+                        "Alpha": 255,
+                        "Name": "container_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_rank_tab_container_3@6x.json"
+                        },
+                        "Pos": [168, 355, 1, 1, 116, 40, 0, 0, 0, 0],
+                        "MG": [315, -355, 168, -284],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667158,
+                        "@": 87667159,
+                        "Alpha": 255,
+                        "Name": "container_3",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

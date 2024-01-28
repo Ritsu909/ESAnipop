@@ -1,0 +1,291 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/bg_blue_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 10, 5.9375, 96, 128, 0, 0, 0.001, -0.0008
+                        ],
+                        "MG": [128, 0, 0, 96],
+                        "Tag": 76276068,
+                        "@": 76276069,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/sky_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, 1280, 18.4615, 1, 52.8, 531.2, 0, 0, 0.0019,
+                            0.9998
+                        ],
+                        "PrePos": [0, 1, 0.0276, 0.415],
+                        "MG": [-1516.8, -2048, 0, 52.8],
+                        "Tag": 76276066,
+                        "@": 76276067,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_nd_2.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            189, 1209, 1, 1, 280, 86.4, 0, 0, 0.4986, 0.5012
+                        ],
+                        "PrePos": [0.0989, 0.9445, 0.1465, 0.0675],
+                        "MG": [-1848, -1934.4, 302.4, 582.4],
+                        "Tag": 76276064,
+                        "@": 76276065,
+                        "Alpha": 255,
+                        "Name": "cloud_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_nd_1.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            677, 1131, 1, 1, 174.4, 72, 0, 0, 0.4994, 0.5056
+                        ],
+                        "PrePos": [0.3543, 0.8836, 0.0913, 0.0562],
+                        "MG": [-1737.6, -1809.6, 1083.2, 1257.6],
+                        "Tag": 76276062,
+                        "@": 76276063,
+                        "Alpha": 255,
+                        "Name": "cloud_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/lagecloud_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [222, 1056, 1, 1, 467.2, 136, 0, 0, 0.5, 0.5029],
+                        "PrePos": [0.1162, 0.825, 0.2445, 0.1062],
+                        "MG": [-1553.6, -1689.6, 355.2, 822.4],
+                        "Tag": 76276060,
+                        "@": 76276061,
+                        "Alpha": 255,
+                        "Name": "cloud_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_nd_2.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            189, 1209, 1, 1, 280, 86.4, 0, 0, 0.4986, 0.5012
+                        ],
+                        "PrePos": [0.0989, 0.9445, 0.1465, 0.0675],
+                        "MG": [-1848, -1934.4, 302.4, 582.4],
+                        "Tag": 76276078,
+                        "@": 76276079,
+                        "Alpha": 255,
+                        "Name": "cloud_1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_nd_1.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            677, 1131, 1, 1, 174.4, 72, 0, 0, 0.4994, 0.5056
+                        ],
+                        "PrePos": [0.3543, 0.8836, 0.0913, 0.0562],
+                        "MG": [-1737.6, -1809.6, 1083.2, 1257.6],
+                        "Tag": 76276076,
+                        "@": 76276077,
+                        "Alpha": 255,
+                        "Name": "cloud_2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/lagecloud_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [222, 1056, 1, 1, 467.2, 136, 0, 0, 0.5, 0.5029],
+                        "PrePos": [0.1162, 0.825, 0.2445, 0.1062],
+                        "MG": [-1553.6, -1689.6, 355.2, 822.4],
+                        "Tag": 76276074,
+                        "@": 76276075,
+                        "Alpha": 255,
+                        "Name": "cloud_3_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/muntain2.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            215, 997, 1, 1, 404.8, 28.8, 0, 0, 0.4993, 0.5104
+                        ],
+                        "PrePos": [0.1125, 0.7789, 0.2118, 0.0225],
+                        "MG": [-1566.4, -1595.2, 344, 748.8],
+                        "Tag": 76276058,
+                        "@": 76276059,
+                        "Alpha": 255,
+                        "Name": "muntain_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/muntain1.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            766, 1005, 1, 1, 299.2, 27.2, 0, 0, 0.4983, 0.5
+                        ],
+                        "PrePos": [0.4008, 0.7852, 0.1566, 0.0212],
+                        "MG": [-1580.8, -1608, 1225.6, 1524.8],
+                        "Tag": 76276056,
+                        "@": 76276057,
+                        "Alpha": 255,
+                        "Name": "muntain_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/muntain2.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            215, 997, 1, 1, 404.8, 28.8, 0, 0, 0.4993, 0.5104
+                        ],
+                        "PrePos": [0.1125, 0.7789, 0.2118, 0.0225],
+                        "MG": [-1566.4, -1595.2, 344, 748.8],
+                        "Tag": 76276072,
+                        "@": 76276073,
+                        "Alpha": 255,
+                        "Name": "muntain_1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/muntain1.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            766, 1005, 1, 1, 299.2, 27.2, 0, 0, 0.4983, 0.5
+                        ],
+                        "PrePos": [0.4008, 0.7852, 0.1566, 0.0212],
+                        "MG": [-1580.8, -1608, 1225.6, 1524.8],
+                        "Tag": 76276070,
+                        "@": 76276071,
+                        "Alpha": 255,
+                        "Name": "muntain_2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/castle_and_land.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            479, 931, 1, 1, 940.8, 307.2, 0, 0, 0.5016, 0.5
+                        ],
+                        "PrePos": [0.2507, 0.7273, 0.4923, 0.24],
+                        "MG": [-1182.4, -1489.6, 766.4, 1707.2],
+                        "Tag": 76276054,
+                        "@": 76276055,
+                        "Alpha": 255,
+                        "Name": "land_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/castle_and_land.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            -480, 935, 1, 1, 940.8, 307.2, 0, 0, 0.5016, 0.5
+                        ],
+                        "PrePos": [-0.2512, 0.7305, 0.4923, 0.24],
+                        "MG": [-1188.8, -1496, -768, 172.8],
+                        "Tag": 76276052,
+                        "@": 76276053,
+                        "Alpha": 255,
+                        "Name": "land_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_fog_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            272, 897, 1.9821, 1, 316.8, 116.8, 0, 0, 0.4991,
+                            0.5026
+                        ],
+                        "PrePos": [0.1423, 0.7008, 0.1658, 0.0912],
+                        "MG": [-1318.4, -1435.2, 435.2, 752],
+                        "Tag": 76276050,
+                        "@": 76276051,
+                        "Alpha": 255,
+                        "Name": "frog_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_res/cloud_fog_nd.png",
+                            "Plist": "cocos/NationalDay_res@6x.plist"
+                        },
+                        "Pos": [
+                            -419, 897, 1.9821, 1, 316.8, 116.8, 0, 0, 0.4991,
+                            0.5026
+                        ],
+                        "PrePos": [-0.2193, 0.7008, 0.1658, 0.0912],
+                        "MG": [-1318.4, -1435.2, -670.4, -353.6],
+                        "Tag": 76276048,
+                        "@": 76276049,
+                        "Alpha": 255,
+                        "Name": "frog_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 1911, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

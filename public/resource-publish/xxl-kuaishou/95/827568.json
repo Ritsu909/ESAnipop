@@ -1,0 +1,75 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 12,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        87754155,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 11,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87754155,
+                        [
+                            { "P": [-40.9, 8.85], "I": 0, "T": 0 },
+                            { "P": [-8.85, 8.85], "I": 11, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87754155,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 11, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeAnim_bubblemaker_multi_bubbles_inner@6x.json"
+                        },
+                        "Pos": [-40, 8, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [8, -8, -40, 40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87754154,
+                        "@": 87754155,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/disable.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -64, 26, 0.85, 0.84, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.4923, 0.5098, 1.1815, 1.2235],
+                        "MG": [20.8, -41.6, -102.4, 51.2],
+                        "Tag": 111133,
+                        "@": 111134,
+                        "Alpha": 255,
+                        "Name": "disable",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/green_click.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -64, 25, 0.8491, 0.818, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.4923, 0.4902, 1.1815, 1.2235],
+                        "MG": [22.4, -40, -102.4, 51.2],
+                        "Tag": 111241,
+                        "@": 111242,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/green_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -64, 26, 0.85, 0.84, 153.6, 62.4, 0, 0, 0.0007,
+                            0.9984
+                        ],
+                        "PrePos": [-0.4923, 0.5098, 1.1815, 1.2235],
+                        "MG": [20.8, -41.6, -102.4, 51.2],
+                        "Tag": 111129,
+                        "@": 111130,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-38, 18, 1, 1, 77, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2923, 0.3529, 0.5923, 0.6863],
+                        "MG": [34, -18, -38, 91],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "知道啦",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 111169,
+                        "@": 111170,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 130, "Y": 51 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,90 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        87810525,
+                        [
+                            { "P": [-3, 116], "I": 0 },
+                            { "P": [-3, 122], "I": 49 },
+                            { "P": [-3, 116], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87810523,
+                        [
+                            { "P": [-0.5, -0.2], "I": 0 },
+                            { "P": [-0.5, -0.2], "I": 49 },
+                            { "P": [-0.5, -0.2], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87810523,
+                        [
+                            { "P": [1.06, 1.06], "I": 0 },
+                            { "P": [0.9, 0.9], "I": 49 },
+                            { "P": [1.06, 1.06], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87810523,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 204, "I": 49 },
+                            { "V": 255, "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_hotAirBalloon/bubble_chick1.png",
+                            "Plist": "cocos/homeAnim_hotAirBalloon@6x.plist"
+                        },
+                        "Pos": [
+                            -3, 116, 1, 1, 112, 177.6, 0, 0, 0.4987, 0.5017
+                        ],
+                        "MG": [-8, -185.6, -4.8, 107.2],
+                        "Tag": 87810524,
+                        "@": 87810525,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_hotAirBalloon/dark.png",
+                            "Plist": "cocos/homeAnim_hotAirBalloon@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.06, 1.06, 59.2, 41.6, 0, 0, 0.5068, 0.4952
+                        ],
+                        "MG": [41.6, 0, 0, 59.2],
+                        "Tag": 87810522,
+                        "@": 87810523,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

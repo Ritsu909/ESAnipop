@@ -1,0 +1,87 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 10,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        2853,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [13.45, -2.05],
+                                "I": 4,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [19.3, -7], "I": 9, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        2853,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [0.2624, 0.9985],
+                                "I": 4,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [1, 1], "I": 9, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        2853,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [57.92, 57.92],
+                                "I": 4,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [130.22, 130.22], "I": 9, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 19.2, 19.2, 0, 0, 0.0885, 0.9115],
+                        "PrePos": ["NaN", "NaN", 0, 0],
+                        "MG": [19.2, 19.2],
+                        "Tag": 2852,
+                        "@": 2853,
+                        "Name": "Layer 1",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

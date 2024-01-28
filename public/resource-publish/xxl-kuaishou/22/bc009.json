@@ -1,0 +1,283 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 139, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3, 0.4982, 0.2011, 0.2523],
+                        "MG": [-152, -222.4, -168, -97.6],
+                        "Tag": 82412671,
+                        "@": 82412672,
+                        "Alpha": 255,
+                        "Name": "hippo3434341",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 139, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0.4982, 0.2011, 0.2523],
+                        "MG": [-152, -222.4, -280, -209.6],
+                        "Tag": 82412669,
+                        "@": 82412670,
+                        "Alpha": 255,
+                        "Name": "hippo3434342",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            35, 139, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1, 0.4982, 0.2011, 0.2523],
+                        "MG": [-152, -222.4, 56, 126.4],
+                        "Tag": 82412667,
+                        "@": 82412668,
+                        "Alpha": 255,
+                        "Name": "frog13434343",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, 139, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3, 0.4982, 0.2011, 0.2523],
+                        "MG": [-152, -222.4, 168, 238.4],
+                        "Tag": 82412665,
+                        "@": 82412666,
+                        "Alpha": 255,
+                        "Name": "beer6767674",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [34, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.0971, 0, 0.2011, 0.2581],
+                        "MG": [72, 0, 54.4, 124.8],
+                        "Tag": 82412663,
+                        "@": 82412664,
+                        "Alpha": 255,
+                        "Name": "chicken34345",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3, 0.2509, 0.2011, 0.2523],
+                        "MG": [-41.6, -112, 168, 238.4],
+                        "Tag": 82412661,
+                        "@": 82412662,
+                        "Alpha": 255,
+                        "Name": "owl11134346",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [105, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.3, 0, 0.2011, 0.2581],
+                        "MG": [72, 0, 168, 238.4],
+                        "Tag": 82412659,
+                        "@": 82412660,
+                        "Alpha": 255,
+                        "Name": "fox76777",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3, -0.2509, 0.2011, 0.2523],
+                        "MG": [182.4, 112, 168, 238.4],
+                        "Tag": 82412657,
+                        "@": 82412658,
+                        "Alpha": 255,
+                        "Name": "beer6767678",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            35, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1, -0.2509, 0.2011, 0.2523],
+                        "MG": [182.4, 112, 56, 126.4],
+                        "Tag": 82412655,
+                        "@": 82412656,
+                        "Alpha": 255,
+                        "Name": "beer6767679",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-175, 70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.5, 0.2509, 0.2011, 0.2581],
+                        "MG": [-40, -112, -280, -209.6],
+                        "Tag": 82412653,
+                        "@": 82412654,
+                        "Alpha": 255,
+                        "Name": "fox767710",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-34, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.0971, 0, 0.2011, 0.2523],
+                        "MG": [70.4, 0, -54.4, 16.0],
+                        "Tag": 82412651,
+                        "@": 82412652,
+                        "Alpha": 255,
+                        "Name": "hippo34343411",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3, 0, 0.2011, 0.2523],
+                        "MG": [70.4, 0, -168, -97.6],
+                        "Tag": 82412649,
+                        "@": 82412650,
+                        "Alpha": 255,
+                        "Name": "hippo34343412",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, -69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.1, -0.2473, 0.2011, 0.2523],
+                        "MG": [180.8, 110.4, -56, 14.4],
+                        "Tag": 82412647,
+                        "@": 82412648,
+                        "Alpha": 255,
+                        "Name": "owl111343413",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3, -0.2509, 0.2011, 0.2523],
+                        "MG": [182.4, 112, -168, -97.6],
+                        "Tag": 82412645,
+                        "@": 82412646,
+                        "Alpha": 255,
+                        "Name": "beer67676714",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, -0.2509, 0.2011, 0.2523],
+                        "MG": [182.4, 112, -280, -209.6],
+                        "Tag": 82412643,
+                        "@": 82412644,
+                        "Alpha": 255,
+                        "Name": "beer67676715",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-175, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.5, 0, 0.2011, 0.2581],
+                        "MG": [72, 0, -280, -209.6],
+                        "Tag": 82412641,
+                        "@": 82412642,
+                        "Alpha": 255,
+                        "Name": "fox767716",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 350, "Y": 279 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

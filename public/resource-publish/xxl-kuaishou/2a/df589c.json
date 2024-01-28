@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 39,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        85383282,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 38,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383282,
+                        [
+                            { "P": [-2.7, 3.45], "I": 0, "T": 0 },
+                            { "P": [-2.7, 3.45], "I": 38, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow000all@6x.json"
+                        },
+                        "Pos": [-2, 3, 1.8, 1.8, 0, 0, 0, 0, 0, 0],
+                        "MG": [3, -3, -2, 2],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383281,
+                        "@": 85383282,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

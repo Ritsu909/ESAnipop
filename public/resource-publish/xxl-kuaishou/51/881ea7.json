@@ -1,0 +1,156 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -9, 1, 1, 516.32, 457.4714, 0, 0, 0.0018, 0.9982
+                        ],
+                        "PrePos": [0, -0.0194, 0.1083, 0.1172],
+                        "MG": [68.8, 14.4, 0, 56],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 84746217,
+                        "@": 84746218,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [475, -41, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "CColor": { "A": 255, "R": 106, "G": 222, "B": 255 },
+                        "PrePos": [0.9188, -0.0884, 0.1644, 0.1789],
+                        "MG": [340, 41, 475, -43],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746215,
+                        "@": 84746216,
+                        "Alpha": 241,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            252, -129, 1.5009, 1.5009, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.4874, -0.278, 0.2228, 0.2483],
+                        "MG": [321.6, 206.4, 403.2, 518.4],
+                        "Tag": 84746213,
+                        "@": 84746214,
+                        "Alpha": 255,
+                        "Name": "headbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            252, -129, 1.5009, 1.5009, 124.8, 124.8, 0, 0,
+                            0.498, 0.502
+                        ],
+                        "PrePos": [0.4874, -0.278, 0.2414, 0.269],
+                        "MG": [331.2, 206.4, 403.2, 528],
+                        "Tag": 84746211,
+                        "@": 84746212,
+                        "Alpha": 255,
+                        "Name": "headCircle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start_addFriend@6x.json"
+                        },
+                        "Pos": [250, -385, 0.9, 0.9, 276, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4836, -0.8297, 0.5338, 0.2629],
+                        "MG": [-43, 385, 250, -9],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746209,
+                        "@": 84746210,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [128, -232, 1.1132, 1.1132, 237, 48, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 41, "G": 115, "B": 148 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2476, -0.5, 0.4584, 0.1034],
+                        "MG": [184, 232, 128, 152],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": " 好友的名字",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746207,
+                        "@": 84746208,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [186, -290, 1, 1, 131, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 124, "B": 77 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3598, -0.625, 0.2534, 0.0797],
+                        "MG": [137, 290, 186, 200],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "第999关",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746205,
+                        "@": 84746206,
+                        "Name": "level",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 517, "Y": 464 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

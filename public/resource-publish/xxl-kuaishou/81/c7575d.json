@@ -1,0 +1,87 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        0,
+                        "cocos/Background_Animation_oceanAnimation@6x.json",
+                        ""
+                    ],
+                    "Pos": [0, 388, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2080,
+                    "@": 2081,
+                    "#": "oceanAnimation",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/Background_Animation_lightAnimation@6x.json",
+                        ""
+                    ],
+                    "Pos": [-53, 532, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2082,
+                    "@": 2083,
+                    "#": "lightAnimation",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/Background_Animation_star_all@6x.json", ""],
+                    "Pos": [-24, 389, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2100,
+                    "@": 2101,
+                    "#": "star",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/Background_Animation_sun_shine@6x.json",
+                        ""
+                    ],
+                    "Pos": [-44, 529, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2118,
+                    "@": 2119,
+                    "#": "sun_shine",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/Background_Animation_cocotree2@6x.json",
+                        ""
+                    ],
+                    "Pos": [255, 521, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2120,
+                    "@": 2121,
+                    "#": "cocotree2",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/Background_Animation_cocotree1@6x.json",
+                        ""
+                    ],
+                    "Pos": [-250, 596, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2122,
+                    "@": 2123,
+                    "#": "cocotree1",
+                    "$": "PN"
+                }
+            ],
+            "Size": { "X": 921, "Y": 529 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

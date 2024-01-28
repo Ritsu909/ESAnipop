@@ -1,0 +1,220 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/personalcredit03.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 260.8, 180.8, 0, 0, 0.4988, 0.5285],
+                        "MG": [180.8, 0, 0, 260.8],
+                        "Tag": 84746521,
+                        "@": 84746522,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/headbg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -109, 28, 1, 1, 84.8, 84.8, 0, 0, 0.0012, 0.9988
+                        ],
+                        "PrePos": [-0.4467, 0.1718, 0.3475, 0.5202],
+                        "MG": [40, -44.8, -174.4, -89.6],
+                        "Tag": 84746519,
+                        "@": 84746520,
+                        "Alpha": 255,
+                        "Name": "headbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/yellowheadbg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -108, 28, 1, 1, 84.8, 84.8, 0, 0, 0.0012, 0.9988
+                        ],
+                        "PrePos": [-0.4426, 0.1718, 0.3475, 0.5202],
+                        "MG": [40, -44.8, -172.8, -88.0],
+                        "Tag": 84746921,
+                        "@": 84746922,
+                        "Alpha": 255,
+                        "Name": "selfheadbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/star_bg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -10, -14, 0.75, 0.75, 155.2, 49.6, 0, 0, 0.0006,
+                            0.998
+                        ],
+                        "PrePos": [-0.041, -0.0859, 0.6361, 0.3043],
+                        "MG": [72, 22.4, -16, 139.2],
+                        "Tag": 84746517,
+                        "@": 84746518,
+                        "Alpha": 255,
+                        "Name": "starbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/yellowstarbg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -11, -14, 1, 1, 116.8, 36.8, 0, 0, 0.0009, 0.9973
+                        ],
+                        "PrePos": [-0.0451, -0.0859, 0.4787, 0.2258],
+                        "MG": [59.2, 22.4, -17.6, 99.2],
+                        "Tag": 84746919,
+                        "@": 84746920,
+                        "Alpha": 255,
+                        "Name": "yellowstarbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/whiteline.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -122, 40, 1, 1, 241.6, 1.6, 0, 0, 0.0004, 0.9375
+                        ],
+                        "PrePos": [-0.5, 0.2454, 0.9902, 0.0098],
+                        "MG": [-62.4, -64, -195.2, 46.4],
+                        "Tag": 84746515,
+                        "@": 84746516,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_allStar@6x.json"
+                        },
+                        "Pos": [10, -31, 1, 1, 52, 37, 0, 0, 0, 0],
+                        "PrePos": [0.041, -0.1902, 0.2131, 0.227],
+                        "MG": [95, 31, 10, 182],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746513,
+                        "@": 84746514,
+                        "Alpha": 255,
+                        "Name": "staricon",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-114, 73, 1, 1, 48, 33, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4672, 0.4479, 0.1967, 0.2025],
+                        "MG": [203, -73, -114, 310],
+                        "IsCustomSize": true,
+                        "LabelText": "01",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84746511,
+                        "@": 84746512,
+                        "Name": "rank",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [37, -19, 1, 1, 49, 26, 0, 0, 0, 1],
+                        "PrePos": [0.1516, -0.1166, 0.2008, 0.1595],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [118, 19, 37, 158],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "9999",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746509,
+                        "@": 84746510,
+                        "Name": "star",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-15, 23, 1, 1, 132, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 28, "G": 127, "B": 146 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0615, 0.1411, 0.541, 0.2025],
+                        "MG": [153, -23, -15, 127],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "玩家的名字",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84746507,
+                        "@": 84746508,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-25, 73, 1, 1, 141, 33, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.1025, 0.4479, 0.5779, 0.2025],
+                        "MG": [203, -73, -25, 128],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "村长",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84746505,
+                        "@": 84746506,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 244, "Y": 163 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

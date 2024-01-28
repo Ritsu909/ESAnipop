@@ -1,0 +1,205 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/outwheel.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [
+                            357, -569, 0.9998, 0.9998, 656, 656, 0, 0, 0.5002,
+                            0.4998
+                        ],
+                        "PrePos": [0.4958, -0.6066, 0.9111, 0.6994],
+                        "MG": [1566.4, 910.4, 571.2, 1227.2],
+                        "Tag": 9384273,
+                        "@": 9384274,
+                        "Alpha": 255,
+                        "Name": "outwheel",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/light.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [
+                            358, -566, 1, 1, 720, 720, 0, 0, 0.5001, 0.4999
+                        ],
+                        "PrePos": [0.4972, -0.6034, 1, 0.7676],
+                        "MG": [1625.6, 905.6, 572.8, 1292.8],
+                        "Tag": 9384279,
+                        "@": 9384280,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/innerTable.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [355, -567, 1, 1, 475.2, 475.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [0.4931, -0.6045, 0.66, 0.5066],
+                        "MG": [1382.4, 907.2, 568, 1043.2],
+                        "Tag": 9384267,
+                        "@": 9384268,
+                        "Alpha": 255,
+                        "Name": "innerTable",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/pointer.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [
+                            359, -548, 1, 1, 160, 225.6, 0, 0, 0.5006, 0.5009
+                        ],
+                        "PrePos": [0.4986, -0.5842, 0.2222, 0.2405],
+                        "MG": [1102.4, 876.8, 574.4, 734.4],
+                        "Tag": 9384271,
+                        "@": 9384272,
+                        "Alpha": 255,
+                        "Name": "pointer",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/pointer_top.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [
+                            328, -217, 1, 1, 62.4, 92.8, 0, 0, 0.0016, 0.9989
+                        ],
+                        "PrePos": [0.4556, -0.2313, 0.0867, 0.0989],
+                        "MG": [440, 347.2, 524.8, 587.2],
+                        "Tag": 9384275,
+                        "@": 9384276,
+                        "Alpha": 255,
+                        "Name": "pointer_top",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/mark.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [412, -519, 1, 1, 48, 48, 0, 0, 0.5146, 0.4854],
+                        "PrePos": [0.5722, -0.5533, 0.0667, 0.0512],
+                        "MG": [878.4, 830.4, 659.2, 707.2],
+                        "Tag": 9384265,
+                        "@": 9384266,
+                        "Alpha": 255,
+                        "Name": "mark",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [409, -491, 1, 1, 17, 48, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5681, -0.5235, 0.0236, 0.0512],
+                        "MG": [399, 491, 409, 294],
+                        "IsCustomSize": true,
+                        "LabelText": "1",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9384277,
+                        "@": 9384278,
+                        "Name": "num",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/bar.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [
+                            353, -144, 1, 1, 520, 54.4, 0, 0, 0.5002, 0.511
+                        ],
+                        "PrePos": [0.4903, -0.1535, 0.7222, 0.058],
+                        "MG": [284.8, 230.4, 564.8, 1084.8],
+                        "Tag": 9384261,
+                        "@": 9384262,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/trumpet.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [124, -145, 1, 1, 35.2, 30.4, 0, 0, 0.5, 0.5197],
+                        "PrePos": [0.1722, -0.1546, 0.0489, 0.0324],
+                        "MG": [262.4, 232, 198.4, 233.6],
+                        "Tag": 9384259,
+                        "@": 9384260,
+                        "Alpha": 255,
+                        "Name": "trumpet",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckywheel/lucky.png",
+                            "Plist": "cocos/luckywheel@6x.plist"
+                        },
+                        "Pos": [369, -48, 1, 1, 324.8, 96, 0, 0, 0.4991, 0.499],
+                        "PrePos": [0.5125, -0.0512, 0.4511, 0.1023],
+                        "MG": [172.8, 76.8, 590.4, 915.2],
+                        "Tag": 9384257,
+                        "@": 9384258,
+                        "Alpha": 255,
+                        "Name": "lucky",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/luckywheel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [650, -30, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9028, -0.032, 0.1181, 0.0885],
+                        "MG": [825, 30, 650, -15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9384255,
+                        "@": 9384256,
+                        "Alpha": 255,
+                        "Name": "off_btn_light",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 720, "Y": 938 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

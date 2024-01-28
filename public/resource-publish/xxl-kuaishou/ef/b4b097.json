@@ -1,0 +1,129 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 49,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        3096851,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 27,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 48,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3096851,
+                        [
+                            { "P": [-1.1, 3.4], "I": 0, "T": 0 },
+                            {
+                                "P": [-1.1, 3.4],
+                                "I": 20,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-0.8, 11.65],
+                                "I": 23,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 27, "T": 0 },
+                            { "P": [0, 0], "I": 48, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3096851,
+                        [
+                            { "P": [1.0938, 0.8977], "I": 0, "T": 0 },
+                            {
+                                "P": [1.0938, 0.8977],
+                                "I": 20,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1, 1.077],
+                                "I": 23,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 27, "T": 0 },
+                            { "P": [1, 1], "I": 48, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3096851,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 20 },
+                            { "V": 255, "I": 23 },
+                            { "V": 255, "I": 27, "T": 0 },
+                            { "V": 255, "I": 48, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_ice_crame_all@6x.json"
+                        },
+                        "Pos": [-1, 3, 1.0938, 0.8977, 164, 220, 0, 0, 0, 0],
+                        "MG": [-217, -3, -1, -163],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3096850,
+                        "@": 3096851,
+                        "Alpha": 0,
+                        "Name": "iceream",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

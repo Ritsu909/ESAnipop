@@ -1,0 +1,661 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "1": [
+                    { "X": 37.5, "Y": -300.9 },
+                    { "X": 28.0, "Y": -291.1 },
+                    { "X": 22.6, "Y": -275.15 },
+                    { "X": 8.8, "Y": -234.0 },
+                    { "X": 30.8, "Y": -175.6 },
+                    { "X": 52.85, "Y": -117.15 },
+                    { "X": 97.8, "Y": -76.0 },
+                    { "X": 100.15, "Y": -73.85 },
+                    { "X": 102.5, "Y": -71.85 },
+                    { "X": 105.25, "Y": -69.4 },
+                    { "X": 108.0, "Y": -67.15 },
+                    { "X": 147.6, "Y": -34.7 },
+                    { "X": 184.6, "Y": -34.7 },
+                    { "X": 185.0, "Y": -34.7 },
+                    { "X": 185.4, "Y": -34.7 },
+                    { "X": 193.65, "Y": -34.8 },
+                    { "X": 200.85, "Y": -36.5 },
+                    { "X": 216.3, "Y": -40.2 },
+                    { "X": 226.65, "Y": -51.65 },
+                    { "X": 229.8, "Y": -55.05 },
+                    { "X": 232.05, "Y": -58.8 }
+                ],
+                "2": [
+                    { "X": 200.85, "Y": -36.5 },
+                    { "X": 216.3, "Y": -40.2 },
+                    { "X": 226.65, "Y": -51.65 },
+                    { "X": 228.0, "Y": -53.15 },
+                    { "X": 231.9, "Y": -58.9 },
+                    { "X": 236.35, "Y": -65.35 },
+                    { "X": 239.45, "Y": -73.75 },
+                    { "X": 239.8, "Y": -74.85 },
+                    { "X": 240.2, "Y": -76.0 },
+                    { "X": 254.05, "Y": -117.15 },
+                    { "X": 232.05, "Y": -175.6 },
+                    { "X": 210.05, "Y": -234.0 },
+                    { "X": 165.05, "Y": -275.15 },
+                    { "X": 119.9, "Y": -316.5 },
+                    { "X": 78.25, "Y": -316.5 },
+                    { "X": 55.55, "Y": -316.5 },
+                    { "X": 41.1, "Y": -304.25 },
+                    { "X": 38.8, "Y": -302.5 },
+                    { "X": 34.0, "Y": -296.55 },
+                    { "X": 28.45, "Y": -289.55 },
+                    { "X": 26.6, "Y": -284.95 }
+                ]
+            },
+            "Animation": {
+                "Duration": 170,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84251824,
+                        [
+                            { "P": [141.5, -310.8], "I": 0, "T": 0 },
+                            { "P": [141.5, -310.8], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84251822,
+                        [
+                            { "P": [131.3, -262.5], "I": 0, "T": 0 },
+                            { "P": [131.3, -262.5], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251820,
+                        [
+                            { "P": [231.15, -177.95], "I": 0, "Tag": "2" },
+                            { "P": [191.5, -247], "I": 169, "Tag": "2", "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251818,
+                        [
+                            { "P": [245.5, -111.25], "I": 0, "Tag": "2" },
+                            {
+                                "P": [231.15, -177.95],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251816,
+                        [
+                            { "P": [130.9, -300.8], "I": 0, "Tag": "2" },
+                            {
+                                "P": [71.85, -316.25],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251814,
+                        [
+                            { "P": [229.55, -55.55], "I": 0, "Tag": "2" },
+                            {
+                                "P": [245.5, -111.25],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251812,
+                        [
+                            { "P": [71.85, -316.25], "I": 0, "Tag": "2" },
+                            {
+                                "P": [30.6, -291.95],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251810,
+                        [
+                            { "P": [191.5, -247], "I": 0, "Tag": "2" },
+                            {
+                                "P": [131.55, -300.45],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251808,
+                        [
+                            {
+                                "P": [214.45, -41.8],
+                                "I": 0,
+                                "Tag": "2",
+                                "T": 0
+                            },
+                            { "P": [214.45, -41.8], "I": 101, "Tag": "2" },
+                            {
+                                "P": [229.55, -55.55],
+                                "I": 169,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84251808,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 101 },
+                            { "V": 255, "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84251806,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 169,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84251806,
+                        [
+                            { "P": [130.95, -175.5], "I": 0, "T": 0 },
+                            { "P": [130.95, -175.5], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        84251806,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [1, 1, 1, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [1, 1, 1, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 169,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84251804,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 169,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84251804,
+                        [
+                            { "P": [132, -175.6], "I": 0, "T": 0 },
+                            { "P": [132, -175.6], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251802,
+                        [
+                            { "P": [32.75, -170.6], "I": 0, "Tag": "1" },
+                            {
+                                "P": [73.45, -101.6],
+                                "I": 169,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251800,
+                        [
+                            { "P": [185.1, -35.65], "I": 0, "Tag": "1" },
+                            { "P": [214.2, -41.65], "I": 100, "Tag": "1" },
+                            {
+                                "P": [41.65, -41.65],
+                                "I": 101,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84251800,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 100 },
+                            { "V": 0, "I": 101, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251798,
+                        [
+                            { "P": [127.45, -53.05], "I": 0, "Tag": "1" },
+                            {
+                                "P": [185.05, -34.65],
+                                "I": 169,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251796,
+                        [
+                            { "P": [73.45, -101.6], "I": 0, "Tag": "1" },
+                            {
+                                "P": [127.5, -53.05],
+                                "I": 169,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251794,
+                        [
+                            { "P": [17.6, -231.8], "I": 0, "Tag": "1" },
+                            {
+                                "P": [32.75, -170.6],
+                                "I": 169,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        84251792,
+                        [
+                            { "P": [30.55, -292], "I": 0, "Tag": "1" },
+                            {
+                                "P": [17.6, -231.8],
+                                "I": 169,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84251790,
+                        [
+                            { "P": [135.5, -179.9], "I": 0, "T": 0 },
+                            { "P": [135.5, -179.9], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84251788,
+                        [
+                            { "P": [151.3, -276.5], "I": 0, "T": 0 },
+                            { "P": [151.3, -276.5], "I": 169, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_shadow.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [141, -310, 1, 1, 238.4, 160, 0, 0, 0.5002, 0.5],
+                        "MG": [656, 496, 225.6, 464],
+                        "Tag": 84251823,
+                        "@": 84251824,
+                        "Alpha": 255,
+                        "Name": "sky_weel_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_1.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            131, -262, 1, 1, 182.4, 200, 0, 0, 0.4995, 0.5017
+                        ],
+                        "MG": [619.2, 419.2, 209.6, 392],
+                        "Tag": 84251821,
+                        "@": 84251822,
+                        "Alpha": 255,
+                        "Name": "sky_weel_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            231, -177, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074
+                        ],
+                        "MG": [316.8, 283.2, 369.6, 401.6],
+                        "Tag": 84251819,
+                        "@": 84251820,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            245, -111, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074
+                        ],
+                        "MG": [211.2, 177.6, 392, 424],
+                        "Tag": 84251817,
+                        "@": 84251818,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            130, -300, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074
+                        ],
+                        "MG": [513.6, 480, 208, 240],
+                        "Tag": 84251815,
+                        "@": 84251816,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [229, -55, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [121.6, 88, 366.4, 398.4],
+                        "Tag": 84251813,
+                        "@": 84251814,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [71, -316, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [539.2, 505.6, 113.6, 145.6],
+                        "Tag": 84251811,
+                        "@": 84251812,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            191, -247, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074
+                        ],
+                        "MG": [428.8, 395.2, 305.6, 337.6],
+                        "Tag": 84251809,
+                        "@": 84251810,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [214, -41, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [99.2, 65.6, 342.4, 374.4],
+                        "Tag": 84251807,
+                        "@": 84251808,
+                        "Alpha": 0,
+                        "Name": "sky_weel_house52",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeAnim_skyWheel_sky_weel@6x.json"
+                        },
+                        "Pos": [
+                            130, -175, 0.9461, 0.8895, 0, 0, 0, -30.93, 0, 0
+                        ],
+                        "MG": [-175, 175, 130, -130],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84251805,
+                        "@": 84251806,
+                        "Alpha": 255,
+                        "Name": "sky_weel_3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeAnim_skyWheel_sky_weel@6x.json"
+                        },
+                        "Pos": [
+                            132, -175, 0.9461, 0.8895, 0, 0, 0, -30.93, 0, 0
+                        ],
+                        "MG": [-175, 175, 132, -132],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84251803,
+                        "@": 84251804,
+                        "Alpha": 255,
+                        "Name": "sky_weel_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [32, -170, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [305.6, 272, 51.2, 83.2],
+                        "Tag": 84251801,
+                        "@": 84251802,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [185, -35, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [89.6, 56, 296, 328],
+                        "Tag": 84251799,
+                        "@": 84251800,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [127, -53, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [118.4, 84.8, 203.2, 235.2],
+                        "Tag": 84251797,
+                        "@": 84251798,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [73, -101, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [195.2, 161.6, 116.8, 148.8],
+                        "Tag": 84251795,
+                        "@": 84251796,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [17, -231, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [403.2, 369.6, 27.2, 59.2],
+                        "Tag": 84251793,
+                        "@": 84251794,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_house.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [30, -292, 1, 1, 32, 33.6, 0, 0, 0.4828, 0.5074],
+                        "MG": [500.8, 467.2, 48, 80],
+                        "Tag": 84251791,
+                        "@": 84251792,
+                        "Alpha": 255,
+                        "Name": "sky_weel_house1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_wood.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            135, -179, 1, 1, 25.6, 22.4, 0, 0, 0.4766, 0.5223
+                        ],
+                        "MG": [308.8, 286.4, 216, 241.6],
+                        "Tag": 84251789,
+                        "@": 84251790,
+                        "Alpha": 255,
+                        "Name": "sky_weel_wood",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/sky_weel_1.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [
+                            151, -276, 1, 1, 182.4, 200, 0, 0, 0.4995, 0.5017
+                        ],
+                        "MG": [641.6, 441.6, 241.6, 424],
+                        "Tag": 84251787,
+                        "@": 84251788,
+                        "Alpha": 255,
+                        "Name": "sky_weel_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

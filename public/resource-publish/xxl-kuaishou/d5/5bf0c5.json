@@ -1,0 +1,86 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 95,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        85383432,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, -1.7], "I": 8 },
+                            { "P": [0, 23.8], "I": 16 },
+                            { "P": [0, 19.6], "I": 31 },
+                            { "P": [0, -8.5], "I": 38 },
+                            { "P": [0, 0], "I": 41, "T": 0 },
+                            { "P": [0, 0], "I": 69, "T": 0 },
+                            { "P": [0, 0], "I": 94, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383432,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1, 0.9494], "I": 8 },
+                            { "P": [1, 1.076], "I": 16 },
+                            { "P": [1, 0.886], "I": 31 },
+                            { "P": [1, 0.8687], "I": 38 },
+                            { "P": [1, 1], "I": 41, "T": 0 },
+                            { "P": [1, 1], "I": 69, "T": 0 },
+                            { "P": [1, 1], "I": 94, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383430,
+                        [
+                            { "P": [4, -61.2], "I": 0, "T": 0 },
+                            { "P": [4, -61.2], "I": 94, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/wish.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 105.6, 140.8, 0, 0, 0.5062, 0.4822],
+                        "MG": [140.8, 0, 0, 105.6],
+                        "Tag": 85383431,
+                        "@": 85383432,
+                        "Alpha": 255,
+                        "Name": "bottle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/wishtextimg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [4, -61, 1, 1, 80, 49.6, 0, 0, 0.505, 0.373],
+                        "MG": [147.2, 97.6, 6.4, 86.4],
+                        "Tag": 85383429,
+                        "@": 85383430,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

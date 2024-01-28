@@ -1,0 +1,44 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 2,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Alpha",
+                        27191479,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 1, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hide_island/jump_water.png",
+                            "Plist": "cocos/hide_island@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 33.6, 35.2, 0, 0, 0.5253, 0.5142],
+                        "MG": [35.2, 0, 0, 33.6],
+                        "Tag": 27191478,
+                        "@": 27191479,
+                        "Alpha": 255,
+                        "Name": "water",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

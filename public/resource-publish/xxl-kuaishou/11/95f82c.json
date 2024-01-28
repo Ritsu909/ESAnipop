@@ -1,0 +1,73 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/nointernet.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            203, -281, 1, 1, 435.2, 460.8, 0, 0, 0.4736, 0.3816
+                        ],
+                        "PrePos": [0.4667, -0.6122, 1.0005, 1.0039],
+                        "MG": [910.4, 449.6, 324.8, 760],
+                        "Tag": 84755925,
+                        "@": 84755926,
+                        "Alpha": 255,
+                        "Name": "racoon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [14, -12, 1, 1, 403, 88, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 182,
+                            "G": 121,
+                            "B": 61
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0322, -0.0261, 0.9264, 0.1917],
+                        "MG": [359, 12, 14, 18],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "请检查您的网络连接状态",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84755923,
+                        "@": 84755924,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 435,
+                    "Y": 459
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

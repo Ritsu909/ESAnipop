@@ -1,0 +1,193 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/transrec.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 22.4649, 12.5016, 33.6, 32, 0, 0, 0.003,
+                            0.9969
+                        ],
+                        "MG": [32, 0, 0, 33.6],
+                        "Tag": 84748866,
+                        "@": 84748867,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_chicken_buy2@6x.json"
+                        },
+                        "Pos": [174, -336, 1, 1, 216, 210, 0, 0, 0, 0],
+                        "PrePos": [0.2417, -0.84, 0.3, 0.525],
+                        "MG": [-146, 336, 174, 330],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748864,
+                        "@": 84748865,
+                        "Alpha": 255,
+                        "Name": "animal",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [360, -76, 1, 1, 500.8, 46.4, 0, 0, 0.4987, 0.5],
+                        "PrePos": [0.5, -0.19, 0.6956, 0.116],
+                        "MG": [168, 121.6, 576, 1076.8],
+                        "Tag": 84748862,
+                        "@": 84748863,
+                        "Alpha": 255,
+                        "Name": "text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip2.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            458, -171, 1, 1, 401.6, 38.4, 0, 0, 0.5232, 0.5156
+                        ],
+                        "PrePos": [0.6361, -0.4275, 0.5578, 0.096],
+                        "MG": [312, 273.6, 732.8, 1134.4],
+                        "Tag": 84748978,
+                        "@": 84748979,
+                        "Alpha": 255,
+                        "Name": "tip2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip1.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            205, -81, 1, 1, 108.8, 30.4, 0, 0, 0.5009, 0.4967
+                        ],
+                        "PrePos": [0.2847, -0.2025, 0.1511, 0.076],
+                        "MG": [160, 129.6, 328, 436.8],
+                        "Tag": 84748976,
+                        "@": 84748977,
+                        "Alpha": 255,
+                        "Name": "tip1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            679, -32, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.514
+                        ],
+                        "PrePos": [0.9431, -0.08, 0.0644, 0.116],
+                        "MG": [97.6, 51.2, 1086.4, 1132.8],
+                        "Tag": 84748860,
+                        "@": 84748861,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [416, -133, 1, 0.9999, 71, 82, 0, 0, 0, 1],
+                        "PrePos": [0.5778, -0.3325, 0.0986, 0.205],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_70_bluestroke@6x.fnt"
+                        },
+                        "MG": [185, 133, 416, 233],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "10",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84748858,
+                        "@": 84748859,
+                        "Name": "time",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_useBtn@6x.json"
+                        },
+                        "Pos": [485, -292, 1, 1, 303, 135, 0, 0, 0, 0],
+                        "PrePos": [0.6736, -0.73, 0.4208, 0.3375],
+                        "MG": [-27, 292, 485, -68],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748856,
+                        "@": 84748857,
+                        "Alpha": 255,
+                        "Name": "useBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn@6x.json"
+                        },
+                        "Pos": [482, -288, 1, 1, 330, 135, 0, 0, 0, 0],
+                        "PrePos": [0.6694, -0.72, 0.4583, 0.3375],
+                        "MG": [-23, 288, 482, -92],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748854,
+                        "@": 84748855,
+                        "Alpha": 255,
+                        "Name": "buyBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/transrec.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            305, -47, 2.1, 2.1, 33.6, 32, 0, 0, 0.003, 0.9969
+                        ],
+                        "PrePos": [0.4236, -0.1175, 0.0467, 0.08],
+                        "MG": [107.2, 75.2, 488, 521.6],
+                        "Tag": 84748974,
+                        "@": 84748975,
+                        "Alpha": 255,
+                        "Name": "prop",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 720, "Y": 400 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

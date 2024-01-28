@@ -1,0 +1,104 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/item_yellow_bg.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 609.6, 147.2, 0, 0, 0.001, 0.9993],
+                        "MG": [147.2, 0, 0, 609.6],
+                        "Tag": 82591554,
+                        "@": 82591555,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/yellowback.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [63, -73, 1, 1, 91.2, 91.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [0.1034, -0.4966, 0.1498, 0.6204],
+                        "MG": [208, 116.8, 100.8, 192],
+                        "Tag": 82591514,
+                        "@": 82591515,
+                        "Alpha": 255,
+                        "Name": "yellowback",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_get_playtime_bottom_btn_share@6x.json"
+                        },
+                        "Pos": [465, -68, 0.8, 0.8, 251, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7635, -0.4626, 0.4122, 0.8299],
+                        "MG": [-43, 68, 465, -107],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82591512,
+                        "@": 82591513,
+                        "Alpha": 255,
+                        "Name": "btn_share",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/_22_副本_4.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [
+                            11, -62, 0.6976, 0.6976, 110.4, 84.8, -0.29, -0.29,
+                            -0.1952, 0.7188
+                        ],
+                        "PrePos": [0.0181, -0.4218, 0.1813, 0.5769],
+                        "MG": [184, 99.2, 17.6, 128],
+                        "Tag": 82591510,
+                        "@": 82591511,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [120, -57, 1, 1, 204, 36, 0, 0, 0, 1],
+                        "PrePos": [0.197, -0.3878, 0.335, 0.2449],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_25_bluestroke@6x.fnt"
+                        },
+                        "MG": [54, 57, 120, 285],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "成功分享，次数+1",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 82591508,
+                        "@": 82591509,
+                        "Name": "desc",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 609, "Y": 147 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,128 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_box_open_light@6x.json"
+                        },
+                        "Pos": [0, -11, 1, 1, 232, 211, 0, 0, 0, 0],
+                        "PrePos": [0, -0.0521, 1, 1],
+                        "MG": [-11, 11, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752991,
+                        "@": 84752992,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/box_close.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -4, -16, 1, 1, 67.2, 59.2, 0, 0, 0.4926, 0.5084
+                        ],
+                        "PrePos": [-0.0172, -0.0758, 0.2897, 0.2806],
+                        "MG": [84.8, 25.6, -6.4, 60.8],
+                        "Tag": 84752989,
+                        "@": 84752990,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_box_full_mc@6x.json"
+                        },
+                        "Pos": [-40, 38, 1, 1, 86, 71, 0, 0, 0, 0],
+                        "PrePos": [-0.1724, 0.1801, 0.3707, 0.3365],
+                        "MG": [178, -38, -40, 186],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752987,
+                        "@": 84752988,
+                        "Alpha": 255,
+                        "Name": "full",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_box_empty_mc@6x.json"
+                        },
+                        "Pos": [-40, 35, 1, 1, 85, 67, 0, 0, 0, 0],
+                        "PrePos": [-0.1724, 0.1659, 0.3664, 0.3175],
+                        "MG": [179, -35, -40, 187],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752985,
+                        "@": 84752986,
+                        "Alpha": 255,
+                        "Name": "empty",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_boxblink@6x.json"
+                        },
+                        "Pos": [-34, -2, 0.6, 0.6, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.1466, -0.0095, 0, 0],
+                        "MG": [209, 2, -34, 266],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752983,
+                        "@": 84752984,
+                        "Alpha": 255,
+                        "Name": "blink",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_boxstars@6x.json"
+                        },
+                        "Pos": [-3, -14, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0129, -0.0664, 0, 0],
+                        "MG": [197, 14, -3, 235],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752981,
+                        "@": 84752982,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 232, "Y": 211 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

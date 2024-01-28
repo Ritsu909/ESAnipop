@@ -1,0 +1,107 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckybuy/wait_bg.png",
+                            "Plist": "cocos/luckybuy@6x.plist"
+                        },
+                        "Pos": [
+                            -117, 34, 1, 1, 251.2, 70.4, 0, 0, 0.0004, 0.9986
+                        ],
+                        "PrePos": [-0.4194, 0.4595, 0.9004, 0.9514],
+                        "MG": [16.0, -54.4, -187.2, 64],
+                        "Tag": 1163364,
+                        "@": 1163365,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckybuy/res_wait_bar.png",
+                            "Plist": "cocos/luckybuy@6x.plist"
+                        },
+                        "Pos": [
+                            -128, 24, 1, 1, 204.3944, 49.184, 0, 0, 0.0018,
+                            0.9978
+                        ],
+                        "PrePos": [-0.4588, 0.3243, 0.2007, 0.627],
+                        "MG": [8, -38.4, -204.8, -148.8],
+                        "Scale9": [24, 13, 8, 20],
+                        "Tag": 1163368,
+                        "@": 1163369,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-41, 22, 1, 1, 148, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 112, "B": 123 },
+                        "PrePos": [-0.147, 0.2973, 0.5305, 0.5],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [59, -22, -41, 172],
+                        "IsCustomSize": true,
+                        "LabelText": "04:00:00",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1163366,
+                        "@": 1163367,
+                        "Name": "countdown",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckybuy/clock.png",
+                            "Plist": "cocos/luckybuy@6x.plist"
+                        },
+                        "Pos": [
+                            -110, 0, 1, 1, 75.2, 75.2, 0, 0, 0.4934, 0.5066
+                        ],
+                        "PrePos": [-0.3943, 0, 0.2695, 1.0162],
+                        "MG": [75.2, 0, -176, -100.8],
+                        "Tag": 1163348,
+                        "@": 1163349,
+                        "Alpha": 255,
+                        "Name": "clock",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckybuy/hand.png",
+                            "Plist": "cocos/luckybuy@6x.plist"
+                        },
+                        "Pos": [-111, 0, 1, 1, 6.4, 22.4, 0, 0, 0.4062, 0.1339],
+                        "PrePos": [-0.3978, 0, 0.0229, 0.3027],
+                        "MG": [22.4, 0, -177.6, -171.2],
+                        "Tag": 1163370,
+                        "@": 1163371,
+                        "Alpha": 255,
+                        "Name": "hand",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 279, "Y": 74 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

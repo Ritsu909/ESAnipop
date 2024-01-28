@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 10,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        87754203,
+                        [
+                            { "P": [20.4, -25.8], "I": 0, "T": 0 },
+                            { "P": [20.4, -25.8], "I": 9, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87754201,
+                        [
+                            { "P": [11.05, -5.1], "I": 0 },
+                            { "P": [10.6, -6.75], "I": 4 },
+                            { "P": [11.05, -5.1], "I": 9, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_bubblemaker/papa.png",
+                            "Plist": "cocos/homeAnim_bubblemaker@6x.plist"
+                        },
+                        "Pos": [20, -25, 1, 1, 40, 51.2, 0, 0, 0.495, 0.5],
+                        "MG": [91.2, 40, 32, 72],
+                        "Tag": 87754202,
+                        "@": 87754203,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_bubblemaker/ruu.png",
+                            "Plist": "cocos/homeAnim_bubblemaker@6x.plist"
+                        },
+                        "Pos": [11, -5, 1, 1, 6.4, 6.4, 0, 0, 0.4844, 0.5391],
+                        "MG": [14.4, 8, 17.6, 24],
+                        "Tag": 87754200,
+                        "@": 87754201,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

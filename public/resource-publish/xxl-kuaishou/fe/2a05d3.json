@@ -1,0 +1,111 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -1, 1, 1, 444.8, 278.4, 0, 0, 0.0002, 1.0056
+                        ],
+                        "PrePos": [0, -0.0035, 1.0018, 0.9872],
+                        "MG": [280, 1.6, 0, 444.8],
+                        "Scale9": [143, 79, 10, 9],
+                        "Tag": 84745939,
+                        "@": 84745940,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "add_friend_panel/racoonandchicken.png",
+                            "Plist": "cocos/add_friend_panel@6x.plist"
+                        },
+                        "Pos": [11, -66, 1, 1, 219.2, 206.4, 0, 0, 0.0005, 1],
+                        "PrePos": [0.0248, -0.234, 0.4937, 0.7319],
+                        "MG": [312, 105.6, 17.6, 236.8],
+                        "Tag": 84745935,
+                        "@": 84745936,
+                        "Alpha": 255,
+                        "Name": "chicken",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/add_friend_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [329, -196, 1, 1, 186, 98, 0, 0, 0, 0],
+                        "PrePos": [0.741, -0.695, 0.4189, 0.3475],
+                        "MG": [-12, 196, 329, -71],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84745933,
+                        "@": 84745934,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/add_friend_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [396, -39, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8919, -0.1383, 0.1914, 0.2943],
+                        "MG": [160, 39, 396, -37],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84745931,
+                        "@": 84745932,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [157, -64, 1, 1, 262, 84, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3536, -0.227, 0.5901, 0.2979],
+                        "MG": [134, 64, 157, 25],
+                        "IsCustomSize": true,
+                        "LabelText": "你已经和昵称昵称\\n  成为好朋友啦！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84745929,
+                        "@": 84745930,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 444, "Y": 282 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [-64, 15, 1, 1, 101, 30, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4672, 0.5, 0.7372, 1],
+                        "MG": [15, -15, -64, 100],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "其他方式",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84749018,
+                        "@": 84749019,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/arrow.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [49, 10, 1, 1, 24, 16, 0, 0, 0.0042, 0.9938],
+                        "PrePos": [0.3577, 0.3333, 0.1752, 0.5333],
+                        "MG": [0, -16, 78.4, 102.4],
+                        "Tag": 84749016,
+                        "@": 84749017,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 137, "Y": 30 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

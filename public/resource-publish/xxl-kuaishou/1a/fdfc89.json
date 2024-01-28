@@ -1,0 +1,91 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/tipssbg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -54, -13, 1, 1, 452.1096, 367.6752, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [-0.12, -0.0343, 0.288, 0.342],
+                        "MG": [150.4, 20.8, -86.4, 43.2],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 87667288,
+                        "@": 87667289,
+                        "Alpha": 142,
+                        "Name": "tipssbg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/groove_01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -41, -24, 1, 1, 428.5142, 233.0208, 0, 0, 0.0019,
+                            0.9978
+                        ],
+                        "PrePos": [-0.0911, -0.0633, 0.1173, 0.1224],
+                        "MG": [84.8, 38.4, -65.6, -12.8],
+                        "Scale9": [23, 21, 4, 2],
+                        "Tag": 87667286,
+                        "@": 87667287,
+                        "Alpha": 38,
+                        "Name": "groove_01",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/jiantou.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9999, 1, 27.2, 16, 0, 180, 0.5018, 0.9938
+                        ],
+                        "MG": [16, 0, 0, 27.2],
+                        "Tag": 87667284,
+                        "@": 87667285,
+                        "Alpha": 255,
+                        "Name": "jiantou",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/tiptitleimg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            169, -65, 1, 1, 224, 54.4, 0, 0, 0.4987, 0.5055
+                        ],
+                        "PrePos": [0.3756, -0.1715, 0.4978, 0.1435],
+                        "MG": [158.4, 104, 270.4, 494.4],
+                        "Tag": 87667282,
+                        "@": 87667283,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 450, "Y": 379 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

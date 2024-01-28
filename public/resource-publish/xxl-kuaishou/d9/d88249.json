@@ -1,0 +1,68 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_minus_diable.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -1, 0.72, 0.72, 62.4, 62.4, 0, 0, 0.4984, 0.5016
+                        ],
+                        "PrePos": [0, -0.0227, 1.4182, 1.4182],
+                        "MG": [64, 1.6, 0, 62.4],
+                        "Tag": 84983217,
+                        "@": 84983218,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bottom_btn_minus_click.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [-1, 0, 0.72, 0.72, 59.2, 59.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [-0.0227, 0, 1.3455, 1.3455],
+                        "MG": [59.2, 0, -1.6, 57.6],
+                        "Tag": 84983215,
+                        "@": 84983216,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bottom_btn_minus_normal.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [-1, 0, 0.72, 0.72, 59.2, 59.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [-0.0227, 0, 1.3455, 1.3455],
+                        "MG": [59.2, 0, -1.6, 57.6],
+                        "Tag": 84983213,
+                        "@": 84983214,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 44, "Y": 44 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

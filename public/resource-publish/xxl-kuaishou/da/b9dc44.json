@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            8, -43, 1, 1, 696.388, 868.884, 0, 0, 0.005, 0.9998
+                        ],
+                        "PrePos": [0.0114, -0.0473, 0.8787, 0.5369],
+                        "MG": [556.8, 68.8, 12.8, 628.8],
+                        "Scale9": [221, 110, 5, 4],
+                        "Tag": 84760489,
+                        "@": 84760490,
+                        "Alpha": 255,
+                        "Name": "pnl_common",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_show_panel/src_display_pic.png",
+                            "Plist": "cocos/beta_show_panel@6x.plist"
+                        },
+                        "Pos": [
+                            85, -129, 1, 1, 529.6, 372.8, 0, 0, 0.006, 0.9932
+                        ],
+                        "PrePos": [0.1213, -0.1419, 0.7555, 0.4101],
+                        "MG": [579.2, 206.4, 136, 665.6],
+                        "Tag": 84760487,
+                        "@": 84760488,
+                        "Alpha": 255,
+                        "Name": "pic_show",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [71, -510, 1, 1, 550, 252, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 161, "G": 90, "B": 7 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1013, -0.5611, 0.7846, 0.2772],
+                        "MG": [147, 510, 71, 80],
+                        "IsCustomSize": true,
+                        "LabelText": "恭喜您成为消消乐海滨假日游戏内测玩家！本次\\n内侧将不会保留您的游戏数据，在游戏正式上线\\n后，使用相同账号登录游戏，将会为您发放内测\\n礼包！感谢您的试玩！\\nfdsfdsfds",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 84760485,
+                        "@": 84760486,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_show_panel/title_pic.png",
+                            "Plist": "cocos/beta_show_panel@6x.plist"
+                        },
+                        "Pos": [
+                            175, -1, 1, 1, 331.2, 112, 0, 0, 0.0003, 0.9991
+                        ],
+                        "PrePos": [0.2496, -0.0011, 0.4725, 0.1232],
+                        "MG": [113.6, 1.6, 280, 611.2],
+                        "Tag": 84760483,
+                        "@": 84760484,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/beta_show_panel_bottom_btn_green_icon@6x.json"
+                        },
+                        "Pos": [353, -794, 1, 1, 349, 146, 0, 0, 0, 0],
+                        "PrePos": [0.5036, -0.8735, 0.4979, 0.1606],
+                        "MG": [-31, 794, 353, -1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84760481,
+                        "@": 84760482,
+                        "Alpha": 255,
+                        "Name": "btn_green_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/beta_show_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [666, -64, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9501, -0.0704, 0.1127, 0.0869],
+                        "MG": [766, 64, 666, -44],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84760479,
+                        "@": 84760480,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 701, "Y": 909 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

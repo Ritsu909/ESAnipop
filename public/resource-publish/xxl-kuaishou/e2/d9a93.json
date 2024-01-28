@@ -1,0 +1,80 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "1": [
+                    { "X": 0.15, "Y": -0.05 },
+                    { "X": -115.25, "Y": 40.3 },
+                    { "X": -241.1, "Y": 59.0 },
+                    { "X": -349.95, "Y": 75.15 },
+                    { "X": -480.05, "Y": 76.8 }
+                ]
+            },
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50001,
+                        [
+                            { "P": [0.15, -0.05], "I": 0, "Tag": "1" },
+                            {
+                                "P": [-44.1, 14.5],
+                                "I": 39,
+                                "Tag": "1",
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-477.2, 75.95],
+                                "I": 59,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            { "P": [0.9997, 0.9997], "I": 0 },
+                            {
+                                "P": [0.9997, 0.9997],
+                                "I": 39,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.9999, 0.9999], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish_collect/fish_actor.png",
+                            "Plist": "cocos/water_dig_fish_collect@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9997, 0.9997, 70.4, 70.4, 0, 0, 0.4986,
+                            0.5014
+                        ],
+                        "MG": [70.4, 0, 0, 70.4],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "fish_actorL",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

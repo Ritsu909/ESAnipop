@@ -1,0 +1,353 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.3, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, -168, -97.6],
+                        "Tag": 87172811,
+                        "@": 87172812,
+                        "Alpha": 255,
+                        "Name": "tile_center1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.1, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, -56, 14.4],
+                        "Tag": 87172809,
+                        "@": 87172810,
+                        "Alpha": 255,
+                        "Name": "tile_center2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [35, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0.1, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, 56, 126.4],
+                        "Tag": 87172807,
+                        "@": 87172808,
+                        "Alpha": 255,
+                        "Name": "tile_center3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.3, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, -168, -97.6],
+                        "Tag": 87172805,
+                        "@": 87172806,
+                        "Alpha": 255,
+                        "Name": "tile_center4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-35, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [-0.1, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, -56, 14.4],
+                        "Tag": 87172803,
+                        "@": 87172804,
+                        "Alpha": 255,
+                        "Name": "tile_center5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [35, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0.1, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, 56, 126.4],
+                        "Tag": 87172801,
+                        "@": 87172802,
+                        "Alpha": 255,
+                        "Name": "tile_center6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.3, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, -168, -97.6],
+                        "Tag": 87172799,
+                        "@": 87172800,
+                        "Alpha": 255,
+                        "Name": "tile_center7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.1, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, -56, 14.4],
+                        "Tag": 87172797,
+                        "@": 87172798,
+                        "Alpha": 255,
+                        "Name": "tile_center8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            35, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.1, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, 56, 126.4],
+                        "Tag": 87172795,
+                        "@": 87172796,
+                        "Alpha": 255,
+                        "Name": "tile_center9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.5, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, -280, -209.6],
+                        "Tag": 87172793,
+                        "@": 87172794,
+                        "Alpha": 255,
+                        "Name": "tile_center10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.5, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, -280, -209.6],
+                        "Tag": 87172791,
+                        "@": 87172792,
+                        "Alpha": 255,
+                        "Name": "tile_center11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.5, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, -280, -209.6],
+                        "Tag": 87172789,
+                        "@": 87172790,
+                        "Alpha": 255,
+                        "Name": "tile_center12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.3, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, 168, 238.4],
+                        "Tag": 87172787,
+                        "@": 87172788,
+                        "Alpha": 255,
+                        "Name": "tile_center13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0.3, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, 168, 238.4],
+                        "Tag": 87172785,
+                        "@": 87172786,
+                        "Alpha": 255,
+                        "Name": "tile_center14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.3, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, 168, 238.4],
+                        "Tag": 87172783,
+                        "@": 87172784,
+                        "Alpha": 255,
+                        "Name": "tile_center15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.3, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, -168, -97.6],
+                        "Tag": 87172781,
+                        "@": 87172782,
+                        "Alpha": 255,
+                        "Name": "tile_center16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.1, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, -56, 14.4],
+                        "Tag": 87172779,
+                        "@": 87172780,
+                        "Alpha": 255,
+                        "Name": "tile_center17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            35, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.1, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, 56, 126.4],
+                        "Tag": 87172777,
+                        "@": 87172778,
+                        "Alpha": 255,
+                        "Name": "tile_center18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.5, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, -280, -209.6],
+                        "Tag": 87172775,
+                        "@": 87172776,
+                        "Alpha": 255,
+                        "Name": "tile_center19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.3, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, 168, 238.4],
+                        "Tag": 87172773,
+                        "@": 87172774,
+                        "Alpha": 255,
+                        "Name": "tile_center20",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 350, "Y": 280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

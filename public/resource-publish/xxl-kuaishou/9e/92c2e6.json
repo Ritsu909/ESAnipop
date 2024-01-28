@@ -1,0 +1,70 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.3,
+                "Timelines": [
+                    [
+                        "RotationSkew",
+                        87615516,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [180, 180], "I": 20 },
+                            { "P": [270, 270], "I": 30 },
+                            { "P": [351, 351], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87615514,
+                        [
+                            { "P": [-81, 77.5], "I": 0, "T": 0 },
+                            { "P": [-81, 77.5], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lianhua_rotation/light.png",
+                            "Plist": "activity/ActivityMission/cocos/lianhua_rotation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 195.2, 196.8, 0, 0, 0.4974, 0.5015],
+                        "MG": [196.8, 0, 0, 195.2],
+                        "Tag": 87615515,
+                        "@": 87615516,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lianhua_rotation/flower.png",
+                            "Plist": "activity/ActivityMission/cocos/lianhua_rotation@6x.plist"
+                        },
+                        "Pos": [
+                            -81, 77, 1, 1, 163.2, 155.2, 0, 0, 0.0006, 0.9994
+                        ],
+                        "MG": [32.0, -123.2, -129.6, 33.6],
+                        "Tag": 87615513,
+                        "@": 87615514,
+                        "Alpha": 255,
+                        "Name": "sp",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

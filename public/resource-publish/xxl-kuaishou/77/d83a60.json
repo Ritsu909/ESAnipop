@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/starUIstartbottom2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -248, 61, 1, 1, 502.4, 128, 0, 0, 0.0002, 0.9992
+                        ],
+                        "PrePos": [-0.495, 0.4803, 1.0028, 1.0079],
+                        "MG": [30.4, -97.6, -396.8, 105.6],
+                        "Scale9": [61, 31, 373, 62],
+                        "Tag": 28250469,
+                        "@": 28250470,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/starUIstartbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -248, 61, 1, 1, 497.6, 123.2, 0, 0, 0.0002, 0.9992
+                        ],
+                        "PrePos": [-0.495, 0.4803, 0.9932, 0.9701],
+                        "MG": [25.6, -97.6, -396.8, 100.8],
+                        "Scale9": [61, 31, 373, 62],
+                        "Tag": 28250467,
+                        "@": 28250468,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-98, 29, 1, 1, 140, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1956, 0.2283, 0.2794, 0.4331],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [101, -29, -98, 459],
+                        "IsCustomSize": true,
+                        "LabelText": "开始",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28250465,
+                        "@": 28250466,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_energy_container@6x.json"
+                        },
+                        "Pos": [31, 5, 1, 1, 125, 54, 0, 0, 0, 0],
+                        "PrePos": [0.0619, 0.0394, 0.2495, 0.4252],
+                        "MG": [78, -5, 31, 345],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250463,
+                        "@": 28250464,
+                        "Alpha": 255,
+                        "Name": "energy_c",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 501, "Y": 127 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,52 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [-92, 43, 1, 1, 195.2, 120, 0, 0, 0.012, 0.9992],
+                        "PrePos": [-0.4742, 0.3613, 1.0062, 1.0084],
+                        "MG": [51.2, -68.8, -147.2, 48],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84746585,
+                        "@": 84746586,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/_anim_tip_label.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [-67, 17, 1, 1, 132.8, 56, 0, 0, 0.0008, 0.9982],
+                        "PrePos": [-0.3454, 0.1429, 0.6845, 0.4706],
+                        "MG": [28.8, -27.2, -107.2, 25.6],
+                        "Tag": 84746583,
+                        "@": 84746584,
+                        "Alpha": 255,
+                        "Name": "label",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 194, "Y": 119 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

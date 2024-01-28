@@ -1,0 +1,86 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "video_ad_btn/board_play1.png",
+                            "Plist": "cocos/video_ad_btn@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 88, 91.2, 0, 0, 0.496, 0.5581],
+                        "MG": [91.2, 0, 0, 88],
+                        "Tag": 87640416,
+                        "@": 87640417,
+                        "Alpha": 255,
+                        "Name": "board_play1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "video_ad_btn/coin_play.png",
+                            "Plist": "cocos/video_ad_btn@6x.plist"
+                        },
+                        "Pos": [1, -11, 1, 1, 64, 64, 0, 0, 0.5016, 0.4992],
+                        "PrePos": [0.013, -0.1429, 0.8312, 0.8312],
+                        "MG": [81.6, 17.6, 1.6, 65.6],
+                        "Tag": 87640446,
+                        "@": 87640447,
+                        "Alpha": 255,
+                        "Name": "coin_play",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/video_ad_btn_star_circle1@6x.json"
+                        },
+                        "Pos": [10, -20, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.1299, -0.2597, 0, 0],
+                        "MG": [57, 20, 10, 67],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87640412,
+                        "@": 87640413,
+                        "Alpha": 255,
+                        "Name": "star_circle2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/video_ad_btn_star_circle1@6x.json"
+                        },
+                        "Pos": [-6, 2, 0.8333, 0.8333, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0779, 0.026, 0, 0],
+                        "MG": [79, -2, -6, 83],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87640410,
+                        "@": 87640411,
+                        "Alpha": 255,
+                        "Name": "star_circle1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 77, "Y": 77 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

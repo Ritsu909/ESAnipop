@@ -1,0 +1,94 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.2099, 1.2099, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "MG": [115.2, 0, 0, 115.2],
+                        "Tag": 84746473,
+                        "@": 84746474,
+                        "Alpha": 255,
+                        "Name": "headbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.2099, 1.2099, 124.8, 124.8, 0, 0, 0.498,
+                            0.502
+                        ],
+                        "MG": [124.8, 0, 0, 124.8],
+                        "Tag": 84746471,
+                        "@": 84746472,
+                        "Alpha": 255,
+                        "Name": "headCircle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/searchHeadBg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -61, -53, 1, 1, 123.2, 36.8, 0, 0, 0.015, 0.9497
+                        ],
+                        "PrePos": [-0.4067, -0.3252, 0.8213, 0.2258],
+                        "MG": [121.6, 84.8, -97.6, 25.6],
+                        "Tag": 84746469,
+                        "@": 84746470,
+                        "Alpha": 255,
+                        "Name": "levelbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-57, -51, 1.5, 1.5, 108, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 183, "G": 125, "B": 78 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.38, -0.3129, 0.72, 0.2147],
+                        "MG": [77, 51, -57, 99],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "第999关",
+                        "FontSize": 15,
+                        "Shadow": [2, -2],
+                        "Tag": 84746467,
+                        "@": 84746468,
+                        "Name": "level",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 150, "Y": 163 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

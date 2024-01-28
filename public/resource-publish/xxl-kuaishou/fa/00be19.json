@@ -1,0 +1,288 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/item_purple_bg.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            289, -94, 0.96, 0.96, 577.6, 190.4, 0, 0, 0.5,
+                            0.4961
+                        ],
+                        "PrePos": [0.5217, -0.5193, 1.0426, 1.0519],
+                        "MG": [340.8, 150.4, 462.4, 1040],
+                        "Tag": 111245,
+                        "@": 111246,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [26, -151, 0.96, 0.96, 535, 24, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 159, "G": 255, "B": 255 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0469, -0.8343, 0.9657, 0.1326],
+                        "MG": [6, 151, 26, -7],
+                        "IsCustomSize": true,
+                        "LabelText": "该悬赏已被玩家接受，请耐心等待结果",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111211,
+                        "@": 111212,
+                        "Name": "status",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_item_green_btn@6x.json"
+                        },
+                        "Pos": [474, -111, 0.96, 0.96, 153, 63, 0, 0, 0, 0],
+                        "PrePos": [0.8556, -0.6133, 0.2762, 0.3481],
+                        "MG": [7, 111, 474, -73],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111113,
+                        "@": 111114,
+                        "Alpha": 255,
+                        "Name": "btn_3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_item_yellow_btn@6x.json"
+                        },
+                        "Pos": [474, -89, 0.96, 0.96, 154, 62, 0, 0, 0, 0],
+                        "PrePos": [0.8556, -0.4917, 0.278, 0.3425],
+                        "MG": [30, 89, 474, -74],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111111,
+                        "@": 111112,
+                        "Alpha": 255,
+                        "Name": "btn_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_item_yellow_btn@6x.json"
+                        },
+                        "Pos": [474, -48, 0.96, 0.96, 154, 62, 0, 0, 0, 0],
+                        "PrePos": [0.8556, -0.2652, 0.278, 0.3425],
+                        "MG": [71, 48, 474, -74],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111109,
+                        "@": 111110,
+                        "Alpha": 255,
+                        "Name": "btn_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/x1.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            325, -56, 0.96, 0.96, 22.4, 22.4, 0, 0, 0.4933,
+                            0.5067
+                        ],
+                        "PrePos": [0.5866, -0.3094, 0.0404, 0.1238],
+                        "MG": [112, 89.6, 520, 542.4],
+                        "Tag": 111107,
+                        "@": 111108,
+                        "Alpha": 255,
+                        "Name": "x",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [341, -29, 0.96, 0.96, 47, 53, 0, 0, 0, 1],
+                        "PrePos": [0.6155, -0.1602, 0.0848, 0.2928],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [99, 29, 341, 166],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "80",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 111105,
+                        "@": 111106,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/headplaceholder.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            80, -72, 0.96, 0.96, 70.4, 70.4, 0, 0, 0.4986,
+                            0.5014
+                        ],
+                        "PrePos": [0.1444, -0.3978, 0.1271, 0.389],
+                        "MG": [185.6, 115.2, 128, 198.4],
+                        "Tag": 111103,
+                        "@": 111104,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            80, -71, 0.672, 0.672, 124.8, 124.8, 0, 0, 0.498,
+                            0.502
+                        ],
+                        "PrePos": [0.1444, -0.3923, 0.2253, 0.6895],
+                        "MG": [238.4, 113.6, 128, 252.8],
+                        "Tag": 111101,
+                        "@": 111102,
+                        "Alpha": 255,
+                        "Name": "head_box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/gold_coin.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            290, -56, 0.4896, 0.4896, 96, 96, 0, 0, 0.501, 0.499
+                        ],
+                        "PrePos": [0.5235, -0.3094, 0.1733, 0.5304],
+                        "MG": [185.6, 89.6, 464, 560],
+                        "Tag": 111099,
+                        "@": 111100,
+                        "Alpha": 255,
+                        "Name": "coin",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [30, -116, 0.96, 0.96, 99, 29, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 46, "G": 57, "B": 158 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0542, -0.6409, 0.1787, 0.1602],
+                        "MG": [36, 116, 30, 425],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "会飞的猪",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111097,
+                        "@": 111098,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [172, -42, 0.96, 0.96, 99, 29, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 46, "G": 57, "B": 158 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3105, -0.232, 0.1787, 0.1602],
+                        "MG": [110, 42, 172, 283],
+                        "IsCustomSize": true,
+                        "LabelText": "重金悬赏：",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111095,
+                        "@": 111096,
+                        "Name": "reward_text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [173, -94, 0.96, 0.96, 198, 29, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 46, "G": 57, "B": 158 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3123, -0.5193, 0.3574, 0.1602],
+                        "MG": [58, 94, 173, 183],
+                        "IsCustomSize": true,
+                        "LabelText": "通关第一个蓝鲸关卡",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111093,
+                        "@": 111094,
+                        "Name": "condition",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [27, -146, 0.96, 0.96, 533, 26, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0487, -0.8066, 0.9621, 0.1436],
+                        "MG": [9, 146, 27, -6],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "距离该悬赏结束还剩：01:55:21",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111091,
+                        "@": 111092,
+                        "Name": "countdown",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 554, "Y": 181 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

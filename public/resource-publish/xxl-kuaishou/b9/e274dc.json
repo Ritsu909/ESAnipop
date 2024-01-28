@@ -1,0 +1,313 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/bg.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 617.6, 886.4, 0, 0, 0.0002, 0.9999],
+                        "MG": [886.4, 0, 0, 617.6],
+                        "Tag": 88139428,
+                        "@": 88139429,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/pink_bg1.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            308, -559, 1, 1, 576, 576, 0, 0, 0.4993, 0.5007
+                        ],
+                        "PrePos": [0.4992, -0.6316, 0.9335, 0.6508],
+                        "MG": [1470.4, 894.4, 492.8, 1068.8],
+                        "Tag": 88139424,
+                        "@": 88139425,
+                        "Alpha": 255,
+                        "Name": "bg_pink",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/frame1.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            306, -183, 1, 1, 576, 148.8, 0, 0, 0.4993, 0.502
+                        ],
+                        "PrePos": [0.4959, -0.2068, 0.9335, 0.1681],
+                        "MG": [441.6, 292.8, 489.6, 1065.6],
+                        "Tag": 88139422,
+                        "@": 88139423,
+                        "Alpha": 255,
+                        "Name": "bg_my_vip",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/frame2.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            307, -468, 1, 1, 552, 230.4, 0, 0, 0.5002, 0.5026
+                        ],
+                        "PrePos": [0.4976, -0.5288, 0.8947, 0.2603],
+                        "MG": [979.2, 748.8, 491.2, 1043.2],
+                        "Tag": 88139420,
+                        "@": 88139421,
+                        "Alpha": 255,
+                        "Name": "bg_current_level",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/frame2.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            306, -697, 1, 1, 552, 230.4, 0, 0, 0.5002, 0.5026
+                        ],
+                        "PrePos": [0.4959, -0.7876, 0.8947, 0.2603],
+                        "MG": [1345.6, 1115.2, 489.6, 1041.6],
+                        "Tag": 88139418,
+                        "@": 88139419,
+                        "Alpha": 255,
+                        "Name": "bg_next_level",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/vip_privileges_btn_recharge@6x.json"
+                        },
+                        "Pos": [468, -175, 0.71, 0.71, 250, 124, 0, 0, 0, 0],
+                        "PrePos": [0.7585, -0.1977, 0.4052, 0.1401],
+                        "MG": [586, 175, 468, -101],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 88139416,
+                        "@": 88139417,
+                        "Alpha": 255,
+                        "Name": "btn_recharge",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/vip_privileges_btn_update@6x.json"
+                        },
+                        "Pos": [455, -479, 0.58, 0.58, 279, 152, 0, 0, 0, 0],
+                        "PrePos": [0.7374, -0.5412, 0.4522, 0.1718],
+                        "MG": [254, 479, 455, -117],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 88139414,
+                        "@": 88139415,
+                        "Alpha": 255,
+                        "Name": "btn_get_package",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/vip_privileges_bottom_btn_question@6x.json"
+                        },
+                        "Pos": [313, -155, 0.9, 0.9, 47, 47, 0, 0, 0, 0],
+                        "PrePos": [0.5073, -0.1751, 0.0762, 0.0531],
+                        "MG": [683, 155, 313, 257],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 88139412,
+                        "@": 88139413,
+                        "Alpha": 255,
+                        "Name": "btn_question",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [131, -284, 1, 1, 328, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2123, -0.3209, 0.5316, 0.0621],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_redstroke@6x.fnt"
+                        },
+                        "MG": [546, 284, 131, 158],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "每日礼包",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 88139410,
+                        "@": 88139411,
+                        "Name": "subtitle",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [145, -21, 1, 1, 328, 55, 0, 0, 0, 1],
+                        "PrePos": [0.235, -0.0237, 0.5316, 0.0621],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_redstroke@6x.fnt"
+                        },
+                        "MG": [809, 21, 145, 144],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "小游戏VIP特权",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 88139408,
+                        "@": 88139409,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/my_vip_text.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            32, -139, 1, 1, 139.2, 41.6, 0, 0, 0.0007, 0.9976
+                        ],
+                        "PrePos": [0.0519, -0.1571, 0.2256, 0.047],
+                        "MG": [264, 222.4, 51.2, 190.4],
+                        "Tag": 88139406,
+                        "@": 88139407,
+                        "Alpha": 255,
+                        "Name": "my_vip_text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/vip_text.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            34, -192, 1, 1, 347.2, 41.6, 0, 0, 0.0003, 0.9976
+                        ],
+                        "PrePos": [0.0551, -0.2169, 0.5627, 0.047],
+                        "MG": [348.8, 307.2, 54.4, 401.6],
+                        "Tag": 88139404,
+                        "@": 88139405,
+                        "Alpha": 255,
+                        "Name": "vip_text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/current_level_package_title.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            45, -376, 1, 1, 294.4, 41.6, 0, 0, 0.0003, 0.9976
+                        ],
+                        "PrePos": [0.0729, -0.4249, 0.4771, 0.047],
+                        "MG": [643.2, 601.6, 72, 366.4],
+                        "Tag": 88139402,
+                        "@": 88139403,
+                        "Alpha": 255,
+                        "Name": "current_level_package_title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/next_level_package_title.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            45, -609, 1, 1, 246.4, 41.6, 0, 0, 0.0004, 0.9976
+                        ],
+                        "PrePos": [0.0729, -0.6881, 0.3994, 0.047],
+                        "MG": [1016, 974.4, 72, 318.4],
+                        "Tag": 88139400,
+                        "@": 88139401,
+                        "Alpha": 255,
+                        "Name": "next_level_package_title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/is_not_vip_text.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            37, -457, 1, 1, 252.8, 41.6, 0, 0, 0.0004, 0.9976
+                        ],
+                        "PrePos": [0.06, -0.5164, 0.4097, 0.047],
+                        "MG": [772.8, 731.2, 59.2, 312],
+                        "Tag": 88139398,
+                        "@": 88139399,
+                        "Alpha": 255,
+                        "Name": "is_not_vip_text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges/vip0.png",
+                            "Plist": "cocos/vip_privileges@6x.plist"
+                        },
+                        "Pos": [
+                            217, -156, 1, 1, 126.4, 32, 0, 0, 0.4953, 0.4969
+                        ],
+                        "PrePos": [0.3517, -0.1763, 0.2049, 0.0362],
+                        "MG": [281.6, 249.6, 347.2, 473.6],
+                        "Tag": 88139396,
+                        "@": 88139397,
+                        "Alpha": 255,
+                        "Name": "vip_level_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/vip_privileges_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [571, -86, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9254, -0.0972, 0.1378, 0.0938],
+                        "MG": [716, 86, 571, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 88139394,
+                        "@": 88139395,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 617, "Y": 885 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

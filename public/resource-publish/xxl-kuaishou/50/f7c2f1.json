@@ -1,0 +1,73 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_fail/bg.png",
+                            "Plist": "cocos/rm_fail@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 622.4, 500.8, 0, 0, 0.0002, 0.9998],
+                        "MG": [500.8, 0, 0, 622.4],
+                        "Tag": 348506,
+                        "@": 348507,
+                        "Alpha": 255,
+                        "Name": "background3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [106, -103, 2, 2, 412, 111, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1707, -0.206, 0.6634, 0.222],
+                        "MG": [286, 103, 106, 103],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "626",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 348504,
+                        "@": 348505,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_fail/close_btn_blue.png",
+                            "Plist": "cocos/rm_fail@6x.plist"
+                        },
+                        "Pos": [
+                            565, -44, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.9098, -0.088, 0.1391, 0.1728],
+                        "MG": [156.8, 70.4, 904, 990.4],
+                        "Tag": 348502,
+                        "@": 348503,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 621, "Y": 500 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

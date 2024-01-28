@@ -1,0 +1,196 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            3, -39, 1, 1, 696.388, 820.7184, 0, 0, 0.005, 0.9998
+                        ],
+                        "PrePos": [0.0043, -0.0455, 0.88, 0.5688],
+                        "MG": [550.4, 62.4, 4.8, 620.8],
+                        "Scale9": [221, 110, 5, 4],
+                        "Tag": 84747363,
+                        "@": 84747364,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/racoonBg.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            49, -127, 1, 1, 590.4, 404.8, 0, 0, 0.0056, 0.9918
+                        ],
+                        "PrePos": [0.07, -0.148, 0.8434, 0.4718],
+                        "MG": [608, 203.2, 78.4, 668.8],
+                        "Tag": 84747361,
+                        "@": 84747362,
+                        "Alpha": 255,
+                        "Name": "pic",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/bubble.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            230, -310, 1, 1, 136, 137.6, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.3286, -0.3613, 0.1943, 0.1604],
+                        "MG": [633.6, 496, 368, 504],
+                        "Tag": 84747359,
+                        "@": 84747360,
+                        "Alpha": 255,
+                        "Name": "bubble1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/bubble.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            314, -214, 1, 1, 136, 137.6, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.4486, -0.2494, 0.1943, 0.1604],
+                        "MG": [480, 342.4, 502.4, 638.4],
+                        "Tag": 84747357,
+                        "@": 84747358,
+                        "Alpha": 255,
+                        "Name": "bubble2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/bubble.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            442, -215, 1, 1, 136, 137.6, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.6314, -0.2506, 0.1943, 0.1604],
+                        "MG": [481.6, 344, 707.2, 843.2],
+                        "Tag": 84747355,
+                        "@": 84747356,
+                        "Alpha": 255,
+                        "Name": "bubble3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/bubble.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            522, -318, 1, 1, 136, 137.6, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.7457, -0.3706, 0.1943, 0.1604],
+                        "MG": [646.4, 508.8, 835.2, 971.2],
+                        "Tag": 84747353,
+                        "@": 84747354,
+                        "Alpha": 255,
+                        "Name": "bubble4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/beta_reward_panel_btn_green_start@6x.json"
+                        },
+                        "Pos": [350, -749, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.5, -0.873, 0.2771, 0.1422],
+                        "MG": [-13, 749, 350, 156],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747351,
+                        "@": 84747352,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "beta_reward_panel/title_pic.png",
+                            "Plist": "cocos/beta_reward_panel@6x.plist"
+                        },
+                        "Pos": [140, 0, 1, 1, 412.8, 112, 0, 0, 0.0002, 0.9991],
+                        "PrePos": [0.2, 0, 0.5897, 0.1305],
+                        "MG": [112, 0, 224, 636.8],
+                        "Tag": 84747349,
+                        "@": 84747350,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/beta_reward_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [660, -67, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9429, -0.0781, 0.1129, 0.0921],
+                        "MG": [712, 67, 660, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747347,
+                        "@": 84747348,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [84, -540, 1, 1, 531, 147, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 161, "G": 90, "B": 7 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.12, -0.6294, 0.7586, 0.1713],
+                        "MG": [171, 540, 84, 85],
+                        "IsCustomSize": true,
+                        "LabelText": "亲爱的玩家，感谢您参与试玩消消乐海滨假日\\n内测版！根据您曾登录过的账号，现向您发送\\n内测礼包，同一账号只能领取一次哦！ 祝您游\\n戏愉快！",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 84747345,
+                        "@": 84747346,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 700, "Y": 858 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

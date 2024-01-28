@@ -1,0 +1,66 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 5,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        89194665,
+                        [
+                            { "P": [10.7, 0.45], "I": 0 },
+                            { "P": [12.3, 0.45], "I": 2 },
+                            { "P": [10.7, 0.45], "I": 4, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        89194665,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1.1499, 1.1499], "I": 2 },
+                            { "P": [1, 1], "I": 4, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        89194665,
+                        [
+                            { "P": [-91.05, 88.95], "I": 0 },
+                            { "P": [-91.01, 88.99], "I": 2 },
+                            { "P": [-91.05, 88.95], "I": 4, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_bellDoor/bell_note3.png",
+                            "Plist": "cocos/homeAnim_bellDoor@6x.plist"
+                        },
+                        "Pos": [
+                            10, 0, 1, 1, 25.6, 22.4, -91.05, 88.95, 0.5293,
+                            0.0312
+                        ],
+                        "MG": [22.4, 0, 16, 41.6],
+                        "Tag": 89194664,
+                        "@": 89194665,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

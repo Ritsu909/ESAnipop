@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_yello_green_scale9.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -1, 0, 1, 1, 230.4, 179.2, 0, 0, 0.0004, 0.9994
+                        ],
+                        "PrePos": [-0.0044, 0, 1.0061, 1.0011],
+                        "MG": [179.2, 0, -1.6, 228.8],
+                        "Scale9": [36, 28, 72, 56],
+                        "Tag": 50150,
+                        "@": 50151,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [49, -60, 1, 1, 104, 72, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 73, "G": 228, "B": 224 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.214, -0.3352, 0.4541, 0.4022],
+                        "MG": [47, 60, 49, 76],
+                        "IsCustomSize": true,
+                        "LabelText": "title\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 50152,
+                        "@": 50153,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 229, "Y": 179 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

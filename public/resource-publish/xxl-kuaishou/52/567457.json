@@ -1,0 +1,402 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            57, -386, 1, 1, 433.7424, 125.9232, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0.0902, -0.7269, 0.1975, 0.235],
+                        "MG": [742.4, 617.6, 91.2, 216],
+                        "Scale9": [58, 52, 7, 20],
+                        "Tag": 84746841,
+                        "@": 84746842,
+                        "Alpha": 255,
+                        "Name": "whitebubblespeak",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/fawt_chang_long.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            69, -412, 1, 1, 393.6, 62.4, 0, 0, -0.0058, 1.0817
+                        ],
+                        "PrePos": [0.1092, -0.7759, 0.6228, 0.1175],
+                        "MG": [721.6, 659.2, 110.4, 504],
+                        "Tag": 84746839,
+                        "@": 84746840,
+                        "Alpha": 255,
+                        "Name": "发送求助后可抽取长隆海洋王国， 野生动物世界门票哦！（总价580元）",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hand3.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            514, -467, 0.5985, 0.5986, 56, 44.8, 107.95, 108.13,
+                            0.8152, 0.7812
+                        ],
+                        "PrePos": [0.8133, -0.8795, 0.0886, 0.0844],
+                        "MG": [792, 747.2, 822.4, 878.4],
+                        "Tag": 84746823,
+                        "@": 84746824,
+                        "Alpha": 255,
+                        "Name": "chick_hand3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_body.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            585, -538, 0.8689, 0.8321, 184, 166.4, -1.54,
+                            178.09, 0.5005, 0.0018
+                        ],
+                        "PrePos": [0.9256, -1.0132, 0.2911, 0.3134],
+                        "MG": [1027.2, 860.8, 936, 1120],
+                        "Tag": 84746837,
+                        "@": 84746838,
+                        "Alpha": 255,
+                        "Name": "chick_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyerow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            574, -440, 0.8689, 0.3561, 51.2, 16, -3.44, 176.57,
+                            0.4551, 0.2937
+                        ],
+                        "PrePos": [0.9082, -0.8286, 0.081, 0.0301],
+                        "MG": [720, 704, 918.4, 969.6],
+                        "Tag": 84746835,
+                        "@": 84746836,
+                        "Alpha": 255,
+                        "Name": "chick_eyerow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chicke_face_L.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            621, -481, 0.9215, 0.9215, 152, 44.8, -1.91, 178.09,
+                            0.1872, 0.5368
+                        ],
+                        "PrePos": [0.9826, -0.9058, 0.2405, 0.0844],
+                        "MG": [814.4, 769.6, 993.6, 1145.6],
+                        "Tag": 84746833,
+                        "@": 84746834,
+                        "Alpha": 255,
+                        "Name": "chicke_face_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hat1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            574, -413, 1.0934, 0.7298, 60.8, 64, 11.13, 11.13,
+                            0.2048, -0.0016
+                        ],
+                        "PrePos": [0.9082, -0.7778, 0.0962, 0.1205],
+                        "MG": [724.8, 660.8, 918.4, 979.2],
+                        "Tag": 84746831,
+                        "@": 84746832,
+                        "Alpha": 255,
+                        "Name": "chick_hat1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            542, -464, 1.0427, 1.031, 38.4, 41.6, 13.29, 13.81,
+                            0.4844, 0.5048
+                        ],
+                        "PrePos": [0.8576, -0.8738, 0.0608, 0.0783],
+                        "MG": [784, 742.4, 867.2, 905.6],
+                        "Tag": 84746829,
+                        "@": 84746830,
+                        "Alpha": 255,
+                        "Name": "chick_eyeball",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chicken_eye_hit.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            607, -463, 0.8968, 0.8545, 44.8, 30.4, -27.94,
+                            -10.53, 0.625, 0.4507
+                        ],
+                        "PrePos": [0.9604, -0.8719, 0.0709, 0.0573],
+                        "MG": [771.2, 740.8, 971.2, 1016],
+                        "Tag": 84746827,
+                        "@": 84746828,
+                        "Alpha": 255,
+                        "Name": "chicken_eye_hit",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            544, -465, 1.1625, 1.1494, 27.2, 27.2, 13.29, 13.82,
+                            0.5, 0.5
+                        ],
+                        "PrePos": [0.8608, -0.8757, 0.043, 0.0512],
+                        "MG": [771.2, 744, 870.4, 897.6],
+                        "Tag": 84746825,
+                        "@": 84746826,
+                        "Alpha": 255,
+                        "Name": "chick_eyeinside",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hand3.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            635, -498, 0.5985, 0.5986, 56, 44.8, 32.94, 33.13,
+                            0.8152, 0.7812
+                        ],
+                        "PrePos": [1.0047, -0.9379, 0.0886, 0.0844],
+                        "MG": [841.6, 796.8, 1016, 1072],
+                        "Tag": 84746823,
+                        "@": 84746824,
+                        "Alpha": 255,
+                        "Name": "chick_hand3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_mouth1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            575, -477, 0.8688, 1.1181, 22.4, 35.2, -3.67, -3.67,
+                            0.5268, 0.5099
+                        ],
+                        "PrePos": [0.9098, -0.8983, 0.0354, 0.0663],
+                        "MG": [798.4, 763.2, 920, 942.4],
+                        "Tag": 84746821,
+                        "@": 84746822,
+                        "Alpha": 255,
+                        "Name": "chick_mouth1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            484, -472, 0.7407, 1, 17.6, 17.6, -75, 105, 0.0057,
+                            0.9943
+                        ],
+                        "PrePos": [0.7658, -0.8889, 0.0278, 0.0331],
+                        "MG": [772.8, 755.2, 774.4, 792],
+                        "Tag": 84746819,
+                        "@": 84746820,
+                        "Alpha": 255,
+                        "Name": "boxTail",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/coinnnnnnnnn.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            195, -162, 1, 1, 150.4, 120, 0, 0, 0.5037, 0.5054
+                        ],
+                        "PrePos": [0.3085, -0.3051, 0.238, 0.226],
+                        "MG": [379.2, 259.2, 312, 462.4],
+                        "Tag": 84746817,
+                        "@": 84746818,
+                        "Alpha": 255,
+                        "Name": "coinnnnnnnnn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/groupppppppppp.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            503, -166, 1, 1, 140.8, 108.8, 0, 0, 0.4972, 0.4986
+                        ],
+                        "PrePos": [0.7959, -0.3126, 0.2228, 0.2049],
+                        "MG": [374.4, 265.6, 804.8, 945.6],
+                        "Tag": 84746815,
+                        "@": 84746816,
+                        "Alpha": 255,
+                        "Name": "groupppppppppp",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [124, -215, 1, 1, 154, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 166, "G": 90, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1962, -0.4049, 0.2437, 0.081],
+                        "MG": [273, 215, 124, 354],
+                        "IsCustomSize": true,
+                        "LabelText": "风车币购买",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746813,
+                        "@": 84746814,
+                        "Name": "descb1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [407, -215, 1, 1, 195, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 166, "G": 90, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.644, -0.4049, 0.3085, 0.081],
+                        "MG": [273, 215, 407, 30],
+                        "IsCustomSize": true,
+                        "LabelText": "好友帮助+1次",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746811,
+                        "@": 84746812,
+                        "Name": "descb2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_btn_green_start2@6x.json"
+                        },
+                        "Pos": [172, -306, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2722, -0.5763, 0.443, 0.2298],
+                        "MG": [103, 306, 172, 180],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746809,
+                        "@": 84746810,
+                        "Alpha": 255,
+                        "Name": "btn1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_btn_blue_start@6x.json"
+                        },
+                        "Pos": [480, -302, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7595, -0.5687, 0.443, 0.2298],
+                        "MG": [107, 302, 480, -128],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746807,
+                        "@": 84746808,
+                        "Alpha": 255,
+                        "Name": "btn2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            651, -47, 0.9, 0.9, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [1.0301, -0.0885, 0.1367, 0.1567],
+                        "MG": [158.4, 75.2, 1041.6, 1128],
+                        "Tag": 84746805,
+                        "@": 84746806,
+                        "Alpha": 255,
+                        "Name": "closebtn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [194, -26, 1, 1, 322, 55, 0, 0, 0, 1],
+                        "PrePos": [0.307, -0.049, 0.5095, 0.1036],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [450, 26, 194, 116],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得闯关次数",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746803,
+                        "@": 84746804,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 632, "Y": 531 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

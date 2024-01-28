@@ -1,0 +1,85 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candy_hippo.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0, 0.5, 0.2514, 0.2514],
+                        "MG": [-153.6, -224, 0, 70.4],
+                        "Tag": 50152,
+                        "@": 50153,
+                        "Alpha": 255,
+                        "Name": "candy_hippo_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -140, 139, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0.4964, 0.2514, 0.2514],
+                        "MG": [-152, -222.4, -224, -153.6],
+                        "Tag": 50154,
+                        "@": 50155,
+                        "Alpha": 255,
+                        "Name": "candychick_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, 69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.25, 0.2464, 0.2514, 0.2514],
+                        "MG": [-40, -110.4, 112, 182.4],
+                        "Tag": 50156,
+                        "@": 50157,
+                        "Alpha": 255,
+                        "Name": "candychick_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            69, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2464, -0.25, 0.2514, 0.2514],
+                        "MG": [182.4, 112, 110.4, 180.8],
+                        "Tag": 50158,
+                        "@": 50159,
+                        "Alpha": 255,
+                        "Name": "candychick_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 280, "Y": 280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

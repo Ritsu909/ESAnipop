@@ -1,0 +1,146 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bookcase.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            9, 5, 1, 1, 682.5043, 1032.8102, 0, 0, 0.0004,
+                            0.9996
+                        ],
+                        "PrePos": [0.0129, 0.0049, 0.3639, 0.2612],
+                        "MG": [260.8, -8, 14.4, 268.8],
+                        "Scale9": [78, 131, 55, 29],
+                        "Tag": 84746503,
+                        "@": 84746504,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/rankdown.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            664, -243, 1, 1, 43.2, 150.4, 0, 0, 0.0023, 0.5047
+                        ],
+                        "PrePos": [0.9499, -0.2362, 0.0618, 0.1462],
+                        "MG": [539.2, 388.8, 1062.4, 1105.6],
+                        "Tag": 84746937,
+                        "@": 84746938,
+                        "Alpha": 255,
+                        "Name": "tab_anim_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_tip_gift@6x.json"
+                        },
+                        "Pos": [664, -243, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.9499, -0.2362, 0, 0],
+                        "MG": [786, 243, 664, 35],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746935,
+                        "@": 84746936,
+                        "Alpha": 255,
+                        "Name": "tab_anim_select_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/adddown.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            664, -431, 1, 1, 43.2, 150.4, 0, 0, 0.0023, 0.5047
+                        ],
+                        "PrePos": [0.9499, -0.4189, 0.0618, 0.1462],
+                        "MG": [840, 689.6, 1062.4, 1105.6],
+                        "Tag": 84746933,
+                        "@": 84746934,
+                        "Alpha": 255,
+                        "Name": "tab_anim_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_tip_add@6x.json"
+                        },
+                        "Pos": [664, -431, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.9499, -0.4189, 0, 0],
+                        "MG": [598, 431, 664, 35],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746931,
+                        "@": 84746932,
+                        "Alpha": 255,
+                        "Name": "tab_anim_select_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [631, -40, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9027, -0.0389, 0.1216, 0.0807],
+                        "MG": [906, 40, 631, -17],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746485,
+                        "@": 84746486,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_book_cover@6x.json"
+                        },
+                        "Pos": [11, 0, 1, 1, 660, 1012, 0, 0, 0, 0],
+                        "PrePos": [0.0157, 0, 0.9442, 0.9835],
+                        "MG": [17, 0, 11, 28],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746475,
+                        "@": 84746476,
+                        "Alpha": 255,
+                        "Name": "cover",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 699, "Y": 1029 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

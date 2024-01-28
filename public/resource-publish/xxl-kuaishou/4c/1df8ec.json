@@ -1,0 +1,284 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/chicken_passall.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            156, -185, 1.3097, 1.3097, 136, 137.6, 0, 0, 0.4989,
+                            0.0062
+                        ],
+                        "PrePos": [0.2294, -0.1605, 0.2, 0.1193],
+                        "MG": [433.6, 296, 249.6, 385.6],
+                        "Tag": 84750029,
+                        "@": 84750030,
+                        "Alpha": 255,
+                        "Name": "chicken_passall",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/racoon_passall.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            532, -248, 1.2837, 1.2837, 176, 198.4, -3.44, -3.44,
+                            0.4991, 0.0033
+                        ],
+                        "PrePos": [0.7824, -0.2151, 0.2588, 0.1721],
+                        "MG": [595.2, 396.8, 851.2, 1027.2],
+                        "Tag": 84750027,
+                        "@": 84750028,
+                        "Alpha": 255,
+                        "Name": "racoon_passall",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            5, -178, 1, 1, 667.1555, 970.4467, 0, 0, 0.0002,
+                            1.0056
+                        ],
+                        "PrePos": [0.0074, -0.1544, 0.6541, 0.2415],
+                        "MG": [563.2, 284.8, 8, 452.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 84750025,
+                        "@": 84750026,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/starbacksth.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            28, -252, 1, 1, 617.6, 649.6, 0, 0, 0.0002, 0.9998
+                        ],
+                        "PrePos": [0.0412, -0.2186, 0.9082, 0.5634],
+                        "MG": [1052.8, 403.2, 44.8, 662.4],
+                        "Tag": 84750023,
+                        "@": 84750024,
+                        "Alpha": 255,
+                        "Name": "stars_board",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pass_all_level_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [335, -1016, 1, 1, 290, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4926, -0.8812, 0.4265, 0.1058],
+                        "MG": [15, 1016, 335, 55],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84750021,
+                        "@": 84750022,
+                        "Alpha": 255,
+                        "Name": "btn_ok",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [125, -920, 1, 1, 427, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 156, "G": 85, "B": 15 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1838, -0.7979, 0.6279, 0.0373],
+                        "MG": [190, 920, 125, 128],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "新区域开放提醒",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84750019,
+                        "@": 84750020,
+                        "Name": "new_area_tip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [59, -1086, 1, 1, 559, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 145, "G": 77, "B": 10 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0868, -0.9419, 0.8221, 0.026],
+                        "MG": [37, 1086, 59, 62],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "在设置中开启海滨假日的消息推送第一时间获取通知",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84750017,
+                        "@": 84750018,
+                        "Name": "notice_tip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [13, -210, 1, 1, 651, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 213, "G": 98, "B": 36 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0191, -0.1821, 0.9574, 0.0373],
+                        "MG": [900, 210, 13, 16],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "距离完美还差一步，点亮星空更多精彩",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84750015,
+                        "@": 84750016,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [60, -718, 1, 1, 292, 33, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0882, -0.6227, 0.4294, 0.0286],
+                        "MG": [402, 718, 60, 328],
+                        "IsCustomSize": true,
+                        "LabelText": "点亮星星获得以下奖励",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84750013,
+                        "@": 84750014,
+                        "Name": "reward_tip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pass_all_level_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [645, -193, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9485, -0.1674, 0.1162, 0.0685],
+                        "MG": [881, 193, 645, -44],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84750011,
+                        "@": 84750012,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/src_bling.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            27, -241, 1, 1, 596.8, 33.6, 0, 0, 0.0002, 1.0982
+                        ],
+                        "PrePos": [0.0397, -0.209, 0.8776, 0.0291],
+                        "MG": [419.2, 385.6, 43.2, 640],
+                        "Tag": 84750009,
+                        "@": 84750010,
+                        "Alpha": 255,
+                        "Name": "bling_111",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/src_bling.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            31, -857, 1, 1, 596.8, 33.6, 0, 0, 0.0002, 1.0982
+                        ],
+                        "PrePos": [0.0456, -0.7433, 0.8776, 0.0291],
+                        "MG": [1404.8, 1371.2, 49.6, 646.4],
+                        "Tag": 84750007,
+                        "@": 84750008,
+                        "Alpha": 255,
+                        "Name": "bling_222",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pass_all_level_panel/src_line.png",
+                            "Plist": "cocos/pass_all_level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            38, -907, 1, 1, 598.4, 4.8, 0, 0, 0.0031, 0.6146
+                        ],
+                        "PrePos": [0.0559, -0.7866, 0.88, 0.0042],
+                        "MG": [1456, 1451.2, 60.8, 659.2],
+                        "Tag": 84750005,
+                        "@": 84750006,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [201, -98, 1, 1, 289, 94, 0, 0, 0, 1],
+                        "PrePos": [0.2956, -0.085, 0.425, 0.0815],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [961, 98, 201, 190],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "通关啦！",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84750003,
+                        "@": 84750004,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 680, "Y": 1153 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

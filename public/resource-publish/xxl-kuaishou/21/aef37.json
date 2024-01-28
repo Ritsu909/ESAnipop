@@ -1,0 +1,68 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-34, 34, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.4857, 0.1611, 1.0057, 0.3412],
+                        "MG": [17.6, -54.4, -54.4, 16.0],
+                        "Tag": 92744960,
+                        "@": 92744961,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -35, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, -0.1659, 1.0057, 0.3336],
+                        "MG": [126.4, 56, -56, 14.4],
+                        "Tag": 92744958,
+                        "@": 92744959,
+                        "Alpha": 255,
+                        "Name": "owl1113434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-34, 105, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.4857, 0.4976, 1.0057, 0.3412],
+                        "MG": [-96, -168, -54.4, 16.0],
+                        "Tag": 92744956,
+                        "@": 92744957,
+                        "Alpha": 255,
+                        "Name": "fox7677",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 70, "Y": 211 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

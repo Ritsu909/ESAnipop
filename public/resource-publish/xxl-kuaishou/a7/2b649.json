@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 50,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50231,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0, 0.45],
+                                "I": 39,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [0, 0], "I": 41, "T": 0 },
+                            { "P": [0, 0], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50231,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 36,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1, 0.0737],
+                                "I": 39,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [1, 1], "I": 41, "T": 0 },
+                            { "P": [1, 1], "I": 49, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 32, 38.4, 0, 0, 0.4172, 0.4896],
+                        "MG": [38.4, 0, 0, 32],
+                        "Tag": 50230,
+                        "@": 50231,
+                        "Alpha": 255,
+                        "Name": "mc",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 32, 38.4, 0, 0, 0.4172, 0.4896],
+                        "MG": [38.4, 0, 0, 32],
+                        "Tag": 50232,
+                        "@": 50233,
+                        "Alpha": 0,
+                        "Name": "mc_rect",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

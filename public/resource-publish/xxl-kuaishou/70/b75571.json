@@ -1,0 +1,242 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        85383338,
+                        [
+                            { "P": [0.5, -2.75], "I": 0, "T": 0 },
+                            { "P": [0.5, -2.75], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383336,
+                        [
+                            { "P": [0.5, 0.5], "I": 0 },
+                            {
+                                "P": [1, 0.7181],
+                                "I": 16,
+                                "E": [0.3211, 0.476, 0.5813, 0.8]
+                            },
+                            { "P": [1.4, 1.0093], "I": 31 },
+                            { "P": [1.6, 1.149], "I": 53, "T": 0 },
+                            { "P": [1.6, 1.149], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85383336,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 16 },
+                            { "V": 255, "I": 31 },
+                            { "V": 0, "I": 53, "T": 0 },
+                            { "V": 0, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383334,
+                        [
+                            { "P": [0.5, 0.5], "I": 0, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 4 },
+                            {
+                                "P": [1, 0.7181],
+                                "I": 20,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.4, 1.0093], "I": 35 },
+                            { "P": [1.6, 1.149], "I": 56, "T": 0 },
+                            { "P": [1.6, 1.149], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85383334,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 4 },
+                            { "V": 255, "I": 20 },
+                            { "V": 255, "I": 35 },
+                            { "V": 0, "I": 56, "T": 0 },
+                            { "V": 0, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383332,
+                        [
+                            {
+                                "P": [0.9, 0.6463],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1, 0.7181],
+                                "I": 25,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [0.9, 0.6463], "I": 45, "T": 0 },
+                            { "P": [0.9, 0.6463], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383330,
+                        [
+                            { "P": [0, 3.55], "I": 0 },
+                            { "P": [0, 3.55], "I": 17 },
+                            { "P": [0, 3.55], "I": 20 },
+                            { "P": [0, 3.55], "I": 41, "T": 0 },
+                            { "P": [0, 3.55], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        85383330,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 17,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 20
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 41,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 59,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/bobobobo1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, -2, 0.7795, 0.75, 91.2, 57.6, 0, 0, 0.5082,
+                            0.5113
+                        ],
+                        "MG": [60.8, 3.2, 0, 91.2],
+                        "Tag": 85383337,
+                        "@": 85383338,
+                        "Alpha": 153,
+                        "Name": "d",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5, 0.5, 108.8, 84.8, 0, 0, 0.4963, 0.5024
+                        ],
+                        "MG": [84.8, 0, 0, 108.8],
+                        "Tag": 85383335,
+                        "@": 85383336,
+                        "Alpha": 0,
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5, 0.5, 108.8, 84.8, 0, 0, 0.4963, 0.5024
+                        ],
+                        "MG": [84.8, 0, 0, 108.8],
+                        "Tag": 85383333,
+                        "@": 85383334,
+                        "Alpha": 0,
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9, 0.6463, 120, 94.4, 0, 0, 0.5, 0.5032
+                        ],
+                        "MG": [94.4, 0, 0, 120],
+                        "Tag": 85383331,
+                        "@": 85383332,
+                        "Alpha": 255,
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/button_2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [0, 3, 1, 1, 62.4, 44.8, 0, 0, 0.4888, 0.5],
+                        "MG": [40, -4.8, 0, 62.4],
+                        "Tag": 85383329,
+                        "@": 85383330,
+                        "Alpha": 255,
+                        "Name": "point",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,264 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/rank.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [169, -141, 1, 1, 339.2, 283.2, 0, 0, 0.5, 0.5],
+                        "PrePos": [0.4985, -0.4982, 1.0006, 1.0007],
+                        "MG": [508.8, 225.6, 270.4, 609.6],
+                        "Tag": 111195,
+                        "@": 111196,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [129, -202, 1, 1, 157, 25, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 50, "G": 66, "B": 170 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3805, -0.7138, 0.4631, 0.0883],
+                        "MG": [56, 202, 129, 53],
+                        "IsCustomSize": true,
+                        "LabelText": "鸟不会飞",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111193,
+                        "@": 111194,
+                        "Name": "name_3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [129, -115, 1, 1, 157, 25, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 50, "G": 66, "B": 170 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3805, -0.4064, 0.4631, 0.0883],
+                        "MG": [143, 115, 129, 53],
+                        "IsCustomSize": true,
+                        "LabelText": "鸟不会飞",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111191,
+                        "@": 111192,
+                        "Name": "name_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [129, -31, 1, 1, 157, 25, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 50, "G": 66, "B": 170 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3805, -0.1095, 0.4631, 0.0883],
+                        "MG": [227, 31, 129, 53],
+                        "IsCustomSize": true,
+                        "LabelText": "鸟不会飞",
+                        "FontSize": 16,
+                        "Shadow": [2, -2],
+                        "Tag": 111189,
+                        "@": 111190,
+                        "Name": "name_1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [124, -232, 1, 1, 163, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 204 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3658, -0.8198, 0.4808, 0.106],
+                        "MG": [21, 232, 124, 52],
+                        "IsCustomSize": true,
+                        "LabelText": "分数：780000",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111187,
+                        "@": 111188,
+                        "Name": "score_3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [125, -146, 1, 1, 160, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 204 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3687, -0.5159, 0.472, 0.106],
+                        "MG": [107, 146, 125, 54],
+                        "IsCustomSize": true,
+                        "LabelText": "分数：780000",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111185,
+                        "@": 111186,
+                        "Name": "score_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [124, -58, 1, 1, 162, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 204 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3658, -0.2049, 0.4779, 0.106],
+                        "MG": [195, 58, 124, 53],
+                        "IsCustomSize": true,
+                        "LabelText": "分数：780000",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111183,
+                        "@": 111184,
+                        "Name": "score_1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/headplaceholder.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            81, -227, 1, 1, 70.4, 70.4, 0, 0, 0.4986, 0.5014
+                        ],
+                        "PrePos": [0.2389, -0.8021, 0.2077, 0.2488],
+                        "MG": [433.6, 363.2, 129.6, 200],
+                        "Tag": 111181,
+                        "@": 111182,
+                        "Alpha": 255,
+                        "Name": "head_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/headplaceholder.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            79, -144, 1, 1, 70.4, 70.4, 0, 0, 0.4986, 0.5014
+                        ],
+                        "PrePos": [0.233, -0.5088, 0.2077, 0.2488],
+                        "MG": [300.8, 230.4, 126.4, 196.8],
+                        "Tag": 111179,
+                        "@": 111180,
+                        "Alpha": 255,
+                        "Name": "head_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/headplaceholder.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            80, -56, 1, 1, 70.4, 70.4, 0, 0, 0.4986, 0.5014
+                        ],
+                        "PrePos": [0.236, -0.1979, 0.2077, 0.2488],
+                        "MG": [160, 89.6, 128, 198.4],
+                        "Tag": 111177,
+                        "@": 111178,
+                        "Alpha": 255,
+                        "Name": "head_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/no3_head_box.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            43, -190, 1, 1, 75.2, 76.8, 0, 0, 0.0013, 0.9987
+                        ],
+                        "PrePos": [0.1268, -0.6714, 0.2218, 0.2714],
+                        "MG": [380.8, 304, 68.8, 144],
+                        "Tag": 111175,
+                        "@": 111176,
+                        "Alpha": 255,
+                        "Name": "head_box_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/no2_head_box.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            42, -106, 1, 1, 75.2, 75.2, 0, 0, 0.0013, 0.9987
+                        ],
+                        "PrePos": [0.1239, -0.3746, 0.2218, 0.2657],
+                        "MG": [244.8, 169.6, 67.2, 142.4],
+                        "Tag": 111173,
+                        "@": 111174,
+                        "Alpha": 255,
+                        "Name": "head_box_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/no1_head_box.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            42, -10, 1, 1, 75.2, 86.4, 0, 0, 0.0013, 0.9988
+                        ],
+                        "PrePos": [0.1239, -0.0353, 0.2218, 0.3053],
+                        "MG": [102.4, 16, 67.2, 142.4],
+                        "Tag": 111171,
+                        "@": 111172,
+                        "Alpha": 255,
+                        "Name": "head_box_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 339, "Y": 283 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

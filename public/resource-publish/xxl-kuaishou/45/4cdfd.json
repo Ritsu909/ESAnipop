@@ -1,0 +1,272 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/reward_box_panel_bg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 939.2, 913.6, 0, 0, 0.4994, 0.5351],
+                        "MG": [913.6, 0, 0, 939.2],
+                        "Tag": 87667402,
+                        "@": 87667403,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/descb_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            14, -246, 1, 1, 380.8, 33.6, 0, 0, 0.4984, 0.5045
+                        ],
+                        "PrePos": [0.0149, -0.2541, 0.4064, 0.0347],
+                        "MG": [427.2, 393.6, 22.4, 403.2],
+                        "Tag": 87667398,
+                        "@": 87667399,
+                        "Alpha": 255,
+                        "Name": "descb_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_green_start222@6x.json"
+                        },
+                        "Pos": [-25, -331, 1, 1, 300, 122, 0, 0, 0, 0],
+                        "PrePos": [-0.0267, -0.3419, 0.3202, 0.126],
+                        "MG": [515, 331, -25, 662],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667396,
+                        "@": 87667397,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/fox_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            224, -173, 1, 1, 284.8, 264, 0, 0, 0.4756, 0.4814
+                        ],
+                        "PrePos": [0.2391, -0.1787, 0.3039, 0.2727],
+                        "MG": [540.8, 276.8, 358.4, 643.2],
+                        "Tag": 87667394,
+                        "@": 87667395,
+                        "Alpha": 255,
+                        "Name": "fox_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/panel_group_top.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            18, 345, 1, 1, 700.8, 288, 0, 0, 0.5004, 0.5269
+                        ],
+                        "PrePos": [0.0192, 0.3564, 0.7479, 0.2975],
+                        "MG": [-264, -552, 28.8, 729.6],
+                        "Tag": 87667392,
+                        "@": 87667393,
+                        "Alpha": 255,
+                        "Name": "panel_group_top",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/titleimg2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [23, 377, 1, 1, 280, 83.2, 0, 0, 0.5004, 0.5192],
+                        "PrePos": [0.0245, 0.3895, 0.2988, 0.086],
+                        "MG": [-520, -603.2, 36.8, 316.8],
+                        "Tag": 87667390,
+                        "@": 87667391,
+                        "Alpha": 255,
+                        "Name": "titleimg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/close_btn_blue.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            321, 293, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.3426, 0.3027, 0.0922, 0.0893],
+                        "MG": [-382.4, -468.8, 513.6, 600],
+                        "Tag": 87667388,
+                        "@": 87667389,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -144, 142, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [-0.1537, 0.1467, 0.1417, 0.1372],
+                        "MG": [-94.4, -227.2, -230.4, -97.6],
+                        "Tag": 87667386,
+                        "@": 87667387,
+                        "Alpha": 191,
+                        "Name": "prop1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            19, 142, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [0.0203, 0.1467, 0.1417, 0.1372],
+                        "MG": [-94.4, -227.2, 30.4, 163.2],
+                        "Tag": 87667384,
+                        "@": 87667385,
+                        "Alpha": 191,
+                        "Name": "prop2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            183, 142, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [0.1953, 0.1467, 0.1417, 0.1372],
+                        "MG": [-94.4, -227.2, 292.8, 425.6],
+                        "Tag": 87667382,
+                        "@": 87667383,
+                        "Alpha": 191,
+                        "Name": "prop3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -144, 6, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [-0.1537, 0.0062, 0.1417, 0.1372],
+                        "MG": [123.2, -9.6, -230.4, -97.6],
+                        "Tag": 87667380,
+                        "@": 87667381,
+                        "Alpha": 191,
+                        "Name": "prop4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            19, 6, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [0.0203, 0.0062, 0.1417, 0.1372],
+                        "MG": [123.2, -9.6, 30.4, 163.2],
+                        "Tag": 87667378,
+                        "@": 87667379,
+                        "Alpha": 191,
+                        "Name": "prop5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            183, 6, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [0.1953, 0.0062, 0.1417, 0.1372],
+                        "MG": [123.2, -9.6, 292.8, 425.6],
+                        "Tag": 87667376,
+                        "@": 87667377,
+                        "Alpha": 191,
+                        "Name": "prop6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            -144, -129, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [-0.1537, -0.1333, 0.1417, 0.1372],
+                        "MG": [339.2, 206.4, -230.4, -97.6],
+                        "Tag": 87667374,
+                        "@": 87667375,
+                        "Alpha": 191,
+                        "Name": "prop7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/bubble_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            19, -129, 1, 1, 132.8, 132.8, 0, 0, 0.4977, 0.5023
+                        ],
+                        "PrePos": [0.0203, -0.1333, 0.1417, 0.1372],
+                        "MG": [339.2, 206.4, 30.4, 163.2],
+                        "Tag": 87667372,
+                        "@": 87667373,
+                        "Alpha": 191,
+                        "Name": "prop8",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 937, "Y": 968 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

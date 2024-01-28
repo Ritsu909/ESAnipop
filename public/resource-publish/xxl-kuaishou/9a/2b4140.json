@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTipTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 19, 1, 1, 27.2, 16, 0, 0, 0.5018, 0.9906],
+                        "PrePos": [0, 0.1397, 0.1198, 0.1176],
+                        "MG": [-14.4, -30.4, 0, 27.2],
+                        "Tag": 84747556,
+                        "@": 84747557,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -184, 140, 1, 1, 228.109, 121.6426, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [-0.8106, 1.0294, 0.5709, 0.9529],
+                        "MG": [-94.4, -224, -294.4, -164.8],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 84747554,
+                        "@": 84747555,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -184, 140, 1, 1, 228.109, 121.6426, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [-0.8106, 1.0294, 0.5709, 0.9529],
+                        "MG": [-94.4, -224, -294.4, -164.8],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 84747552,
+                        "@": 84747553,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-160, 126, 1, 1, 192, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 231, "G": 75, "B": 100 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.7048, 0.9265, 0.8458, 0.2206],
+                        "MG": [232, -126, -160, 195],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "荣耀宝石",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84747550,
+                        "@": 84747551,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-163, 91, 1, 1, 194, 53, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 202, "G": 153, "B": 129 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.7181, 0.6691, 0.8546, 0.3897],
+                        "MG": [174, -91, -163, 196],
+                        "IsCustomSize": true,
+                        "LabelText": "保持任意关卡全国排名XXXX名可占有",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84747548,
+                        "@": 84747549,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 227, "Y": 136 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

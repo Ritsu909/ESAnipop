@@ -1,0 +1,95 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 417.5712, 215.6379, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84746881,
+                        "@": 84746882,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_orange_start_yes@6x.json"
+                        },
+                        "Pos": [118, -136, 0.7, 0.7, 195, 120, 0, 0, 0, 0],
+                        "PrePos": [0.2857, -0.6415, 0.4722, 0.566],
+                        "MG": [-44, 136, 118, 100],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746879,
+                        "@": 84746880,
+                        "Alpha": 255,
+                        "Name": "yes",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_green_start_no@6x.json"
+                        },
+                        "Pos": [296, -139, 0.7, 0.7, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7167, -0.6557, 0.4697, 0.5755],
+                        "MG": [-49, 139, 296, -77],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746877,
+                        "@": 84746878,
+                        "Alpha": 255,
+                        "Name": "no",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [91, -31, 1, 1, 241, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 2, "G": 74, "B": 88 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2203, -0.1462, 0.5835, 0.1745],
+                        "MG": [144, 31, 91, 81],
+                        "IsCustomSize": true,
+                        "LabelText": "是否要删除好友？",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746899,
+                        "@": 84746900,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 413, "Y": 212 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

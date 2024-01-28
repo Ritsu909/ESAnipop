@@ -1,0 +1,289 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50039,
+                        [
+                            { "P": [0.25, 0], "I": 0 },
+                            { "P": [0.25, 0], "I": 14, "T": 0 },
+                            { "P": [0, 0], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50039,
+                        [
+                            {
+                                "P": [0.5821, 0.5821],
+                                "I": 0,
+                                "E": [0, 1, 0.6667, 1]
+                            },
+                            { "P": [7.8365, 7.8365], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50039,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 14, "T": 0 },
+                            { "V": 0, "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50041,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50041,
+                        [
+                            { "P": [0.25, 0], "I": 0, "T": 0 },
+                            { "P": [0.25, 0], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50041,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50043,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50043,
+                        [
+                            { "P": [0.25, 0], "I": 0, "T": 0 },
+                            { "P": [0.25, 0], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50043,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50045,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50045,
+                        [
+                            { "P": [0.25, 0], "I": 0, "T": 0 },
+                            { "P": [0.25, 0], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50045,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50047,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50047,
+                        [
+                            { "P": [0.25, 0], "I": 0, "T": 0 },
+                            { "P": [0.25, 0], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50047,
+                        [
+                            { "P": [1.7517, 1.7087], "I": 0, "T": 0 },
+                            { "P": [1.7517, 1.7087], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50047,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_attack_circle_filter.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5821, 0.5821, 56, 56, 0, 0, 0.5009, 0.4991
+                        ],
+                        "MG": [56, 0, 0, 56],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_chick_attack_chick_chcik_feather_group@6x.json"
+                        },
+                        "Pos": [0, 0, 2.3373, 2.3373, 0, 0, 30, 30, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_chick_attack_chick_chcik_feather_group@6x.json"
+                        },
+                        "Pos": [0, 0, 3, 3, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50042,
+                        "@": 50043,
+                        "Alpha": 255,
+                        "Name": "7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_chick_attack_chick_chcik_feather_group@6x.json"
+                        },
+                        "Pos": [0, 0, 3.7235, 2.2366, 0, 0, -15, 165, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50044,
+                        "@": 50045,
+                        "Alpha": 255,
+                        "Name": "9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_chick_attack_chick_chcik_feather_group@6x.json"
+                        },
+                        "Pos": [0, 0, 1.7518, 1.7087, 0, 0, -45, 135, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50046,
+                        "@": 50047,
+                        "Alpha": 255,
+                        "Name": "8",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

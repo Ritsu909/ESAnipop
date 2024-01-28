@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_question3@6x.json"
+                        },
+                        "Pos": [340, 0, 0.8, 0.8, 46, 47, 0, 0, 0, 0],
+                        "PrePos": [0.8651, 0, 0.117, 0.2435],
+                        "MG": [146, 0, 340, 7],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325633,
+                        "@": 29325634,
+                        "Alpha": 255,
+                        "Name": "sp_help",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [240, 22, 1, 1, 69, 50, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 92, "G": 73, "B": 73 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6107, 0.114, 0.1756, 0.2591],
+                        "MG": [165, -22, 240, 84],
+                        "IsCustomSize": true,
+                        "LabelText": "123\\n",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 29325631,
+                        "@": 29325632,
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/stars_icon.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [211, 1, 1, 1, 43.2, 40, 0, 0, 0.4838, 0.515],
+                        "PrePos": [0.5369, 0.0052, 0.1099, 0.2073],
+                        "MG": [38.4, -1.6, 337.6, 380.8],
+                        "Tag": 29325629,
+                        "@": 29325630,
+                        "Alpha": 255,
+                        "Name": "sp_stars",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_star_info@6x.json"
+                        },
+                        "Pos": [342, 20, 1, 1, 323, 143, 0, 0, 0, 0],
+                        "PrePos": [0.8702, 0.1036, 0.8219, 0.7409],
+                        "MG": [70, -20, 342, -272],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325943,
+                        "@": 29325944,
+                        "Alpha": 255,
+                        "Name": "star_info",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [0, 22, 1, 1, 200, 50, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 91, "G": 72, "B": 66 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0, 0.114, 0.5089, 0.2591],
+                        "MG": [165, -22, 0, 193],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "您已拥有        ",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 29325627,
+                        "@": 29325628,
+                        "Name": "owns",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 393, "Y": 193 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

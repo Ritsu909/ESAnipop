@@ -1,0 +1,40 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -151, 24, 1, 1, 306.176, 50.0352, 0, 0, 0.002,
+                            0.9979
+                        ],
+                        "PrePos": [-0.4983, 0.4898, 0.169, 0.9796],
+                        "MG": [9.6, -38.4, -241.6, -190.4],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 89871937,
+                        "@": 89871938,
+                        "Alpha": 61,
+                        "Name": "图层 1",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 303, "Y": 49 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

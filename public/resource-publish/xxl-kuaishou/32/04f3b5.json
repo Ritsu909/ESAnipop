@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/dynamic_update_panel_progressBg.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 448.9666, 51.2, 0, 0, 0.0013, 0.998
+                        ],
+                        "MG": [51.2, 0, 0, 75.2],
+                        "Scale9": [16, 8, 16, 15],
+                        "Tag": 84748622,
+                        "@": 84748623,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/dynamic_update_panel_progressFg.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            3, -2, 1, 1, 442.3941, 45.3189, 0, 0, 0.0013, 0.9978
+                        ],
+                        "PrePos": [0.0067, -0.0408, 0.1682, 0.9469],
+                        "MG": [49.6, 3.2, 4.8, 80],
+                        "Scale9": [16, 14, 16, 4],
+                        "Tag": 84748620,
+                        "@": 84748621,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/dynamic_update_panel_progressFg.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            3, -2, 1, 1, 442.3941, 45.3189, 0, 0, 0.0013, 0.9978
+                        ],
+                        "PrePos": [0.0067, -0.0408, 0.1682, 0.9469],
+                        "MG": [49.6, 3.2, 4.8, 80],
+                        "Scale9": [16, 14, 16, 4],
+                        "Tag": 84748618,
+                        "@": 84748619,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 447, "Y": 49 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

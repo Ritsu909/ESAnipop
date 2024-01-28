@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/island5water.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [4, -51, 1, 1, 144, 108.8, 0, 0, 0.0007, 0.9991],
+                        "PrePos": [0.026, -0.3018, 0.9351, 0.6438],
+                        "MG": [190.4, 81.6, 6.4, 150.4],
+                        "Tag": 84746867,
+                        "@": 84746868,
+                        "Alpha": 255,
+                        "Name": "water",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/inviteReward5_light.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            3, 5, 1.01, 1.01, 152, 168, 0, 0, 0.0007, 0.9994
+                        ],
+                        "PrePos": [0.0195, 0.0296, 0.987, 0.9941],
+                        "MG": [160, -8, 4.8, 156.8],
+                        "Tag": 84746865,
+                        "@": 84746866,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/island5sprite.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 152, 153.6, 0, 0, -0.0513, 1.0007],
+                        "MG": [153.6, 0, 0, 152],
+                        "Tag": 84746863,
+                        "@": 84746864,
+                        "Alpha": 255,
+                        "Name": "island",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 154, "Y": 169 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

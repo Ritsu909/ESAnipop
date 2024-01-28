@@ -1,0 +1,39 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/damage_replace.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [
+                            -64, 107, 5.51, 5.5087, 20.8, 35.2, 0, 0, 0.0048,
+                            0.9972
+                        ],
+                        "PrePos": [-0.5818, 0.5691, 0.1891, 0.1872],
+                        "MG": [-136, -171.2, -102.4, -81.6],
+                        "Tag": 84759043,
+                        "@": 84759044,
+                        "Alpha": 0,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 110, "Y": 188 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

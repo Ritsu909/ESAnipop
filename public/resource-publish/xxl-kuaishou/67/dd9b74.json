@@ -1,0 +1,36 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_big_bee/Octopus_waterbase_blur.png",
+                            "Plist": "cocos/boss_big_bee@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 136, 43.2, 0, 0, 0.5051, 0.5],
+                        "CColor": { "A": 255, "R": 224, "G": 255, "B": 252 },
+                        "MG": [43.2, 0, 0, 136],
+                        "Tag": 80236175,
+                        "@": 80236176,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 134, "Y": 43 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

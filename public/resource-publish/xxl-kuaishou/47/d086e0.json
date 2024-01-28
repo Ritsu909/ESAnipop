@@ -1,0 +1,127 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/background.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [
+                            330, -337, 1, 1, 660.8, 675.2, 0, 0, 0.4995, 0.5
+                        ],
+                        "PrePos": [0.5, -0.4993, 1.0012, 1.0003],
+                        "MG": [1214.4, 539.2, 528, 1188.8],
+                        "Tag": 82591534,
+                        "@": 82591535,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            605, -82, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9167, -0.1215, 0.0703, 0.0687],
+                        "MG": [177.6, 131.2, 968, 1014.4],
+                        "Tag": 82591532,
+                        "@": 82591533,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [187, -62, 1, 1, 292, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2833, -0.0919, 0.4424, 0.0815],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [558, 62, 187, 181],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得次数",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 82591530,
+                        "@": 82591531,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_get_playtime_item_share@6x.json"
+                        },
+                        "Pos": [25, -133, 1, 1, 609, 147, 0, 0, 0, 0],
+                        "PrePos": [0.0379, -0.197, 0.9227, 0.2178],
+                        "MG": [395, 133, 25, 26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82591528,
+                        "@": 82591529,
+                        "Alpha": 255,
+                        "Name": "item_share",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_get_playtime_item_coin@6x.json"
+                        },
+                        "Pos": [25, -296, 1, 1, 609, 142, 0, 0, 0, 0],
+                        "PrePos": [0.0379, -0.4385, 0.9227, 0.2104],
+                        "MG": [237, 296, 25, 26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82591556,
+                        "@": 82591557,
+                        "Alpha": 255,
+                        "Name": "item_coin",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_get_playtime_item_cash@6x.json"
+                        },
+                        "Pos": [24, -457, 1, 1, 609, 142, 0, 0, 0, 0],
+                        "PrePos": [0.0364, -0.677, 0.9227, 0.2104],
+                        "MG": [76, 457, 24, 27],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82591526,
+                        "@": 82591527,
+                        "Alpha": 255,
+                        "Name": "item_cash",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 660, "Y": 675 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

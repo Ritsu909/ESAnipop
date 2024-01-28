@@ -1,0 +1,116 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "2": [
+                    { "X": 0.15, "Y": -0.15 },
+                    { "X": 13.95, "Y": 21.7 },
+                    { "X": 32.55, "Y": 29.7 },
+                    { "X": 50.6, "Y": 37.5 },
+                    { "X": 69.7, "Y": 30.9 },
+                    { "X": 89.05, "Y": 24.3 },
+                    { "X": 105.45, "Y": 4.25 },
+                    { "X": 122.8, "Y": -16.95 },
+                    { "X": 133.75, "Y": -49.6 }
+                ]
+            },
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50091,
+                        [
+                            {
+                                "P": [0.15, -0.15],
+                                "I": 0,
+                                "Tag": "2",
+                                "E": [0.0935, 1, 0.8394, 0.8733]
+                            },
+                            { "P": [82.65, 24.8], "I": 11, "Tag": "2", "T": 0 },
+                            { "P": [-24.8, 24.8], "I": 12, "Tag": "2", "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50091,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 11, "T": 0 },
+                            { "V": 0, "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        50093,
+                        [
+                            { "P": [86.45, 22.3], "I": 0, "Tag": "2", "T": 0 },
+                            {
+                                "P": [86.45, 22.3],
+                                "I": 12,
+                                "Tag": "2",
+                                "E": [0.4286, 0.089, 0.7805, 0.6164]
+                            },
+                            {
+                                "P": [133.75, -49.6],
+                                "I": 25,
+                                "Tag": "2",
+                                "T": 0
+                            },
+                            { "P": [49.6, -49.6], "I": 26, "Tag": "2", "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50093,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 25, "T": 0 },
+                            { "V": 0, "I": 26, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/fireflower04.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 27.2, 27.2, 0, 0, 0.4761, 0.5239],
+                        "MG": [27.2, 0, 0, 27.2],
+                        "Tag": 50090,
+                        "@": 50091,
+                        "Alpha": 255,
+                        "Name": "a2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/fireflower08.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [86, 22, 1, 1, 27.2, 27.2, 0, 0, 0.4761, 0.5239],
+                        "MG": [-8.0, -35.2, 137.6, 164.8],
+                        "Tag": 50092,
+                        "@": 50093,
+                        "Alpha": 0,
+                        "Name": "a1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

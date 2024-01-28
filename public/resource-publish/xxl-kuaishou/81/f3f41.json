@@ -1,0 +1,95 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_commons_ui_fontsize_rect.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -141, 46, 37.0129, 11.7498, 8, 8, 0, 0, 0.0125,
+                            0.9875
+                        ],
+                        "PrePos": [-0.4669, 0.422, 0.0265, 0.0734],
+                        "MG": [-65.6, -73.6, -225.6, -217.6],
+                        "Tag": 2046,
+                        "@": 2047,
+                        "Alpha": 0,
+                        "Name": "hit_area",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_buttons_button_common_ui_button_shadow.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -138, 21, 0.995, 0.645, 286.4, 124.8, 0, 0, 0.0003,
+                            0.9992
+                        ],
+                        "PrePos": [-0.457, 0.1927, 0.9483, 1.145],
+                        "MG": [91.2, -33.6, -220.8, 65.6],
+                        "Tag": 2048,
+                        "@": 2049,
+                        "Name": "shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_scale9_ui_button_green_scale9.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -144, 50, 1, 1, 302.6232, 108.9408, 0, 0, 0.0004,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4768, 0.4587, 0.8742, 1.1743],
+                        "MG": [48, -80, -230.4, 33.6],
+                        "Scale9": [55, 26, 56, 28],
+                        "Tag": 2050,
+                        "@": 2051,
+                        "Name": "background",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-115, 27, 1, 1, 239, 49, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3808, 0.2477, 0.7914, 0.4495],
+                        "MG": [87, -27, -115, 178],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "升级",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 2052,
+                        "@": 2053,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 302, "Y": 109 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

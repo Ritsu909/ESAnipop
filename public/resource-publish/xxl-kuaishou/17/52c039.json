@@ -1,0 +1,79 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 200,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50015,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4949, 0, 0.4949, 1]
+                            },
+                            {
+                                "P": [0, -11],
+                                "I": 99,
+                                "E": [0.5061, 0, 0.5, 1]
+                            },
+                            { "P": [0, 0], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50015,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.4949, 0, 0.4949, 1]
+                            },
+                            {
+                                "P": [1, 1.625],
+                                "I": 99,
+                                "E": [0.5061, 0, 0.5, 1]
+                            },
+                            { "P": [1, 1], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50015,
+                        [
+                            { "V": 124, "I": 0 },
+                            { "V": 255, "I": 99 },
+                            { "V": 124, "I": 199, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_wave.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 960, 32, 0, 0, 0.5001, 0.4969],
+                        "MG": [32, 0, 0, 960],
+                        "Tag": 50014,
+                        "@": 50015,
+                        "Alpha": 125,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

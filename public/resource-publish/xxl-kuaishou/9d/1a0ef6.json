@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 170,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "RotationSkew",
+                        1053379,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [30, 30], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        1053379,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.68, 0.68, 0.68, 1],
+                                    "u_delta": [0.25, 0.19, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.68, 0.68, 0.68, 1],
+                                    "u_delta": [0.25, 0.19, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 169,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/weel_sky.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 252.8, 252.8, 0, 0, 0.4986, 0.5014],
+                        "MG": [252.8, 0, 0, 252.8],
+                        "Tag": 1053378,
+                        "@": 1053379,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

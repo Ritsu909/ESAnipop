@@ -1,0 +1,53 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [0, "cocos/homeScene_glowanime@6x.json", ""],
+                    "Pos": [-4, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 3036065,
+                    "@": 3036066,
+                    "#": "glow",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        1,
+                        "homeScene/starrankicon_icon.png",
+                        "cocos/homeScene@6x"
+                    ],
+                    "Pos": [0, -1, 1, 1, 80, 86.4, 0, 0, 0.47, 0.4722],
+                    "Tag": 3035999,
+                    "@": 3036000,
+                    "#": "icon",
+                    "$": "S"
+                },
+                {
+                    "Pos": [-50, -12, 1.2, 1.2, 101, 36, 0, 0, 0, 1],
+                    "F": "microsoftYahei_20_blueStroke@6x",
+                    "HA": "HT_Center",
+                    "T": "好友排行",
+                    "i": 20,
+                    "Tag": 3035997,
+                    "@": 3035998,
+                    "#": "text",
+                    "$": "BMF"
+                },
+                {
+                    "F": [1, "homeScene/aaaaa.png", "cocos/homeScene@6x"],
+                    "Pos": [27, 21, 1, 1, 32, 30.4, 0, 0, 0.4844, 0.528],
+                    "Tag": 3035995,
+                    "@": 3035996,
+                    "#": "new",
+                    "$": "S"
+                }
+            ],
+            "Size": { "X": 154, "Y": 153 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,292 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 16,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50427,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 1, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50427,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 1, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50429,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 2, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 3, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50429,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 3, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50431,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 4, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 5, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50431,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 4, "T": 0 },
+                            { "V": 0, "I": 5, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50433,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 6, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 7, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50433,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 6, "T": 0 },
+                            { "V": 0, "I": 7, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50435,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 14, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50435,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 14, "T": 0 },
+                            { "V": 0, "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50437,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 12, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 13, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50437,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 12, "T": 0 },
+                            { "V": 0, "I": 13, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50439,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 10, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 11, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50439,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 10, "T": 0 },
+                            { "V": 0, "I": 11, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50441,
+                        [
+                            { "P": [17.5, -17.5], "I": 0, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 8, "T": 0 },
+                            { "P": [17.5, -17.5], "I": 9, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50441,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 8, "T": 0 },
+                            { "V": 0, "I": 9, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime01.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50426,
+                        "@": 50427,
+                        "Alpha": 255,
+                        "Name": "vv_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime02.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50428,
+                        "@": 50429,
+                        "Alpha": 0,
+                        "Name": "vv_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime03.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50430,
+                        "@": 50431,
+                        "Alpha": 0,
+                        "Name": "vv_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime04.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50432,
+                        "@": 50433,
+                        "Alpha": 0,
+                        "Name": "vv_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime01.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50434,
+                        "@": 50435,
+                        "Alpha": 0,
+                        "Name": "vv_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime02.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50436,
+                        "@": 50437,
+                        "Alpha": 0,
+                        "Name": "vv_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime03.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50438,
+                        "@": 50439,
+                        "Alpha": 0,
+                        "Name": "vv_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupStart/sharpstar_anime04.png",
+                            "Plist": "cocos/homeSceneStarGroupStart@6x.plist"
+                        },
+                        "Pos": [
+                            17, -17, 1, 1, 35.2, 35.2, 0, 0, 0.4545, 0.5455
+                        ],
+                        "MG": [62.4, 27.2, 27.2, 62.4],
+                        "Tag": 50440,
+                        "@": 50441,
+                        "Alpha": 0,
+                        "Name": "vv_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

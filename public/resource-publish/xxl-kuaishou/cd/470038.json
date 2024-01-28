@@ -1,0 +1,159 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.7496, 0.7566, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.02, -0.0094, 1.152, 1.0868],
+                        "MG": [116.8, 1.6, 3.2, 118.4],
+                        "Tag": 29325449,
+                        "@": 29325450,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.7496, 0.7566, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.02, -0.0094, 1.152, 1.0868],
+                        "MG": [116.8, 1.6, 3.2, 118.4],
+                        "Tag": 29325453,
+                        "@": 29325454,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_ring.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.9739, 0.9739, 104, 104, 0, 0, 0.4962, 0.499
+                        ],
+                        "PrePos": [0.02, -0.0094, 1.04, 0.9811],
+                        "MG": [105.6, 1.6, 3.2, 107.2],
+                        "Tag": 29325451,
+                        "@": 29325452,
+                        "Alpha": 255,
+                        "Name": "ring",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_panel_name_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -43, -28, 1, 1, 94.4, 28.8, 0, 0, 0.0011, 0.9965
+                        ],
+                        "PrePos": [-0.43, -0.2642, 0.944, 0.2717],
+                        "MG": [73.6, 44.8, -68.8, 25.6],
+                        "Tag": 29325449,
+                        "@": 29325450,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/yellow_star_sp.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -19, -40, 0.704, 0.704, 30.4, 27.2, 0, 0, 0.4211,
+                            0.4982
+                        ],
+                        "PrePos": [-0.19, -0.3774, 0.304, 0.2566],
+                        "MG": [91.2, 64, -30.4, 0],
+                        "Tag": 29325447,
+                        "@": 29325448,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [0, -24, 0.83, 0.83, 45, 31, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 203, "G": 140, "B": 91 },
+                        "PrePos": [0, -0.2264, 0.45, 0.2925],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [51, 24, 0, 55],
+                        "IsCustomSize": true,
+                        "LabelText": "122",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 29325445,
+                        "@": 29325446,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/delete_button.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [35, 34, 1, 1, 27.2, 27.2, 0, 0, 0.4632, 0.5349],
+                        "PrePos": [0.35, 0.3208, 0.272, 0.2566],
+                        "MG": [-27.2, -54.4, 56, 83.2],
+                        "Tag": 29325443,
+                        "@": 29325444,
+                        "Alpha": 255,
+                        "Name": "cross",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_userhead_leadermark.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -31, 28, 1, 1, 30.4, 30.4, 0, 0, 0.4901, 0.5099
+                        ],
+                        "PrePos": [-0.31, 0.2642, 0.304, 0.2868],
+                        "MG": [-14.4, -44.8, -49.6, -19.2],
+                        "Tag": 29325441,
+                        "@": 29325442,
+                        "Alpha": 255,
+                        "Name": "flag",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 106 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

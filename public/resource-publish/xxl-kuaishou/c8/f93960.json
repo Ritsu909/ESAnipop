@@ -1,0 +1,114 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/friend_invite_board.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            284, -282, 0.9122, 0.7146, 574.4, 107.2, 0, 0,
+                            0.4976, 0.5028
+                        ],
+                        "PrePos": [0.4965, -0.3858, 1.0042, 0.1466],
+                        "MG": [558.4, 451.2, 454.4, 1028.8],
+                        "Tag": 84747171,
+                        "@": 84747172,
+                        "Alpha": 255,
+                        "Name": "board_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            4, -420, 1, 1, 580.5128, 432.9936, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.007, -0.5746, 0.1371, 0.1773],
+                        "MG": [801.6, 672, 6.4, 84.8],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84747169,
+                        "@": 84747170,
+                        "Alpha": 255,
+                        "Name": "friend_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_green_get_reward@6x.json"
+                        },
+                        "Pos": [
+                            216, -336, 0.7025, 0.7143, 194, 119, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.3776, -0.4596, 0.3392, 0.1628],
+                        "MG": [276, 336, 216, 162],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747167,
+                        "@": 84747168,
+                        "Alpha": 255,
+                        "Name": "btn_get_reward",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bottom_btn_question2.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            113, -349, 0.6349, 0.5833, 48, 48, 0, 0, 0.476,
+                            0.5229
+                        ],
+                        "PrePos": [0.1976, -0.4774, 0.0839, 0.0657],
+                        "MG": [606.4, 558.4, 180.8, 228.8],
+                        "Tag": 84747165,
+                        "@": 84747166,
+                        "Alpha": 255,
+                        "Name": "btn_question",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start1_namecard@6x.json"
+                        },
+                        "Pos": [304, -895, 1, 1, 329, 122, 0, 0, 0, 0],
+                        "PrePos": [0.5315, -1.2244, 0.5752, 0.1669],
+                        "MG": [-286, 895, 304, -61],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747163,
+                        "@": 84747164,
+                        "Alpha": 255,
+                        "Name": "btn_invite",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 572, "Y": 731 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        9547640,
+                        [
+                            { "P": [-0.2, -61.4], "I": 0 },
+                            { "P": [-0.2, -61.4], "I": 19 },
+                            { "P": [-0.2, -61.4], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        9547640,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 188, "I": 19 },
+                            { "V": 255, "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "chest_anim/balllight.png",
+                            "Plist": "cocos/chest_anim@6x.plist"
+                        },
+                        "Pos": [0, -61, 1, 1, 192, 123.2, 0, 0, 0.4987, 0.0024],
+                        "MG": [220.8, 97.6, 0, 192],
+                        "Tag": 9547639,
+                        "@": 9547640,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

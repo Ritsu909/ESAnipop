@@ -1,0 +1,106 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50001,
+                        [
+                            {
+                                "P": [121.35, -60.25],
+                                "I": 0,
+                                "E": [0.3902, 0.2192, 0.689, 0.5548]
+                            },
+                            {
+                                "P": [121.35, -60.3],
+                                "I": 29,
+                                "E": [0.3889, 0.2, 0.6992, 0.5]
+                            },
+                            { "P": [121.35, -60.25], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50001,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3902, 0.2192, 0.689, 0.5548]
+                            },
+                            {
+                                "P": [1.23, 1.23],
+                                "I": 29,
+                                "E": [0.3889, 0.2, 0.6992, 0.5]
+                            },
+                            { "P": [0, 0], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50003,
+                        [
+                            { "P": [99.55, -58.55], "I": 0 },
+                            { "P": [99.55, -58.55], "I": 29 },
+                            { "P": [99.55, -58.55], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50003,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [1.23, 1.23], "I": 29 },
+                            { "P": [0, 0], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "blco_target_leaf1/leaf_5.png",
+                            "Plist": "cocos/blco_target_leaf1@6x.plist"
+                        },
+                        "Pos": [
+                            121, -60, 1, 1, 214.4, 118.4, 0, 0, 0.1877, 0.7133
+                        ],
+                        "MG": [214.4, 96, 193.6, 408],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "leaf_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "blco_target_leaf1/leaf_4.png",
+                            "Plist": "cocos/blco_target_leaf1@6x.plist"
+                        },
+                        "Pos": [
+                            99, -58, 1, 1, 281.6, 227.2, 0, 0, 0.225, 0.8457
+                        ],
+                        "MG": [320, 92.8, 158.4, 440],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 255,
+                        "Name": "leaf_4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

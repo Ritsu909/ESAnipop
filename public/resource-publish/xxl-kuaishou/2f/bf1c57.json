@@ -1,0 +1,137 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        81341493,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 30,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 44,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 59,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        81341493,
+                        [
+                            {
+                                "P": [8.9, -36.45],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [8.9, -29.85],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [8.9, -36.45], "I": 30 },
+                            { "P": [8.9, -40.85], "I": 44 },
+                            { "P": [8.9, -36.45], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        81341491,
+                        [
+                            {
+                                "P": [-1.35, 48.6],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [-1.35, 55.2],
+                                "I": 15,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-1.35, 48.6], "I": 31 },
+                            { "P": [-1.35, 44.2], "I": 45 },
+                            { "P": [-1.35, 48.6], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionExchange_act13_m3@6x.json"
+                        },
+                        "Pos": [
+                            8, -36, 0.9996, 0.9996, 227, 155, -7.56, -7.56, 0, 0
+                        ],
+                        "MG": [-191, 36, 8, -235],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 81341492,
+                        "@": 81341493,
+                        "Alpha": 255,
+                        "Name": "buttom",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/act13_p11.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [
+                            -1, 48, 0.9996, 0.9996, 246.4, 129.6, -7.56, -7.56,
+                            0.4998, 0.5035
+                        ],
+                        "MG": [52.8, -76.8, -1.6, 244.8],
+                        "Tag": 81341490,
+                        "@": 81341491,
+                        "Alpha": 255,
+                        "Name": "cover",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

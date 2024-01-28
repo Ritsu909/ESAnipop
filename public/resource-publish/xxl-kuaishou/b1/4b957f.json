@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 9,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        10043779,
+                        [
+                            { "P": [0, 0.05], "I": 0, "T": 0 },
+                            { "P": [0, 0.05], "I": 3, "T": 0 },
+                            { "P": [0, 0.05], "I": 5, "T": 0 },
+                            { "P": [0, 0.05], "I": 7, "T": 0 },
+                            { "P": [0, 0.05], "I": 8, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10043779,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 102, "I": 3, "T": 0 },
+                            { "V": 51, "I": 5, "T": 0 },
+                            { "V": 102, "I": 7, "T": 0 },
+                            { "V": 102, "I": 8, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "cake_res/src_shine.png",
+                            "Plist": "cocos/cake_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 11.2, 11.2, 0, 0, 0.4375, 0.558],
+                        "MG": [11.2, 0, 0, 11.2],
+                        "Tag": 10043778,
+                        "@": 10043779,
+                        "Alpha": 255,
+                        "Name": "sp",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

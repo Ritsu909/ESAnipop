@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/newsquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 389.3856, 530.7034, 0, 0, 0.0007, 0.9993
+                        ],
+                        "MG": [153.6, 0, 0, 150.4],
+                        "Scale9": [59, 60, 28, 31],
+                        "Tag": 84747334,
+                        "@": 84747335,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            15, -14, 1, 1, 353.9117, 492.6485, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [0.0389, -0.0267, 0.3358, 0.2469],
+                        "MG": [152, 22.4, 24, 153.6],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 84747332,
+                        "@": 84747333,
+                        "Alpha": 255,
+                        "Name": "inner",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 386, "Y": 525 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

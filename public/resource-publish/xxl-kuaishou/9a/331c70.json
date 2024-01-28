@@ -1,0 +1,71 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        1,
+                        "Background_Animation/chair.png",
+                        "cocos/Background_Animation@6x"
+                    ],
+                    "Pos": [-235, 426, 1, 1, 144, 152, 0, 0, 0.0118, 0.9888],
+                    "Tag": 2156,
+                    "@": 2157,
+                    "#": "chair_1",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "Background_Animation/chair.png",
+                        "cocos/Background_Animation@6x"
+                    ],
+                    "Pos": [-55, 426, 1, 1, 144, 152, 0, 0, 0.0118, 0.9888],
+                    "Tag": 2158,
+                    "@": 2159,
+                    "#": "chair_2",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "Background_Animation/chair.png",
+                        "cocos/Background_Animation@6x"
+                    ],
+                    "Pos": [123, 426, 1, 1, 144, 152, 0, 0, 0.0118, 0.9888],
+                    "Tag": 2160,
+                    "@": 2161,
+                    "#": "chair_3",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "Background_Animation/signpost_F.png",
+                        "cocos/Background_Animation@6x"
+                    ],
+                    "Pos": [-335, 365, 1, 1, 72, 78.4, 0, 0, 0.0236, 0.9783],
+                    "Tag": 2162,
+                    "@": 2163,
+                    "#": "signpost",
+                    "$": "IV"
+                },
+                {
+                    "Pos": [-320, 357, 1, 1, 43, 40, 0, 0, 0, 1],
+                    "HA": "HT_Center",
+                    "T": "33",
+                    "i": 33,
+                    "Tag": 2164,
+                    "@": 2165,
+                    "#": "signpost_num",
+                    "$": "TXT"
+                }
+            ],
+            "Size": { "X": 599, "Y": 149 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

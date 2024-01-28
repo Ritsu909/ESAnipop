@@ -1,0 +1,157 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 26,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        50107,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50107,
+                        [
+                            { "P": [5.75, 7.9], "I": 0, "T": 0 },
+                            { "P": [5.75, 7.9], "I": 21 },
+                            { "P": [5.75, 7.9], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50107,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21 },
+                            { "V": 0, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50109,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50109,
+                        [
+                            { "P": [9.75, 10.45], "I": 0, "T": 0 },
+                            { "P": [9.75, 10.45], "I": 21 },
+                            { "P": [9.75, 10.45], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50109,
+                        [
+                            { "P": [0.5997, 1.4317], "I": 0, "T": 0 },
+                            { "P": [0.5997, 1.4317], "I": 21 },
+                            { "P": [0.5997, 1.4317], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50109,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21 },
+                            { "V": 0, "I": 25, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_POPgroup01@6x.json"
+                        },
+                        "Pos": [5, 7, 1, 1.2738, 0, 0, 0, 0, 0, 0],
+                        "MG": [7, -7, 5, -5],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50106,
+                        "@": 50107,
+                        "Alpha": 255,
+                        "Name": "b",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_POPgroup01@6x.json"
+                        },
+                        "Pos": [
+                            9, 10, 0.5997, 1.4316, 0, 0, -0.25, 179.6, 0, 0
+                        ],
+                        "MG": [10, -10, 9, -9],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50108,
+                        "@": 50109,
+                        "Alpha": 255,
+                        "Name": "a",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

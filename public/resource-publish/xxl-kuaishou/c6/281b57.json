@@ -1,0 +1,89 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/icecream_red_down.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.4608, 0.5782, 118.4, 99.2, 12.03, 3.75,
+                            0.4949, 0.5
+                        ],
+                        "MG": [99.2, 0, 0, 118.4],
+                        "Tag": 3097132,
+                        "@": 3097133,
+                        "Alpha": 255,
+                        "Name": "red",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/icecream_green_down.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.461, 0.578, 118.4, 99.2, 12, 3.51, 0.4949,
+                            0.5
+                        ],
+                        "MG": [99.2, 0, 0, 118.4],
+                        "Tag": 3097130,
+                        "@": 3097131,
+                        "Alpha": 255,
+                        "Name": "green",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/icecream_yellow_down.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.461, 0.578, 118.4, 99.2, 12, 3.5, 0.4949,
+                            0.5
+                        ],
+                        "MG": [99.2, 0, 0, 118.4],
+                        "Tag": 3097128,
+                        "@": 3097129,
+                        "Alpha": 255,
+                        "Name": "yellow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/icecream_purple_down.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.4663, 0.5772, 118.4, 99.2, 12, 3.55, 0.4949,
+                            0.5
+                        ],
+                        "MG": [99.2, 0, 0, 118.4],
+                        "Tag": 3097126,
+                        "@": 3097127,
+                        "Alpha": 255,
+                        "Name": "purple",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 66, "Y": 59 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,352 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "MG": [70.4, 0, 0, 70.4],
+                        "Tag": 82558910,
+                        "@": 82558911,
+                        "Alpha": 255,
+                        "Name": "owl11134341",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            420, -211, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.8571, -0.4289, 0.1437, 0.1431],
+                        "MG": [408, 337.6, 672, 742.4],
+                        "Tag": 82558908,
+                        "@": 82558909,
+                        "Alpha": 255,
+                        "Name": "hippo3434342",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            350, -352, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7143, -0.7154, 0.1437, 0.1431],
+                        "MG": [633.6, 563.2, 560, 630.4],
+                        "Tag": 82558906,
+                        "@": 82558907,
+                        "Alpha": 255,
+                        "Name": "frog13434343",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, -420, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0, -0.8537, 0.1437, 0.1431],
+                        "MG": [742.4, 672, 0, 70.4],
+                        "Tag": 82558904,
+                        "@": 82558905,
+                        "Alpha": 255,
+                        "Name": "frog13434344",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            140, -350, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2857, -0.7114, 0.1437, 0.1431],
+                        "MG": [630.4, 560, 224, 294.4],
+                        "Tag": 82558902,
+                        "@": 82558903,
+                        "Alpha": 255,
+                        "Name": "hippo3434345",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [420, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.8571, 0, 0.1437, 0.1431],
+                        "MG": [70.4, 0, 672, 742.4],
+                        "Tag": 82558900,
+                        "@": 82558901,
+                        "Alpha": 255,
+                        "Name": "hippo3434346",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            350, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7143, -0.1423, 0.1437, 0.1431],
+                        "MG": [182.4, 112, 560, 630.4],
+                        "Tag": 82558898,
+                        "@": 82558899,
+                        "Alpha": 255,
+                        "Name": "beer6767677",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            350, -211, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7143, -0.4289, 0.1437, 0.1431],
+                        "MG": [408, 337.6, 560, 630.4],
+                        "Tag": 82558896,
+                        "@": 82558897,
+                        "Alpha": 255,
+                        "Name": "hippo3434348",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            420, -282, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.8571, -0.5732, 0.1437, 0.1431],
+                        "MG": [521.6, 451.2, 672, 742.4],
+                        "Tag": 82558894,
+                        "@": 82558895,
+                        "Alpha": 255,
+                        "Name": "frog13434349",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            420, -422, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.8571, -0.8577, 0.1437, 0.1431],
+                        "MG": [745.6, 675.2, 672, 742.4],
+                        "Tag": 82558892,
+                        "@": 82558893,
+                        "Alpha": 255,
+                        "Name": "owl111343410",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            350, -422, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7143, -0.8577, 0.1437, 0.1431],
+                        "MG": [745.6, 675.2, 560, 630.4],
+                        "Tag": 82558890,
+                        "@": 82558891,
+                        "Alpha": 255,
+                        "Name": "owl111343411",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            420, -141, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.8571, -0.2866, 0.1437, 0.1431],
+                        "MG": [296, 225.6, 672, 742.4],
+                        "Tag": 82558888,
+                        "@": 82558889,
+                        "Alpha": 255,
+                        "Name": "owl111343412",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [1, -71, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.002, -0.1443, 0.1437, 0.1431],
+                        "MG": [184, 113.6, 1.6, 72],
+                        "Tag": 82558886,
+                        "@": 82558887,
+                        "Alpha": 255,
+                        "Name": "hippo34343413",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            140, -420, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2857, -0.8537, 0.1437, 0.1463],
+                        "MG": [744, 672, 224, 294.4],
+                        "Tag": 82558884,
+                        "@": 82558885,
+                        "Alpha": 255,
+                        "Name": "chicken343414",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -350, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.4286, -0.7114, 0.1437, 0.1463],
+                        "MG": [632, 560, 336, 406.4],
+                        "Tag": 82558882,
+                        "@": 82558883,
+                        "Alpha": 255,
+                        "Name": "chicken343415",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            211, -281, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.4306, -0.5711, 0.1437, 0.1431],
+                        "MG": [520, 449.6, 337.6, 408],
+                        "Tag": 82558880,
+                        "@": 82558881,
+                        "Alpha": 255,
+                        "Name": "hippo34343416",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -210, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.4286, -0.4268, 0.1437, 0.1431],
+                        "MG": [406.4, 336, 336, 406.4],
+                        "Tag": 82558878,
+                        "@": 82558879,
+                        "Alpha": 255,
+                        "Name": "frog134343417",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, -278, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0, -0.565, 0.1437, 0.1463],
+                        "MG": [516.8, 444.8, 0, 70.4],
+                        "Tag": 82558876,
+                        "@": 82558877,
+                        "Alpha": 255,
+                        "Name": "chicken343418",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, -137, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0, -0.2785, 0.1437, 0.1431],
+                        "MG": [289.6, 219.2, 0, 70.4],
+                        "Tag": 82558874,
+                        "@": 82558875,
+                        "Alpha": 255,
+                        "Name": "frog134343419",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.4286, -0.2846, 0.1437, 0.1431],
+                        "MG": [294.4, 224, 336, 406.4],
+                        "Tag": 82558872,
+                        "@": 82558873,
+                        "Alpha": 255,
+                        "Name": "hippo34343420",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 490, "Y": 492 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

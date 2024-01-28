@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            62, -25, 0.6, 0.6, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [0.8378, -0.3378, 1.5568, 1.5568],
+                        "MG": [155.2, 40, 99.2, 214.4],
+                        "Tag": 87667210,
+                        "@": 87667211,
+                        "Alpha": 255,
+                        "Name": "head_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            62, -25, 0.6, 0.6, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.8378, -0.3378, 1.6865, 1.6865],
+                        "MG": [164.8, 40, 99.2, 224],
+                        "Tag": 87667208,
+                        "@": 87667209,
+                        "Alpha": 255,
+                        "Name": "head_circle",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 74, "Y": 74 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

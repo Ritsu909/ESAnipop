@@ -1,0 +1,71 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "springfestival/bg.png",
+                            "Plist": "cocos/springfestival@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 648, 764.8, 0, 0, 0.0002, 0.9999],
+                        "MG": [764.8, 0, 0, 648],
+                        "Tag": 84736510,
+                        "@": 84736511,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/springfestival_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [579, -75, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8949, -0.0983, 0.1314, 0.1088],
+                        "MG": [605, 75, 579, -17],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84736508,
+                        "@": 84736509,
+                        "Alpha": 255,
+                        "Name": "offbottom_light_x",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/springfestival_share_btn@6x.json"
+                        },
+                        "Pos": [311, -601, 1, 1, 274, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4807, -0.7877, 0.4235, 0.1573],
+                        "MG": [42, 601, 311, 62],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84736506,
+                        "@": 84736507,
+                        "Alpha": 255,
+                        "Name": "btn_orange_start",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 647, "Y": 763 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

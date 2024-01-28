@@ -1,0 +1,129 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/foxtoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            7, -25, 1.0004, 1, 104, 105.6, -3.23, 178.43,
+                            0.5139, 0.4489
+                        ],
+                        "PrePos": [0.0507, -0.1825, 0.7536, 0.7708],
+                        "MG": [145.6, 40, 11.2, 115.2],
+                        "Tag": 50078,
+                        "@": 50079,
+                        "Alpha": 255,
+                        "Name": "fox",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/frogtoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            10, -26, 0.9556, 1.0003, 107.2, 102.4, 56.8, 58.09,
+                            0.5131, 0.4756
+                        ],
+                        "PrePos": [0.0725, -0.1898, 0.7768, 0.7474],
+                        "MG": [144, 41.6, 16, 123.2],
+                        "Tag": 50080,
+                        "@": 50081,
+                        "Alpha": 255,
+                        "Name": "frog",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/liotoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            11, -27, 0.8936, 1.0247, 147.2, 126.4, 88.75, 87.99,
+                            0.4942, 0.5475
+                        ],
+                        "PrePos": [0.0797, -0.1971, 1.0667, 0.9226],
+                        "MG": [169.6, 43.2, 17.6, 164.8],
+                        "Tag": 50082,
+                        "@": 50083,
+                        "Alpha": 255,
+                        "Name": "owl",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/hippotoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            8, -26, 1, 1, 100.8, 100.8, 3.08, 3.08, 0.5124,
+                            0.4881
+                        ],
+                        "PrePos": [0.058, -0.1898, 0.7304, 0.7358],
+                        "MG": [142.4, 41.6, 12.8, 113.6],
+                        "Tag": 50084,
+                        "@": 50085,
+                        "Alpha": 255,
+                        "Name": "hippo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/chicktoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            7, -28, 0.9444, 1.0004, 104, 104, 34.5, 32.79,
+                            0.4861, 0.451
+                        ],
+                        "PrePos": [0.0507, -0.2044, 0.7536, 0.7591],
+                        "MG": [148.8, 44.8, 11.2, 115.2],
+                        "Tag": 50086,
+                        "@": 50087,
+                        "Alpha": 255,
+                        "Name": "chick",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "block_collection_machine/beartoy.png",
+                            "Plist": "cocos/block_collection_machine@6x.plist"
+                        },
+                        "Pos": [
+                            9, -24, 1.039, 1.039, 105.6, 102.4, 13.95, 13.95,
+                            0.4673, 0.4873
+                        ],
+                        "PrePos": [0.0652, -0.1752, 0.7652, 0.7474],
+                        "MG": [140.8, 38.4, 14.4, 120],
+                        "Tag": 50088,
+                        "@": 50089,
+                        "Alpha": 255,
+                        "Name": "bear",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 138, "Y": 137 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

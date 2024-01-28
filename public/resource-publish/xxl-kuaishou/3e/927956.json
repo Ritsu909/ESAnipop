@@ -1,0 +1,52 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/act13_p1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 228.8, 156.8, 0, 0, 0.4972, 0.5038],
+                        "MG": [156.8, 0, 0, 228.8],
+                        "Tag": 81341496,
+                        "@": 81341497,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/act13_p2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [
+                            0, -23, 1, 1, 219.2, 108.8, 0, 0, 0.5005, 0.5041
+                        ],
+                        "PrePos": [0, -0.1484, 0.9656, 0.7019],
+                        "MG": [145.6, 36.8, 0, 219.2],
+                        "Tag": 81341494,
+                        "@": 81341495,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 227, "Y": 155 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

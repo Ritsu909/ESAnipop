@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -55, 23, 1, 1, 124.7718, 56.46, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4435, 0.4107, 1.5742, 2.1429],
+                        "MG": [83.2, -36.8, -88, 107.2],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84759692,
+                        "@": 84759693,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-47, 15, 1, 1, 84, 29, 0, 0, 0, 1],
+                        "PrePos": [-0.379, 0.2679, 0.6774, 0.5179],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_20_greenstroke@6x.fnt"
+                        },
+                        "MG": [42, -15, -47, 87],
+                        "IsCustomSize": true,
+                        "LabelText": "继续游戏",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84759690,
+                        "@": 84759691,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 124, "Y": 56 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

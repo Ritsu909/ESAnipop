@@ -1,0 +1,551 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 200,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        50091,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50091,
+                        [
+                            { "P": [-116.7, 289.75], "I": 0, "T": 0 },
+                            { "P": [-116.7, 289.75], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        50091,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.69, 0.69, 0.69, 1],
+                                    "u_delta": [0.18, 0.27, 0.31, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.69, 0.69, 0.69, 1],
+                                    "u_delta": [0.18, 0.27, 0.31, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 199,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50093,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50093,
+                        [
+                            { "P": [-92.8, 226.8], "I": 0, "T": 0 },
+                            { "P": [-92.8, 226.8], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50095,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50095,
+                        [
+                            { "P": [69.9, 267.95], "I": 0, "T": 0 },
+                            { "P": [69.9, 267.95], "I": 7, "T": 0 },
+                            { "P": [69.9, 267.95], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50095,
+                        [
+                            { "P": [1.7889, 1.0497], "I": 0, "T": 0 },
+                            { "P": [1.7889, 1.0497], "I": 7, "T": 0 },
+                            { "P": [1.7889, 1.0497], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50095,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 7, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50097,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 13,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50097,
+                        [
+                            { "P": [149.95, 235.5], "I": 0, "T": 0 },
+                            { "P": [149.95, 235.5], "I": 13, "T": 0 },
+                            { "P": [149.95, 235.5], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50097,
+                        [
+                            { "P": [1.1752, 0.754], "I": 0, "T": 0 },
+                            { "P": [1.1752, 0.754], "I": 13, "T": 0 },
+                            { "P": [1.1752, 0.754], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50097,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 13, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50099,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50099,
+                        [
+                            { "P": [-244.2, 257.75], "I": 0, "T": 0 },
+                            { "P": [-244.2, 257.75], "I": 25, "T": 0 },
+                            { "P": [-244.2, 257.75], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50099,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 25, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50101,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 32,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50101,
+                        [
+                            { "P": [131.9, 373.05], "I": 0, "T": 0 },
+                            { "P": [131.9, 373.05], "I": 32, "T": 0 },
+                            { "P": [131.9, 373.05], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50101,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 32, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50103,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50103,
+                        [
+                            { "P": [-97.7, 766.55], "I": 0, "T": 0 },
+                            { "P": [-97.7, 766.55], "I": 4, "T": 0 },
+                            { "P": [-97.7, 766.55], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50103,
+                        [
+                            { "P": [3.5962, 2.9235], "I": 0, "T": 0 },
+                            { "P": [3.5962, 2.9235], "I": 4, "T": 0 },
+                            { "P": [3.5962, 2.9235], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50103,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 4, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50105,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50105,
+                        [
+                            { "P": [-248.95, 629.4], "I": 0, "T": 0 },
+                            { "P": [-248.95, 629.4], "I": 14, "T": 0 },
+                            { "P": [-248.95, 629.4], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50105,
+                        [
+                            { "P": [3.1088, 2.2738], "I": 0, "T": 0 },
+                            { "P": [3.1088, 2.2738], "I": 14, "T": 0 },
+                            { "P": [3.1088, 2.2738], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50105,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 14, "T": 0 },
+                            { "V": 255, "I": 199, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group02@6x.json"
+                        },
+                        "Pos": [
+                            -116, 289, 0.7209, 1.0294, 0, 0, -0.23, 0, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 222, "G": 244, "B": 254 },
+                        "MG": [289, -289, -116, 116],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50090,
+                        "@": 50091,
+                        "Alpha": 255,
+                        "Name": "fff",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [-92, 226, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [226, -226, -92, 92],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50092,
+                        "@": 50093,
+                        "Alpha": 255,
+                        "Name": "aaa",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [69, 267, 1.7888, 1.0497, 0, 0, 0, -0.56, 0, 0],
+                        "MG": [267, -267, 69, -69],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50094,
+                        "@": 50095,
+                        "Alpha": 0,
+                        "Name": "ff",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [149, 235, 1.1751, 0.754, 0, 0, 0, -0.56, 0, 0],
+                        "MG": [235, -235, 149, -149],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50096,
+                        "@": 50097,
+                        "Alpha": 0,
+                        "Name": "ee",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [
+                            -244, 257, 0.7113, 0.7921, 0, 0, 0, -0.56, 0, 0
+                        ],
+                        "MG": [257, -257, -244, 244],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50098,
+                        "@": 50099,
+                        "Alpha": 0,
+                        "Name": "dd",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [131, 373, 1.3776, 1.3862, 0, 0, 0, -0.56, 0, 0],
+                        "MG": [373, -373, 131, -131],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50100,
+                        "@": 50101,
+                        "Alpha": 0,
+                        "Name": "cc",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [-97, 766, 3.5961, 2.9235, 0, 0, 0, -0.56, 0, 0],
+                        "MG": [766, -766, -97, 97],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50102,
+                        "@": 50103,
+                        "Alpha": 0,
+                        "Name": "bb",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_group01@6x.json"
+                        },
+                        "Pos": [
+                            -248, 629, 3.1087, 2.2738, 0, 0, 0, -0.56, 0, 0
+                        ],
+                        "MG": [629, -629, -248, 248],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50104,
+                        "@": 50105,
+                        "Alpha": 0,
+                        "Name": "aa",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

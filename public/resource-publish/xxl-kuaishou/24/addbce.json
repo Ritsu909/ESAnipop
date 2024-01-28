@@ -1,0 +1,220 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 37,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50169,
+                        [
+                            { "P": [11.05, 37], "I": 0, "T": 0 },
+                            {
+                                "P": [11.05, 37],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [11.05, 32],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [11.05, 39], "I": 33 },
+                            { "P": [11.05, 37], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50171,
+                        [
+                            { "P": [46.05, 18], "I": 0, "T": 0 },
+                            {
+                                "P": [46.05, 18],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [45.8, 16],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [46.05, 19], "I": 33 },
+                            { "P": [46.05, 18], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50173,
+                        [
+                            { "P": [-22.95, 16], "I": 0, "T": 0 },
+                            {
+                                "P": [-22.95, 16],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-25.95, 14],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [-22.95, 17], "I": 33 },
+                            { "P": [-22.95, 16], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50175,
+                        [
+                            { "P": [-2.5, 7], "I": 0, "T": 0 },
+                            {
+                                "P": [-2.5, 7],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-2.5, 6],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [-2.5, 8], "I": 33 },
+                            { "P": [-2.5, 7], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50177,
+                        [
+                            { "P": [28.5, 7], "I": 0, "T": 0 },
+                            {
+                                "P": [28.5, 7],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [28.5, 6],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [28.5, 8], "I": 33 },
+                            { "P": [28.5, 7], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50179,
+                        [
+                            { "P": [-9, 37], "I": 0, "T": 0 },
+                            {
+                                "P": [-9, 37],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-9, 32],
+                                "I": 28,
+                                "E": [0.4085, 0, 0.6687, 1]
+                            },
+                            { "P": [-9, 39.5], "I": 33 },
+                            { "P": [-9, 37], "I": 36, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [11, 37, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [-8, -59.2, 17.6, 67.2],
+                        "Tag": 50168,
+                        "@": 50169,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [46, 18, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [22.4, -28.8, 73.6, 123.2],
+                        "Tag": 50170,
+                        "@": 50171,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [-22, 16, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [25.6, -25.6, -35.2, 14.4],
+                        "Tag": 50172,
+                        "@": 50173,
+                        "Alpha": 255,
+                        "Name": "3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [-2, 7, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [40, -11.2, -3.2, 46.4],
+                        "Tag": 50174,
+                        "@": 50175,
+                        "Alpha": 255,
+                        "Name": "4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [28, 7, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [40, -11.2, 44.8, 94.4],
+                        "Tag": 50176,
+                        "@": 50177,
+                        "Alpha": 255,
+                        "Name": "5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_red.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [-9, 37, 1, 1, 49.6, 51.2, 0, 0, 0.752, 0.6787],
+                        "MG": [-8, -59.2, -14.4, 35.2],
+                        "Tag": 50178,
+                        "@": 50179,
+                        "Alpha": 255,
+                        "Name": "0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,112 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "survey/bg.png",
+                            "Plist": "cocos/survey@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 590.4, 659.2, 0, 0, 0.0002, 0.9998],
+                        "MG": [659.2, 0, 0, 590.4],
+                        "Tag": 126798,
+                        "@": 126799,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/survey_btn@6x.json"
+                        },
+                        "Pos": [
+                            243, -498, 1.2725, 1.2725, 216, 110, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.4119, -0.7523, 0.3661, 0.1662],
+                        "MG": [54, 498, 243, 131],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 126796,
+                        "@": 126797,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/survey_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [527, -54, 1.4139, 1.4139, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8932, -0.0816, 0.1441, 0.1254],
+                        "MG": [525, 54, 527, -22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 126794,
+                        "@": 126795,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [144, -46, 1, 1, 301, 94, 0, 0, 0, 1],
+                        "PrePos": [0.2441, -0.0695, 0.5102, 0.142],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [522, 46, 144, 145],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "问卷调查",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 126792,
+                        "@": 126793,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [92, -209, 1, 1, 415, 147, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 169, "G": 55, "B": 67 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1559, -0.3157, 0.7034, 0.2221],
+                        "MG": [306, 209, 92, 83],
+                        "IsCustomSize": true,
+                        "LabelText": "      船长诚邀您参与《海滨消消乐》第一届问卷调查，我们非常重视您的宝贵意见，真诚期待您的参与！现在让我们开始吧！",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 126790,
+                        "@": 126791,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 590, "Y": 662 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

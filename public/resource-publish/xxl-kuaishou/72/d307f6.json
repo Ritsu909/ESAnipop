@@ -1,0 +1,47 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 9 },
+                            { "P": [1, 0.0735], "I": 11 },
+                            { "P": [1, 1], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/bear_blink.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 33.6, 40, 0, 0, 0.5015, 0.4812],
+                        "MG": [40, 0, 0, 33.6],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

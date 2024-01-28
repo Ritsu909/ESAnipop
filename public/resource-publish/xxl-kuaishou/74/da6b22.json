@@ -1,0 +1,109 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_plus_panel/panel_bg.png",
+                            "Plist": "cocos/mark_plus_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -4, 1, 1, 641.6, 627.2, 0, 0, 0.0002, 0.9998
+                        ],
+                        "PrePos": [0, -0.0063, 1.0009, 0.9956],
+                        "MG": [633.6, 6.4, 0, 641.6],
+                        "Tag": 84758958,
+                        "@": 84758959,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_plus_panel_btn_share@6x.json"
+                        },
+                        "Pos": [137, -505, 0.9, 0.9, 300, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2137, -0.8016, 0.468, 0.1937],
+                        "MG": [3, 505, 137, 204],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84758956,
+                        "@": 84758957,
+                        "Alpha": 255,
+                        "Name": "btn_share",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_plus_panel_btn_get@6x.json"
+                        },
+                        "Pos": [461, -505, 0.9, 0.9, 300, 120, 0, 0, 0, 0],
+                        "PrePos": [0.7192, -0.8016, 0.468, 0.1905],
+                        "MG": [5, 505, 461, -120],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84758988,
+                        "@": 84758989,
+                        "Alpha": 255,
+                        "Name": "btn_get",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [166, -32, 1, 1, 285, 68, 0, 0, 0, 1],
+                        "PrePos": [0.259, -0.0508, 0.4446, 0.1079],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [530, 32, 166, 190],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "签到分享",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 84758986,
+                        "@": 84758987,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_plus_panel/btn_close.png",
+                            "Plist": "cocos/mark_plus_panel@6x.plist"
+                        },
+                        "Pos": [
+                            561, -65, 1.5, 1.5, 89.6, 88, 0, 0, 0.4978, 0.5045
+                        ],
+                        "PrePos": [0.8752, -0.1032, 0.1398, 0.1397],
+                        "MG": [192, 104, 897.6, 987.2],
+                        "Tag": 84758952,
+                        "@": 84758953,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 641, "Y": 630 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

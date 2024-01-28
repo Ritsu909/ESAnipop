@@ -1,0 +1,45 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 28,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        29325638,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1.1009, 0.7891], "I": 14 },
+                            { "P": [1, 1], "I": 27, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_glowlight_sprite.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 110.4, 112, 0, 0, 0.4991, 0.504],
+                        "MG": [112, 0, 0, 110.4],
+                        "Tag": 29325637,
+                        "@": 29325638,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

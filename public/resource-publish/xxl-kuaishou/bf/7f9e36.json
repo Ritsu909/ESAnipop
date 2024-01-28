@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/staruibottombtm2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 303.808, 67.2, 0, 0, 0.0013, 0.9985
+                        ],
+                        "MG": [67.2, 0, 0, 75.2],
+                        "Scale9": [56, 12, 4, 4],
+                        "Tag": 28250701,
+                        "@": 28250702,
+                        "Alpha": 255,
+                        "Name": "btn_down",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/staruibottombtm1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 303.8155, 67.2, 0, 0, 0.0013, 0.9985
+                        ],
+                        "MG": [67.2, 0, 0, 75.2],
+                        "Scale9": [56, 12, 4, 4],
+                        "Tag": 28250699,
+                        "@": 28250700,
+                        "Alpha": 255,
+                        "Name": "btn_up",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 303, "Y": 66 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

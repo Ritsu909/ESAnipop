@@ -1,0 +1,121 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [-243, -180, 1, 1, 350, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 51 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.5294, -0.5202, 0.7625, 0.078],
+                        "MG": [139, 180, -243, 352],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "选择“获取验证码”即表示您已同意",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84744200,
+                        "@": 84744201,
+                        "Name": "tip1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [103, -180, 1, 1, 112, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 153, "B": 255 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2244, -0.5202, 0.244, 0.078],
+                        "MG": [139, 180, 103, 244],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "《用户协议》",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84744198,
+                        "@": 84744199,
+                        "Name": "tip2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/verified_panel_bottom_btn_green_get@6x.json"
+                        },
+                        "Pos": [-1, -112, 0.8, 0.8, 373, 122, 0, 0, 0, 0],
+                        "PrePos": [-0.0022, -0.3237, 0.8126, 0.3526],
+                        "MG": [112, 112, -1, 87],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84744258,
+                        "@": 84744259,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-209, 138, 1, 1, 422, 84, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 51 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4553, 0.3988, 0.9194, 0.2428],
+                        "MG": [400, -138, -209, 246],
+                        "IsCustomSize": true,
+                        "LabelText": "根据相关法规，游戏中使用支付功能需实名认证哦~（通过手机号）\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84744196,
+                        "@": 84744197,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/verified_panel_input_container@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 407, 71, 0, 0, 0, 0],
+                        "MG": [275, 0, 0, 52],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84744256,
+                        "@": 84744257,
+                        "Alpha": 255,
+                        "Name": "input_container",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 459, "Y": 346 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,87 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5014, 0.5, 0.2017, 1.0057],
+                        "MG": [14.4, -56, -280, -209.6],
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "candyfox_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3009, 0.5, 0.2017, 1.0057],
+                        "MG": [14.4, -56, -168, -97.6],
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "candyfox_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [35, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.1003, 0.5, 0.2017, 1.0057],
+                        "MG": [14.4, -56, 56, 126.4],
+                        "Tag": 50034,
+                        "@": 50035,
+                        "Alpha": 255,
+                        "Name": "candyfox_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            104, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.298, 0.5, 0.2017, 1.0057],
+                        "MG": [14.4, -56, 166.4, 236.8],
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "candychick_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 349, "Y": 70 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

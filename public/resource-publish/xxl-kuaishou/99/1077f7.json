@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/normal_newergo.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -45, 20, 1, 1, 93.783, 50.9696, 0, 0, 0.002, 0.998
+                        ],
+                        "PrePos": [-0.4167, 0.4082, 0.4741, 1.0449],
+                        "MG": [19.2, -32, -72, -20.8],
+                        "Scale9": [20, 15, 10, 10],
+                        "Tag": 84745467,
+                        "@": 84745468,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-54, 16, 1, 1, 108, 34, 0, 0, 0, 1],
+                        "PrePos": [-0.5, 0.3265, 1, 0.6939],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_guide@6x.fnt"
+                        },
+                        "MG": [31, -16, -54, 54],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "使用",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84745465,
+                        "@": 84745466,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 108, "Y": 49 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

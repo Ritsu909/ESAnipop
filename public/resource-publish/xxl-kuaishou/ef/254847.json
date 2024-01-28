@@ -1,0 +1,155 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/skeleton.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            348, 172, 1, 1, 603.2, 366.4, 0, 0, 0.5001, 0.5019
+                        ],
+                        "PrePos": [0.5771, 0.4725, 1.0003, 1.0066],
+                        "MG": [91.2, -275.2, 556.8, 1160],
+                        "Tag": 84755979,
+                        "@": 84755980,
+                        "Alpha": 255,
+                        "Name": "pf",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/greentileUI.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            158, 125, 1, 1, 381.468, 115.6742, 0, 0, 0.0008,
+                            0.9991
+                        ],
+                        "PrePos": [0.262, 0.3434, 0.199, 0.2901],
+                        "MG": [-94.4, -200, 252.8, 372.8],
+                        "Scale9": [51, 25, 12, 51],
+                        "Tag": 84755945,
+                        "@": 84755946,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [228, 351, 1, 1, 231, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 215, "G": 138, "B": 65 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3781, 0.9643, 0.3831, 0.0907],
+                        "MG": [682, -351, 228, 144],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "无限闯关",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84755937,
+                        "@": 84755938,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [163, 88, 1, 1, 140, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 61, "G": 128, "B": 206 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2703, 0.2418, 0.2322, 0.1016],
+                        "MG": [415, -88, 163, 300],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "原价",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84755935,
+                        "@": 84755936,
+                        "Name": "pricetext",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/forbidden.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            237, 68, 0.7231, 1, 147.2, 20.8, 0, 0, 0.5245,
+                            0.5168
+                        ],
+                        "PrePos": [0.393, 0.1868, 0.2441, 0.0571],
+                        "MG": [-88, -108.8, 379.2, 526.4],
+                        "Tag": 84755931,
+                        "@": 84755932,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_bottom_btn_blue_start2@6x.json"
+                        },
+                        "Pos": [412, 74, 0.8, 0.8, 280, 120, 0, 0, 0, 0],
+                        "PrePos": [0.6833, 0.2033, 0.4643, 0.3297],
+                        "MG": [318, -74, 412, -89],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755929,
+                        "@": 84755930,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_discount@6x.json"
+                        },
+                        "Pos": [502, 97, 1, 1, 76, 52, 14, 14, 0, 0],
+                        "PrePos": [0.8325, 0.2665, 0.126, 0.1429],
+                        "MG": [409, -97, 502, 25],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755927,
+                        "@": 84755928,
+                        "Alpha": 255,
+                        "Name": "discount",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 603, "Y": 364 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

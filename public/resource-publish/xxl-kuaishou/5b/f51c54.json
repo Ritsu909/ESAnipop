@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_panel_timelineButton@6x.json"
+                        },
+                        "Pos": [362, -895, 1, 1, 447, 123, 0, 0, 0, 0],
+                        "PrePos": [0.6252, -0.7762, 0.772, 0.1067],
+                        "MG": [135, 895, 362, -230],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249282,
+                        "@": 28249283,
+                        "Alpha": 255,
+                        "Name": "btn_timeline",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_panel_sessionButton@6x.json"
+                        },
+                        "Pos": [365, -1081, 1, 1, 447, 123, 0, 0, 0, 0],
+                        "PrePos": [0.6304, -0.9376, 0.772, 0.1067],
+                        "MG": [-51, 1081, 365, -233],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249280,
+                        "@": 28249281,
+                        "Alpha": 255,
+                        "Name": "btn_session",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            685, -33, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4752, 0.5237
+                        ],
+                        "PrePos": [1.1831, -0.0286, 0.0801, 0.0402],
+                        "MG": [99.2, 52.8, 1096, 1142.4],
+                        "Tag": 28249278,
+                        "@": 28249279,
+                        "Alpha": 255,
+                        "Name": "close_button",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 579, "Y": 1153 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

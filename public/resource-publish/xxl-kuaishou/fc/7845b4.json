@@ -1,0 +1,94 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/redbag_basicall.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            4, 10, 1, 1, 696.2453, 951.5387, 0, 0, 0.0003,
+                            1.0035
+                        ],
+                        "PrePos": [0.0058, 0.0106, 0.4535, 0.3058],
+                        "MG": [273.6, -16, 6.4, 321.6],
+                        "Scale9": [139, 136, 47, 59],
+                        "Tag": 84746779,
+                        "@": 84746780,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            37, -82, 1, 1, 634.7186, 792.517, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.0532, -0.0866, 0.1128, 0.1369],
+                        "MG": [260.8, 131.2, 59.2, 137.6],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84746777,
+                        "@": 84746778,
+                        "Alpha": 255,
+                        "Name": "viewRect",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [290, -5, 1, 1, 144, 49, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 210, "B": 63 },
+                        "PrePos": [0.4173, -0.0053, 0.2072, 0.0517],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [893, 5, 290, 261],
+                        "IsCustomSize": true,
+                        "LabelText": "红包礼物",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84746775,
+                        "@": 84746776,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            676, -55, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9727, -0.0581, 0.0668, 0.049],
+                        "MG": [134.4, 88, 1081.6, 1128],
+                        "Tag": 84746773,
+                        "@": 84746774,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 695, "Y": 947 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

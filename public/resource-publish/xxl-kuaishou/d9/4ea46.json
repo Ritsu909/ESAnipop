@@ -1,0 +1,50 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/music_on.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 78.4, 88, 0, 0, 0.4923, 0.4989],
+                        "MG": [88, 0, 0, 78.4],
+                        "Tag": 28249869,
+                        "@": 28249870,
+                        "Alpha": 255,
+                        "Name": "on",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/music_off.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [1, 0, 1, 1, 78.4, 88, 0, 0, 0.4923, 0.4989],
+                        "PrePos": [0.0128, 0, 1.0051, 1],
+                        "MG": [88, 0, 1.6, 80],
+                        "Tag": 28249867,
+                        "@": 28249868,
+                        "Alpha": 255,
+                        "Name": "off",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 78, "Y": 88 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

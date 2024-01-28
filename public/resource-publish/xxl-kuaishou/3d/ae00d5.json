@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "3": [
+                    { "X": -0.9, "Y": 1.2 },
+                    { "X": -61.934, "Y": -11.2947 },
+                    { "X": -66.95, "Y": -45.05 }
+                ]
+            },
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50095,
+                        [
+                            {
+                                "P": [-0.95, 1.25],
+                                "I": 0,
+                                "Tag": "3",
+                                "E": [0.0569, 0.8664, 0.626, 0.9281]
+                            },
+                            {
+                                "P": [-65.35, -38.65],
+                                "I": 14,
+                                "Tag": "3",
+                                "T": 0
+                            },
+                            {
+                                "P": [38.65, -38.65],
+                                "I": 15,
+                                "Tag": "3",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50095,
+                        [
+                            { "P": [111.44, 111.44], "I": 0 },
+                            { "P": [111.44, 111.44], "I": 14, "T": 0 },
+                            { "P": [0, 0], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50095,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 14, "T": 0 },
+                            { "V": 0, "I": 15, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/star_starsystemglow01.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [
+                            0, 1, 1, 1, 25.6, 25.6, 111.44, 111.44, 0.4648,
+                            0.502
+                        ],
+                        "MG": [24, -1.6, 0, 25.6],
+                        "Tag": 50094,
+                        "@": 50095,
+                        "Alpha": 255,
+                        "Name": "a1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

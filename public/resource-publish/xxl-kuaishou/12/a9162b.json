@@ -1,0 +1,99 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 15,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84746262,
+                        [
+                            {
+                                "P": [-0.05, -0.65],
+                                "I": 0
+                            },
+                            {
+                                "P": [-0.05, -1.05],
+                                "I": 7
+                            },
+                            {
+                                "P": [64.9, -0.75],
+                                "I": 14,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746262,
+                        [
+                            {
+                                "P": [0.7076, 4.7513],
+                                "I": 0
+                            },
+                            {
+                                "P": [0.9559, 6.4188],
+                                "I": 7
+                            },
+                            {
+                                "P": [0.825, 3.4354],
+                                "I": 14,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746262,
+                        [
+                            {
+                                "V": 0,
+                                "I": 0
+                            },
+                            {
+                                "V": 255,
+                                "I": 7
+                            },
+                            {
+                                "V": 0,
+                                "I": 14,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_end_panel/txtlight2.png",
+                            "Plist": "cocos/game_end_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.7076, 4.7513, 382.4, 62.4, 0, 0, 0.4997,
+                            0.5024
+                        ],
+                        "MG": [62.4, 0, 0, 382.4],
+                        "Tag": 84746261,
+                        "@": 84746262,
+                        "Alpha": 0,
+                        "Name": "lightballnew",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,174 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 473.9232, 329.2766, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [22, 22, 17, 15],
+                        "Tag": 9474321,
+                        "@": 9474322,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [32, -113, 1, 1, 262, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 102, "B": 102 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0682, -0.2749, 0.5586, 0.09],
+                        "MG": [261, 113, 32, 175],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "连续通过三关可以获得      \\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9474337,
+                        "@": 9474338,
+                        "Name": "txt1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [335, -113, 1, 1, 104, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 102, "B": 102 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7143, -0.2749, 0.2217, 0.09],
+                        "MG": [261, 113, 335, 30],
+                        "IsCustomSize": true,
+                        "LabelText": "蓝星星，\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9474335,
+                        "@": 9474336,
+                        "Name": "txt2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [33, -156, 1, 1, 405, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 102, "B": 102 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0704, -0.3796, 0.8635, 0.09],
+                        "MG": [218, 156, 33, 31],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "中途失败需要重新闯关喔！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9474333,
+                        "@": 9474334,
+                        "Name": "txt3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hide_level_newer_button_branch@6x.json"
+                        },
+                        "Pos": [234, -268, 1, 1, 201, 76, 0, 0, 0, 0],
+                        "PrePos": [0.4989, -0.6521, 0.4286, 0.1849],
+                        "MG": [67, 268, 234, 34],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9474319,
+                        "@": 9474320,
+                        "Alpha": 255,
+                        "Name": "ok_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [102, -30, 1, 1, 282, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2175, -0.073, 0.6013, 0.1338],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [326, 30, 102, 85],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "蓝鲸关已开启",
+                        "FontSize": 38,
+                        "Shadow": [2, -2],
+                        "Tag": 9474317,
+                        "@": 9474318,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hide_level_racoon_hi@6x.json"
+                        },
+                        "Pos": [4, 436, 0.7944, 0.7944, 177, 221, 0, 0, 0, 0],
+                        "PrePos": [0.0085, 1.0608, 0.3774, 0.5377],
+                        "MG": [626, -436, 4, 288],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9474315,
+                        "@": 9474316,
+                        "Alpha": 255,
+                        "Name": "character",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hide_level/starlightblue.png",
+                            "Plist": "cocos/hide_level@6x.plist"
+                        },
+                        "Pos": [
+                            314, -126, 1, 1, 44.8, 43.2, 0, 0, 0.4487, 0.5579
+                        ],
+                        "PrePos": [0.6695, -0.3066, 0.0955, 0.1051],
+                        "MG": [244.8, 201.6, 502.4, 547.2],
+                        "Tag": 9474331,
+                        "@": 9474332,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 469, "Y": 411 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

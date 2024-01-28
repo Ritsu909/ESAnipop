@@ -1,0 +1,208 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "qzone_cover/bg.png",
+                            "Plist": "cocos/qzone_cover@6x.plist"
+                        },
+                        "Pos": [
+                            0, -22, 1, 1, 668.8, 646.4, 0, 0, 0.0217, 0.9875
+                        ],
+                        "PrePos": [0, -0.0345, 1.0466, 1.0148],
+                        "MG": [681.6, 35.2, 0, 668.8],
+                        "Tag": 29533279,
+                        "@": 29533280,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "qzone_cover/bg3.png",
+                            "Plist": "cocos/qzone_cover@6x.plist"
+                        },
+                        "Pos": [
+                            55, -226, 1, 1, 529.2698, 259.8579, 0, 0, 0.0002,
+                            0.9994
+                        ],
+                        "PrePos": [0.0861, -0.3548, 0.8363, 0.2813],
+                        "MG": [540.8, 361.6, 88, 622.4],
+                        "Scale9": [283, 67, 36, 17],
+                        "Tag": 29533249,
+                        "@": 29533250,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "qzone_cover/bg2.png",
+                            "Plist": "cocos/qzone_cover@6x.plist"
+                        },
+                        "Pos": [
+                            306, -48, 1.6981, 1.6981, 272, 70.4, 0, 0, 0.4717,
+                            0.5455
+                        ],
+                        "PrePos": [0.4789, -0.0754, 0.4257, 0.1105],
+                        "MG": [147.2, 76.8, 489.6, 761.6],
+                        "Tag": 29533277,
+                        "@": 29533278,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [197, -19, 1, 1, 244, 55, 0, 0, 0, 1],
+                        "PrePos": [0.3083, -0.0298, 0.3818, 0.0863],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [563, 19, 197, 198],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "设置空间背景",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29533247,
+                        "@": 29533248,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            596, -63, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9327, -0.0989, 0.0726, 0.0728],
+                        "MG": [147.2, 100.8, 953.6, 1000],
+                        "Tag": 29533245,
+                        "@": 29533246,
+                        "Alpha": 115,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/qzone_cover_panel1_btn@6x.json"
+                        },
+                        "Pos": [319, -555, 1, 1, 245, 112, 0, 0, 0, 0],
+                        "PrePos": [0.4992, -0.8713, 0.3834, 0.1758],
+                        "MG": [-30, 555, 319, 75],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29533243,
+                        "@": 29533244,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [45, -118, 1, 1, 549, 42, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 51, "B": 153 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0704, -0.1852, 0.8592, 0.0659],
+                        "MG": [477, 118, 45, 45],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "首次设置专属空间背景，即可领取专属好礼哦！",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 29533291,
+                        "@": 29533292,
+                        "Name": "msg1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [44, -166, 1, 1, 550, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 51, "B": 153 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0689, -0.2606, 0.8607, 0.0518],
+                        "MG": [438, 166, 44, 45],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "设置成功后，通过空间背景可直接进入游戏！",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 29533289,
+                        "@": 29533290,
+                        "Name": "msg2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/qzone_cover_racoon_light@6x.json"
+                        },
+                        "Pos": [195, -342, 1.6802, 1.7448, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.3052, -0.5369, 0, 0],
+                        "MG": [295, 342, 195, 444],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29533239,
+                        "@": 29533240,
+                        "Alpha": 255,
+                        "Name": "racoon_light2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/qzone_cover_racoon_light@6x.json"
+                        },
+                        "Pos": [434, -341, 1.6802, 1.7448, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.6792, -0.5353, 0, 0],
+                        "MG": [296, 341, 434, 205],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29533237,
+                        "@": 29533238,
+                        "Alpha": 255,
+                        "Name": "racoon_light1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 639, "Y": 637 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,50 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 76.8, 73.6, 0, 0, 0.4935, 0.4993],
+                        "MG": [73.6, 0, 0, 76.8],
+                        "Tag": 87595260,
+                        "@": 87595261,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyelash.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [29, 15, 1, 1, 14.4, 16, 0, 0, 0.0556, 0.0281],
+                        "PrePos": [0.3625, 0.2055, 0.18, 0.2192],
+                        "MG": [-8, -24, 46.4, 60.8],
+                        "Tag": 87595258,
+                        "@": 87595259,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 80, "Y": 73 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,178 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 680.3216, 1051.3498, 0, 0, 0.0002,
+                            1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 84748833,
+                        "@": 84748834,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            40, -151, 1, 1, 610.3539, 320.7008, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [0.0582, -0.1421, 0.3121, 0.155],
+                        "MG": [406.4, 241.6, 64, 278.4],
+                        "Scale9": [106, 79, 4, 4],
+                        "Tag": 84748831,
+                        "@": 84748832,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            38, -538, 1, 1, 610.3539, 320.7008, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [0.0553, -0.5061, 0.3121, 0.155],
+                        "MG": [1025.6, 860.8, 60.8, 275.2],
+                        "Scale9": [106, 79, 4, 4],
+                        "Tag": 84748829,
+                        "@": 84748830,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [623, -49, 1.5, 1.5, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9068, -0.0461, 0.1237, 0.0781],
+                        "MG": [931, 49, 623, -21],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748827,
+                        "@": 84748828,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/unlock_panel_bottom_btn_green_start2@6x.json"
+                        },
+                        "Pos": [
+                            339, -919, 0.8479, 0.8479, 337, 138, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.4934, -0.8645, 0.4905, 0.1298],
+                        "MG": [6, 919, 339, 11],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748825,
+                        "@": 84748826,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [202, -43, 1, 1, 270, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "PrePos": [0.294, -0.0405, 0.393, 0.0517],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [965, 43, 202, 215],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得更多星星",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84748823,
+                        "@": 84748824,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [36, -108, 1, 1, 204, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 121, "B": 61 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0524, -0.1016, 0.2969, 0.0386],
+                        "MG": [914, 108, 36, 447],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "一星关卡推荐",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84748821,
+                        "@": 84748822,
+                        "Name": "desc1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [36, -491, 1, 1, 204, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 121, "B": 61 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0524, -0.4619, 0.2969, 0.0386],
+                        "MG": [531, 491, 36, 447],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "二星关卡推荐",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84748819,
+                        "@": 84748820,
+                        "Name": "desc2",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 687, "Y": 1063 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

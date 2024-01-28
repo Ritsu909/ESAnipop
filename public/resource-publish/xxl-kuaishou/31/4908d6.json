@@ -1,0 +1,107 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/icecream_down.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 104, 132.8, 0, 0, 0.5808, 0.5207],
+                        "MG": [132.8, 0, 0, 104],
+                        "Tag": 3096808,
+                        "@": 3096809,
+                        "Alpha": 255,
+                        "Name": "botton",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_icecream_animation2@6x.json"
+                        },
+                        "Pos": [-16, 78, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0976, 0.3545, 0, 0],
+                        "MG": [298, -78, -16, 180],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3096806,
+                        "@": 3096807,
+                        "Alpha": 255,
+                        "Name": "crame_full",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_icecream_animation@6x.json"
+                        },
+                        "Pos": [-11, 53, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0671, 0.2409, 0, 0],
+                        "MG": [273, -53, -11, 175],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3096804,
+                        "@": 3096805,
+                        "Alpha": 255,
+                        "Name": "crame_half",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_icecream_animation_fruite@6x.json"
+                        },
+                        "Pos": [-59, 107, 1, 1, 0, 0, -15, -15, 0, 0],
+                        "PrePos": [-0.3598, 0.4864, 0, 0],
+                        "MG": [327, -107, -59, 223],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3096802,
+                        "@": 3096803,
+                        "Alpha": 255,
+                        "Name": "fruit_full",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_xuehuaboom@6x.json"
+                        },
+                        "Pos": [0, 27, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0, 0.1227, 0, 0],
+                        "MG": [247, -27, 0, 164],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3096800,
+                        "@": 3096801,
+                        "Alpha": 255,
+                        "Name": "xuehuaboom",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 164, "Y": 220 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

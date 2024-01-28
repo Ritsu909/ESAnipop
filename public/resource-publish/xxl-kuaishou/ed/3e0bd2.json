@@ -1,0 +1,79 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 50,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        85383286,
+                        [
+                            { "P": [0.85, 2.15], "I": 0 },
+                            { "P": [0.8, 2.1], "I": 11 },
+                            { "P": [0.9, 2.1], "I": 21, "T": 0 },
+                            { "P": [-2.1, 2.1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383286,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.9983, 0.9983], "I": 11 },
+                            { "P": [1, 1], "I": 21, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        85383286,
+                        [
+                            { "P": [-0.5, -0.5], "I": 0 },
+                            { "P": [46.88, 46.88], "I": 11 },
+                            { "P": [126.79, 126.79], "I": 21, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85383286,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 11 },
+                            { "V": 0, "I": 21, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/starshining.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 2, 0.9999, 0.9999, 57.6, 62.4, -0.5, -0.5, 0.5,
+                            0.4992
+                        ],
+                        "MG": [59.2, -3.2, 0, 57.6],
+                        "Tag": 85383285,
+                        "@": 85383286,
+                        "Alpha": 0,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,132 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "weekgame_newrank_noti/res_panel_img.png",
+                            "Plist": "cocos/weekgame_newrank_noti@6x.plist"
+                        },
+                        "Pos": [
+                            170, 84, 1, 1, 475.2, 236.8, 0, 0, 0.4989, 0.5013
+                        ],
+                        "PrePos": [0.2993, 0.1456, 0.8366, 0.4104],
+                        "MG": [102.4, -134.4, 272, 747.2],
+                        "Tag": 86042689,
+                        "@": 86042690,
+                        "Alpha": 255,
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 506.2752, 380.6208, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 86042687,
+                        "@": 86042688,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [54, -107, 1, 1, 404, 107, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 98, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0951, -0.1854, 0.7113, 0.1854],
+                        "MG": [363, 107, 54, 110],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "为优化排行榜体验，本周开始全国\\n城市排行榜江岸单局兔子数排名咯！\\n船员们快去争取名次吧！",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 86042705,
+                        "@": 86042706,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/weekgame_newrank_noti_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            252, -287, 1.0456, 1.0456, 278, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.4437, -0.4974, 0.4894, 0.208],
+                        "MG": [170, 287, 252, 38],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86042703,
+                        "@": 86042704,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [119, -29, 1.125, 1.125, 267, 62, 0, 0, 0, 1],
+                        "PrePos": [0.2095, -0.0503, 0.4701, 0.1075],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [486, 29, 119, 182],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "通知啦!",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 86042701,
+                        "@": 86042702,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            459, -38, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.8081, -0.0659, 0.1521, 0.1442],
+                        "MG": [144, 60.8, 734.4, 820.8],
+                        "Tag": 86042699,
+                        "@": 86042700,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 568, "Y": 577 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

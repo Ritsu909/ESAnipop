@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_plus_disable.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -22, 22, 0.7202, 0.7202, 62.4, 62.4, 0, 0, 0.0016,
+                            0.9984
+                        ],
+                        "PrePos": [-0.5, 0.5, 1.4182, 1.4182],
+                        "MG": [27.2, -35.2, -35.2, 27.2],
+                        "Tag": 84983223,
+                        "@": 84983224,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bottom_btn_plus_click.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -21, 21, 0.7202, 0.7202, 59.2, 59.2, 0, 0, 0, 0.9983
+                        ],
+                        "PrePos": [-0.4773, 0.4773, 1.3455, 1.3455],
+                        "MG": [25.6, -33.6, -33.6, 25.6],
+                        "Tag": 84983221,
+                        "@": 84983222,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bottom_btn_plus_normal.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -21, 21, 0.7202, 0.7202, 59.2, 59.2, 0, 0, 0.0017,
+                            0.9983
+                        ],
+                        "PrePos": [-0.4773, 0.4773, 1.3455, 1.3455],
+                        "MG": [25.6, -33.6, -33.6, 25.6],
+                        "Tag": 84983219,
+                        "@": 84983220,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 44, "Y": 44 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

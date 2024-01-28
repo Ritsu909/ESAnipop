@@ -1,0 +1,35 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/act13_p10.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 100.8, 100.8, 0, 0, 0.497, 0.503],
+                        "MG": [100.8, 0, 0, 100.8],
+                        "Tag": 81341576,
+                        "@": 81341577,
+                        "Alpha": 255,
+                        "Name": "mc",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 100 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

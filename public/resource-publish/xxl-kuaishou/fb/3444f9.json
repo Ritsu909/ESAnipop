@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "1": [
+                    { "X": 1.1, "Y": -1.15 },
+                    { "X": 17.8348, "Y": 24.8598 },
+                    { "X": -21.4, "Y": 90.875 },
+                    { "X": -60.6361, "Y": 156.8975 },
+                    { "X": -19.05, "Y": 216.225 },
+                    { "X": 22.5473, "Y": 275.559 },
+                    { "X": -15.25, "Y": 345.65 }
+                ]
+            },
+            "Animation": {
+                "Duration": 45,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        83411439,
+                        [
+                            {
+                                "P": [1.1, -1.15],
+                                "I": 0,
+                                "Tag": "1",
+                                "E": [0.2866, 0.9486, 0.7414, 0.9384]
+                            },
+                            {
+                                "P": [-15.25, 345.65],
+                                "I": 44,
+                                "Tag": "1",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        83411439,
+                        [
+                            {
+                                "P": [1.4438, 1.2371],
+                                "I": 0,
+                                "E": [0.2866, 0.9486, 0.7414, 0.9384]
+                            },
+                            { "P": [0.6237, 1], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        83411439,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 44, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/water_bubble.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            1, -1, 1.4438, 1.2371, 19.2, 19.2, 0, 0, 0.5078,
+                            0.4922
+                        ],
+                        "MG": [20.8, 1.6, 1.6, 20.8],
+                        "Tag": 83411438,
+                        "@": 83411439,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

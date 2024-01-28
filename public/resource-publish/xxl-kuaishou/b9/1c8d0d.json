@@ -1,0 +1,162 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 80,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        86485468,
+                        [
+                            { "P": [0.15, 0.25], "I": 0 },
+                            { "P": [0.15, 0.25], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86485468,
+                        [
+                            { "P": [-42.38, -42.38], "I": 0 },
+                            { "P": [-42.38, -42.38], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86485466,
+                        [
+                            { "P": [0.15, 0.25], "I": 0 },
+                            { "P": [0.15, 0.25], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86485466,
+                        [
+                            { "P": [-133.37, -133.37], "I": 0 },
+                            { "P": [-133.37, -133.37], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86485464,
+                        [
+                            { "P": [0.15, 0.25], "I": 0 },
+                            { "P": [0.15, 0.25], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86485464,
+                        [
+                            { "P": [92.55, 92.55], "I": 0 },
+                            { "P": [92.55, 92.55], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        86485498,
+                        [
+                            { "P": [0.15, 0.25], "I": 0 },
+                            { "P": [0.15, 0.25], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        86485498,
+                        [
+                            { "P": [0.5845, 1.0269], "I": 0 },
+                            { "P": [0.5845, 1.0269], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        86485498,
+                        [
+                            { "P": [1.55, 1.55], "I": 0 },
+                            { "P": [1.55, 1.55], "I": 79, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionIcon/lighta.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionIcon@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.0279, 1.0279, 73.6, 164.8, -42.38, -42.38,
+                            0.5041, 0.4988
+                        ],
+                        "MG": [164.8, 0, 0, 73.6],
+                        "Tag": 86485467,
+                        "@": 86485468,
+                        "Alpha": 255,
+                        "Name": "lightaa_21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionIcon/lighta.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionIcon@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.0279, 1.0279, 73.6, 164.8, -133.37, -133.37,
+                            0.5041, 0.4988
+                        ],
+                        "MG": [164.8, 0, 0, 73.6],
+                        "Tag": 86485465,
+                        "@": 86485466,
+                        "Alpha": 255,
+                        "Name": "purpe_glow_20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionIcon/lighta.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionIcon@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5844, 1.0269, 73.6, 164.8, 92.55, 92.55,
+                            0.5041, 0.4988
+                        ],
+                        "MG": [164.8, 0, 0, 73.6],
+                        "Tag": 86485463,
+                        "@": 86485464,
+                        "Alpha": 255,
+                        "Name": "lightaa1_19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionIcon/lighta.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionIcon@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5844, 1.0269, 73.6, 164.8, 1.55, 1.55,
+                            0.5041, 0.4988
+                        ],
+                        "MG": [164.8, 0, 0, 73.6],
+                        "Tag": 86485497,
+                        "@": 86485498,
+                        "Alpha": 255,
+                        "Name": "lig",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/bloodbottle.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -212, 33, 1, 1, 405.128, 80, 0, 0, 0.0004, 0.9988
+                        ],
+                        "PrePos": [-0.5248, 0.4177, 0.705, 1.0127],
+                        "MG": [27.2, -52.8, -339.2, -54.4],
+                        "Scale9": [142, 37, 4, 3],
+                        "Tag": 84748081,
+                        "@": 84748082,
+                        "Alpha": 255,
+                        "Name": "bloodbottle",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/blood.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -194, 20, 1, 1, 324.42, 58.368, 0, 0, 0.0005, 0.998
+                        ],
+                        "PrePos": [-0.4802, 0.2532, 0.495, 0.6481],
+                        "MG": [19.2, -32, -310.4, -110.4],
+                        "Scale9": [22, 23, 153, 2],
+                        "Tag": 84748079,
+                        "@": 84748080,
+                        "Alpha": 255,
+                        "Name": "blood",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-38, 17, 1.126, 1.126, 118, 42, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 142, "G": 98, "B": 0 },
+                        "PrePos": [-0.0941, 0.2152, 0.2921, 0.5316],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [54, -17, -38, 324],
+                        "IsCustomSize": true,
+                        "LabelText": "5/30",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84748077,
+                        "@": 84748078,
+                        "Name": "txt",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "head_frame_update_panel/orange_star.png",
+                            "Plist": "cocos/head_frame_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -62, -6, 1.35, 1.35, 32, 30.4, 0, 0, 0.5172, 0.5033
+                        ],
+                        "PrePos": [-0.1535, -0.0759, 0.0792, 0.3848],
+                        "MG": [40, 9.6, -99.2, -67.2],
+                        "Tag": 84748075,
+                        "@": 84748076,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 404, "Y": 79 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

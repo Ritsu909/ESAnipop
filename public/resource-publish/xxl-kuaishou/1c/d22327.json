@@ -1,0 +1,36 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hide_island/level_node_container.png",
+                            "Plist": "cocos/hide_island@6x.plist"
+                        },
+                        "Pos": [0, 2, 2, 2, 41.6, 46.4, 0, 0, 0.5144, 0.0819],
+                        "PrePos": [0, 0.026, 0.6303, 0.6026],
+                        "MG": [43.2, -3.2, 0, 41.6],
+                        "Tag": 27191542,
+                        "@": 27191543,
+                        "Alpha": 255,
+                        "Name": "temp",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 66, "Y": 77 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

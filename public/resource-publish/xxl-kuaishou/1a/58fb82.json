@@ -1,0 +1,78 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        50089,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3171, 0, 0.6789, 1]
+                            },
+                            { "P": [0.0959, 1], "I": 10 },
+                            {
+                                "P": [0.0206, 1],
+                                "I": 11,
+                                "E": [0.3801, 0, 0.626, 1]
+                            },
+                            {
+                                "P": [1, 1],
+                                "I": 20,
+                                "E": [0.3889, 0, 0.624, 1]
+                            },
+                            { "P": [0.0209, 1], "I": 29 },
+                            {
+                                "P": [0.0962, 1],
+                                "I": 30,
+                                "E": [0.4228, 0, 0.5833, 1]
+                            },
+                            { "P": [1, 1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50089,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 10 },
+                            { "V": 255, "I": 11 },
+                            { "V": 102, "I": 20 },
+                            { "V": 102, "I": 29 },
+                            { "V": 255, "I": 30 },
+                            { "V": 255, "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "firework/CONFETTI.png",
+                            "Plist": "cocos/firework@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 16, 16, 0, 0, 0.4594, 0.5406],
+                        "MG": [16, 0, 0, 16],
+                        "Tag": 50088,
+                        "@": 50089,
+                        "Alpha": 255,
+                        "Name": "abc",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

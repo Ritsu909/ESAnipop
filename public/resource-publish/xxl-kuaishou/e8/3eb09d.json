@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/processbar.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 549.4718, 52.8, 0, 0, 0.0009, 0.9981
+                        ],
+                        "MG": [52.8, 0, 0, 110.4],
+                        "Scale9": [19, 13, 64, 26],
+                        "Tag": 84753039,
+                        "@": 84753040,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/processbar.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 548.5445, 52.8, 0, 0, 0.0009, 0.9981
+                        ],
+                        "MG": [52.8, 0, 0, 110.4],
+                        "Scale9": [19, 13, 64, 26],
+                        "Tag": 84753037,
+                        "@": 84753038,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 547, "Y": 52 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

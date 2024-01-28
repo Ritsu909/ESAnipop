@@ -1,0 +1,29 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [1, "CloverUI/starempty.png", "cocos/CloverUI@6x"],
+                    "Pos": [0, 0, 1, 1, 56, 48, 0, 0, 0.5036, 0.5063],
+                    "Tag": 2018,
+                    "@": 2019,
+                    "#": "starempty",
+                    "$": "IV"
+                },
+                {
+                    "F": [1, "CloverUI/starfull.png", "cocos/CloverUI@6x"],
+                    "Pos": [0, 1, 1, 1, 48, 44.8, 0, 0, 0.4938, 0.5045],
+                    "Tag": 2020,
+                    "@": 2021,
+                    "#": "starfull",
+                    "$": "IV"
+                }
+            ],
+            "Size": { "X": 53, "Y": 44 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

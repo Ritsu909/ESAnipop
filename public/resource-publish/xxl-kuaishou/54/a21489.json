@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 506.2752, 292.7344, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 1051435,
+                        "@": 1051436,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [2, -24, 1, 1, 493, 49, 0, 0, 0, 1],
+                        "PrePos": [0.004, -0.0822, 0.9743, 0.1678],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [219, 24, 2, 11],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "沙漏数量不足",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 1051433,
+                        "@": 1051434,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [87, -122, 1, 1, 211, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 109, "G": 57, "B": 50 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1719, -0.4178, 0.417, 0.1267],
+                        "MG": [133, 122, 87, 208],
+                        "IsCustomSize": true,
+                        "LabelText": "还需购买并使用",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 1051431,
+                        "@": 1051432,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_bottom_btn_blue_start2233@6x.json"
+                        },
+                        "Pos": [248, -216, 0.65, 0.6499, 293, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4901, -0.7397, 0.5791, 0.411],
+                        "MG": [-44, 216, 248, -35],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051429,
+                        "@": 1051430,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [360, -111, 1, 1, 67, 48, 0, 0, 0, 1],
+                        "PrePos": [0.7115, -0.3801, 0.1324, 0.1644],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [133, 111, 360, 79],
+                        "IsCustomSize": true,
+                        "LabelText": "x3\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051427,
+                        "@": 1051428,
+                        "Name": "txt_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [463, -37, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.915, -0.1267, 0.168, 0.2842],
+                        "MG": [172, 37, 463, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051425,
+                        "@": 1051426,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 506, "Y": 292 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

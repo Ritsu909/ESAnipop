@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/res_arrow.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [-39, -4, 1, 1, 40, 28.8, 0, 0, 0.0025, 0.9965],
+                        "PrePos": [-0.2378, -0.1053, 0.2439, 0.7579],
+                        "MG": [35.2, 6.4, -62.4, -22.4],
+                        "Tag": 84757888,
+                        "@": 84757889,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-164, -6, 1, 1, 115, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-1, -0.1579, 0.7012, 0.9737],
+                        "MG": [-5, 6, -164, 213],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "其他方式",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84757886,
+                        "@": 84757887,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 164, "Y": 38 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

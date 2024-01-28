@@ -1,0 +1,50 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/buy_confirm_panel_cells_qm_light.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 65.6, 67.2, 0, 0, 0.0015, 0.9985],
+                        "MG": [67.2, 0, 0, 65.6],
+                        "Tag": 50044,
+                        "@": 50045,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/buy_confirm_panel_cells_qm_dark.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [7, -7, 1, 1, 52.8, 52.8, 0, 0, 0.0019, 0.9981],
+                        "PrePos": [0.1077, -0.1061, 0.8123, 0.8],
+                        "MG": [64, 11.2, 11.2, 64],
+                        "Tag": 50046,
+                        "@": 50047,
+                        "Alpha": 255,
+                        "Name": "dark",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 65, "Y": 66 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

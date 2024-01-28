@@ -1,0 +1,93 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -116, 46, 1, 1, 296.0403, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.3906, 0.3833, 0.6572, 1.0133],
+                        "MG": [48, -73.6, -185.6, 9.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84747017,
+                        "@": 84747018,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -116, 47, 1, 1, 296.0403, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.3906, 0.3917, 0.6572, 1],
+                        "MG": [44.8, -75.2, -185.6, 9.6],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84747015,
+                        "@": 84747016,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -115, 47, 1, 1, 296.665, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.3872, 0.3917, 0.6572, 1],
+                        "MG": [44.8, -75.2, -184, 11.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84747013,
+                        "@": 84747014,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-106, 20, 1, 1, 254, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.3569, 0.1667, 0.8552, 0.4583],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [85, -20, -106, 149],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "账号添加好友",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84747011,
+                        "@": 84747012,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 297, "Y": 120 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

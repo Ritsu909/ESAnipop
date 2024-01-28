@@ -1,0 +1,72 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            168, 180, 2.4403, 2.261, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.4667, 0.4358, 0.28, 0.2441],
+                        "MG": [-187.2, -288, 268.8, 369.6],
+                        "Tag": 84746639,
+                        "@": 84746640,
+                        "Alpha": 0,
+                        "Name": "box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [4, 0, 1, 1, 362.2326, 120, 0, 0, 0.012, 0.9992],
+                        "PrePos": [0.0111, 0, 0.5422, 0.2906],
+                        "MG": [120, 0, 6.4, 201.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84746637,
+                        "@": 84746638,
+                        "Alpha": 255,
+                        "Name": "b_green_cut",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/btn_ticket.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            89, -18, 1, 1, 171.2, 68.8, 0, 0, 0.0006, 0.9985
+                        ],
+                        "PrePos": [0.2472, -0.0436, 0.4756, 0.1666],
+                        "MG": [97.6, 28.8, 142.4, 313.6],
+                        "Tag": 84746635,
+                        "@": 84746636,
+                        "Alpha": 255,
+                        "Name": "btn_ticket",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 360, "Y": 413 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

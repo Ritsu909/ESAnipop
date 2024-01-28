@@ -1,0 +1,87 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50001,
+                        [
+                            {
+                                "P": [28, 69],
+                                "I": 0,
+                                "E": [0.4654, 0, 0.5691, 1]
+                            },
+                            {
+                                "P": [27, 69.5],
+                                "I": 49,
+                                "E": [0.4837, 0, 0.5732, 1]
+                            },
+                            { "P": [28, 69], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.4654, 0, 0.5691, 1]
+                            },
+                            {
+                                "P": [0.9513, 1.0661],
+                                "I": 49,
+                                "E": [0.4837, 0, 0.5732, 1]
+                            },
+                            { "P": [1, 1], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50001,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4654, 0, 0.5691, 1]
+                            },
+                            {
+                                "P": [-2.36, 0],
+                                "I": 49,
+                                "E": [0.4837, 0, 0.5732, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_leaf01.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [28, 69, 1, 1, 232, 139.2, 0, 0, 0.6237, 0.9993],
+                        "MG": [28.8, -110.4, 44.8, 276.8],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

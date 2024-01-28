@@ -1,0 +1,135 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 41,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        9417315,
+                        [
+                            { "P": [0.5, 0.05], "I": 0 },
+                            { "P": [0.6, 0.1], "I": 20 },
+                            { "P": [0.5, 0.05], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        9417315,
+                        [
+                            { "P": [0.9118, 1.0472], "I": 0 },
+                            { "P": [0.7891, 0.9059], "I": 20 },
+                            { "P": [0.9118, 1.0472], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        9417315,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0.96, 0], "I": 20 },
+                            { "P": [0, 0], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9417313,
+                        [
+                            { "P": [0.3, 0.25], "I": 0 },
+                            { "P": [0.3, 0.25], "I": 20 },
+                            { "P": [0.3, 0.25], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        9417313,
+                        [
+                            { "P": [0.8302, 0.9535], "I": 0 },
+                            { "P": [0.9298, 1.0679], "I": 20 },
+                            { "P": [0.8302, 0.9535], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9417311,
+                        [
+                            { "P": [-0.1, -0.4], "I": 0 },
+                            { "P": [-0.1, -0.4], "I": 20 },
+                            { "P": [-0.1, -0.4], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        9417311,
+                        [
+                            { "P": [0.946, 0.946], "I": 0 },
+                            { "P": [1.0944, 1.0944], "I": 20 },
+                            { "P": [0.946, 0.946], "I": 40, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/racoon_light11.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9118, 1.0472, 129.6, 124.8, 0, 0, 0.412,
+                            0.4912
+                        ],
+                        "MG": [124.8, 0, 0, 129.6],
+                        "Tag": 9417314,
+                        "@": 9417315,
+                        "Alpha": 255,
+                        "Name": "racoon_light11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/racoon_light2.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8302, 0.9535, 132.8, 124.8, 0, 0, 0.5727,
+                            0.5112
+                        ],
+                        "MG": [124.8, 0, 0, 132.8],
+                        "Tag": 9417312,
+                        "@": 9417313,
+                        "Alpha": 255,
+                        "Name": "racoon_light2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/racoon_light3.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.946, 0.946, 96, 89.6, 0, 0, 0.4922, 0.5022
+                        ],
+                        "MG": [89.6, 0, 0, 96],
+                        "Tag": 9417310,
+                        "@": 9417311,
+                        "Alpha": 255,
+                        "Name": "racoon_light3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

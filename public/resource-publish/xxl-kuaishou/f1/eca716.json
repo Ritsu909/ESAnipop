@@ -1,0 +1,73 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bookstuffall.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 0, 2, 2, 331.2, 508.8, 0, 0, 0.0003, 0.9967
+                        ],
+                        "PrePos": [-0.003, 0, 0.5018, 0.5028],
+                        "MG": [508.8, 0, -3.2, 328],
+                        "Tag": 84746331,
+                        "@": 84746332,
+                        "Alpha": 255,
+                        "Name": "cover",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bookstuffall1.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -506, 1, 1, 496, 113.6, 0, 0, -0.2087, -1.2364
+                        ],
+                        "PrePos": [0, -0.5, 0.7515, 0.1123],
+                        "MG": [923.2, 809.6, 0, 496],
+                        "Tag": 84746329,
+                        "@": 84746330,
+                        "Alpha": 255,
+                        "Name": "animal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [164, -373, 1, 1, 364, 81, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 149, "G": 59, "B": 38 },
+                        "PrePos": [0.2485, -0.3686, 0.5515, 0.08],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [558, 373, 164, 132],
+                        "IsCustomSize": true,
+                        "LabelText": "消消乐好友录",
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 84746327,
+                        "@": 84746328,
+                        "Name": "text",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 660, "Y": 1012 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

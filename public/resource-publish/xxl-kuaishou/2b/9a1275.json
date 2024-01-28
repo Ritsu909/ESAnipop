@@ -1,0 +1,218 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/res_selct_item_bg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -302, 122, 1, 1, 612.1891, 131.424, 0, 0, 0.0011,
+                            0.999
+                        ],
+                        "PrePos": [-0.5, 0.9385, 0.151, 0.7385],
+                        "MG": [-99.2, -195.2, -483.2, -392],
+                        "Scale9": [40, 40, 10, 10],
+                        "Tag": 84757920,
+                        "@": 84757921,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/select_payment_panel_btn_green_start@6x.json"
+                        },
+                        "Pos": [208, 60, 0.6, 0.6, 222, 126, 0, 0, 0, 0],
+                        "PrePos": [0.3444, 0.4615, 0.3675, 0.9692],
+                        "MG": [64, -60, 208, 174],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84757918,
+                        "@": 84757919,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/res_icn_bg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -273, 108, 1, 1, 97.9878, 97.9878, 0, 0, 0.0017,
+                            0.9983
+                        ],
+                        "PrePos": [-0.452, 0.8308, 0.098, 0.4554],
+                        "MG": [-113.6, -172.8, -436.8, -377.6],
+                        "Scale9": [24, 24, 10, 10],
+                        "Tag": 84757916,
+                        "@": 84757917,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/extra_bg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -57, 106, 1, 1, 102.4918, 41.4128, 0, 0, 0.0028,
+                            0.9972
+                        ],
+                        "PrePos": [-0.0944, 0.8154, 0.0583, 0.2708],
+                        "MG": [-134.4, -169.6, -91.2, -56],
+                        "Scale9": [12, 12, 10, 10],
+                        "Tag": 84757948,
+                        "@": 84757949,
+                        "Alpha": 255,
+                        "Name": "extra_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-78, 55, 1.3, 1.3, 82, 41, 0, 0, 0, 1],
+                        "PrePos": [-0.1291, 0.4231, 0.1358, 0.3154],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_25_redstroke@6x.fnt"
+                        },
+                        "MG": [144, -55, -78, 600],
+                        "IsCustomSize": true,
+                        "LabelText": "318",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84757914,
+                        "@": 84757915,
+                        "Name": "cash",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-50, 101, 1, 1, 81, 34, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0828, 0.7769, 0.1341, 0.2615],
+                        "MG": [197, -101, -50, 573],
+                        "IsCustomSize": true,
+                        "LabelText": "多送18",
+                        "FontSize": 23,
+                        "Shadow": [2, -2],
+                        "Tag": 84757912,
+                        "@": 84757913,
+                        "Name": "extra",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-162, 104, 1, 1, 250, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 154, "G": 89, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2682, 0.8, 0.4139, 0.3154],
+                        "MG": [193, -104, -162, 516],
+                        "IsCustomSize": true,
+                        "LabelText": "支付宝",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84757910,
+                        "@": 84757911,
+                        "Name": "payment",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-162, 55, 1, 1, 79, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 231, "G": 75, "B": 31 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2682, 0.4231, 0.1308, 0.2846],
+                        "MG": [148, -55, -162, 687],
+                        "IsCustomSize": true,
+                        "LabelText": "共获得",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84757908,
+                        "@": 84757909,
+                        "Name": "cashl",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-18, 55, 1, 1, 105, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 231, "G": 75, "B": 31 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0298, 0.4231, 0.1738, 0.2846],
+                        "MG": [148, -55, -18, 517],
+                        "IsCustomSize": true,
+                        "LabelText": "风车币！",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84757906,
+                        "@": 84757907,
+                        "Name": "cashr",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [124, 82, 1, 1, 161, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 154, "G": 89, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2053, 0.6308, 0.2666, 0.3154],
+                        "MG": [171, -82, 124, 319],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "已达到限额",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84757904,
+                        "@": 84757905,
+                        "Name": "limit",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 604, "Y": 130 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,52 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_bowl.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 0.9216, 129.6, 104, 0, 0, 0.4985, 0.4933
+                        ],
+                        "MG": [104, 0, 0, 129.6],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "bowl",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_flower.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [2, 17, 1, 1, 59.2, 40, 0, 0, 0.4916, 0.4825],
+                        "PrePos": [0.0155, 0.1809, 0.4589, 0.4255],
+                        "MG": [12.8, -27.2, 3.2, 62.4],
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "flower",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 129, "Y": 94 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,270 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            10, -71, 1, 1, 609.6, 878.4, 0, 0, 0.0002, 0.9999
+                        ],
+                        "PrePos": [0.0153, -0.0748, 0.9307, 0.9256],
+                        "MG": [992, 113.6, 16, 625.6],
+                        "Tag": 87977134,
+                        "@": 87977135,
+                        "Alpha": 255,
+                        "Name": "down",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_sparkbugs@6x.json"
+                        },
+                        "Pos": [348, -536, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.5313, -0.5648, 0, 0],
+                        "MG": [413, 536, 348, 307],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977132,
+                        "@": 87977133,
+                        "Alpha": 255,
+                        "Name": "sparkbugs",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottle_liquid@6x.json"
+                        },
+                        "Pos": [330, -837, 1, 1, 626, 838, 0, 0, 0, 0],
+                        "PrePos": [0.5038, -0.882, 0.9557, 0.883],
+                        "MG": [-726, 837, 330, -301],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977130,
+                        "@": 87977131,
+                        "Alpha": 255,
+                        "Name": "liquids",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_mask.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            330, -837, 2, 2, 259.2, 340.8, 0, 0, 0.5098, 0.0067
+                        ],
+                        "PrePos": [0.5038, -0.882, 0.3957, 0.3591],
+                        "MG": [1680, 1339.2, 528, 787.2],
+                        "Tag": 87977128,
+                        "@": 87977129,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_saizi_anim@6x.json"
+                        },
+                        "Pos": [330, -88, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.5038, -0.0927, 0, 0],
+                        "MG": [861, 88, 330, 325],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977126,
+                        "@": 87977127,
+                        "Alpha": 255,
+                        "Name": "saizi",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/up.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            325, -466, 1, 1, 552, 772.8, 0, 0, 0.4993, 0.5053
+                        ],
+                        "PrePos": [0.4962, -0.491, 0.8427, 0.8143],
+                        "MG": [1518.4, 745.6, 520, 1072],
+                        "Tag": 87977124,
+                        "@": 87977125,
+                        "Alpha": 255,
+                        "Name": "up",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_shadowofsaizi_anim@6x.json"
+                        },
+                        "Pos": [336, -93, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.513, -0.098, 0, 0],
+                        "MG": [856, 93, 336, 319],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977122,
+                        "@": 87977123,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottle_glowlight@6x.json"
+                        },
+                        "Pos": [559, -611, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.8534, -0.6438, 0, 0],
+                        "MG": [338, 611, 559, 96],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977120,
+                        "@": 87977121,
+                        "Alpha": 255,
+                        "Name": "glow2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottle_glowlight@6x.json"
+                        },
+                        "Pos": [92, -606, 1, 1, 0, 0, 0, 180, 0, 0],
+                        "PrePos": [0.1405, -0.6386, 0, 0],
+                        "MG": [343, 606, 92, 563],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977118,
+                        "@": 87977119,
+                        "Alpha": 255,
+                        "Name": "glow1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_res_bottle_reward32@6x.json"
+                        },
+                        "Pos": [168, -585, 1, 1, 142, 84, 0, 0, 0, 0],
+                        "PrePos": [0.2565, -0.6164, 0.2168, 0.0885],
+                        "MG": [280, 585, 168, 345],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977116,
+                        "@": 87977117,
+                        "Alpha": 255,
+                        "Name": "reward1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_bottle_reward12@6x.json"
+                        },
+                        "Pos": [165, -436, 1, 1, 155, 89, 0, 0, 0, 0],
+                        "PrePos": [0.2519, -0.4594, 0.2366, 0.0938],
+                        "MG": [424, 436, 165, 335],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977114,
+                        "@": 87977115,
+                        "Alpha": 255,
+                        "Name": "reward2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_bottle_reward22@6x.json"
+                        },
+                        "Pos": [201, -269, 1, 1, 180, 88, 0, 0, 0, 0],
+                        "PrePos": [0.3069, -0.2835, 0.2748, 0.0927],
+                        "MG": [592, 269, 201, 274],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977112,
+                        "@": 87977113,
+                        "Alpha": 255,
+                        "Name": "reward3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottle_panel@6x.json"
+                        },
+                        "Pos": [285, -552, 1, 1, 412, 251, 0, 0, 0, 0],
+                        "PrePos": [0.4351, -0.5817, 0.629, 0.2645],
+                        "MG": [146, 552, 285, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977110,
+                        "@": 87977111,
+                        "Alpha": 255,
+                        "Name": "tag",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_bottle_starCount@6x.json"
+                        },
+                        "Pos": [326, -586, 1, 1, 202, 80, 0, 0, 0, 0],
+                        "PrePos": [0.4977, -0.6175, 0.3084, 0.0843],
+                        "MG": [283, 586, 326, 127],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977108,
+                        "@": 87977109,
+                        "Alpha": 255,
+                        "Name": "starcount",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 655, "Y": 949 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

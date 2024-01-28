@@ -1,0 +1,107 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "bluebackgroud/bluebackgroud.png",
+                            "Plist": "cocos/bluebackgroud@6x.plist"
+                        },
+                        "Pos": [
+                            322, -403, 1, 1, 644.8, 808, 0, 0, 0.4995, 0.4991
+                        ],
+                        "PrePos": [0.5, -0.5, 1.0012, 1.0025],
+                        "MG": [1452.8, 644.8, 515.2, 1160],
+                        "Tag": 547655,
+                        "@": 547656,
+                        "Alpha": 255,
+                        "Name": "bluebackgroud",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [214, -649, 1, 1, 193, 68, 0, 0, 0, 1],
+                        "PrePos": [0.3323, -0.8052, 0.2997, 0.0844],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_20_greenstroke@6x.fnt"
+                        },
+                        "MG": [89, 649, 214, 237],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "知道啦",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 547653,
+                        "@": 547654,
+                        "Name": "layer3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo01/board.png",
+                            "Plist": "cocos/zhoumo01@6x.plist"
+                        },
+                        "Pos": [
+                            98, -345, 1, 1, 454.4, 238.4, 0, 0, 0.0002, 0.9996
+                        ],
+                        "PrePos": [0.1522, -0.428, 0.7056, 0.2958],
+                        "MG": [790.4, 552, 156.8, 611.2],
+                        "Tag": 547651,
+                        "@": 547652,
+                        "Alpha": 255,
+                        "Name": "board",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo01/b_green_btn.png",
+                            "Plist": "cocos/zhoumo01@6x.plist"
+                        },
+                        "Pos": [
+                            193, -626, 1, 1, 256, 120, 0, 0, 0.0004, 0.9992
+                        ],
+                        "PrePos": [0.2997, -0.7767, 0.3975, 0.1489],
+                        "MG": [1121.6, 1001.6, 308.8, 564.8],
+                        "Tag": 547649,
+                        "@": 547650,
+                        "Alpha": 255,
+                        "Name": "b_green_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo01/title.png",
+                            "Plist": "cocos/zhoumo01@6x.plist"
+                        },
+                        "Pos": [
+                            89, -68, 1, 1, 484.8, 81.6, 0, 0, 0.0002, 0.9988
+                        ],
+                        "PrePos": [0.1382, -0.0844, 0.7528, 0.1012],
+                        "MG": [190.4, 108.8, 142.4, 627.2],
+                        "Tag": 547647,
+                        "@": 547648,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 644, "Y": 806 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

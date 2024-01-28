@@ -1,0 +1,64 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 80,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        85100912,
+                        [
+                            {
+                                "P": [0.7, 0.7],
+                                "I": 0,
+                                "E": [0.1646, 0.6, 0.6154, 0.9]
+                            },
+                            {
+                                "P": [1, 1],
+                                "I": 39,
+                                "E": [0.3882, 0.1473, 0.813, 0.5411]
+                            },
+                            { "P": [0.7, 0.7], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85100912,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 39 },
+                            { "V": 0, "I": 79, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "constellationLevel/brightx01.png",
+                            "Plist": "cocos/constellationLevel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.7, 0.7, 12.8, 12.8, 0, 0, 0.4492, 0.5508
+                        ],
+                        "MG": [12.8, 0, 0, 12.8],
+                        "Tag": 85100911,
+                        "@": 85100912,
+                        "Alpha": 0,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

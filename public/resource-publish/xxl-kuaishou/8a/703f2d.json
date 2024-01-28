@@ -1,0 +1,96 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 370.8115, 450.2304, 0, 0, 0.0008, 0.9992
+                        ],
+                        "MG": [129.6, 0, 0, 129.6],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 84746585,
+                        "@": 84746586,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start_confirm@6x.json"
+                        },
+                        "Pos": [182, -354, 0.9, 0.9, 229, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4932, -0.7902, 0.6206, 0.2723],
+                        "MG": [-28, 354, 182, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746583,
+                        "@": 84746584,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [144, -96, 1, 1, 84, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 153, "B": 255 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3902, -0.2143, 0.2276, 0.067],
+                        "MG": [322, 96, 144, 141],
+                        "IsCustomSize": true,
+                        "LabelText": "获得奖励",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746581,
+                        "@": 84746582,
+                        "Name": "getText",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [199, -49, 1, 1, 38, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 161, "G": 14, "B": 14 },
+                        "PrePos": [0.5393, -0.1094, 0.103, 0.0826],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [362, 49, 199, 132],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "99",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746579,
+                        "@": 84746580,
+                        "Name": "number",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 369, "Y": 448 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

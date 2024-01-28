@@ -1,0 +1,171 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rescue_mission_panel/background.png",
+                            "Plist": "cocos/rescue_mission_panel@6x.plist"
+                        },
+                        "Pos": [
+                            480, -640, 1, 1, 960, 1280, 0, 0, 0.5001, 0.4999
+                        ],
+                        "PrePos": [0.5, -0.5, 1, 1],
+                        "MG": [2304, 1024, 768, 1728],
+                        "Tag": 84753957,
+                        "@": 84753958,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [203, -54, 1, 1, 564, 94, 0, 0, 0, 1],
+                        "PrePos": [0.2115, -0.0422, 0.5875, 0.0734],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [1132, 54, 203, 193],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "解救萌萌团",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84753955,
+                        "@": 84753956,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rescue_mission_panel_btn_start@6x.json"
+                        },
+                        "Pos": [472, -1073, 1.5, 1.5, 233, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4917, -0.8383, 0.2427, 0.0953],
+                        "MG": [85, 1073, 472, 255],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753953,
+                        "@": 84753954,
+                        "Alpha": 255,
+                        "Name": "btn_green_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [288, -1179, 1, 1, 312, 52, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 51, "B": 51 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3, -0.9211, 0.325, 0.0406],
+                        "MG": [49, 1179, 288, 360],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "我的最高分：896",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84753951,
+                        "@": 84753952,
+                        "Name": "my_score",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rescue_mission_panel_bottom_btn_question@6x.json"
+                        },
+                        "Pos": [639, -1205, 1, 1, 47, 47, 0, 0, 0, 0],
+                        "PrePos": [0.6656, -0.9414, 0.049, 0.0367],
+                        "MG": [28, 1205, 639, 274],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753949,
+                        "@": 84753950,
+                        "Alpha": 255,
+                        "Name": "btn_question",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [156, -149, 1, 1, 676, 84, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 51, "B": 51 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1625, -0.1164, 0.7042, 0.0656],
+                        "MG": [1047, 149, 156, 128],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "活动时间：即日起-某年某月某日24:00\\n兑奖时间：即日起-某年某月某日24:00\\n",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 84753947,
+                        "@": 84753948,
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rescue_mission_panel/return.png",
+                            "Plist": "cocos/rescue_mission_panel@6x.plist"
+                        },
+                        "Pos": [
+                            221, -69, 1, 1, 70.4, 70.4, 0, 0, 0.4915, 0.5085
+                        ],
+                        "PrePos": [0.2302, -0.0539, 0.0733, 0.055],
+                        "MG": [180.8, 110.4, 353.6, 424],
+                        "Tag": 84753945,
+                        "@": 84753946,
+                        "Alpha": 255,
+                        "Name": "return",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rescue_mission_panel_number@6x.json"
+                        },
+                        "Pos": [596, -985, 1.5, 1.5, 32, 33, 0, 0, 0, 0],
+                        "PrePos": [0.6208, -0.7695, 0.0333, 0.0258],
+                        "MG": [262, 985, 596, 332],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753943,
+                        "@": 84753944,
+                        "Alpha": 255,
+                        "Name": "number",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 960, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

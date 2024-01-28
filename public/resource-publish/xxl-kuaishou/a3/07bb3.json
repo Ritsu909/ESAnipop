@@ -1,0 +1,150 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [53, 0, 1.25, 1.25, 578, 69, 0, 0, 0, 1],
+                        "PrePos": [0.0775, 0, 0.845, 0.0632],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [1022, 0, 53, 53],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "iMessage小游戏引导",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84745167,
+                        "@": 84745168,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "imessage_panel/bookcase.png",
+                            "Plist": "cocos/imessage_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -62, 1, 1, 686.2186, 1032.8102, 0, 0, 0.0004,
+                            0.9996
+                        ],
+                        "PrePos": [0, -0.0568, 0.3719, 0.2464],
+                        "MG": [368, 99.2, 0, 254.4],
+                        "Scale9": [49, 82, 35, 19],
+                        "Tag": 84745165,
+                        "@": 84745166,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/imessage_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [628, -104, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9181, -0.0953, 0.1243, 0.0761],
+                        "MG": [904, 104, 628, -29],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84745163,
+                        "@": 84745164,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "imessage_panel/res_title_icon2.png",
+                            "Plist": "cocos/imessage_panel@6x.plist"
+                        },
+                        "Pos": [
+                            97, -107, 0.6668, 0.6666, 228.8, 171.2, 0, 0,
+                            0.0004, 0.9994
+                        ],
+                        "PrePos": [0.1418, -0.0981, 0.3345, 0.1569],
+                        "MG": [342.4, 171.2, 155.2, 384],
+                        "Tag": 84745161,
+                        "@": 84745162,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            269, -107, 0.95, 0.95, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.3933, -0.0981, 0.1474, 0.0924],
+                        "MG": [272, 171.2, 430.4, 531.2],
+                        "Tag": 84745159,
+                        "@": 84745160,
+                        "Alpha": 255,
+                        "Name": "game",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "imessage_panel/res_divider.png",
+                            "Plist": "cocos/imessage_panel@6x.plist"
+                        },
+                        "Pos": [
+                            100, -330, 1, 1, 524.8, 3.2, 0, 0, 0.0002, 0.9688
+                        ],
+                        "PrePos": [0.1462, -0.3025, 0.7673, 0.0029],
+                        "MG": [531.2, 528, 160, 684.8],
+                        "Tag": 84745129,
+                        "@": 84745130,
+                        "Alpha": 255,
+                        "Name": "div",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [101, -237, 1, 1, 521, 126, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 184, "G": 38, "B": 11 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1477, -0.2172, 0.7617, 0.1155],
+                        "MG": [728, 237, 101, 62],
+                        "IsCustomSize": true,
+                        "LabelText": "消消乐的iMessage配套小游戏《开心点点冰》已经与消消乐一起安装啦！快去和好友一起体验在iMessage中的对战乐趣吧！",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84745111,
+                        "@": 84745112,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 684, "Y": 1091 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

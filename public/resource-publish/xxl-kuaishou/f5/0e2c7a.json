@@ -1,0 +1,123 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_littleline.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [35, 0, 1, 1, 24, 3.2, 0, 0, 0.4729, 0.6562],
+                        "PrePos": [0.2465, 0, 0.169, 0.0381],
+                        "MG": [3.2, 0, 56, 80],
+                        "Tag": 87977146,
+                        "@": 87977147,
+                        "Alpha": 255,
+                        "Name": "littleline",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_teamgetstar/res_reward_bg32.png",
+                            "Plist": "cocos/new_teamgetstar@6x.plist"
+                        },
+                        "Pos": [-96, 36, 1, 1, 96, 72, 0, 0, 0.001, 0.9986],
+                        "PrePos": [-0.6761, 0.4286, 0.6761, 0.8571],
+                        "MG": [14.4, -57.6, -153.6, -57.6],
+                        "Tag": 87977144,
+                        "@": 87977145,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/yellow_star_sp.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -9, 0, 0.8, 0.8, 30.4, 27.2, 0, 0, 0.4211, 0.4982
+                        ],
+                        "PrePos": [-0.0634, 0, 0.2141, 0.3238],
+                        "MG": [27.2, 0, -14.4, 16.0],
+                        "Tag": 87977142,
+                        "@": 87977143,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [1, 12, 0.5, 0.5, 24, 24, 0, 0, 0, 1],
+                        "PrePos": [0.007, 0.1429, 0.169, 0.2857],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [72, -12, 1, 117],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "70",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87977140,
+                        "@": 87977141,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_res_glow2@6x.json"
+                        },
+                        "Pos": [-47, 1, 0.7657, 0.7658, 0, 0, 0, 0, 0, 0],
+                        "CColor": { "A": 255, "R": 255, "G": 255, "B": 204 },
+                        "PrePos": [-0.331, 0.0119, 0, 0],
+                        "MG": [85, -1, -47, 189],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977138,
+                        "@": 87977139,
+                        "Alpha": 128,
+                        "Name": "glow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -47, 1, 0.7404, 0.7404, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [-0.331, 0.0119, 0.7099, 1.2],
+                        "MG": [99.2, -1.6, -75.2, 25.6],
+                        "Tag": 87977136,
+                        "@": 87977137,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 142, "Y": 84 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

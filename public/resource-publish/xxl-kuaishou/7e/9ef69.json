@@ -1,0 +1,436 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -70, 175, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.2, 0.5, 0.2011, 0.2011],
+                        "MG": [-209.6, -280, -112, -41.6],
+                        "Tag": 84190026,
+                        "@": 84190027,
+                        "Alpha": 255,
+                        "Name": "tile_center1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            70, 175, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.2, 0.5, 0.2011, 0.2011],
+                        "MG": [-209.6, -280, 112, 182.4],
+                        "Tag": 84190024,
+                        "@": 84190025,
+                        "Alpha": 255,
+                        "Name": "tile_center2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -140, 175, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.4, 0.5, 0.2011, 0.2011],
+                        "MG": [-209.6, -280, -224, -153.6],
+                        "Tag": 84190022,
+                        "@": 84190023,
+                        "Alpha": 255,
+                        "Name": "tile_center3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -70, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.2, 0.3, 0.2011, 0.2011],
+                        "MG": [-97.6, -168, -112, -41.6],
+                        "Tag": 84190020,
+                        "@": 84190021,
+                        "Alpha": 255,
+                        "Name": "tile_center4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -140, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.4, 0.3, 0.2011, 0.2011],
+                        "MG": [-97.6, -168, -224, -153.6],
+                        "Tag": 84190018,
+                        "@": 84190019,
+                        "Alpha": 255,
+                        "Name": "tile_center5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            70, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.2, 0.3, 0.2011, 0.2011],
+                        "MG": [-97.6, -168, 112, 182.4],
+                        "Tag": 84190016,
+                        "@": 84190017,
+                        "Alpha": 255,
+                        "Name": "tile_center6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -70, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.2, 0.1, 0.2011, 0.2011],
+                        "MG": [14.4, -56, -112, -41.6],
+                        "Tag": 84190014,
+                        "@": 84190015,
+                        "Alpha": 255,
+                        "Name": "tile_center7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -140, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.4, 0.1, 0.2011, 0.2011],
+                        "MG": [14.4, -56, -224, -153.6],
+                        "Tag": 84190012,
+                        "@": 84190013,
+                        "Alpha": 255,
+                        "Name": "tile_center8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -70, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.2, -0.1, 0.2011, 0.2011],
+                        "MG": [126.4, 56, -112, -41.6],
+                        "Tag": 84190010,
+                        "@": 84190011,
+                        "Alpha": 255,
+                        "Name": "tile_center9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -140, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.4, -0.1, 0.2011, 0.2011],
+                        "MG": [126.4, 56, -224, -153.6],
+                        "Tag": 84190008,
+                        "@": 84190009,
+                        "Alpha": 255,
+                        "Name": "tile_center10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [70, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0.2, 0.1, 0.2011, 0.2011],
+                        "MG": [14.4, -56, 112, 182.4],
+                        "Tag": 84190006,
+                        "@": 84190007,
+                        "Alpha": 255,
+                        "Name": "tile_center11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            70, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.2, -0.1, 0.2011, 0.2011],
+                        "MG": [126.4, 56, 112, 182.4],
+                        "Tag": 84190004,
+                        "@": 84190005,
+                        "Alpha": 255,
+                        "Name": "tile_center12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, 175, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0, 0.5, 0.2011, 0.2011],
+                        "MG": [-209.6, -280, 0, 70.4],
+                        "Tag": 84190002,
+                        "@": 84190003,
+                        "Alpha": 255,
+                        "Name": "tile_center13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0, 0.3, 0.2011, 0.2011],
+                        "MG": [-97.6, -168, 0, 70.4],
+                        "Tag": 84190000,
+                        "@": 84190001,
+                        "Alpha": 255,
+                        "Name": "tile_center14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0, 0.1, 0.2011, 0.2011],
+                        "MG": [14.4, -56, 0, 70.4],
+                        "Tag": 84189998,
+                        "@": 84189999,
+                        "Alpha": 255,
+                        "Name": "tile_center15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993],
+                        "PrePos": [0, -0.1, 0.2011, 0.2011],
+                        "MG": [126.4, 56, 0, 70.4],
+                        "Tag": 84189996,
+                        "@": 84189997,
+                        "Alpha": 255,
+                        "Name": "tile_center16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -210, 175, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.6, 0.5, 0.2011, 0.2011],
+                        "MG": [-209.6, -280, -336, -265.6],
+                        "Tag": 84189994,
+                        "@": 84189995,
+                        "Alpha": 255,
+                        "Name": "tile_center17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -210, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.6, 0.3, 0.2011, 0.2011],
+                        "MG": [-97.6, -168, -336, -265.6],
+                        "Tag": 84189992,
+                        "@": 84189993,
+                        "Alpha": 255,
+                        "Name": "tile_center18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -210, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.6, 0.1, 0.2011, 0.2011],
+                        "MG": [14.4, -56, -336, -265.6],
+                        "Tag": 84189990,
+                        "@": 84189991,
+                        "Alpha": 255,
+                        "Name": "tile_center19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -210, -35, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.6, -0.1, 0.2011, 0.2011],
+                        "MG": [126.4, 56, -336, -265.6],
+                        "Tag": 84189988,
+                        "@": 84189989,
+                        "Alpha": 255,
+                        "Name": "tile_center20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -70, -105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.2, -0.3, 0.2011, 0.2011],
+                        "MG": [238.4, 168, -112, -41.6],
+                        "Tag": 84189986,
+                        "@": 84189987,
+                        "Alpha": 255,
+                        "Name": "tile_center21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -140, -105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.4, -0.3, 0.2011, 0.2011],
+                        "MG": [238.4, 168, -224, -153.6],
+                        "Tag": 84189984,
+                        "@": 84189985,
+                        "Alpha": 255,
+                        "Name": "tile_center22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            70, -105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0.2, -0.3, 0.2011, 0.2011],
+                        "MG": [238.4, 168, 112, 182.4],
+                        "Tag": 84189982,
+                        "@": 84189983,
+                        "Alpha": 255,
+                        "Name": "tile_center23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            0, -105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [0, -0.3, 0.2011, 0.2011],
+                        "MG": [238.4, 168, 0, 70.4],
+                        "Tag": 84189980,
+                        "@": 84189981,
+                        "Alpha": 255,
+                        "Name": "tile_center24",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/tile_center.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            -210, -105, 1, 1, 70.4, 70.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.6, -0.3, 0.2011, 0.2011],
+                        "MG": [238.4, 168, -336, -265.6],
+                        "Tag": 84189978,
+                        "@": 84189979,
+                        "Alpha": 255,
+                        "Name": "tile_center25",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 350, "Y": 350 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

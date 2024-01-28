@@ -1,0 +1,357 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/taillight.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -352, 422, 0.7056, 0.8168, 484.8, 683.2, -41.71,
+                            1.83, -0.0009, 0.9892
+                        ],
+                        "PrePos": [-0.4944, 0.7288, 0.6809, 1.18],
+                        "MG": [8, -675.2, -563.2, -78.4],
+                        "Tag": 85084230,
+                        "@": 85084231,
+                        "Alpha": 240,
+                        "Name": "图层 20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/cloak.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -182, 317, 1, 1, 166.4, 128, 0, 0, 0.0006, 0.9992
+                        ],
+                        "PrePos": [-0.2556, 0.5475, 0.2337, 0.2211],
+                        "MG": [-379.2, -507.2, -291.2, -124.8],
+                        "Tag": 85084228,
+                        "@": 85084229,
+                        "Alpha": 255,
+                        "Name": "图层 21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/new_body.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -180, 319, 1, 1, 107.2, 100.8, 0, 0, 0.0009, 0.999
+                        ],
+                        "PrePos": [-0.2528, 0.5509, 0.1506, 0.1741],
+                        "MG": [-409.6, -510.4, -288, -180.8],
+                        "Tag": 85084226,
+                        "@": 85084227,
+                        "Alpha": 255,
+                        "Name": "图层 23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/new_leg.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -146, 256, 1, 1, 84.8, 91.2, 0, 0, 0.0012, 0.9989
+                        ],
+                        "PrePos": [-0.2051, 0.4421, 0.1191, 0.1575],
+                        "MG": [-318.4, -409.6, -233.6, -148.8],
+                        "Tag": 85084224,
+                        "@": 85084225,
+                        "Alpha": 255,
+                        "Name": "图层 22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_pants.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -124, 263, 0.9975, 0.9233, 92.8, 56, -46.47, 135.76,
+                            0.4968, 0.9982
+                        ],
+                        "PrePos": [-0.1742, 0.4542, 0.1303, 0.0967],
+                        "MG": [-364.8, -420.8, -198.4, -105.6],
+                        "Tag": 85084222,
+                        "@": 85084223,
+                        "Alpha": 255,
+                        "Name": "图层 15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_leg2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -117, 260, 1.258, 1.2371, 65.6, 48, -128.01, 55.37,
+                            -0.0412, 0.9979
+                        ],
+                        "PrePos": [-0.1643, 0.4491, 0.0921, 0.0829],
+                        "MG": [-368, -416, -187.2, -121.6],
+                        "Tag": 85084220,
+                        "@": 85084221,
+                        "Alpha": 255,
+                        "Name": "图层 16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_ear1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -248, 400, 0.9455, 1.1107, 116.8, 172.8, 15.87,
+                            5.23, 0.4974, 0.1198
+                        ],
+                        "PrePos": [-0.3483, 0.6908, 0.164, 0.2984],
+                        "MG": [-467.2, -640, -396.8, -280],
+                        "Tag": 85084218,
+                        "@": 85084219,
+                        "Alpha": 255,
+                        "Name": "图层 5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_hair.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -131, 490, 1.4341, 1.5024, 52.8, 56, -24.32, 156.58,
+                            0.0019, -0.0018
+                        ],
+                        "PrePos": [-0.184, 0.8463, 0.0742, 0.0967],
+                        "MG": [-728, -784, -209.6, -156.8],
+                        "Tag": 85084216,
+                        "@": 85084217,
+                        "Alpha": 255,
+                        "Name": "图层 6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_ear1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 419, 1.1295, 1.1295, 116.8, 172.8, 50.45,
+                            -129.55, 0.4974, 0.1198
+                        ],
+                        "PrePos": [-0.1882, 0.7237, 0.164, 0.2984],
+                        "MG": [-497.6, -670.4, -214.4, -97.6],
+                        "Tag": 85084214,
+                        "@": 85084215,
+                        "Alpha": 255,
+                        "Name": "图层 7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_uphead.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -132, 286, 1.1295, 1.1296, 249.6, 203.2, -21.5,
+                            -21.5, 0.498, 0.001
+                        ],
+                        "PrePos": [-0.1854, 0.494, 0.3506, 0.3509],
+                        "MG": [-254.4, -457.6, -211.2, 38.4],
+                        "Tag": 85084212,
+                        "@": 85084213,
+                        "Alpha": 255,
+                        "Name": "图层 8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_biglaughmouth.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -194, 364, 1.1295, 1.1296, 92.8, 100.8, -21.5,
+                            -21.5, 0.4978, 0.5064
+                        ],
+                        "PrePos": [-0.2725, 0.6287, 0.1303, 0.1741],
+                        "MG": [-481.6, -582.4, -310.4, -217.6],
+                        "Tag": 85084210,
+                        "@": 85084211,
+                        "Alpha": 255,
+                        "Name": "图层 9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_nose.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -219, 421, 1.1297, 1.1297, 24, 20.8, -16.51, -16.51,
+                            0.5292, 0.5144
+                        ],
+                        "PrePos": [-0.3076, 0.7271, 0.0337, 0.0359],
+                        "MG": [-652.8, -673.6, -350.4, -326.4],
+                        "Tag": 85084208,
+                        "@": 85084209,
+                        "Alpha": 255,
+                        "Name": "图层 10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeblack2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -269, 425, 0.9208, 0.8672, 88, 78.4, 5.23, -12.98,
+                            0.5011, 0.5077
+                        ],
+                        "PrePos": [-0.3778, 0.734, 0.1236, 0.1354],
+                        "MG": [-601.6, -680, -430.4, -342.4],
+                        "Tag": 85084206,
+                        "@": 85084207,
+                        "Alpha": 255,
+                        "Name": "图层 11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeblack2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -142, 449, 1.4107, 0.9717, 88, 78.4, -7.43, 176.02,
+                            0.5011, 0.5077
+                        ],
+                        "PrePos": [-0.1994, 0.7755, 0.1236, 0.1354],
+                        "MG": [-640, -718.4, -227.2, -139.2],
+                        "Tag": 85084204,
+                        "@": 85084205,
+                        "Alpha": 255,
+                        "Name": "图层 12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyehappy.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -205, 446, 1.236, 1.1295, 128, 24, -13.28, 166.72,
+                            0.498, 0.5167
+                        ],
+                        "PrePos": [-0.2879, 0.7703, 0.1798, 0.0415],
+                        "MG": [-689.6, -713.6, -328, -200],
+                        "Tag": 85084202,
+                        "@": 85084203,
+                        "Alpha": 255,
+                        "Name": "图层 13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyerow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -222, 478, 1.136, 1.1296, 48, 11.2, -9.26, -15.44,
+                            0.5146, -0.4509
+                        ],
+                        "PrePos": [-0.3118, 0.8256, 0.0674, 0.0193],
+                        "MG": [-753.6, -764.8, -355.2, -307.2],
+                        "Tag": 85084200,
+                        "@": 85084201,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/new_hand.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -265, 338, 1, 1, 105.6, 112, 0, 0, 0.0009, 0.9991
+                        ],
+                        "PrePos": [-0.3722, 0.5838, 0.1483, 0.1934],
+                        "MG": [-428.8, -540.8, -424, -318.4],
+                        "Tag": 85084198,
+                        "@": 85084199,
+                        "Alpha": 255,
+                        "Name": "图层 17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/new_hand2.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -124, 338, 1, 1, 56, 62.4, 0, 0, 0.0018, 0.9984
+                        ],
+                        "PrePos": [-0.1742, 0.5838, 0.0787, 0.1078],
+                        "MG": [-478.4, -540.8, -198.4, -142.4],
+                        "Tag": 85084196,
+                        "@": 85084197,
+                        "Alpha": 255,
+                        "Name": "图层 18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_completeAllLevel/necktie.png",
+                            "Plist": "cocos/share_completeAllLevel@6x.plist"
+                        },
+                        "Pos": [
+                            -176, 301, 1, 1, 68.8, 46.4, 0, 0, 0.0015, 0.9978
+                        ],
+                        "PrePos": [-0.2472, 0.5199, 0.0966, 0.0801],
+                        "MG": [-435.2, -481.6, -281.6, -212.8],
+                        "Tag": 85084194,
+                        "@": 85084195,
+                        "Alpha": 255,
+                        "Name": "图层 19",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 712, "Y": 579 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

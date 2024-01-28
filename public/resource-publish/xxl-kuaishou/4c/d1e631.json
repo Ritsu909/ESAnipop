@@ -1,0 +1,139 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/tablet_friend2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 600.359, 106.9363, 0, 0, 0.0089, 0.985
+                        ],
+                        "MG": [76.8, 0, 0, 259.2],
+                        "Scale9": [64, 18, 128, 37],
+                        "Tag": 84746317,
+                        "@": 84746318,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [131, -26, 1, 1, 182, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 40, "G": 114, "B": 147 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2202, -0.2476, 0.3059, 0.3524],
+                        "MG": [42, 26, 131, 282],
+                        "IsCustomSize": true,
+                        "LabelText": "玩家的名字",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746315,
+                        "@": 84746316,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [131, -59, 1, 1, 82, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 40, "G": 114, "B": 147 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2202, -0.5619, 0.1378, 0.2857],
+                        "MG": [16, 59, 131, 382],
+                        "IsCustomSize": true,
+                        "LabelText": "600关",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746313,
+                        "@": 84746314,
+                        "Name": "level",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [1, -31, 1.0462, 1.0462, 41, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 241, "G": 241, "B": 241 },
+                        "PrePos": [0.0017, -0.2952, 0.0689, 0.3714],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [35, 31, 1, 553],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "90",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746311,
+                        "@": 84746312,
+                        "Name": "rank",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [337, -40, 1, 1, 117, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 40, "G": 114, "B": 147 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5664, -0.381, 0.1966, 0.3524],
+                        "MG": [28, 40, 337, 141],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "剩余3份",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746309,
+                        "@": 84746310,
+                        "Name": "left",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_orange_start_self@6x.json"
+                        },
+                        "Pos": [517, -55, 0.7, 0.7, 171, 81, 0, 0, 0, 0],
+                        "PrePos": [0.8689, -0.5238, 0.2874, 0.7714],
+                        "MG": [-31, 55, 517, -93],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746307,
+                        "@": 84746308,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 595, "Y": 105 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

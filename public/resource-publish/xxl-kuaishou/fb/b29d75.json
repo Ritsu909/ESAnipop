@@ -1,0 +1,156 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_yellow.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 103.1, 147.4144, 0, 0, 0.0125, 0.9991
+                        ],
+                        "MG": [112, 8],
+                        "Scale9": [2, 19, 3, 39],
+                        "Tag": 2074,
+                        "@": 2075,
+                        "Name": "market_curtain_yellow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_red.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            102, 0, 12.8926, 1.3162, 8, 112, 0, 0, 0.0125,
+                            0.9991
+                        ],
+                        "PrePos": [0.1413, 0, 0.0111, 0.7724],
+                        "MG": [112, 163.2, 171.2],
+                        "Tag": 2076,
+                        "@": 2077,
+                        "Name": "market_curtain_red",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_yellow.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            205, 0, 1, 1, 103.1, 147.4144, 0, 0, 0.0125, 0.9991
+                        ],
+                        "PrePos": [0.2839, 0, 0.0111, 0.7724],
+                        "MG": [112, 328, 336],
+                        "Scale9": [2, 19, 3, 39],
+                        "Tag": 2078,
+                        "@": 2079,
+                        "Name": "market_curtain_yellow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_yellow.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            413, 0, 1, 1, 103.1, 147.4144, 0, 0, 0.0125, 0.9991
+                        ],
+                        "PrePos": [0.572, 0, 0.0111, 0.7724],
+                        "MG": [112, 660.8, 668.8],
+                        "Scale9": [2, 19, 3, 39],
+                        "Tag": 2080,
+                        "@": 2081,
+                        "Name": "market_curtain_yellow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_red.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            309, 0, 12.8926, 1.3162, 8, 112, 0, 0, 0.0125,
+                            0.9991
+                        ],
+                        "PrePos": [0.428, 0, 0.0111, 0.7724],
+                        "MG": [112, 494.4, 502.4],
+                        "Tag": 2082,
+                        "@": 2083,
+                        "Name": "market_curtain_red",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_red.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            516, 0, 12.8926, 1.3162, 8, 112, 0, 0, 0.0125,
+                            0.9991
+                        ],
+                        "PrePos": [0.7147, 0, 0.0111, 0.7724],
+                        "MG": [112, 825.6, 833.6],
+                        "Tag": 2084,
+                        "@": 2085,
+                        "Name": "market_curtain_red",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_curtain_yellow.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            618, 0, 1, 1, 103.1, 147.4144, 0, 0, 0.0125, 0.9991
+                        ],
+                        "PrePos": [0.856, 0, 0.0111, 0.7724],
+                        "MG": [112, 988.8, 996.8],
+                        "Scale9": [2, 19, 3, 39],
+                        "Tag": 2086,
+                        "@": 2087,
+                        "Name": "market_curtain_red",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/market_panel_top_shadow.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -118, 1, 1, 722.816, 28.8, 0, 0, 0.0125, 0.9965
+                        ],
+                        "PrePos": [0, -0.8138, 0.0111, 0.1986],
+                        "MG": [217.6, 188.8, 8],
+                        "Scale9": [2, 4, 2, 9],
+                        "Tag": 2088,
+                        "@": 2089,
+                        "Name": "图层 3",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 722, "Y": 145 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

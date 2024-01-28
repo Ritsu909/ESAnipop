@@ -1,0 +1,159 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "bluebackgroud/bluebackgroud.png",
+                            "Plist": "cocos/bluebackgroud@6x.plist"
+                        },
+                        "Pos": [
+                            322, -403, 1, 1, 644.8, 808, 0, 0, 0.4995, 0.4991
+                        ],
+                        "PrePos": [0.5, -0.5, 1.0012, 1.0025],
+                        "MG": [1452.8, 644.8, 515.2, 1160],
+                        "Tag": 547655,
+                        "@": 547656,
+                        "Alpha": 255,
+                        "Name": "bluebackgroud",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [214, -649, 1, 1, 193, 68, 0, 0, 0, 1],
+                        "PrePos": [0.3323, -0.8052, 0.2997, 0.0844],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_20_greenstroke@6x.fnt"
+                        },
+                        "MG": [89, 649, 214, 237],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "知道啦",
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 547653,
+                        "@": 547654,
+                        "Name": "layer3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo01/board.png",
+                            "Plist": "cocos/zhoumo01@6x.plist"
+                        },
+                        "Pos": [
+                            98, -345, 1, 1, 454.4, 238.4, 0, 0, 0.0002, 0.9996
+                        ],
+                        "PrePos": [0.1522, -0.428, 0.7056, 0.2958],
+                        "MG": [790.4, 552, 156.8, 611.2],
+                        "Tag": 547651,
+                        "@": 547652,
+                        "Alpha": 255,
+                        "Name": "board",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo01/b_green_btn.png",
+                            "Plist": "cocos/zhoumo01@6x.plist"
+                        },
+                        "Pos": [
+                            193, -626, 1, 1, 256, 120, 0, 0, 0.0004, 0.9992
+                        ],
+                        "PrePos": [0.2997, -0.7767, 0.3975, 0.1489],
+                        "MG": [1121.6, 1001.6, 308.8, 564.8],
+                        "Tag": 547649,
+                        "@": 547650,
+                        "Alpha": 255,
+                        "Name": "b_green_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [74, -72, 1, 1, 484, 81, 0, 0, 0, 1],
+                        "PrePos": [0.1149, -0.0893, 0.7516, 0.1005],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_60_aquastroke@6x.fnt"
+                        },
+                        "MG": [653, 72, 74, 86],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "周末登录礼包",
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 554214,
+                        "@": 554215,
+                        "Name": "layer4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shiny/shiny.png",
+                            "Plist": "cocos/shiny@6x.plist"
+                        },
+                        "Pos": [
+                            204, -373, 1, 1, 209.6, 209.6, 0, 0, 0.5002, 0.4998
+                        ],
+                        "PrePos": [0.3168, -0.4628, 0.3255, 0.26],
+                        "MG": [806.4, 596.8, 326.4, 536],
+                        "Tag": 554212,
+                        "@": 554213,
+                        "Alpha": 255,
+                        "Name": "shiny",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shiny/shiny.png",
+                            "Plist": "cocos/shiny@6x.plist"
+                        },
+                        "Pos": [
+                            453, -375, 1, 1, 209.6, 209.6, 0, 0, 0.5002, 0.4998
+                        ],
+                        "PrePos": [0.7034, -0.4653, 0.3255, 0.26],
+                        "MG": [809.6, 600, 724.8, 934.4],
+                        "Tag": 554212,
+                        "@": 554213,
+                        "Alpha": 255,
+                        "Name": "shiny2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "zhoumo02/box.png",
+                            "Plist": "cocos/zhoumo02@6x.plist"
+                        },
+                        "Pos": [
+                            151, -366, 1, 1, 328, 334.4, 0, 0, 0.0003, 0.9997
+                        ],
+                        "PrePos": [0.2345, -0.4541, 0.5093, 0.4149],
+                        "MG": [920, 585.6, 241.6, 569.6],
+                        "Tag": 554210,
+                        "@": 554211,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 644, "Y": 806 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

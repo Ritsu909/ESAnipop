@@ -1,0 +1,197 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 35,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        54536982,
+                        [
+                            {
+                                "P": [0.05, -19.6],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.05, -19.35], "I": 18 },
+                            { "P": [0.05, -19.6], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        54536982,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [1.05, 1.03], "I": 18 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        54536980,
+                        [
+                            {
+                                "P": [0.05, 7.5],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.05, 12.95], "I": 20 },
+                            { "P": [0.05, 7.5], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        54536978,
+                        [
+                            {
+                                "P": [0.05, -19.6],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.05, -19.35], "I": 18 },
+                            { "P": [0.05, -19.6], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        54536978,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [1.05, 1.03], "I": 18 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        54536976,
+                        [
+                            {
+                                "P": [0.3, -11.15],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.3, -5.7], "I": 20 },
+                            { "P": [0.3, -11.15], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        54536974,
+                        [
+                            {
+                                "P": [0.05, 7.5],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.05, 12.95], "I": 20 },
+                            { "P": [0.05, 7.5], "I": 34, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/red_src_dididi.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 70.4, 0, 0, 0.4986, 0.5014],
+                        "MG": [70.4, 0, 0, 70.4],
+                        "Tag": 54536983,
+                        "@": 54536984,
+                        "Alpha": 255,
+                        "Name": "dididdi",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/comm_level1_body_shadow.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, -19, 1, 1, 67.2, 41.6, 0, 0, 0.4903, 0.6418],
+                        "MG": [72, 30.4, 0, 67.2],
+                        "Tag": 54536981,
+                        "@": 54536982,
+                        "Alpha": 255,
+                        "Name": "level_body_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/comm_level1_hat_shadow.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, 7, 1, 1, 70.4, 65.6, 0, 0, 0.4922, 0.5953],
+                        "MG": [54.4, -11.2, 0, 70.4],
+                        "Tag": 54536979,
+                        "@": 54536980,
+                        "Alpha": 255,
+                        "Name": "level1_hat_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/red_src_level1_body.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, -19, 1, 1, 60.8, 30.4, 0, 0, 0.4951, 0.5099],
+                        "MG": [60.8, 30.4, 0, 60.8],
+                        "Tag": 54536977,
+                        "@": 54536978,
+                        "Alpha": 255,
+                        "Name": "level_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/red_src_level1_hatshadow.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, -11, 1, 1, 60.8, 12.8, 0, 0, 0.5189, 1.0273],
+                        "MG": [30.4, 17.6, 0, 60.8],
+                        "Tag": 54536975,
+                        "@": 54536976,
+                        "Alpha": 255,
+                        "Name": "level_hatshadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SurfingCat_res/red_src_level1_hat.png",
+                            "Plist": "cocos/SurfingCat_res@6x.plist"
+                        },
+                        "Pos": [0, 7, 1, 1, 65.6, 56, 0, 0, 0.4916, 0.5054],
+                        "MG": [44.8, -11.2, 0, 65.6],
+                        "Tag": 54536973,
+                        "@": 54536974,
+                        "Alpha": 255,
+                        "Name": "level1_hat",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

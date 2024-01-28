@@ -1,0 +1,35 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/polarbear_shine.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 14.4, 6.4, 0, 0, 0.4826, 0.5],
+                        "MG": [6.4, 0, 0, 14.4],
+                        "Tag": 50106,
+                        "@": 50107,
+                        "Alpha": 0,
+                        "Name": "shine1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 10, "Y": 3 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

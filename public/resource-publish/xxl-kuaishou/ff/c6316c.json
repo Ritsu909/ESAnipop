@@ -1,0 +1,214 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/panel_animal.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            495, 99, 1, 1, 300.8, 326.4, 0, 0, 0.5788, 0.5938
+                        ],
+                        "PrePos": [0.7971, 0.1116, 0.4844, 0.368],
+                        "MG": [168.0, -158.4, 792, 1092.8],
+                        "Tag": 84746801,
+                        "@": 84746802,
+                        "Alpha": 255,
+                        "Name": "panel_animal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 587.2896, 664.34, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84746799,
+                        "@": 84746800,
+                        "Alpha": 255,
+                        "Name": "toast_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_btn_green_fetch@6x.json"
+                        },
+                        "Pos": [270, -574, 1, 1, 226, 123, 0, 0, 0, 0],
+                        "PrePos": [0.4348, -0.6471, 0.3639, 0.1387],
+                        "MG": [190, 574, 270, 125],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746797,
+                        "@": 84746798,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/rank_magicpanelinside.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            46, -252, 1, 1, 490.281, 250.0832, 0, 0, 0.0006,
+                            0.999
+                        ],
+                        "PrePos": [0.0741, -0.2841, 0.268, 0.1118],
+                        "MG": [502.4, 403.2, 73.6, 240],
+                        "Scale9": [41, 24, 83, 49],
+                        "Tag": 84746795,
+                        "@": 84746796,
+                        "Alpha": 171,
+                        "Name": "magicpanelinside",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [57, -32, 1, 1, 458, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 205, "G": 99, "B": 46 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0918, -0.0361, 0.7375, 0.0417],
+                        "MG": [818, 32, 57, 106],
+                        "IsCustomSize": true,
+                        "LabelText": "上轮魔术团周赛成就：..................................",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746793,
+                        "@": 84746794,
+                        "Name": "title_1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [53, -206, 1, 1, 460, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 205, "G": 99, "B": 46 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0853, -0.2322, 0.7407, 0.0417],
+                        "MG": [644, 206, 53, 108],
+                        "IsCustomSize": true,
+                        "LabelText": "共获得奖励：...................................................",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746791,
+                        "@": 84746792,
+                        "Name": "title_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [209, -85, 1, 1, 350, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 98, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3366, -0.0958, 0.5636, 0.0417],
+                        "MG": [765, 85, 209, 62],
+                        "IsCustomSize": true,
+                        "LabelText": "好友排行第33名......................",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746789,
+                        "@": 84746790,
+                        "Name": "label_1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [209, -125, 1, 1, 350, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 98, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3366, -0.1409, 0.5636, 0.0417],
+                        "MG": [725, 125, 209, 62],
+                        "IsCustomSize": true,
+                        "LabelText": "北京排行第33名......................",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746787,
+                        "@": 84746788,
+                        "Name": "label_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [209, -165, 1, 1, 350, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 98, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3366, -0.186, 0.5636, 0.0417],
+                        "MG": [685, 165, 209, 62],
+                        "IsCustomSize": true,
+                        "LabelText": "全国排行第33名......................",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746785,
+                        "@": 84746786,
+                        "Name": "label_3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            538, -36, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.8663, -0.0406, 0.1391, 0.0938],
+                        "MG": [140.8, 57.6, 860.8, 947.2],
+                        "Tag": 84746783,
+                        "@": 84746784,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 621, "Y": 887 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

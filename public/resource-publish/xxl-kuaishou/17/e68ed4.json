@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_dupi.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            5, -29, 0.855, 1.0189, 140.8, 83.2, -11.06, 0,
+                            0.4979, 0.1538
+                        ],
+                        "PrePos": [0.037, -0.3537, 1.043, 1.0146],
+                        "MG": [129.6, 46.4, 8, 148.8],
+                        "Tag": 87595242,
+                        "@": 87595243,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_feather.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -9, -22, 0.9554, 1.0104, 91.2, 54.4, -8.23, 0,
+                            0.3865, 0.1783
+                        ],
+                        "PrePos": [-0.0667, -0.2683, 0.6756, 0.6634],
+                        "MG": [89.6, 35.2, -14.4, 76.8],
+                        "Tag": 87595240,
+                        "@": 87595241,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 135, "Y": 82 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,214 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "invite_notice_panel/c.png",
+                            "Plist": "cocos/invite_notice_panel@6x.plist"
+                        },
+                        "Pos": [
+                            495, -88, 1, 1, 164.8, 169.6, 0, 0, 0.4973, 0.5032
+                        ],
+                        "PrePos": [0.7984, -0.1, 0.2658, 0.1927],
+                        "MG": [310.4, 140.8, 792, 956.8],
+                        "Tag": 84744615,
+                        "@": 84744616,
+                        "Alpha": 255,
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -115, 1, 1, 620.8, 770.4024, 0, 0, 0.0002, 0.9993
+                        ],
+                        "PrePos": [0, -0.1307, 1.0013, 0.1582],
+                        "MG": [323.2, 184, 0, 620.8],
+                        "Scale9": [188, 40, 10, 4],
+                        "Tag": 84744613,
+                        "@": 84744614,
+                        "Alpha": 255,
+                        "Name": "pnl_common03",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "invite_notice_panel/bottom_btn_green_start2.png",
+                            "Plist": "cocos/invite_notice_panel@6x.plist"
+                        },
+                        "Pos": [
+                            314, -755, 0.9, 0.9, 334.4, 123.2, 0, 0, 0.4833,
+                            0.6055
+                        ],
+                        "PrePos": [0.5065, -0.858, 0.5394, 0.14],
+                        "MG": [1331.2, 1208, 502.4, 836.8],
+                        "Tag": 84744611,
+                        "@": 84744612,
+                        "Alpha": 255,
+                        "Name": "btn_invite",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/invite_notice_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [589, -136, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.95, -0.1545, 0.0887, 0.0648],
+                        "MG": [687, 136, 589, -24],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84744609,
+                        "@": 84744610,
+                        "Alpha": 255,
+                        "Name": "btn_green_cancel",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [37, -55, 1.25, 1.25, 400, 69, 0, 0, 0, 1],
+                        "PrePos": [0.0597, -0.0625, 0.6452, 0.0784],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [756, 55, 37, 183],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "需要好友帮助？",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84744607,
+                        "@": 84744608,
+                        "Name": "layer3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [69, -548, 1, 1, 484, 142, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 191, "G": 95, "B": 1 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.6227, 0.7806, 0.1614],
+                        "MG": [190, 548, 69, 67],
+                        "IsCustomSize": true,
+                        "LabelText": "好友每天赠送的精力瓶和银币！\\n每个邀请成功的好友自动送出通关礼包！\\n新区域需要解锁？好友排队来帮忙！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84744605,
+                        "@": 84744606,
+                        "Name": "label2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [69, -504, 1, 1, 397, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 191, "G": 84, "B": 1 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.5727, 0.6403, 0.042],
+                        "MG": [339, 504, 69, 154],
+                        "IsCustomSize": true,
+                        "LabelText": "邀请好友来玩游戏，您将获得：",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84744603,
+                        "@": 84744604,
+                        "Name": "label1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "invite_notice_panel/friend_invite_board.png",
+                            "Plist": "cocos/invite_notice_panel@6x.plist"
+                        },
+                        "Pos": [
+                            308, -347, 0.9122, 0.7993, 574.4, 107.2, 0, 0,
+                            0.4976, 0.5028
+                        ],
+                        "PrePos": [0.4968, -0.3943, 0.9265, 0.1218],
+                        "MG": [662.4, 555.2, 492.8, 1067.2],
+                        "Tag": 84744599,
+                        "@": 84744600,
+                        "Alpha": 255,
+                        "Name": "board",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [51, -187, 1, 1, 519, 126, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 103, "G": 165, "B": 43 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0823, -0.2125, 0.8371, 0.1432],
+                        "MG": [567, 187, 51, 50],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请好友来玩游戏，超大礼包等你拿！\\n邀请好友来玩游戏，超大礼包等你拿！\\n邀请好友来玩游戏，超大礼包等你拿！\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84744601,
+                        "@": 84744602,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [50, -426, 1, 1, 519, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 103, "G": 165, "B": 43 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0806, -0.4841, 0.8371, 0.0386],
+                        "MG": [420, 426, 50, 51],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "只需要再邀请N个好友即可领取",
+                        "FontSize": 23,
+                        "Shadow": [2, -2],
+                        "Tag": 84744597,
+                        "@": 84744598,
+                        "Name": "label_under_board",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 620, "Y": 880 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

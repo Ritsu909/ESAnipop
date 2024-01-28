@@ -1,0 +1,107 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 13,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        17573943,
+                        [
+                            { "P": [-0.8, 120.5], "I": 0 },
+                            { "P": [-0.8, -29.5], "I": 5 },
+                            { "P": [-0.8, 0.5], "I": 9 },
+                            { "P": [-0.8, 0.5], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        17573941,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 5,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 9,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 12,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        17573941,
+                        [
+                            { "P": [0.4, 65.5], "I": 0 },
+                            { "P": [0.4, -105.5], "I": 5 },
+                            { "P": [0.4, -74.5], "I": 9 },
+                            { "P": [0.4, -83.5], "I": 12, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ani_2/title.png",
+                            "Plist": "cocos/shake_ani_2@6x.plist"
+                        },
+                        "Pos": [0, 120, 1, 1, 3.2, 132.8, 0, 0, 0.3438, 0.5023],
+                        "MG": [-59.2, -192, 0, 3.2],
+                        "Tag": 17573942,
+                        "@": 17573943,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ani_2_bottom_btn_question_marke@6x.json"
+                        },
+                        "Pos": [0, 65, 1, 1, 50, 55, 0, 0, 0, 0],
+                        "MG": [10, -65, 0, -50],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 17573940,
+                        "@": 17573941,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

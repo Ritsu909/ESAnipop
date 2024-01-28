@@ -1,0 +1,45 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 15,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        29325334,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.596, 0.596], "I": 7 },
+                            { "P": [1, 1], "I": 14, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/star1.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 41.6, 43.2, 0, 0, 0.5036, 0.515],
+                        "MG": [43.2, 0, 0, 41.6],
+                        "Tag": 29325333,
+                        "@": 29325334,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

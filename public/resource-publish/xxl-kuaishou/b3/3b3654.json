@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        28633799,
+                        [
+                            { "P": [-11.9, 3], "I": 0 },
+                            { "P": [-11.9, -0.8], "I": 19 },
+                            { "P": [-11.9, 3], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        28633797,
+                        [
+                            { "P": [-12.4, 6.2], "I": 0 },
+                            { "P": [-17.2, 9.95], "I": 10 },
+                            { "P": [-25.75, 14.45], "I": 24, "T": 0 },
+                            { "P": [-14.45, 14.45], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        28633797,
+                        [
+                            { "P": [0.7814, 0.7814], "I": 0 },
+                            { "P": [1.0805, 1.0805], "I": 10 },
+                            { "P": [1.6176, 1.6176], "I": 24, "T": 0 },
+                            { "P": [1, 1], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        28633797,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 10 },
+                            { "V": 25, "I": 24, "T": 0 },
+                            { "V": 0, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        28633795,
+                        [
+                            { "P": [-11.7, 9.45], "I": 0 },
+                            { "P": [-11.7, 6.25], "I": 19 },
+                            { "P": [-11.7, 9.45], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_anim/erertrt.png",
+                            "Plist": "cocos/unlock_anim@6x.plist"
+                        },
+                        "Pos": [-11, 3, 1, 1, 24, 17.6, 0, 0, 0.0042, 0.9943],
+                        "MG": [12.8, -4.8, -17.6, 6.4],
+                        "Tag": 28633798,
+                        "@": 28633799,
+                        "Alpha": 255,
+                        "Name": "erertrt",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_anim/7u.png",
+                            "Plist": "cocos/unlock_anim@6x.plist"
+                        },
+                        "Pos": [
+                            -12, 6, 0.7814, 0.7814, 32, 25.6, 0, 0, 0.0031,
+                            0.9961
+                        ],
+                        "MG": [16, -9.6, -19.2, 12.8],
+                        "Tag": 28633796,
+                        "@": 28633797,
+                        "Alpha": 255,
+                        "Name": "udfs",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_anim/ertrtrt.png",
+                            "Plist": "cocos/unlock_anim@6x.plist"
+                        },
+                        "Pos": [-11, 9, 1, 1, 24, 20.8, 0, 0, 0.0042, 0.9952],
+                        "MG": [6.4, -14.4, -17.6, 6.4],
+                        "Tag": 28633794,
+                        "@": 28633795,
+                        "Alpha": 255,
+                        "Name": "ertrtrt",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

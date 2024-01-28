@@ -1,0 +1,124 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -4, 1, 1, 559.9008, 828.5771, 0, 0, 0.001, 0.9989
+                        ],
+                        "PrePos": [0, -0.0049, 0.1733, 0.1151],
+                        "MG": [100.8, 6.4, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84746651,
+                        "@": 84746652,
+                        "Alpha": 255,
+                        "Name": "toast_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/rank_magicpanelinside.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            32, -166, 1, 1, 490.281, 498.351, 0, 0, 0.0006,
+                            0.999
+                        ],
+                        "PrePos": [0.0578, -0.2024, 0.3004, 0.121],
+                        "MG": [364.8, 265.6, 51.2, 217.6],
+                        "Scale9": [41, 24, 83, 49],
+                        "Tag": 84746649,
+                        "@": 84746650,
+                        "Alpha": 171,
+                        "Name": "magicpanelinside",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/logo.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            362, -529, 1, 1, 307.2, 251.2, 0, 0, 0.499, 0.4992
+                        ],
+                        "PrePos": [0.6534, -0.6451, 0.5545, 0.3063],
+                        "MG": [1097.6, 846.4, 579.2, 886.4],
+                        "Tag": 84746647,
+                        "@": 84746648,
+                        "Alpha": 51,
+                        "Name": "logo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            507, -41, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.9152, -0.05, 0.156, 0.1015],
+                        "MG": [148.8, 65.6, 811.2, 897.6],
+                        "Tag": 84746645,
+                        "@": 84746646,
+                        "Alpha": 255,
+                        "Name": "offbottom_light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/arrow_top.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [502, -188, 1, 1, 24, 20.8, 0, 0, 0.475, 0.512],
+                        "PrePos": [0.9061, -0.2293, 0.0433, 0.0254],
+                        "MG": [321.6, 300.8, 803.2, 827.2],
+                        "Tag": 84746643,
+                        "@": 84746644,
+                        "Alpha": 255,
+                        "Name": "arrow_top",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/arrow_bottom.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            502, -642, 1, 1, 25.6, 20.8, 0, 0, 0.5078, 0.5144
+                        ],
+                        "PrePos": [0.9061, -0.7829, 0.0462, 0.0254],
+                        "MG": [1048, 1027.2, 803.2, 828.8],
+                        "Tag": 84746641,
+                        "@": 84746642,
+                        "Alpha": 255,
+                        "Name": "arrow_bottom",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 554, "Y": 820 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

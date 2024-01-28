@@ -1,0 +1,137 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/dotline.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            68, -155, 1, 1, 486.4, 3.2, 0, 0, 0.0002, 0.9688
+                        ],
+                        "PrePos": [0.129, -1.069, 0.923, 0.0221],
+                        "MG": [251.2, 248, 108.8, 595.2],
+                        "Tag": 84746771,
+                        "@": 84746772,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/heart.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            482, -93, 1, 1, 38.4, 33.6, 0, 0, 0.0026, 0.997
+                        ],
+                        "PrePos": [0.9146, -0.6414, 0.0729, 0.2317],
+                        "MG": [182.4, 148.8, 771.2, 809.6],
+                        "Tag": 84746769,
+                        "@": 84746770,
+                        "Alpha": 255,
+                        "Name": "heart",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_green_start1_red@6x.json"
+                        },
+                        "Pos": [530, -108, 0.7, 0.7, 191, 70, 0, 0, 0, 0],
+                        "PrePos": [1.0057, -0.7448, 0.3624, 0.4828],
+                        "MG": [-33, 108, 530, -194],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746767,
+                        "@": 84746768,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [488, -96, 1, 1, 67, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 0, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.926, -0.6621, 0.1271, 0.2069],
+                        "MG": [19, 96, 488, -28],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "100",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746765,
+                        "@": 84746766,
+                        "Name": "upnum",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [151, -13, 1, 1, 433, 72, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 92, "G": 40, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2865, -0.0897, 0.8216, 0.4966],
+                        "MG": [60, 13, 151, -57],
+                        "IsCustomSize": true,
+                        "LabelText": "通过第100关\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746763,
+                        "@": 84746764,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [154, -94, 1, 1, 195, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 92, "G": 40, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2922, -0.6483, 0.37, 0.2069],
+                        "MG": [21, 94, 154, 178],
+                        "IsCustomSize": true,
+                        "LabelText": "2013.04.23",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746761,
+                        "@": 84746762,
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 527, "Y": 145 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

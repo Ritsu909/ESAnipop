@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 22,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        3097109,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 13,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3097109,
+                        [
+                            { "P": [0.55, -0.5], "I": 0, "T": 0 },
+                            {
+                                "P": [-0.95, 10],
+                                "I": 13,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [-36.45, 182], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3097109,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            {
+                                "P": [0.19, 0.19],
+                                "I": 13,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [-2.31, -2.31], "I": 21, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/ice_chick_ice_crame_all@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 164, 220, 0, 0, 0, 0],
+                        "MG": [-220, 0, 0, -164],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3097108,
+                        "@": 3097109,
+                        "Alpha": 255,
+                        "Name": "ice",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

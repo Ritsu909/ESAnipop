@@ -1,0 +1,70 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_yellow.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -70, 71, 1, 1, 73.6, 73.6, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.4965, 0.5, 0.522, 0.5183],
+                        "MG": [-40, -113.6, -112, -38.4],
+                        "Tag": 88333152,
+                        "@": 88333153,
+                        "Alpha": 255,
+                        "Name": "dige_yellow_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_yellow.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 140, 1, 1, 73.6, 73.6, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.0142, 0.9859, 0.522, 0.5183],
+                        "MG": [-150.4, -224, -3.2, 70.4],
+                        "Tag": 88333146,
+                        "@": 88333147,
+                        "Alpha": 255,
+                        "Name": "dige_yellow_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_yellow.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-2, 71, 1, 1, 73.6, 73.6, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.0142, 0.5, 0.522, 0.5183],
+                        "MG": [-40, -113.6, -3.2, 70.4],
+                        "Tag": 88333144,
+                        "@": 88333145,
+                        "Alpha": 255,
+                        "Name": "dige_yellow_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 141, "Y": 142 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

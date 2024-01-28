@@ -1,0 +1,787 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/bulebackground.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 538.4069, 810.8339, 0, 0, 0.0006, 0.9994
+                        ],
+                        "MG": [166.4, 0, 0, 171.2],
+                        "Scale9": [67, 60, 29, 31],
+                        "Tag": 84747330,
+                        "@": 84747331,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/ncp_bg_body.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            11, -197, 1, 1, 505.2085, 556.6726, 0, 0, 0.0033,
+                            0.9967
+                        ],
+                        "PrePos": [0.02, -0.232, 0.0552, 0.0358],
+                        "MG": [345.6, 315.2, 17.6, 48],
+                        "Scale9": [10, 10, 10, 10],
+                        "Tag": 84747544,
+                        "@": 84747545,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/ncp_bg_seal.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            205, -442, 1, 1, 305.6, 305.6, 0, 0, 0.0003, 0.9997
+                        ],
+                        "PrePos": [0.3721, -0.5206, 0.5546, 0.36],
+                        "MG": [1012.8, 707.2, 328, 633.6],
+                        "Tag": 84747542,
+                        "@": 84747543,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/ncp_shell_bg_bg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            458, -266, 1, 1, 110.4, 126.4, 0, 0, 0.4977, 0.4996
+                        ],
+                        "PrePos": [0.8312, -0.3133, 0.2004, 0.1489],
+                        "MG": [552, 425.6, 732.8, 843.2],
+                        "Tag": 84747540,
+                        "@": 84747541,
+                        "Alpha": 255,
+                        "Name": "shell1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/ncp_bg_title.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            2, -2, 1, 1, 516.408, 205.4098, 0, 0, 0.0008, 0.9989
+                        ],
+                        "PrePos": [0.0036, -0.0024, 0.2178, 0.1074],
+                        "MG": [94.4, 3.2, 3.2, 123.2],
+                        "Scale9": [50, 50, 20, 20],
+                        "Tag": 84747538,
+                        "@": 84747539,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_like_button.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            264, -782, 1, 1, 136, 136, 0, 0, 0.4971, 0.5029
+                        ],
+                        "PrePos": [0.4791, -0.9211, 0.2468, 0.1602],
+                        "MG": [1387.2, 1251.2, 422.4, 558.4],
+                        "Tag": 84747516,
+                        "@": 84747517,
+                        "Alpha": 255,
+                        "Name": "btnlike",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_ncp_close.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            482, -43, 1, 1, 75.2, 75.2, 0, 0, 0.4934, 0.5066
+                        ],
+                        "PrePos": [0.8748, -0.0506, 0.1365, 0.0886],
+                        "MG": [144, 68.8, 771.2, 846.4],
+                        "Tag": 84747338,
+                        "@": 84747339,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_level2.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            98, -273, 1, 1, 46.4, 52.8, 0, 0, 0.4978, 0.5057
+                        ],
+                        "PrePos": [0.1779, -0.3216, 0.0842, 0.0622],
+                        "MG": [489.6, 436.8, 156.8, 203.2],
+                        "Tag": 84747514,
+                        "@": 84747515,
+                        "Alpha": 255,
+                        "Name": "icon1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            122, -117, 1.0877, 1.0877, 115.2, 115.2, 0, 0, 0.5,
+                            0.5043
+                        ],
+                        "PrePos": [0.2214, -0.1378, 0.2091, 0.1357],
+                        "MG": [302.4, 187.2, 195.2, 310.4],
+                        "Tag": 84747512,
+                        "@": 84747513,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_touxiang@6x.json"
+                        },
+                        "Pos": [122, -118, 1, 1, 138, 138, 0, 0, 0, 0],
+                        "PrePos": [0.2214, -0.139, 0.2505, 0.1625],
+                        "MG": [593, 118, 122, 291],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747510,
+                        "@": 84747511,
+                        "Alpha": 255,
+                        "Name": "frame",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_level_icon1.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            228, -132, 1, 1, 36.8, 41.6, 0, 0, 0.4918, 0.5048
+                        ],
+                        "PrePos": [0.4138, -0.1555, 0.0668, 0.049],
+                        "MG": [252.8, 211.2, 364.8, 401.6],
+                        "Tag": 84747508,
+                        "@": 84747509,
+                        "Alpha": 255,
+                        "Name": "icon_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_like.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            373, -133, 1, 1, 43.2, 43.2, 0, 0, 0.4884, 0.5116
+                        ],
+                        "PrePos": [0.677, -0.1567, 0.0784, 0.0509],
+                        "MG": [256, 212.8, 596.8, 640],
+                        "Tag": 84747506,
+                        "@": 84747507,
+                        "Alpha": 255,
+                        "Name": "icon_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_name.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            409, -78, 1, 1, 38.4, 38.4, 0, 0, 0.4909, 0.5091
+                        ],
+                        "PrePos": [0.7423, -0.0919, 0.0697, 0.0452],
+                        "MG": [163.2, 124.8, 654.4, 692.8],
+                        "Tag": 84747504,
+                        "@": 84747505,
+                        "Alpha": 255,
+                        "Name": "icon_name",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_remove.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            409, -78, 1, 1, 25.6, 27.2, 0, 0, 0.4922, 0.5184
+                        ],
+                        "PrePos": [0.7423, -0.0919, 0.0465, 0.032],
+                        "MG": [152, 124.8, 654.4, 680],
+                        "Tag": 84747502,
+                        "@": 84747503,
+                        "Alpha": 255,
+                        "Name": "icon_remove",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_startotal.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            97, -351, 1, 1, 62.4, 46.4, 0, 0, 0.4984, 0.5129
+                        ],
+                        "PrePos": [0.176, -0.4134, 0.1132, 0.0547],
+                        "MG": [608, 561.6, 155.2, 217.6],
+                        "Tag": 84747500,
+                        "@": 84747501,
+                        "Alpha": 255,
+                        "Name": "icon2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_star_blue.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [98, -432, 1, 1, 49.6, 48, 0, 0, 0.496, 0.5083],
+                        "PrePos": [0.1779, -0.5088, 0.09, 0.0565],
+                        "MG": [739.2, 691.2, 156.8, 206.4],
+                        "Tag": 84747498,
+                        "@": 84747499,
+                        "Alpha": 255,
+                        "Name": "icon3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_star_orange.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [99, -508, 1, 1, 48, 48, 0, 0, 0.5021, 0.5083],
+                        "PrePos": [0.1797, -0.5984, 0.0871, 0.0565],
+                        "MG": [860.8, 812.8, 158.4, 206.4],
+                        "Tag": 84747496,
+                        "@": 84747497,
+                        "Alpha": 255,
+                        "Name": "icon4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/res_icon_star_yellow.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            102, -589, 1, 1, 51.2, 48, 0, 0, 0.4902, 0.4979
+                        ],
+                        "PrePos": [0.1851, -0.6938, 0.0929, 0.0565],
+                        "MG": [990.4, 942.4, 163.2, 214.4],
+                        "Tag": 84747494,
+                        "@": 84747495,
+                        "Alpha": 255,
+                        "Name": "icon5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_ncp_progressbar@6x.json"
+                        },
+                        "Pos": [137, -274, 1, 1, 312, 19, 0, 0, 0, 0],
+                        "PrePos": [0.2486, -0.3227, 0.5662, 0.0224],
+                        "MG": [556, 274, 137, 102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747532,
+                        "@": 84747533,
+                        "Alpha": 255,
+                        "Name": "prog1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_ncp_progressbar@6x.json"
+                        },
+                        "Pos": [137, -353, 1, 1, 312, 19, 0, 0, 0, 0],
+                        "PrePos": [0.2486, -0.4158, 0.5662, 0.0224],
+                        "MG": [477, 353, 137, 102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747530,
+                        "@": 84747531,
+                        "Alpha": 255,
+                        "Name": "prog2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_ncp_progressbar@6x.json"
+                        },
+                        "Pos": [137, -436, 1, 1, 312, 19, 0, 0, 0, 0],
+                        "PrePos": [0.2486, -0.5135, 0.5662, 0.0224],
+                        "MG": [394, 436, 137, 102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747528,
+                        "@": 84747529,
+                        "Alpha": 255,
+                        "Name": "prog3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_ncp_progressbar@6x.json"
+                        },
+                        "Pos": [137, -512, 1, 1, 312, 19, 0, 0, 0, 0],
+                        "PrePos": [0.2486, -0.6031, 0.5662, 0.0224],
+                        "MG": [318, 512, 137, 102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747526,
+                        "@": 84747527,
+                        "Alpha": 255,
+                        "Name": "prog4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_ncp_progressbar@6x.json"
+                        },
+                        "Pos": [137, -595, 1, 1, 312, 19, 0, 0, 0, 0],
+                        "PrePos": [0.2486, -0.7008, 0.5662, 0.0224],
+                        "MG": [235, 595, 137, 102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747524,
+                        "@": 84747525,
+                        "Alpha": 255,
+                        "Name": "prog5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [209, -63, 1, 1, 192, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 106, "B": 166 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3793, -0.0742, 0.3485, 0.0377],
+                        "MG": [754, 63, 209, 150],
+                        "IsCustomSize": true,
+                        "LabelText": "我是啦啦啦拉",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84747472,
+                        "@": 84747473,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [251, -120, 1, 1, 97, 26, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4555, -0.1413, 0.176, 0.0306],
+                        "MG": [703, 120, 251, 203],
+                        "IsCustomSize": true,
+                        "LabelText": "第360关",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747470,
+                        "@": 84747471,
+                        "Name": "level",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [402, -120, 1, 1, 39, 26, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7296, -0.1413, 0.0708, 0.0306],
+                        "MG": [703, 120, 402, 110],
+                        "IsCustomSize": true,
+                        "LabelText": "66",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747468,
+                        "@": 84747469,
+                        "Name": "like",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_shell@6x.json"
+                        },
+                        "Pos": [488, -223, 1, 1, 105, 85, 30, 30, 0, 0],
+                        "PrePos": [0.8857, -0.2627, 0.1906, 0.1001],
+                        "MG": [541, 223, 488, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747536,
+                        "@": 84747537,
+                        "Alpha": 255,
+                        "Name": "shell",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [139, -241, 1, 1, 101, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 42, "G": 123, "B": 201 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2523, -0.2839, 0.1833, 0.0306],
+                        "MG": [582, 241, 139, 311],
+                        "IsCustomSize": true,
+                        "LabelText": "最高关卡",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747466,
+                        "@": 84747467,
+                        "Name": "desc1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [139, -320, 1, 1, 96, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 42, "G": 123, "B": 201 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2523, -0.3769, 0.1742, 0.0306],
+                        "MG": [503, 320, 139, 316],
+                        "IsCustomSize": true,
+                        "LabelText": "星星总数",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747464,
+                        "@": 84747465,
+                        "Name": "desc2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [139, -403, 1, 1, 79, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 42, "G": 123, "B": 201 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2523, -0.4747, 0.1434, 0.0306],
+                        "MG": [420, 403, 139, 333],
+                        "IsCustomSize": true,
+                        "LabelText": "蓝星数",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747462,
+                        "@": 84747463,
+                        "Name": "desc3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [139, -478, 1, 1, 77, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 42, "G": 123, "B": 201 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2523, -0.563, 0.1397, 0.0306],
+                        "MG": [345, 478, 139, 335],
+                        "IsCustomSize": true,
+                        "LabelText": "橙星数",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747460,
+                        "@": 84747461,
+                        "Name": "desc4",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [139, -562, 1, 1, 79, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 42, "G": 123, "B": 201 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2523, -0.662, 0.1434, 0.0306],
+                        "MG": [261, 562, 139, 333],
+                        "IsCustomSize": true,
+                        "LabelText": "黄星数",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747458,
+                        "@": 84747459,
+                        "Name": "desc5",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [243, -241, 1, 1, 77, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 172, "B": 238 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.441, -0.2839, 0.1397, 0.0306],
+                        "MG": [582, 241, 243, 231],
+                        "IsCustomSize": true,
+                        "LabelText": "360关",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747456,
+                        "@": 84747457,
+                        "Name": "data1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [243, -320, 1, 1, 51, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 172, "B": 238 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.441, -0.3769, 0.0926, 0.0306],
+                        "MG": [503, 320, 243, 257],
+                        "IsCustomSize": true,
+                        "LabelText": "412",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747454,
+                        "@": 84747455,
+                        "Name": "data2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [243, -403, 1, 1, 25, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 172, "B": 238 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.441, -0.4747, 0.0454, 0.0306],
+                        "MG": [420, 403, 243, 283],
+                        "IsCustomSize": true,
+                        "LabelText": "6",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747452,
+                        "@": 84747453,
+                        "Name": "data3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [243, -478, 1, 1, 44, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 172, "B": 238 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.441, -0.563, 0.0799, 0.0306],
+                        "MG": [345, 478, 243, 264],
+                        "IsCustomSize": true,
+                        "LabelText": "52",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747450,
+                        "@": 84747451,
+                        "Name": "data4",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [243, -562, 1, 1, 55, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 54, "G": 172, "B": 238 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.441, -0.662, 0.0998, 0.0306],
+                        "MG": [261, 562, 243, 253],
+                        "IsCustomSize": true,
+                        "LabelText": "399",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747448,
+                        "@": 84747449,
+                        "Name": "data5",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [86, -642, 1, 1, 227, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 87, "G": 162, "B": 212 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1561, -0.7562, 0.412, 0.0306],
+                        "MG": [181, 642, 86, 238],
+                        "IsCustomSize": true,
+                        "LabelText": "我的消消乐ID :",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747446,
+                        "@": 84747447,
+                        "Name": "desc6",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [249, -642, 1, 1, 162, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 87, "G": 162, "B": 212 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4519, -0.7562, 0.294, 0.0306],
+                        "MG": [181, 642, 249, 140],
+                        "IsCustomSize": true,
+                        "LabelText": "9999999999",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747444,
+                        "@": 84747445,
+                        "Name": "data6",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [393, -642, 1, 1, 50, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 88, "G": 163, "B": 213 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7132, -0.7562, 0.0907, 0.0306],
+                        "MG": [181, 642, 393, 108],
+                        "IsCustomSize": true,
+                        "LabelText": "复制",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84747442,
+                        "@": 84747443,
+                        "Name": "copy",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/rabbit_img.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            106, -705, 0.6, 0.6, 68.8, 78.4, 0, 0, 0.508, 0.5261
+                        ],
+                        "PrePos": [0.1924, -0.8304, 0.1249, 0.0923],
+                        "MG": [1206.4, 1128, 169.6, 238.4],
+                        "Tag": 84747566,
+                        "@": 84747567,
+                        "Alpha": 255,
+                        "Name": "rabbit_img",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 551, "Y": 849 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

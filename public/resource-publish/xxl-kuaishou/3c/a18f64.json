@@ -1,0 +1,84 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [0, "cocos/homeScene_task_reward@6x.json", ""],
+                    "Pos": [0, -13, 1, 1, 0, 0, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 3035951,
+                    "@": 3035952,
+                    "#": "reward",
+                    "$": "PN"
+                },
+                {
+                    "F": [1, "homeScene/task_normal.png", "cocos/homeScene@6x"],
+                    "Pos": [
+                        10, -25, 0.9695, 0.9695, 107.2, 94.4, 0, 0, 0.6003,
+                        0.0339
+                    ],
+                    "Tag": 3035949,
+                    "@": 3035950,
+                    "#": "normal",
+                    "$": "S"
+                },
+                {
+                    "F": [1, "homeScene/awardtxt.png", "cocos/homeScene@6x"],
+                    "Pos": [3, -31, 1, 1, 126.4, 35.2, 0, 0, 0.4953, 0.5028],
+                    "Tag": 3035947,
+                    "@": 3035948,
+                    "#": "title",
+                    "$": "S"
+                },
+                {
+                    "F": [1, "homeScene/rewardtxt1.png", "cocos/homeScene@6x"],
+                    "Pos": [-3, -67, 1, 1, 140.8, 44.8, 0, 0, 0.4961, 0.5346],
+                    "Tag": 3035945,
+                    "@": 3035946,
+                    "#": "rewardText",
+                    "$": "S"
+                },
+                {
+                    "F": [
+                        1,
+                        "homeScene/new_task_label.png",
+                        "cocos/homeScene@6x"
+                    ],
+                    "Pos": [-55, -46, 1, 1, 110.4, 30.4, 0, 0, 0.0009, 0.9967],
+                    "Tag": 3035943,
+                    "@": 3035944,
+                    "#": "newTask",
+                    "$": "S"
+                },
+                {
+                    "Pos": [-54, -46, 1, 1, 110, 30, 0, 0, 0, 1],
+                    "F": "berlinsansfb_30@6x",
+                    "HA": "HT_Center",
+                    "T": "(1/10)\\n",
+                    "i": 20,
+                    "Tag": 3035941,
+                    "@": 3035942,
+                    "#": "num",
+                    "$": "BMF"
+                },
+                {
+                    "F": [
+                        1,
+                        "homeScene/finish_label.png",
+                        "cocos/homeScene@6x"
+                    ],
+                    "Pos": [-55, -45, 1, 1, 110.4, 30.4, 0, 0, 0.0009, 0.9967],
+                    "Tag": 3035939,
+                    "@": 3035940,
+                    "#": "finish",
+                    "$": "S"
+                }
+            ],
+            "Size": { "X": 162, "Y": 181 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

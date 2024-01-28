@@ -1,0 +1,91 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "1": [
+                    { "X": -0.7, "Y": -0.4 },
+                    { "X": 15.7, "Y": 14.25 },
+                    { "X": 39.35, "Y": 18.4 },
+                    { "X": 64.1, "Y": 22.75 },
+                    { "X": 78.1, "Y": 11.7 }
+                ]
+            },
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50089,
+                        [
+                            { "P": [-0.1, 0.15], "I": 0, "Tag": "1" },
+                            { "P": [39.1, 18.35], "I": 7, "Tag": "1" },
+                            { "P": [44.95, 19.2], "I": 13, "Tag": "1" },
+                            { "P": [55, 18.9], "I": 19, "Tag": "1", "T": 0 },
+                            { "P": [-18.9, 18.9], "I": 20, "Tag": "1", "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50089,
+                        [
+                            { "P": [0.4375, 0.4375], "I": 0 },
+                            { "P": [0.875, 0.875], "I": 7 },
+                            { "P": [0.875, 0.875], "I": 13 },
+                            { "P": [0.875, 0.875], "I": 19, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50089,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [55.5, 55.5], "I": 7 },
+                            { "P": [98.52, 98.52], "I": 13 },
+                            { "P": [144.66, 144.66], "I": 19, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50089,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 7 },
+                            { "V": 255, "I": 13 },
+                            { "V": 0, "I": 19, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/star_starsystembitmap.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.4375, 0.4375, 24, 24, 0, 0, 0.4729, 0.5021
+                        ],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 50088,
+                        "@": 50089,
+                        "Alpha": 0,
+                        "Name": "aa",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

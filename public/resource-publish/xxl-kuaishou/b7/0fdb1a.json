@@ -1,0 +1,169 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            6, -9, 1, 1, 687.0584, 893.2371, 0, 0, 0.0018,
+                            0.9982
+                        ],
+                        "PrePos": [0.0087, -0.01, 0.0808, 0.0606],
+                        "MG": [68.8, 14.4, 9.6, 65.6],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 84746297,
+                        "@": 84746298,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            27, -102, 1, 1, 641.9627, 642.5698, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.039, -0.1136, 0.1131, 0.1443],
+                        "MG": [292.8, 163.2, 43.2, 121.6],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84746295,
+                        "@": 84746296,
+                        "Alpha": 255,
+                        "Name": "scrollBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/askicononfriend.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            205, -25, 1, 1, 73.6, 67.2, 0, 0, 0.0231, 0.9747
+                        ],
+                        "PrePos": [0.2958, -0.0278, 0.1062, 0.0748],
+                        "MG": [107.2, 40, 328, 401.6],
+                        "Tag": 84746293,
+                        "@": 84746294,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start_askfor@6x.json"
+                        },
+                        "Pos": [329, -815, 1, 1, 233, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4747, -0.9076, 0.3362, 0.1359],
+                        "MG": [-39, 815, 329, 131],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746291,
+                        "@": 84746292,
+                        "Alpha": 255,
+                        "Name": "askForAllBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start_askfor@6x.json"
+                        },
+                        "Pos": [336, -481, 1, 1, 233, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4848, -0.5356, 0.3362, 0.1359],
+                        "MG": [295, 481, 336, 124],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746289,
+                        "@": 84746290,
+                        "Alpha": 255,
+                        "Name": "addFriendBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [657, -41, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9481, -0.0457, 0.1227, 0.0924],
+                        "MG": [774, 41, 657, -49],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746287,
+                        "@": 84746288,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [181, -312, 1, 1, 317, 95, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 43, "G": 43, "B": 43 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2612, -0.3474, 0.4574, 0.1058],
+                        "MG": [491, 312, 181, 195],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "你没有好友啊",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746285,
+                        "@": 84746286,
+                        "Name": "noFriend",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [291, -35, 1, 1, 222, 55, 0, 0, 0, 1],
+                        "PrePos": [0.4199, -0.039, 0.3203, 0.0612],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [808, 35, 291, 180],
+                        "IsCustomSize": true,
+                        "LabelText": "索要礼物",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84746283,
+                        "@": 84746284,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 693, "Y": 898 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

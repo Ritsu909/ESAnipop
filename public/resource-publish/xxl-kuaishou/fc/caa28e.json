@@ -1,0 +1,195 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/yellowbackshop.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 727.704, 1304.9909, 0, 0, 0.0023, 0.998
+                        ],
+                        "MG": [49.6, 0, 0, 43.2],
+                        "Scale9": [10, 12, 21, 24],
+                        "Tag": 84755913,
+                        "@": 84755914,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/orangebackshop.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -11, -79, 1, 1, 741.8, 110.784, 0, 0, 0.0025, 0.9979
+                        ],
+                        "PrePos": [-0.0117, -0.0609, 0.0425, 0.037],
+                        "MG": [174.4, 126.4, -17.6, 22.4],
+                        "Scale9": [17, 15, 7, 14],
+                        "Tag": 84755981,
+                        "@": 84755982,
+                        "Alpha": 255,
+                        "Name": "topbg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/yellowbackshop.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            20, -199, 1, 1, 687.1608, 1078.671, 0, 0, 0.0023,
+                            0.998
+                        ],
+                        "PrePos": [0.0212, -0.1534, 0.0459, 0.0382],
+                        "MG": [368, 318.4, 32, 75.2],
+                        "Scale9": [10, 12, 21, 24],
+                        "Tag": 84755909,
+                        "@": 84755910,
+                        "Alpha": 255,
+                        "Name": "viewRect",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/top.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 968, 214.4, 0, 0, 0.1374, 0.7551],
+                        "MG": [214.4, 0, 0, 968],
+                        "Tag": 84755901,
+                        "@": 84755902,
+                        "Alpha": 255,
+                        "Name": "top",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/shoptitle.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            360, -41, 1, 1, 161.6, 78.4, 0, 0, 0.5019, 0.5319
+                        ],
+                        "PrePos": [0.3822, -0.0316, 0.1715, 0.0604],
+                        "MG": [144, 65.6, 576, 737.6],
+                        "Tag": 84755899,
+                        "@": 84755900,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [678, -42, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.7197, -0.0324, 0.0902, 0.064],
+                        "MG": [1172, 42, 678, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755897,
+                        "@": 84755898,
+                        "Alpha": 255,
+                        "Name": "btnClose",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/pipelineofchoose.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -19, -184, 1, 1, 767.7824, 10.5424, 0, 0, 0.0039,
+                            0.9875
+                        ],
+                        "PrePos": [-0.0202, -0.1419, 0.0272, 0.0062],
+                        "MG": [302.4, 294.4, -30.4, -4.8],
+                        "Scale9": [7, 1, 11, 3],
+                        "Tag": 84755895,
+                        "@": 84755896,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/alphapipeui.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            70, -22, 1, 1, 188.256, 68.8, 0, 0, 0.0006, 0.9985
+                        ],
+                        "PrePos": [0.0743, -0.017, 0.1699, 0.053],
+                        "MG": [104, 35.2, 112, 272],
+                        "Scale9": [38, 28, 74, 3],
+                        "Tag": 84755893,
+                        "@": 84755894,
+                        "Alpha": 255,
+                        "Name": "cashBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/prop_14.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            103, -52, 0.5755, 0.5755, 96, 96, 0, 0, 0.501, 0.499
+                        ],
+                        "PrePos": [0.1093, -0.0401, 0.1019, 0.074],
+                        "MG": [179.2, 83.2, 164.8, 260.8],
+                        "Tag": 84755891,
+                        "@": 84755892,
+                        "Alpha": 255,
+                        "Name": "cashIcon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [133, -33, 1, 1, 80, 35, 0, 0, 0, 1],
+                        "PrePos": [0.1412, -0.0254, 0.0849, 0.027],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1229, 33, 133, 729],
+                        "IsCustomSize": true,
+                        "LabelText": "260",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84755889,
+                        "@": 84755890,
+                        "Name": "cashTxt",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 942, "Y": 1297 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

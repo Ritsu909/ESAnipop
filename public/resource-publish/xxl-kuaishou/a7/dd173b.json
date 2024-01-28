@@ -1,0 +1,157 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "weekly_race/tipss.png",
+                            "Plist": "cocos/weekly_race@6x.plist"
+                        },
+                        "Pos": [
+                            -106, 156, 1, 1, 181.44, 145.0094, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [-0.5889, 0.9936, 0.72, 0.8255],
+                        "MG": [-120, -249.6, -169.6, -40],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 26729793,
+                        "@": 26729794,
+                        "Alpha": 255,
+                        "Name": "tipss",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "weekly_race/jiantou.png",
+                            "Plist": "cocos/weekly_race@6x.plist"
+                        },
+                        "Pos": [0, -1, 1, 1, 27.2, 16, -180, 0, 0.5018, 0.9938],
+                        "PrePos": [0, -0.0064, 0.1511, 0.1019],
+                        "MG": [17.6, 1.6, 0, 27.2],
+                        "Tag": 26729791,
+                        "@": 26729792,
+                        "Alpha": 255,
+                        "Name": "jiantou",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-93, 55, 1, 1, 58, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 89, "B": 173 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.5167, 0.3503, 0.3222, 0.1911],
+                        "MG": [182, -55, -93, 215],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "成绩:",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 26729789,
+                        "@": 26729790,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "weekly_race/rabbit.png",
+                            "Plist": "cocos/weekly_race@6x.plist"
+                        },
+                        "Pos": [
+                            -8, 47, 0.8967, 0.8967, 32, 38.4, 0, 0, 0.5219,
+                            0.5052
+                        ],
+                        "PrePos": [-0.0444, 0.2994, 0.1778, 0.2446],
+                        "MG": [-36.8, -75.2, -12.8, 19.2],
+                        "Tag": 26729787,
+                        "@": 26729788,
+                        "Alpha": 255,
+                        "Name": "rabbit",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [11, 57, 1, 1, 59, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 224, "G": 65, "B": 12 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0611, 0.3631, 0.3278, 0.2357],
+                        "MG": [177, -57, 11, 110],
+                        "IsCustomSize": true,
+                        "LabelText": "333",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 26729785,
+                        "@": 26729786,
+                        "Name": "target",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-85, 94, 1, 1, 154, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 89, "B": 173 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4722, 0.5987, 0.8556, 0.1911],
+                        "MG": [221, -94, -85, 111],
+                        "IsCustomSize": true,
+                        "LabelText": "昵称好友昵",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 26729783,
+                        "@": 26729784,
+                        "Name": "u_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-85, 125, 1, 1, 153, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 89, "B": 173 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4722, 0.7962, 0.85, 0.1911],
+                        "MG": [252, -125, -85, 112],
+                        "IsCustomSize": true,
+                        "LabelText": "全国第999名",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 26729781,
+                        "@": 26729782,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 180, "Y": 157 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

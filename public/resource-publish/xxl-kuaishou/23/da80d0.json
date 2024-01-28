@@ -1,0 +1,204 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/rope.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [99, -12, 1, 1, 6.4, 73.6, 0, 0, 0.4375, 0.5048],
+                        "PrePos": [0.1475, -0.0367, 0.0095, 0.2251],
+                        "MG": [92.8, 19.2, 158.4, 164.8],
+                        "Tag": 29325595,
+                        "@": 29325596,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/rope.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            575, -12, 1, 1, 6.4, 73.6, 0, 0, 0.4375, 0.5048
+                        ],
+                        "PrePos": [0.8569, -0.0367, 0.0095, 0.2251],
+                        "MG": [92.8, 19.2, 920, 926.4],
+                        "Tag": 29325593,
+                        "@": 29325594,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/newboards.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            0, -44, 1, 1, 676.8906, 235.5027, 0, 0, 0.0006,
+                            0.9994
+                        ],
+                        "PrePos": [0, -0.1346, 0.2551, 0.5235],
+                        "MG": [241.6, 70.4, 0, 171.2],
+                        "Scale9": [66, 72, 31, 22],
+                        "Tag": 29325591,
+                        "@": 29325592,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/title_time_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            361, -262, 1, 1, 252.8, 41.6, 0, 0, 0.0004, 0.9976
+                        ],
+                        "PrePos": [0.538, -0.8012, 0.3768, 0.1272],
+                        "MG": [460.8, 419.2, 577.6, 830.4],
+                        "Tag": 29325969,
+                        "@": 29325970,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [319, -270, 1, 1, 335, 30, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4754, -0.8257, 0.4993, 0.0917],
+                        "MG": [27, 270, 319, 17],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "距离活动结束",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 29325967,
+                        "@": 29325968,
+                        "Name": "cd",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [212, -91, 1, 1, 409, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 46, "G": 59, "B": 133 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3159, -0.2783, 0.6095, 0.1009],
+                        "MG": [203, 91, 212, 50],
+                        "IsCustomSize": true,
+                        "LabelText": "活动时间：5月1日~5月7日",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 29325589,
+                        "@": 29325590,
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_question2@6x.json"
+                        },
+                        "Pos": [503, -52, 1, 1, 47, 48, 0, 0, 0, 0],
+                        "PrePos": [0.7496, -0.159, 0.07, 0.1468],
+                        "MG": [227, 52, 503, 121],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325587,
+                        "@": 29325588,
+                        "Alpha": 255,
+                        "Name": "ques",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/title_img.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            115, -157, 1, 1, 163.2, 193.6, 0, 0, 0.4599, 0.5059
+                        ],
+                        "PrePos": [0.1714, -0.4801, 0.2432, 0.592],
+                        "MG": [444.8, 251.2, 184, 347.2],
+                        "Tag": 29325585,
+                        "@": 29325586,
+                        "Alpha": 255,
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [212, -126, 1, 1, 410, 95, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 0, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3159, -0.3853, 0.611, 0.2905],
+                        "MG": [106, 126, 212, 49],
+                        "IsCustomSize": true,
+                        "LabelText": "在活动期间内，闯关后获得的星星将注入许愿瓶，新玩家更容易获得星星哦！快去邀请新朋友一起闯关吧！",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 29325583,
+                        "@": 29325584,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/panel_title_title.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            335, -47, 1, 1, 259.2, 62.4, 0, 0, 0.4981, 0.5096
+                        ],
+                        "PrePos": [0.4993, -0.1437, 0.3863, 0.1908],
+                        "MG": [137.6, 75.2, 536, 795.2],
+                        "Tag": 29325581,
+                        "@": 29325582,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 671, "Y": 327 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

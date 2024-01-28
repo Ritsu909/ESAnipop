@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/share_bott_text.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [-58, -1, 1, 1, 190.4, 24, 0, 0, 0.5961, 0.5458],
+                        "PrePos": [-0.2555, -0.037, 0.8388, 0.8889],
+                        "MG": [25.6, 1.6, -92.8, 97.6],
+                        "Tag": 87667260,
+                        "@": 87667261,
+                        "Alpha": 255,
+                        "Name": "share_bott_text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/share_bott.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            41, -13, 0.4395, 0.4395, 70.4, 64, 0, 0, 0.5057,
+                            0.0047
+                        ],
+                        "PrePos": [0.1806, -0.4815, 0.3101, 2.3704],
+                        "MG": [84.8, 20.8, 65.6, 136],
+                        "Tag": 87667258,
+                        "@": 87667259,
+                        "Alpha": 255,
+                        "Name": "share_bott",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 227, "Y": 27 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

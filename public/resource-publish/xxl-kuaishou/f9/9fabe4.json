@@ -1,0 +1,213 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 691.2637, 727.4592, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [143, 79, 10, 9],
+                        "Tag": 84748644,
+                        "@": 84748645,
+                        "Alpha": 255,
+                        "Name": "yellowBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ad.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            345, -269, 1, 1, 612.8, 395.2, 0, 0, 0.4995, 0.5013
+                        ],
+                        "PrePos": [0.488, -0.3526, 0.8668, 0.518],
+                        "MG": [825.6, 430.4, 552, 1164.8],
+                        "Tag": 84748642,
+                        "@": 84748643,
+                        "Alpha": 255,
+                        "Name": "yellowBg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/dynamic_update_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [667, -19, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9434, -0.0249, 0.1117, 0.1035],
+                        "MG": [665, 19, 667, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748640,
+                        "@": 84748641,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/dynamic_update_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [336, -550, 1.25, 1.25, 277, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4752, -0.7208, 0.3918, 0.1573],
+                        "MG": [93, 550, 336, 94],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748638,
+                        "@": 84748639,
+                        "Alpha": 255,
+                        "Name": "confirm",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/dynamic_update_panel_dynamic_update_panel_progress@6x.json"
+                        },
+                        "Pos": [113, -578, 1, 1, 447, 49, 0, 0, 0, 0],
+                        "PrePos": [0.1598, -0.7575, 0.6322, 0.0642],
+                        "MG": [136, 578, 113, 147],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748634,
+                        "@": 84748635,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [271, -581, 1, 1, 130, 43, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3833, -0.7615, 0.1839, 0.0564],
+                        "MG": [139, 581, 271, 306],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "23%",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84748632,
+                        "@": 84748633,
+                        "Name": "pgtxt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [53, -85, 1, 1, 591, 215, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 159, "G": 113, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.075, -0.1114, 0.8359, 0.2818],
+                        "MG": [463, 85, 53, 63],
+                        "IsCustomSize": true,
+                        "LabelText": "210~225关心关卡开启啦！是否立刻下载新版本？",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 84748630,
+                        "@": 84748631,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [132, -478, 1, 1, 425, 70, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 159, "G": 113, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1867, -0.6265, 0.6011, 0.0917],
+                        "MG": [215, 478, 132, 150],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "210~225关心关卡开启啦！是否立刻下载新版本？",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 84748628,
+                        "@": 84748629,
+                        "Name": "label1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [44, -644, 1, 1, 601, 38, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 161, "G": 90, "B": 7 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0622, -0.844, 0.8501, 0.0498],
+                        "MG": [81, 644, 44, 62],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "本更新包约0.4M",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 84748626,
+                        "@": 84748627,
+                        "Name": "tip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [90, 36, 1, 1, 553, 94, 0, 0, 0, 1],
+                        "PrePos": [0.1273, 0.0472, 0.7822, 0.1232],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [705, -36, 90, 64],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "发现新版本啦！",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84748624,
+                        "@": 84748625,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 707, "Y": 763 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

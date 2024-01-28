@@ -1,0 +1,235 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 41,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        87595249,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595249,
+                        [
+                            { "P": [-40, -37.95], "I": 0, "T": 0 },
+                            { "P": [-40, -37.95], "I": 2, "T": 0 },
+                            { "P": [37.95, -37.95], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87595249,
+                        [
+                            { "P": [3.8518, 0.4787], "I": 0, "T": 0 },
+                            { "P": [3.8518, 0.4787], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87595249,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87595247,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 27,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595247,
+                        [
+                            { "P": [-168.5, -32.9], "I": 0, "T": 0 },
+                            { "P": [-168.5, -32.9], "I": 7, "T": 0 },
+                            { "P": [32.9, -32.9], "I": 27, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87595247,
+                        [
+                            { "P": [2.0587, 0.2882], "I": 0, "T": 0 },
+                            { "P": [2.0587, 0.2882], "I": 7, "T": 0 },
+                            { "P": [1, 1], "I": 27, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87595247,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 7, "T": 0 },
+                            { "V": 0, "I": 27, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87595245,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595245,
+                        [
+                            { "P": [-186.5, -23.45], "I": 0, "T": 0 },
+                            { "P": [-186.5, -23.45], "I": 19, "T": 0 },
+                            { "P": [23.45, -23.45], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87595245,
+                        [
+                            { "P": [0.5773, 0.375], "I": 0, "T": 0 },
+                            { "P": [0.5773, 0.375], "I": 19, "T": 0 },
+                            { "P": [1, 1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87595245,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 19, "T": 0 },
+                            { "V": 0, "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_effect_beam_move@6x.json"
+                        },
+                        "Pos": [-40, -37, 3.8518, 0.4787, 0, 0, 0, 0, 0, 0],
+                        "MG": [-37, 37, -40, 40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87595248,
+                        "@": 87595249,
+                        "Alpha": 0,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_effect_beam_move@6x.json"
+                        },
+                        "Pos": [-168, -32, 2.0587, 0.2882, 0, 0, 0, 0, 0, 0],
+                        "MG": [-32, 32, -168, 168],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87595246,
+                        "@": 87595247,
+                        "Alpha": 0,
+                        "Name": "3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_effect_beam_move@6x.json"
+                        },
+                        "Pos": [-186, -23, 0.5773, 0.375, 0, 0, 0, 0, 0, 0],
+                        "MG": [-23, 23, -186, 186],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87595244,
+                        "@": 87595245,
+                        "Alpha": 0,
+                        "Name": "1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,169 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_panel_bg2.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -42, 203, 1, 1, 414.9517, 211.944, 0, 0, 0.0007,
+                            0.9992
+                        ],
+                        "PrePos": [-0.1019, 0.8088, 0.3417, 0.4781],
+                        "MG": [-204.8, -324.8, -67.2, 73.6],
+                        "Scale9": [70, 40, 20, 20],
+                        "Tag": 29325379,
+                        "@": 29325380,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_panel_title_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            162, 202, 0.7877, 0.6672, 403.2, 91.2, 0, 0, 0.5,
+                            0.5
+                        ],
+                        "PrePos": [0.3932, 0.8048, 0.9786, 0.3633],
+                        "MG": [-232, -323.2, 259.2, 662.4],
+                        "Tag": 29325377,
+                        "@": 29325378,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [71, 220, 1, 1, 184, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 40, "G": 50, "B": 93 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1723, 0.8765, 0.4466, 0.1195],
+                        "MG": [441, -220, 71, 157],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "那个谁谁谁谁的队伍",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 29325375,
+                        "@": 29325376,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [165, 29, 0.6702, 0.6702, 273, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4005, 0.1155, 0.6626, 0.4781],
+                        "MG": [160, -29, 165, -26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325373,
+                        "@": 29325374,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_user_elem@6x.json"
+                        },
+                        "Pos": [159, 128, 1, 1, 100, 106, 0, 0, 0, 0],
+                        "PrePos": [0.3859, 0.51, 0.2427, 0.4223],
+                        "MG": [273, -128, 159, 153],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325371,
+                        "@": 29325372,
+                        "Alpha": 255,
+                        "Name": "head1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_user_elem@6x.json"
+                        },
+                        "Pos": [45, 116, 1, 1, 100, 106, 0, 0, 0, 0],
+                        "PrePos": [0.1092, 0.4622, 0.2427, 0.4223],
+                        "MG": [261, -116, 45, 267],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325369,
+                        "@": 29325370,
+                        "Alpha": 255,
+                        "Name": "head2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_user_elem@6x.json"
+                        },
+                        "Pos": [274, 116, 1, 1, 100, 106, 0, 0, 0, 0],
+                        "PrePos": [0.665, 0.4622, 0.2427, 0.4223],
+                        "MG": [261, -116, 274, 38],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325367,
+                        "@": 29325368,
+                        "Alpha": 255,
+                        "Name": "head3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_bottle_panel_rename.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            289, 197, 1, 1, 36.8, 36.8, 0, 0, 0.4918, 0.5082
+                        ],
+                        "PrePos": [0.7015, 0.7849, 0.0893, 0.1466],
+                        "MG": [-278.4, -315.2, 462.4, 499.2],
+                        "Tag": 29325365,
+                        "@": 29325366,
+                        "Alpha": 255,
+                        "Name": "rename",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 412, "Y": 251 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

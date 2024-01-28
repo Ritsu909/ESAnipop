@@ -1,0 +1,51 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_line.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1.0286, 465.6, 70.4, 0, 0, 1, 0.5014],
+                        "MG": [70.4, 0, 0, 465.6],
+                        "Tag": 3035256,
+                        "@": 3035257,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.44, 1.44, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "MG": [100.8, 0, 0, 100.8],
+                        "Tag": 3035254,
+                        "@": 3035255,
+                        "Alpha": 255,
+                        "Name": "prop",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 537, "Y": 144 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

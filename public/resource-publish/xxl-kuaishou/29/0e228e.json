@@ -1,0 +1,67 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 8,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        10128106,
+                        [
+                            { "P": [0.5, -0.45], "I": 0 },
+                            { "P": [0.5, -0.45], "I": 7, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        10128106,
+                        [
+                            {
+                                "P": [5.3623, 5.3623],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [1, 1], "I": 7, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10128106,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 7, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/mark.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 5.3623, 5.3623, 83.2, 83.2, 0, 0, 0.5024,
+                            0.4976
+                        ],
+                        "MG": [83.2, 0, 0, 83.2],
+                        "Tag": 10128105,
+                        "@": 10128106,
+                        "Alpha": 0,
+                        "Name": "outlineAnim",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

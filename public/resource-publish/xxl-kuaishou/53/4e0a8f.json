@@ -1,0 +1,1147 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 24,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        90392458,
+                        [
+                            {
+                                "P": [155.15, -101.5],
+                                "I": 0,
+                                "E": [0.2215, 0.7877, 0.6667, 1]
+                            },
+                            {
+                                "P": [304.45, -199.15],
+                                "I": 13,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [110.5, -72.35],
+                                "I": 19,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [73.65, -48.2], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392458,
+                        [
+                            {
+                                "P": [0.959, 0.959],
+                                "I": 0,
+                                "E": [0.2215, 0.7877, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.8817, 1.8817],
+                                "I": 13,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0.6829, 0.6829],
+                                "I": 19,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.4546, 0.4546], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392458,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 13 },
+                            { "V": 255, "I": 19 },
+                            { "V": 0, "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392074,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392074,
+                        [
+                            { "P": [0.6, -5.3], "I": 0, "T": 0 },
+                            { "P": [0.6, -5.3], "I": 1, "T": 0 },
+                            { "P": [0.6, -5.3], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392074,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 255, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392072,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392072,
+                        [
+                            { "P": [0.6, -5.3], "I": 0, "T": 0 },
+                            { "P": [0.6, -5.3], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392070,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392070,
+                        [
+                            { "P": [0.6, -5.3], "I": 0, "T": 0 },
+                            { "P": [0.6, -5.3], "I": 2, "T": 0 },
+                            { "P": [0.6, -5.3], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392070,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392068,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392068,
+                        [
+                            { "P": [-0.05, 10.3], "I": 0, "T": 0 },
+                            { "P": [-0.05, 10.3], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392066,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392066,
+                        [
+                            { "P": [-8.25, 28.55], "I": 0, "T": 0 },
+                            { "P": [-8.25, 28.55], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392064,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392064,
+                        [
+                            { "P": [-7.2, 6.45], "I": 0, "T": 0 },
+                            { "P": [-7.2, 6.45], "I": 1, "T": 0 },
+                            { "P": [-7.2, 6.45], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392064,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 255, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392062,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392062,
+                        [
+                            { "P": [-13.3, -5.3], "I": 0, "T": 0 },
+                            { "P": [-13.3, -5.3], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392060,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392060,
+                        [
+                            { "P": [-51.25, 19.1], "I": 0, "T": 0 },
+                            { "P": [-51.25, 19.1], "I": 1, "T": 0 },
+                            { "P": [-51.25, 19.1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392060,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 255, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392058,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392058,
+                        [
+                            { "P": [0.6, 13], "I": 0, "T": 0 },
+                            { "P": [0.6, 13], "I": 2, "T": 0 },
+                            { "P": [0.6, 13], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392058,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392056,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392056,
+                        [
+                            { "P": [-7.15, -4.05], "I": 0, "T": 0 },
+                            { "P": [-7.15, -4.05], "I": 2, "T": 0 },
+                            { "P": [-7.15, -4.05], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392056,
+                        [
+                            { "P": [0.7785, 0.7484], "I": 0, "T": 0 },
+                            { "P": [0.7785, 0.7484], "I": 2, "T": 0 },
+                            { "P": [0.7785, 0.7484], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392056,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392054,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392054,
+                        [
+                            { "P": [9.1, -23.35], "I": 0, "T": 0 },
+                            { "P": [9.1, -23.35], "I": 1, "T": 0 },
+                            { "P": [9.1, -23.35], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392054,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 255, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392052,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 3,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392052,
+                        [
+                            { "P": [1.45, -31.4], "I": 0, "T": 0 },
+                            { "P": [1.45, -31.4], "I": 3, "T": 0 },
+                            { "P": [1.45, -31.4], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392052,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3, "T": 0 },
+                            { "V": 255, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392050,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392050,
+                        [
+                            { "P": [-1.95, -74], "I": 0, "T": 0 },
+                            { "P": [-1.95, -74], "I": 4, "T": 0 },
+                            { "P": [-1.95, -74], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392050,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 4, "T": 0 },
+                            { "V": 255, "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392048,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392048,
+                        [
+                            { "P": [-8.75, -20.85], "I": 0, "T": 0 },
+                            { "P": [-8.75, -20.85], "I": 2, "T": 0 },
+                            { "P": [-8.75, -20.85], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392048,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392046,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392046,
+                        [
+                            { "P": [-22.65, -32.85], "I": 0, "T": 0 },
+                            { "P": [-22.65, -32.85], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392044,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392044,
+                        [
+                            { "P": [0.15, -0.3], "I": 0, "T": 0 },
+                            { "P": [0.15, -0.3], "I": 1, "T": 0 },
+                            { "P": [0.15, -0.3], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392044,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 255, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392042,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392042,
+                        [
+                            { "P": [27.5, -14.05], "I": 0, "T": 0 },
+                            { "P": [27.5, -14.05], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392456,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 17,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392456,
+                        [
+                            { "P": [269.85, 69.6], "I": 0, "T": 0 },
+                            { "P": [269.85, 69.6], "I": 17, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [
+                {
+                    "StartIndex": 0,
+                    "EndIndex": 15,
+                    "Name": "part1",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 152 }
+                },
+                {
+                    "StartIndex": 15,
+                    "EndIndex": 23,
+                    "Name": "part2",
+                    "RenderColor": { "A": 150, "R": 255, "G": 60, "B": 255 }
+                }
+            ],
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel_pass/bobobo_or.png",
+                            "Plist": "cocos/level_panel_pass@6x.plist"
+                        },
+                        "Pos": [
+                            155, -101, 0.959, 0.959, 184, 184, 0, 0, 1.378,
+                            -0.0707
+                        ],
+                        "MG": [345.6, 161.6, 248, 432],
+                        "Tag": 90392457,
+                        "@": 90392458,
+                        "Alpha": 255,
+                        "Name": "Layer14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [0, -5, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-5, 5, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392073,
+                        "@": 90392074,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [0, -5, 1, 1, 0, 0, 43.72, 43.72, 0, 0],
+                        "MG": [-5, 5, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392071,
+                        "@": 90392072,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            0, -5, 0.7986, 0.7986, 0, 0, 22.93, 22.93, 0, 0
+                        ],
+                        "MG": [-5, 5, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392069,
+                        "@": 90392070,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            0, 10, 1.0342, 1.0342, 0, 0, -40.32, -40.32, 0, 0
+                        ],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392067,
+                        "@": 90392068,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -8, 28, 0.6989, 0.6989, 0, 0, -76.71, -76.71, 0, 0
+                        ],
+                        "MG": [28, -28, -8, 8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392065,
+                        "@": 90392066,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -7, 6, 1.1111, 1.1111, 0, 0, -94.05, -94.05, 0, 0
+                        ],
+                        "MG": [6, -6, -7, 7],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392063,
+                        "@": 90392064,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_6",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -13, -5, 1.0701, 1.0701, 0, 0, -139.29, -139.29, 0,
+                            0
+                        ],
+                        "MG": [-5, 5, -13, 13],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392061,
+                        "@": 90392062,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -51, 19, 0.5337, 0.5337, 0, 0, -113.57, -113.57, 0,
+                            0
+                        ],
+                        "MG": [19, -19, -51, 51],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392059,
+                        "@": 90392060,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            0, 13, 0.6491, 0.6491, 0, 0, -29.81, -29.81, 0, 0
+                        ],
+                        "MG": [13, -13, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392057,
+                        "@": 90392058,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -7, -4, 0.7784, 0.7484, 0, 0, -166.61, -166.61, 0, 0
+                        ],
+                        "MG": [-4, 4, -7, 7],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392055,
+                        "@": 90392056,
+                        "Alpha": 0,
+                        "Name": "lightStarFx011",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            9, -23, 0.9819, 0.989, 0, 0, 94.66, 94.66, 0, 0
+                        ],
+                        "MG": [-23, 23, 9, -9],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392053,
+                        "@": 90392054,
+                        "Alpha": 0,
+                        "Name": "lightStarFx012",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            1, -31, 0.708, 0.708, 0, 0, 118.39, 118.39, 0, 0
+                        ],
+                        "MG": [-31, 31, 1, -1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392051,
+                        "@": 90392052,
+                        "Alpha": 0,
+                        "Name": "lightStarFx013",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -1, -74, 0.4937, 0.4879, 0, 0, 131.37, 131.37, 0, 0
+                        ],
+                        "MG": [-74, 74, -1, 1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392049,
+                        "@": 90392050,
+                        "Alpha": 0,
+                        "Name": "lightStarFx014",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -8, -20, 0.9917, 0.9917, 0, 0, 148.39, 148.39, 0, 0
+                        ],
+                        "MG": [-20, 20, -8, 8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392047,
+                        "@": 90392048,
+                        "Alpha": 0,
+                        "Name": "lightStarFx015",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            -22, -32, 0.6299, 0.6048, 0, 0, 163.39, 163.39, 0, 0
+                        ],
+                        "MG": [-32, 32, -22, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392045,
+                        "@": 90392046,
+                        "Alpha": 255,
+                        "Name": "lightStarFx016",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            0, 0, 1.0884, 1.0884, 0, 0, -174.65, -174.65, 0, 0
+                        ],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392043,
+                        "@": 90392044,
+                        "Alpha": 0,
+                        "Name": "lightStarFx017",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_0_or@6x.json"
+                        },
+                        "Pos": [
+                            27, -14, 0.555, 0.555, 0, 0, 67.41, 67.41, 0, 0
+                        ],
+                        "MG": [-14, 14, 27, -27],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392041,
+                        "@": 90392042,
+                        "Alpha": 255,
+                        "Name": "lightStarFx018",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_02bl@6x.json"
+                        },
+                        "Pos": [
+                            269, 69, 1.7244, 1.7236, 0, 0, 89.45, 89.45, 0, 0
+                        ],
+                        "MG": [69, -69, 269, -269],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392455,
+                        "@": 90392456,
+                        "Alpha": 255,
+                        "Name": "Layer13",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

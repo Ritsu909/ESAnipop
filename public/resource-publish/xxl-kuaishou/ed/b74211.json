@@ -1,0 +1,165 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_line.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -97, -95, 1.9575, 1.9575, 465.6, 70.4, 0, 0, 1,
+                            0.5014
+                        ],
+                        "PrePos": [-0.0794, -0.2493, 0.3813, 0.1848],
+                        "MG": [222.4, 152, -155.2, 310.4],
+                        "Tag": 3035272,
+                        "@": 3035273,
+                        "Alpha": 255,
+                        "Name": "line1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_line.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -421, 106, 1.7187, 1.7187, 465.6, 70.4, 0, 0, 1,
+                            0.5014
+                        ],
+                        "PrePos": [-0.3448, 0.2782, 0.3813, 0.1848],
+                        "MG": [-99.2, -169.6, -673.6, -208],
+                        "Tag": 3035270,
+                        "@": 3035271,
+                        "Alpha": 255,
+                        "Name": "line2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_line.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -303, -6, 1.1728, 1.1728, 465.6, 70.4, 0, 0, 1,
+                            0.5014
+                        ],
+                        "PrePos": [-0.2482, -0.0157, 0.3813, 0.1848],
+                        "MG": [80, 9.6, -484.8, -19.2],
+                        "Tag": 3035268,
+                        "@": 3035269,
+                        "Alpha": 255,
+                        "Name": "line3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_line.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -600, 30, 0.8992, 0.8992, 465.6, 70.4, 0, 0, 1,
+                            0.5014
+                        ],
+                        "PrePos": [-0.4914, 0.0787, 0.3813, 0.1848],
+                        "MG": [22.4, -48, -960, -494.4],
+                        "Tag": 3035266,
+                        "@": 3035267,
+                        "Alpha": 255,
+                        "Name": "line4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_star.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -97, -95, 1.9575, 1.9575, 100.8, 99.2, 0, 0, 0.4945,
+                            0.505
+                        ],
+                        "PrePos": [-0.0794, -0.2493, 0.0826, 0.2604],
+                        "MG": [251.2, 152, -155.2, -54.4],
+                        "Tag": 3035264,
+                        "@": 3035265,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_star.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -421, 106, 1.7187, 1.7187, 100.8, 99.2, 0, 0,
+                            0.4945, 0.505
+                        ],
+                        "PrePos": [-0.3448, 0.2782, 0.0826, 0.2604],
+                        "MG": [-70.4, -169.6, -673.6, -572.8],
+                        "Tag": 3035262,
+                        "@": 3035263,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_star.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -303, -6, 1.1728, 1.1728, 100.8, 99.2, 0, 0, 0.4945,
+                            0.505
+                        ],
+                        "PrePos": [-0.2482, -0.0157, 0.0826, 0.2604],
+                        "MG": [108.8, 9.6, -484.8, -384],
+                        "Tag": 3035260,
+                        "@": 3035261,
+                        "Alpha": 255,
+                        "Name": "star3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/res_init_prop_star.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -600, 30, 0.8992, 0.8992, 100.8, 99.2, 0, 0, 0.4945,
+                            0.505
+                        ],
+                        "PrePos": [-0.4914, 0.0787, 0.0826, 0.2604],
+                        "MG": [51.2, -48, -960, -859.2],
+                        "Tag": 3035258,
+                        "@": 3035259,
+                        "Alpha": 255,
+                        "Name": "star4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 1221, "Y": 381 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

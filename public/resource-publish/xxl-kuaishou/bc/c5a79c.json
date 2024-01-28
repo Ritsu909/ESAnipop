@@ -1,0 +1,150 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "Default/ImageFile.png"
+                        },
+                        "Pos": [
+                            -153, 50, 1, 1, 259.2, 98.0154, 0, 0, 0.0079, 0.9817
+                        ],
+                        "PrePos": [-0.4842, 0.3676, 0.6835, 0.6824],
+                        "MG": [12.8, -80, -244.8, -28.8],
+                        "Scale9": [20, 19, 91, 16],
+                        "Tag": 2040,
+                        "@": 2041,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-148, 36, 1, 1, 238, 61, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4684, 0.2647, 0.7532, 0.4485],
+                        "MG": [111, -36, -148, 226],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "99购买",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 2042,
+                        "@": 2043,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-148, 48, 1, 1, 150, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4684, 0.3529, 0.4747, 0.4118],
+                        "MG": [128, -48, -148, 314],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "9999\r",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 2044,
+                        "@": 2045,
+                        "Name": "图层 2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-148, 5, 1, 1, 150, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4684, 0.0368, 0.4747, 0.4118],
+                        "MG": [85, -5, -148, 314],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "9999\r",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 2046,
+                        "@": 2047,
+                        "Name": "图层 3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "Default/ImageFile.png"
+                        },
+                        "Pos": [
+                            -158, 42, 2.2453, 2.2453, 35.2, 35.2, 0, 0, 0.0483,
+                            0.9517
+                        ],
+                        "PrePos": [-0.5, 0.3088, 0.1114, 0.2588],
+                        "MG": [-32, -67.2, -252.8, -217.6],
+                        "Tag": 2048,
+                        "@": 2049,
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "Default/ImageFile.png"
+                        },
+                        "Pos": [125, 55, 1, 1, 68.8, 64, 0, 0, 0.4971, 0.5047],
+                        "PrePos": [0.3956, 0.4044, 0.2177, 0.4706],
+                        "MG": [-24, -88, 200, 268.8],
+                        "Tag": 2050,
+                        "@": 2051,
+                        "Name": "tagbg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [94, 84, 1, 1, 62, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2975, 0.6176, 0.1962, 0.4118],
+                        "MG": [164, -84, 94, 160],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "6\r",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 2052,
+                        "@": 2053,
+                        "Name": "discount",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 316, "Y": 136 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

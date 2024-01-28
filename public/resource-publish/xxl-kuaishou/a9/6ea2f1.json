@@ -1,0 +1,250 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            4, -6, 1, 1, 701.232, 987.3546, 0, 0, 0.0018, 0.9982
+                        ],
+                        "PrePos": [0.0058, -0.006, 0.0806, 0.0547],
+                        "MG": [64, 9.6, 6.4, 62.4],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 84746665,
+                        "@": 84746666,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/rewardChicken.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            462, -59, 1, 1, 209.6, 169.6, 0, 0, 0.0005, 0.9994
+                        ],
+                        "PrePos": [0.6647, -0.0594, 0.3016, 0.1706],
+                        "MG": [264, 94.4, 739.2, 948.8],
+                        "Tag": 84746663,
+                        "@": 84746664,
+                        "Alpha": 255,
+                        "Name": "chicken",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [342, -907, 1, 1, 269, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4921, -0.9125, 0.3871, 0.1227],
+                        "MG": [-35, 907, 342, 84],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746661,
+                        "@": 84746662,
+                        "Alpha": 255,
+                        "Name": "confirmBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            28, -213, 1, 1, 641.9784, 627.899, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.0403, -0.2143, 0.1128, 0.1304],
+                        "MG": [470.4, 340.8, 44.8, 123.2],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84746659,
+                        "@": 84746660,
+                        "Alpha": 255,
+                        "Name": "scrollBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [90, -686, 1, 1, 511, 109, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 22, "G": 162, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1295, -0.6901, 0.7353, 0.1097],
+                        "MG": [199, 686, 90, 94],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "今日已经发送给10位好友\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746825,
+                        "@": 84746826,
+                        "Name": "sendAll",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/sendAllChicken.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            219, -404, 1.25, 1.25, 312, 243.2, 0, 0, 0.2537,
+                            0.7539
+                        ],
+                        "PrePos": [0.3151, -0.4064, 0.4489, 0.2447],
+                        "MG": [889.6, 646.4, 350.4, 662.4],
+                        "Tag": 84746823,
+                        "@": 84746824,
+                        "Alpha": 153,
+                        "Name": "sendAllChicken",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [657, -37, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9453, -0.0372, 0.1223, 0.0835],
+                        "MG": [874, 37, 657, -47],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746657,
+                        "@": 84746658,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/squarewhite.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            603, -235, 1, 1, 30.4, 30.4, 0, 0, 0.0033, 0.9967
+                        ],
+                        "PrePos": [0.8676, -0.2364, 0.0437, 0.0306],
+                        "MG": [406.4, 376, 964.8, 995.2],
+                        "Scale9": [7, 7, 14, 14],
+                        "Tag": 84746655,
+                        "@": 84746656,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/nike_bottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            617, -248, 0.5, 0.5001, 83.2, 72, 0, 0, 0.494,
+                            0.5056
+                        ],
+                        "PrePos": [0.8878, -0.2495, 0.1197, 0.0724],
+                        "MG": [468.8, 396.8, 987.2, 1070.4],
+                        "Tag": 84746653,
+                        "@": 84746654,
+                        "Alpha": 255,
+                        "Name": "check",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [156, -231, 1, 1, 38, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 161, "G": 14, "B": 14 },
+                        "PrePos": [0.2245, -0.2324, 0.0547, 0.0372],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [726, 231, 156, 501],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "99",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746651,
+                        "@": 84746652,
+                        "Name": "numToday",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [458, -238, 1, 1, 131, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 41, "G": 115, "B": 148 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.659, -0.2394, 0.1885, 0.0302],
+                        "MG": [726, 238, 458, 106],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "全选",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746649,
+                        "@": 84746650,
+                        "Name": "selectAll",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [12, -117, 1, 1, 478, 76, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 41, "G": 115, "B": 148 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0173, -0.1177, 0.6878, 0.0765],
+                        "MG": [801, 117, 12, 205],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "每天给消消乐10位老友发送邀请，可以获得",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 84746647,
+                        "@": 84746648,
+                        "Name": "tip",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 695, "Y": 994 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

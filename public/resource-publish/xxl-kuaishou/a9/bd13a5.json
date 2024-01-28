@@ -1,0 +1,118 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "2": [
+                    { "X": 4.15, "Y": 337.9 },
+                    { "X": 26.95, "Y": 305.75 },
+                    { "X": -9.05, "Y": 266.3 },
+                    { "X": -34.45, "Y": 237.0 },
+                    { "X": 15.2, "Y": 207.05 },
+                    { "X": 31.45, "Y": 198.05 },
+                    { "X": 39.45, "Y": 186.9 },
+                    { "X": 47.15, "Y": 176.05 },
+                    { "X": 46.15, "Y": 164.6 },
+                    { "X": 45.1, "Y": 153.2 },
+                    { "X": 35.4, "Y": 142.9 },
+                    { "X": 25.4, "Y": 132.2 },
+                    { "X": 7.45, "Y": 124.25 },
+                    { "X": -39.6, "Y": 104.6 },
+                    { "X": -42.9, "Y": 77.85 },
+                    { "X": -46.45, "Y": 49.45 },
+                    { "X": -0.95, "Y": 12.0 },
+                    { "X": 18.95, "Y": -2.85 },
+                    { "X": 28.75, "Y": -14.05 },
+                    { "X": 39.3, "Y": -26.2 },
+                    { "X": 40.8, "Y": -37.1 },
+                    { "X": 42.3, "Y": -48.2 },
+                    { "X": 34.7, "Y": -60.1 },
+                    { "X": 27.35, "Y": -71.6 },
+                    { "X": 9.95, "Y": -86.1 }
+                ]
+            },
+            "Animation": {
+                "Duration": 160,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        50009,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 152,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 159,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "GuidePosition",
+                        50009,
+                        [
+                            { "P": [4.25, 337.75], "I": 0, "Tag": "2" },
+                            { "P": [27.6, -69.35], "I": 152, "Tag": "2" },
+                            {
+                                "P": [9.95, -86.05],
+                                "I": 159,
+                                "Tag": "2",
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50009,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 152 },
+                            { "V": 0, "I": 159, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/firework_CONFETTI_rotation@6x.json"
+                        },
+                        "Pos": [4, 337, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [337, -337, 4, -4],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Alpha": 255,
+                        "Name": "a",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

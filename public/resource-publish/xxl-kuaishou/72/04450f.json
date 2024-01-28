@@ -1,0 +1,98 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 462.5165, 255.9211, 0, 0, 0.0008, 0.9992
+                        ],
+                        "MG": [129.6, 0, 0, 129.6],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 29325571,
+                        "@": 29325572,
+                        "Alpha": 229,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            313, -181, 0.7501, 0.7501, 273, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.6804, -0.7126, 0.5935, 0.4724],
+                        "MG": [-47, 181, 313, -126],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325569,
+                        "@": 29325570,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_blue_start_@6x.json"
+                        },
+                        "Pos": [115, -180, 0.75, 0.75, 194, 120, 0, 0, 0, 0],
+                        "PrePos": [0.25, -0.7087, 0.4217, 0.4724],
+                        "MG": [-46, 180, 115, 151],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325567,
+                        "@": 29325568,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [54, -46, 1, 1, 342, 72, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 122, "B": 208 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1174, -0.1811, 0.7435, 0.2835],
+                        "MG": [136, 46, 54, 64],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "您已通过30关，可以独当一面啦！快去创建自己的队伍吧！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325565,
+                        "@": 29325566,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 460, "Y": 254 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

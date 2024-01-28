@@ -1,0 +1,187 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -241, 105, 1, 1, 376.4093, 88.1837, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.6444, 0.9906, 0.3337, 1.1774],
+                        "MG": [-43.2, -168, -385.6, -260.8],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 84751291,
+                        "@": 84751292,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -241, 105, 1, 1, 376.4093, 88.1837, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.6444, 0.9906, 0.3337, 1.1774],
+                        "MG": [-43.2, -168, -385.6, -260.8],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 84751289,
+                        "@": 84751290,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 18, 1.1144, 1.1144, 17.6, 17.6, 0, 0, 0.0057,
+                            0.9943
+                        ],
+                        "PrePos": [0, 0.1698, 0.0471, 0.166],
+                        "MG": [-11.2, -28.8, 0, 17.6],
+                        "Tag": 84751287,
+                        "@": 84751288,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/yellow_star.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -205, 62, 1.1757, 1.1757, 25.6, 24, 0, 0, 0.4844,
+                            0.5146
+                        ],
+                        "PrePos": [-0.5481, 0.5849, 0.0684, 0.2264],
+                        "MG": [-75.2, -99.2, -328, -302.4],
+                        "Tag": 84751285,
+                        "@": 84751286,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/orange_star.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -88, 63, 1.176, 1.176, 27.2, 24, 0, 0, 0.511, 0.4979
+                        ],
+                        "PrePos": [-0.2353, 0.5943, 0.0727, 0.2264],
+                        "MG": [-76.8, -100.8, -140.8, -113.6],
+                        "Tag": 84751283,
+                        "@": 84751284,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/blue_star.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            25, 63, 1.1757, 1.1757, 27.2, 24, 0, 0, 0.5147,
+                            0.4521
+                        ],
+                        "PrePos": [0.0668, 0.5943, 0.0727, 0.2264],
+                        "MG": [-76.8, -100.8, 40, 67.2],
+                        "Tag": 84751281,
+                        "@": 84751282,
+                        "Alpha": 255,
+                        "Name": "star3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-184, 79, 0.8915, 0.8915, 64, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [-0.492, 0.7453, 0.1711, 0.3113],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [152, -79, -184, 494],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "9999",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84751279,
+                        "@": 84751280,
+                        "Name": "score1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-66, 79, 0.8915, 0.8915, 64, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [-0.1765, 0.7453, 0.1711, 0.3113],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [152, -79, -66, 376],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "9999",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84751277,
+                        "@": 84751278,
+                        "Name": "score2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [45, 79, 0.8915, 0.8915, 64, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.1203, 0.7453, 0.1711, 0.3113],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [152, -79, 45, 265],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "9999",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84751275,
+                        "@": 84751276,
+                        "Name": "score3",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 374, "Y": 106 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_bag_panel/banner_short.png",
+                            "Plist": "cocos/prop_bag_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 48, 38.4, 0, 0, 0.0021, 0.9974],
+                        "MG": [38.4, 0, 0, 48],
+                        "Scale9": [19, 5, 4, 2],
+                        "Tag": 84745449,
+                        "@": 84745450,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [19, -6, 1, 1, 44, 23, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3016, -0.1579, 0.6984, 0.6053],
+                        "MG": [9, 6, 19, 0],
+                        "IsCustomSize": true,
+                        "LabelText": "限\\n",
+                        "FontSize": 15,
+                        "Shadow": [2, -2],
+                        "Tag": 84745447,
+                        "@": 84745448,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 63, "Y": 38 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

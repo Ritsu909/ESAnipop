@@ -1,0 +1,176 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 588.2976, 417.9277, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [22, 22, 17, 15],
+                        "Tag": 86607932,
+                        "@": 86607933,
+                        "Alpha": 255,
+                        "Name": "toast_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            55, -81, 1, 1, 477.2602, 94.4798, 0, 0, 0.0012,
+                            0.9987
+                        ],
+                        "PrePos": [0.0945, -0.1971, 0.143, 0.1908],
+                        "MG": [208, 129.6, 88, 171.2],
+                        "Scale9": [24, 22, 4, 4],
+                        "Tag": 86607930,
+                        "@": 86607931,
+                        "Alpha": 255,
+                        "Name": "pnl_common02",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pay_goods_info_bottom_startuistartbottommmm@6x.json"
+                        },
+                        "Pos": [288, -311, 0.85, 0.85, 497, 123, 0, 0, 0, 0],
+                        "PrePos": [0.4948, -0.7567, 0.854, 0.2993],
+                        "MG": [-23, 311, 288, -203],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86607928,
+                        "@": 86607929,
+                        "Alpha": 255,
+                        "Name": "startuistartbottommmm",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pay_goods_info_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [533, -44, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9158, -0.1071, 0.146, 0.2019],
+                        "MG": [284, 44, 533, -36],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86607926,
+                        "@": 86607927,
+                        "Alpha": 255,
+                        "Name": "offbottom_light_x",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [229, -199, 1, 1, 244, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 231, "G": 75, "B": 31 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3935, -0.4842, 0.4192, 0.09],
+                        "MG": [175, 199, 229, 109],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "金额：6.00元",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 86607924,
+                        "@": 86607925,
+                        "Name": "label_price",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [79, -109, 1, 1, 90, 50, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1357, -0.2652, 0.1546, 0.1217],
+                        "MG": [252, 109, 79, 413],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "商品",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 86607922,
+                        "@": 86607923,
+                        "Name": "panel_item",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [209, -109, 1, 1, 264, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3591, -0.2652, 0.4536, 0.1046],
+                        "MG": [259, 109, 209, 109],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "60风车币",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 86607920,
+                        "@": 86607921,
+                        "Name": "label_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pay_goods_info/btn_expand.png",
+                            "Plist": "cocos/pay_goods_info@6x.plist"
+                        },
+                        "Pos": [
+                            494, -139, 1, 1, 41.6, 28.8, 0, 0, 0.5168, 0.0486
+                        ],
+                        "PrePos": [0.8488, -0.3382, 0.0715, 0.0701],
+                        "MG": [251.2, 222.4, 790.4, 832],
+                        "Tag": 86607918,
+                        "@": 86607919,
+                        "Alpha": 255,
+                        "Name": "btn_expand",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 582, "Y": 411 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,94 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -137, 46, 1, 1, 291.4922, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.4724, 0.377, 0.6731, 0.9967],
+                        "MG": [48, -73.6, -219.2, -24],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84750041,
+                        "@": 84750042,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -137, 48, 1, 1, 291.9411, 119.94, 0, 0, 0.012,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4724, 0.3934, 0.6731, 0.9836],
+                        "MG": [43.2, -76.8, -219.2, -24],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84750039,
+                        "@": 84750040,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -137, 48, 1, 1, 291.4922, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4724, 0.3934, 0.6731, 0.9836],
+                        "MG": [43.2, -76.8, -219.2, -24],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84750037,
+                        "@": 84750038,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-112, 22, 1, 1, 220, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.3862, 0.1803, 0.7586, 0.4508],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [89, -22, -112, 182],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "确定",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84750035,
+                        "@": 84750036,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 290, "Y": 122 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

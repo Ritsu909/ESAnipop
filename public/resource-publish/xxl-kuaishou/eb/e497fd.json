@@ -1,0 +1,111 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -28, 1, 1, 644.825, 991.4242, 0, 0, 0.0002,
+                            0.9993
+                        ],
+                        "PrePos": [0, -0.0278, 0.9378, 0.1382],
+                        "MG": [184, 44.8, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 84748281,
+                        "@": 84748282,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_invite_panel/poser.png",
+                            "Plist": "cocos/energy_invite_panel@6x.plist"
+                        },
+                        "Pos": [
+                            322, -431, 1, 1, 598.4, 667.2, 0, 0, 0.499, 0.5007
+                        ],
+                        "PrePos": [0.4864, -0.428, 0.9039, 0.6626],
+                        "MG": [1356.8, 689.6, 515.2, 1113.6],
+                        "Tag": 84748279,
+                        "@": 84748280,
+                        "Alpha": 255,
+                        "Name": "poser",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_invite_panel/mask.png",
+                            "Plist": "cocos/energy_invite_panel@6x.plist"
+                        },
+                        "Pos": [
+                            29, -679, 58.5, 15.9999, 11.2, 11.2, 0, 0, 0.0089,
+                            0.9911
+                        ],
+                        "PrePos": [0.0438, -0.6743, 0.0169, 0.0111],
+                        "MG": [1097.6, 1086.4, 46.4, 57.6],
+                        "Tag": 84748277,
+                        "@": 84748278,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_invite_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [622, -50, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9396, -0.0497, 0.1193, 0.0785],
+                        "MG": [878, 50, 622, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748275,
+                        "@": 84748276,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            35, -679, 1, 1, 575.5147, 196.7198, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [0.0529, -0.6743, 0.1958, 0.1287],
+                        "MG": [1216, 1086.4, 56, 185.6],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 84748273,
+                        "@": 84748274,
+                        "Alpha": 255,
+                        "Name": "white",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 662, "Y": 1007 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

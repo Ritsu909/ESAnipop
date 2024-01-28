@@ -1,0 +1,83 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/fruite_purple.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [1, 11, 1, 1, 40, 59.2, -15, -15, 0.49, 0.5],
+                        "PrePos": [0.0161, 0.1549, 0.6452, 0.8338],
+                        "MG": [41.6, -17.6, 1.6, 41.6],
+                        "Tag": 3097056,
+                        "@": 3097057,
+                        "Alpha": 255,
+                        "Name": "purple",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/fruite_green.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [4, -1, 1, 1, 43.2, 41.6, 15, 15, 0.5, 0.5048],
+                        "PrePos": [0.0645, -0.0141, 0.6968, 0.5859],
+                        "MG": [43.2, 1.6, 6.4, 49.6],
+                        "Tag": 3097054,
+                        "@": 3097055,
+                        "Alpha": 255,
+                        "Name": "green",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/fruite_yellow.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [4, 3, 1, 1, 64, 51.2, 0, 0, 0.5109, 0.5],
+                        "PrePos": [0.0645, 0.0423, 1.0323, 0.7211],
+                        "MG": [46.4, -4.8, 6.4, 70.4],
+                        "Tag": 3097052,
+                        "@": 3097053,
+                        "Alpha": 255,
+                        "Name": "yellow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ice_chick/fruite_red2.png",
+                            "Plist": "cocos/ice_chick@6x.plist"
+                        },
+                        "Pos": [
+                            3, 0, 1, 1, 49.6, 46.4, 6.96, 6.96, 0.496, 0.5129
+                        ],
+                        "PrePos": [0.0484, 0, 0.8, 0.6535],
+                        "MG": [46.4, 0, 4.8, 54.4],
+                        "Tag": 3097050,
+                        "@": 3097051,
+                        "Alpha": 255,
+                        "Name": "red",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 62, "Y": 71 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

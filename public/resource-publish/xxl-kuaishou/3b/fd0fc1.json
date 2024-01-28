@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -203, 35, 1, 1, 410.9312, 72.5472, 0, 0, 0.002,
+                            0.9979
+                        ],
+                        "PrePos": [-0.4988, 0.493, 0.1258, 0.6761],
+                        "MG": [-8, -56, -324.8, -273.6],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 84744262,
+                        "@": 84744263,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-92, 15, 1, 1, 198, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 153, "B": 153 },
+                        "PrePos": [-0.226, 0.2113, 0.4865, 0.4789],
+                        "MG": [52, -15, -92, 301],
+                        "PlaceHolderText": "",
+                        "IsCustomSize": true,
+                        "LabelText": "请输入手机号",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84744260,
+                        "@": 84744261,
+                        "Name": "txt",
+                        "ctype": "TextFieldObjectData"
+                    }
+                ],
+                "Size": { "X": 407, "Y": 71 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

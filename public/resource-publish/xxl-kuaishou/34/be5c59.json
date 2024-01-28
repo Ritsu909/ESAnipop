@@ -1,0 +1,143 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        85383370,
+                        [
+                            { "P": [1.4666, 1.4704], "I": 0 },
+                            { "P": [1.6, 1.6], "I": 14, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 22 },
+                            {
+                                "P": [1, 1],
+                                "I": 38,
+                                "E": [0.3211, 0.476, 0.5813, 0.8]
+                            },
+                            { "P": [1.4, 1.4055], "I": 53 },
+                            { "P": [1.4571, 1.4611], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85383370,
+                        [
+                            { "V": 170, "I": 0 },
+                            { "V": 0, "I": 14, "T": 0 },
+                            { "V": 0, "I": 22 },
+                            { "V": 255, "I": 38 },
+                            { "V": 255, "I": 53 },
+                            { "V": 181, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383368,
+                        [
+                            { "P": [0.5, 0.5], "I": 0, "T": 0 },
+                            { "P": [0.5, 0.5], "I": 4 },
+                            {
+                                "P": [1, 1],
+                                "I": 20,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.4, 1.4055], "I": 35 },
+                            { "P": [1.6, 1.6], "I": 56, "T": 0 },
+                            { "P": [1.6, 1.6], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        85383368,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 4 },
+                            { "V": 255, "I": 20 },
+                            { "V": 255, "I": 35 },
+                            { "V": 0, "I": 56, "T": 0 },
+                            { "V": 0, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383366,
+                        [
+                            {
+                                "P": [0.9, 0.9],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1, 1],
+                                "I": 25,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [0.9, 0.9], "I": 45, "T": 0 },
+                            { "P": [0.9, 0.9], "I": 59, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.4666, 1.4704, 108.8, 84.8, 0, 0, 0.4963,
+                            0.5024
+                        ],
+                        "MG": [84.8, 0, 0, 108.8],
+                        "Tag": 85383369,
+                        "@": 85383370,
+                        "Alpha": 171,
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5, 0.5, 108.8, 84.8, 0, 0, 0.4963, 0.5024
+                        ],
+                        "MG": [84.8, 0, 0, 108.8],
+                        "Tag": 85383367,
+                        "@": 85383368,
+                        "Alpha": 0,
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/pointglow.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [0, 0, 0.9, 0.9, 120, 94.4, 0, 0, 0.5, 0.5032],
+                        "MG": [94.4, 0, 0, 120],
+                        "Tag": 85383365,
+                        "@": 85383366,
+                        "Alpha": 255,
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

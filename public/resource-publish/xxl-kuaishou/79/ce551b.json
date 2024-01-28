@@ -1,0 +1,205 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 617.591, 652.9574, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667294,
+                        "@": 87667295,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 617.591, 652.9574, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667306,
+                        "@": 87667307,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 617.591, 652.9574, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667304,
+                        "@": 87667305,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/magicpanelinside_21.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            58, -211, 1, 1, 515.4202, 70.2117, 0, 0, 0.0273,
+                            0.9916
+                        ],
+                        "PrePos": [0.094, -0.3246, 0.1245, 0.1009],
+                        "MG": [403.2, 337.6, 92.8, 169.6],
+                        "Scale9": [32, 29, 9, 8],
+                        "Tag": 87667292,
+                        "@": 87667293,
+                        "Alpha": 255,
+                        "Name": "name",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [27, -146, 1, 1, 561, 28, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 9, "G": 89, "B": 138 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0438, -0.2246, 0.9092, 0.0431],
+                        "MG": [476, 146, 27, 29],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "请填写以下信息，以便我们把奖励邮寄给您 \\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 87667290,
+                        "@": 87667291,
+                        "Name": "info",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [67, -50, 1.2, 1.2, 445, 66, 0, 0, 0, 1],
+                        "PrePos": [0.1086, -0.0769, 0.7212, 0.1015],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [534, 50, 67, 105],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "恭喜您获得玩偶",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87667288,
+                        "@": 87667289,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/magicpanelinside_21.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            58, -307, 1, 1, 515.4202, 70.2117, 0, 0, 0.0273,
+                            0.9916
+                        ],
+                        "PrePos": [0.094, -0.4723, 0.1245, 0.1009],
+                        "MG": [556.8, 491.2, 92.8, 169.6],
+                        "Scale9": [32, 29, 9, 8],
+                        "Tag": 87667286,
+                        "@": 87667287,
+                        "Alpha": 255,
+                        "Name": "phone",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/magicpanelinside_21.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            58, -402, 1, 1, 515.4202, 70.2117, 0, 0, 0.0273,
+                            0.9916
+                        ],
+                        "PrePos": [0.094, -0.6185, 0.1245, 0.1009],
+                        "MG": [708.8, 643.2, 92.8, 169.6],
+                        "Scale9": [32, 29, 9, 8],
+                        "Tag": 87667284,
+                        "@": 87667285,
+                        "Alpha": 255,
+                        "Name": "address",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_green_start@6x.json"
+                        },
+                        "Pos": [304, -551, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4927, -0.8477, 0.3144, 0.1877],
+                        "MG": [-23, 551, 304, 119],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667282,
+                        "@": 87667283,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            572, -43, 1.603, 1.603, 46.4, 46.4, 0, 0, 0.4871,
+                            0.5129
+                        ],
+                        "PrePos": [0.9271, -0.0662, 0.0752, 0.0714],
+                        "MG": [115.2, 68.8, 915.2, 961.6],
+                        "Tag": 87667280,
+                        "@": 87667281,
+                        "Alpha": 153,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 617, "Y": 650 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,63 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 6,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84749052,
+                        [
+                            { "P": [0.95, -1.05], "I": 0 },
+                            { "P": [0.95, -1.05], "I": 5, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84749052,
+                        [
+                            { "P": [0.9533, 0.9533], "I": 0 },
+                            { "P": [0.81, 0.81], "I": 5, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84749052,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 51, "I": 5, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_panel/w333rr.png",
+                            "Plist": "cocos/unlock_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -1, 0.9533, 0.9533, 52.8, 54.4, 0, 0, 0.4943,
+                            0.511
+                        ],
+                        "MG": [56, 1.6, 0, 52.8],
+                        "Tag": 84749051,
+                        "@": 84749052,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

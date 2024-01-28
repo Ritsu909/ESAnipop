@@ -1,0 +1,72 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/personalcredit02.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -72, 1, 1, 260.8, 36.8, 0, 0, 0.4994, 0.5177
+                        ],
+                        "PrePos": [0, -0.4211, 1.0031, 0.2152],
+                        "MG": [152, 115.2, 0, 260.8],
+                        "Tag": 84746563,
+                        "@": 84746564,
+                        "Alpha": 255,
+                        "Name": "color",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_friendRankCard@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 244, 163, 0, 0, 0, 0],
+                        "MG": [8, 0, 0, 16],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746561,
+                        "@": 84746562,
+                        "Alpha": 255,
+                        "Name": "card",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/personalcredit01.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -72, 1, 1, 273.6, 51.2, 0, 0, 0.4995, 0.5596
+                        ],
+                        "PrePos": [0, -0.4211, 1.0523, 0.2994],
+                        "MG": [166.4, 115.2, 0, 273.6],
+                        "Tag": 84746559,
+                        "@": 84746560,
+                        "Alpha": 255,
+                        "Name": "bottom",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 260, "Y": 171 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

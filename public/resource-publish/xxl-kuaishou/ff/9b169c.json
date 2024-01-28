@@ -1,0 +1,71 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/tabselected.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [5, 20, 1, 1, 179.2, 60.8, 0, 0, 0.5006, 0.5033],
+                        "PrePos": [0.0284, 0.3509, 1.0182, 1.0667],
+                        "MG": [28.8, -32, 8, 187.2],
+                        "Tag": 3310,
+                        "@": 3311,
+                        "Name": "selectedBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/tabunselected.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [7, 21, 1, 1, 177.6, 51.2, 0, 0, 0.4994, 0.5078],
+                        "PrePos": [0.0398, 0.3684, 1.0091, 0.8982],
+                        "MG": [17.6, -33.6, 11.2, 188.8],
+                        "Tag": 3312,
+                        "@": 3313,
+                        "Name": "normalBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-60, 32, 1, 1, 127, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 193, "G": 123, "B": 36 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3409, 0.5614, 0.7216, 0.4737],
+                        "MG": [62, -32, -60, 109],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "好友排名",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 3314,
+                        "@": 3315,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 176, "Y": 57 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

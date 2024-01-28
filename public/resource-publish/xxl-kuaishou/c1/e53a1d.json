@@ -1,0 +1,85 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 170,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        84251828,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.9991, 0.9991], "I": 94 },
+                            { "P": [1, 1], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84251828,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [16.56, 16.56], "I": 94 },
+                            { "P": [30, 30], "I": 169, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        84251828,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.68, 0.68, 0.68, 1],
+                                    "u_delta": [0.25, 0.19, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.68, 0.68, 0.68, 1],
+                                    "u_delta": [0.25, 0.19, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 94
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.68, 0.68, 0.68, 1],
+                                    "u_delta": [0.25, 0.19, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 169,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_skyWheel/weel_sky.png",
+                            "Plist": "cocos/homeAnim_skyWheel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 252.8, 252.8, 0, 0, 0.4986, 0.5014],
+                        "MG": [252.8, 0, 0, 252.8],
+                        "Tag": 84251827,
+                        "@": 84251828,
+                        "Alpha": 255,
+                        "Name": "wheel",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

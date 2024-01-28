@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_fontsize_rect.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 55, 43.9573, 15.5005, 8, 8, 0, 0, 0.0125,
+                            0.9875
+                        ],
+                        "PrePos": [-0.4972, 0.4231, 0.0227, 0.0615],
+                        "MG": [-80, -88, -280, -272],
+                        "Tag": 50092,
+                        "@": 50093,
+                        "Alpha": 0,
+                        "Name": "hit_area",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_buttons_button_common_ui_button_shadow.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -177, 46, 1.2185, 0.9518, 286.4, 124.8, 0, 0,
+                            0.0003, 0.9992
+                        ],
+                        "PrePos": [-0.5028, 0.3538, 0.8136, 0.96],
+                        "MG": [51.2, -73.6, -283.2, 3.2],
+                        "Tag": 50094,
+                        "@": 50095,
+                        "Alpha": 255,
+                        "Name": "_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_button_green_scale9.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 58, 1, 1, 346.7904, 126.0288, 0, 0, 0.0004,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4972, 0.4462, 0.75, 0.9846],
+                        "MG": [35.2, -92.8, -280, -16],
+                        "Scale9": [55, 26, 56, 28],
+                        "Tag": 50096,
+                        "@": 50097,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_fontsize_rect.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -144, 25, 34.2501, 7.9961, 8, 8, 0, 0, 0.0125,
+                            0.9875
+                        ],
+                        "PrePos": [-0.4091, 0.1923, 0.0227, 0.0615],
+                        "MG": [-32, -40, -230.4, -222.4],
+                        "Tag": 50098,
+                        "@": 50099,
+                        "Alpha": 255,
+                        "Name": "labelSize",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-145, 34, 1, 1, 274, 63, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4119, 0.2615, 0.7784, 0.4846],
+                        "MG": [101, -34, -145, 223],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "￥13.00购买",
+                        "FontSize": 45,
+                        "Shadow": [2, -2],
+                        "Tag": 50100,
+                        "@": 50101,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 352, "Y": 130 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

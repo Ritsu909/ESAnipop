@@ -1,0 +1,463 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 616, 713.944, 0, 0, 0.005, 0.9998],
+                        "MG": [488, 0, 0, 616],
+                        "Scale9": [353, 176, 7, 6],
+                        "Tag": 90391967,
+                        "@": 90391968,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/wavewet.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -602, 1, 1, 608, 202.499, 0, 0, 0.0002, 0.9985
+                        ],
+                        "PrePos": [0, -0.6143, 0.8117, 0.0702],
+                        "MG": [1032, 963.2, 0, 608],
+                        "Scale9": [151, 52, 329, 4],
+                        "Tag": 90392459,
+                        "@": 90392460,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_seabeach.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -602, 1, 1, 616, 283.5571, 0, 0, 0.0058, 0.9528
+                        ],
+                        "PrePos": [0, -0.6143, 0.8224, 0.2743],
+                        "MG": [1232, 963.2, 0, 616],
+                        "Scale9": [312, 126, 3, 4],
+                        "Tag": 90391965,
+                        "@": 90391966,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_sandpit002.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            303, -193, 1, 1, 601.6, 249.6, 0, 0, 0.5022, 0.5008
+                        ],
+                        "PrePos": [0.4045, -0.1969, 0.8032, 0.2547],
+                        "MG": [558.4, 308.8, 484.8, 1086.4],
+                        "Tag": 90391963,
+                        "@": 90391964,
+                        "Alpha": 255,
+                        "Name": "star_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_sandpit.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            306, -403, 0.9954, 1.1827, 390.4, 97.6, 0, 0,
+                            0.4985, 0.502
+                        ],
+                        "PrePos": [0.4085, -0.4112, 0.5212, 0.0996],
+                        "MG": [742.4, 644.8, 489.6, 880],
+                        "Tag": 90391961,
+                        "@": 90391962,
+                        "Alpha": 255,
+                        "Name": "prop_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel_pass/devideline.png",
+                            "Plist": "cocos/level_panel_pass@6x.plist"
+                        },
+                        "Pos": [255, -335, 1, 1, 75.2, 3.2, 0, 0, 0.9854, 0.5],
+                        "PrePos": [0.3405, -0.3418, 0.1004, 0.0033],
+                        "MG": [539.2, 536, 408, 483.2],
+                        "Tag": 90392121,
+                        "@": 90392122,
+                        "Alpha": 255,
+                        "Name": "dlLeft",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel_pass/devideline.png",
+                            "Plist": "cocos/level_panel_pass@6x.plist"
+                        },
+                        "Pos": [
+                            331, -338, 1, 1, 75.2, 3.2, 0, 180, 0.9854, 0.5
+                        ],
+                        "PrePos": [0.4419, -0.3449, 0.1004, 0.0033],
+                        "MG": [544, 540.8, 529.6, 604.8],
+                        "Tag": 90392119,
+                        "@": 90392120,
+                        "Alpha": 255,
+                        "Name": "dlRight",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [581, -26, 1, 1, 78, 79, 0, 0, 0, 0],
+                        "PrePos": [0.7757, -0.0265, 0.1041, 0.0806],
+                        "MG": [875, 26, 581, 90],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391959,
+                        "@": 90391960,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_rank_btn@6x.json"
+                        },
+                        "Pos": [0, -789, 1, 1, 303, 66, 0, 0, 0, 0],
+                        "PrePos": [0, -0.8051, 0.4045, 0.0673],
+                        "MG": [125, 789, 0, 446],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391957,
+                        "@": 90391958,
+                        "Alpha": 255,
+                        "Name": "rank_btn1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_rank_btn@6x.json"
+                        },
+                        "Pos": [602, -789, 1, 1, 303, 66, 0, 180, 0, 0],
+                        "PrePos": [0.8037, -0.8051, 0.4045, 0.0673],
+                        "MG": [125, 789, 602, -156],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391955,
+                        "@": 90391956,
+                        "Alpha": 255,
+                        "Name": "rank_btn2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star_shadow01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            109, -236, 1.2732, 1.2732, 140.8, 147.2, -8.05,
+                            -8.05, 0.4961, 0.5041
+                        ],
+                        "PrePos": [0.1455, -0.2408, 0.188, 0.1502],
+                        "MG": [524.8, 377.6, 174.4, 315.2],
+                        "Tag": 90391953,
+                        "@": 90391954,
+                        "Alpha": 255,
+                        "Name": "shadow1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star_shadow01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            304, -179, 1.3264, 1.3264, 140.8, 147.2, 0, 0,
+                            0.4961, 0.5041
+                        ],
+                        "PrePos": [0.4059, -0.1827, 0.188, 0.1502],
+                        "MG": [433.6, 286.4, 486.4, 627.2],
+                        "Tag": 90391951,
+                        "@": 90391952,
+                        "Alpha": 255,
+                        "Name": "shadow2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star_shadow02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            471, -264, 1.0703, 1.0703, 225.6, 142.4, 19.99,
+                            19.99, 0.4978, 0.5112
+                        ],
+                        "PrePos": [0.6288, -0.2694, 0.3012, 0.1453],
+                        "MG": [564.8, 422.4, 753.6, 979.2],
+                        "Tag": 90391949,
+                        "@": 90391950,
+                        "Alpha": 255,
+                        "Name": "shadow3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star1_empty.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            111, -215, 1.1985, 1.1985, 147.2, 147.2, -25.05,
+                            -25.05, 0.4963, 0.5
+                        ],
+                        "PrePos": [0.1482, -0.2194, 0.1965, 0.1502],
+                        "MG": [491.2, 344, 177.6, 324.8],
+                        "Tag": 90391947,
+                        "@": 90391948,
+                        "Alpha": 255,
+                        "Name": "star_e1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star1_empty.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            302, -180, 1.2, 1.2, 147.2, 147.2, 0, 0, 0.4963, 0.5
+                        ],
+                        "PrePos": [0.4032, -0.1837, 0.1965, 0.1502],
+                        "MG": [435.2, 288, 483.2, 630.4],
+                        "Tag": 90391945,
+                        "@": 90391946,
+                        "Alpha": 255,
+                        "Name": "star_e2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star1_empty.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            491, -215, 1.1985, 1.1985, 147.2, 147.2, 25.05,
+                            25.05, 0.4963, 0.5
+                        ],
+                        "PrePos": [0.6555, -0.2194, 0.1965, 0.1502],
+                        "MG": [491.2, 344, 785.6, 932.8],
+                        "Tag": 90391943,
+                        "@": 90391944,
+                        "Alpha": 255,
+                        "Name": "star_e3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_star2_full2@6x.json"
+                        },
+                        "Pos": [110, -216, 1.25, 1.25, 0, 0, -25, -25, 0, 0],
+                        "PrePos": [0.1469, -0.2204, 0, 0],
+                        "MG": [764, 216, 110, 639],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391941,
+                        "@": 90391942,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_star2_full2@6x.json"
+                        },
+                        "Pos": [301, -178, 1.25, 1.25, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4019, -0.1816, 0, 0],
+                        "MG": [802, 178, 301, 448],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391939,
+                        "@": 90391940,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_starstar_redglow2@6x.json"
+                        },
+                        "Pos": [
+                            488, -218, 1.1985, 1.1985, 0, 0, 25.03, 25.03, 0, 0
+                        ],
+                        "PrePos": [0.6515, -0.2224, 0, 0],
+                        "MG": [762, 218, 488, 261],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391937,
+                        "@": 90391938,
+                        "Alpha": 255,
+                        "Name": "star3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            317, 58, 1, 1, 100.8, 100.8, 0, 0, 0.497, 0.503
+                        ],
+                        "PrePos": [0.4232, 0.0592, 0.1346, 0.1029],
+                        "MG": [8, -92.8, 507.2, 608],
+                        "Tag": 90391935,
+                        "@": 90391936,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [169, -535, 1, 1, 272, 123, 0, 0, 0, 0],
+                        "PrePos": [0.2256, -0.5459, 0.3632, 0.1255],
+                        "MG": [322, 535, 169, 308],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391933,
+                        "@": 90391934,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_bottom_btn_orange_show@6x.json"
+                        },
+                        "Pos": [443, -531, 1, 1, 266, 123, 0, 0, 0, 0],
+                        "PrePos": [0.5915, -0.5418, 0.3551, 0.1255],
+                        "MG": [326, 531, 443, 40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391931,
+                        "@": 90391932,
+                        "Alpha": 255,
+                        "Name": "showoff",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [268, -320, 0.6308, 0.6308, 53, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 209, "G": 145, "B": 98 },
+                        "PrePos": [0.3578, -0.3265, 0.0708, 0.0357],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [625, 320, 268, 428],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "奖励",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 90391929,
+                        "@": 90391930,
+                        "Name": "propDeco",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [225, -39, 0.6316, 0.6316, 53, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 209, "G": 145, "B": 98 },
+                        "PrePos": [0.3004, -0.0398, 0.0708, 0.0357],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [906, 39, 225, 471],
+                        "IsCustomSize": true,
+                        "LabelText": "得分",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 90391927,
+                        "@": 90391928,
+                        "Name": "scoreTxt",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [286, -36, 0.6233, 0.6233, 138, 34, 0, 0, 0, 1],
+                        "PrePos": [0.3818, -0.0367, 0.1842, 0.0347],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [910, 36, 286, 325],
+                        "IsCustomSize": true,
+                        "LabelText": "1234567890/",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 90391925,
+                        "@": 90391926,
+                        "Name": "score",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 749, "Y": 980 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

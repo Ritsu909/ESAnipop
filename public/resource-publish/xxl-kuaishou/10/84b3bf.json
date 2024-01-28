@@ -1,0 +1,138 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 161,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        1053385,
+                        [
+                            {
+                                "P": [0.25, 0.15],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "P": [0.25, 0.15],
+                                "I": 160,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        1053383,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 160,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        1053383,
+                        [
+                            {
+                                "P": [-6.55, 69.1],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "P": [-6.55, 69.1],
+                                "I": 160,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        1053381,
+                        [
+                            {
+                                "P": [-6.65, 68.2],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "P": [-6.65, 68.2],
+                                "I": 160,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/wind_weel_house_small_down.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 51.2, 97.6, 0, 0, 0.168, 0.1906],
+                        "MG": [97.6, 0, 0, 51.2],
+                        "Tag": 1053384,
+                        "@": 1053385,
+                        "Alpha": 255,
+                        "Name": "wind_weel_house_small_down",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeAnim_wind_weel_house_small_weel@6x.json"
+                        },
+                        "Pos": [-6, 69, 0.473, 0.5322, 0, 0, 0, 33.87, 0, 0],
+                        "MG": [69, -69, -6, 6],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1053382,
+                        "@": 1053383,
+                        "Alpha": 255,
+                        "Name": "wind_weel_house_small_weel",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/wind_weel_small_i.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [-6, 68, 1, 1, 9.6, 8, 0, 0, 0.5781, 0.4938],
+                        "MG": [-100.8, -108.8, -9.6, 0],
+                        "Tag": 1053380,
+                        "@": 1053381,
+                        "Alpha": 255,
+                        "Name": "wind_weel_small_i",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

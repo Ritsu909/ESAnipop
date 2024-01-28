@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shop_item_label/bg.png",
+                            "Plist": "cocos/shop_item_label@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 113.6, 140.8, 0, 0, 0.504, 0.5249],
+                        "MG": [140.8, 0, 0, 113.6],
+                        "Tag": 84015860,
+                        "@": 84015861,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-29, 35, 1.1191, 1.1191, 58, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 120, "B": 25 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2959, 0.2756, 0.5918, 0.3071],
+                        "MG": [123, -35, -29, 69],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "超值",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 84015858,
+                        "@": 84015859,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 98, "Y": 127 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,121 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -104, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.2127, 0.4976, 0.144, 0.3336],
+                        "MG": [-97.6, -168, -166.4, -96],
+                        "Tag": 80343684,
+                        "@": 80343685,
+                        "Alpha": 255,
+                        "Name": "frog1343434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -104, -34, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.2127, -0.1611, 0.144, 0.3336],
+                        "MG": [124.8, 54.4, -166.4, -96],
+                        "Tag": 80343688,
+                        "@": 80343689,
+                        "Alpha": 255,
+                        "Name": "beer676767",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -104, 35, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.2127, 0.1659, 0.144, 0.3336],
+                        "MG": [14.4, -56, -166.4, -96],
+                        "Tag": 80343684,
+                        "@": 80343685,
+                        "Alpha": 255,
+                        "Name": "frog1343434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-245, 35, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.501, 0.1659, 0.144, 0.3412],
+                        "MG": [16, -56, -392, -321.6],
+                        "Tag": 80343686,
+                        "@": 80343687,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -245, -34, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.501, -0.1611, 0.144, 0.3412],
+                        "MG": [126.4, 54.4, -392, -321.6],
+                        "Tag": 80343686,
+                        "@": 80343687,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            174, -34, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3558, -0.1611, 0.144, 0.3336],
+                        "MG": [124.8, 54.4, 278.4, 348.8],
+                        "Tag": 80343684,
+                        "@": 80343685,
+                        "Alpha": 255,
+                        "Name": "frog1343434",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 489, "Y": 211 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

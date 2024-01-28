@@ -1,0 +1,112 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_energy_under.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 46.4, 0, 0, 0.4823, 0.4989],
+                        "MG": [46.4, 0, 0, 36.8],
+                        "Tag": 28250481,
+                        "@": 28250482,
+                        "Alpha": 255,
+                        "Name": "icon_under",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_energy_up.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            1, -2, 0.5625, 0.5625, 96, 96, 0, 0, 0.501, 0.499
+                        ],
+                        "PrePos": [0.008, -0.037, 0.768, 1.7778],
+                        "MG": [99.2, 3.2, 1.6, 97.6],
+                        "Tag": 28250479,
+                        "@": 28250480,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_five_under.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [44, 4, 1, 1, 54.4, 36.8, 0, 0, 0.318, 0.4633],
+                        "PrePos": [0.352, 0.0741, 0.4352, 0.6815],
+                        "MG": [30.4, -6.4, 70.4, 124.8],
+                        "Tag": 28250477,
+                        "@": 28250478,
+                        "Alpha": 255,
+                        "Name": "five_under",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_five.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [44, 4, 1, 1, 54.4, 36.8, 0, 0, 0.318, 0.4633],
+                        "PrePos": [0.352, 0.0741, 0.4352, 0.6815],
+                        "MG": [30.4, -6.4, 70.4, 124.8],
+                        "Tag": 28250475,
+                        "@": 28250476,
+                        "Alpha": 255,
+                        "Name": "five",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_ten_under.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [53, 5, 1, 1, 73.6, 36.8, 0, 0, 0.3567, 0.4633],
+                        "PrePos": [0.424, 0.0926, 0.5888, 0.6815],
+                        "MG": [28.8, -8, 84.8, 158.4],
+                        "Tag": 28250473,
+                        "@": 28250474,
+                        "Alpha": 255,
+                        "Name": "ten_under",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/mc_ten.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [52, 4, 1, 1, 73.6, 36.8, 0, 0, 0.3567, 0.6372],
+                        "PrePos": [0.416, 0.0741, 0.5888, 0.6815],
+                        "MG": [30.4, -6.4, 83.2, 156.8],
+                        "Tag": 28250471,
+                        "@": 28250472,
+                        "Alpha": 255,
+                        "Name": "ten",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 125, "Y": 54 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

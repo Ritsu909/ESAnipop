@@ -1,0 +1,80 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -300, 155, 1, 1, 599.1398, 311.2387, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.5034, 0.5, 0.2094, 0.4026],
+                        "MG": [-123.2, -248, -480, -355.2],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 1051405,
+                        "@": 1051406,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_btn_green_start_wide@6x.json"
+                        },
+                        "Pos": [0, -87, 0.7365, 0.7365, 290, 122, 0, 0, 0, 0],
+                        "PrePos": [0, -0.2806, 0.4866, 0.3935],
+                        "MG": [101, 87, 0, 306],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051403,
+                        "@": 1051404,
+                        "Alpha": 255,
+                        "Name": "btn_ok",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-262, 50, 1, 1, 521, 75, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 109, "G": 57, "B": 50 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4396, 0.1613, 0.8742, 0.2419],
+                        "MG": [285, -50, -262, 337],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 1051407,
+                        "@": 1051408,
+                        "Name": "txt_tip1",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 596, "Y": 310 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,156 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2_1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 621.5827, 502.2582, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667342,
+                        "@": 87667343,
+                        "Alpha": 255,
+                        "Name": "background1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2_1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 621.5827, 502.2582, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667340,
+                        "@": 87667341,
+                        "Alpha": 255,
+                        "Name": "background2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rank_magicpanle_new2_1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 621.5827, 502.2582, 0, 0, 0.0005, 0.9997
+                        ],
+                        "MG": [310.4, 0, 0, 211.2],
+                        "Scale9": [52, 76, 105, 154],
+                        "Tag": 87667338,
+                        "@": 87667339,
+                        "Alpha": 255,
+                        "Name": "background3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/start_panel_black_bg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [312, -376, 1, 1, 592, 243.2, 0, 0, 0.5002, 0.5],
+                        "PrePos": [0.5024, -0.752, 0.9533, 0.4864],
+                        "MG": [844.8, 601.6, 499.2, 1091.2],
+                        "Tag": 87667336,
+                        "@": 87667337,
+                        "Alpha": 178,
+                        "Name": "start_panel_black_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/light.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            310, -243, 1, 1, 361.6, 91.2, 0, 0, 0.4982, 0.4995
+                        ],
+                        "PrePos": [0.4992, -0.486, 0.5823, 0.1824],
+                        "MG": [480, 388.8, 496, 857.6],
+                        "Tag": 87667334,
+                        "@": 87667335,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [186, -36, 1.2, 1.2, 247, 66, 0, 0, 0, 1],
+                        "PrePos": [0.2995, -0.072, 0.3977, 0.132],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [398, 36, 186, 188],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "第XXX关",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87667332,
+                        "@": 87667333,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/titleimg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            310, -145, 1, 1, 124.8, 43.2, 0, 0, 0.4976, 0.5
+                        ],
+                        "PrePos": [0.4992, -0.29, 0.201, 0.0864],
+                        "MG": [275.2, 232, 496, 620.8],
+                        "Tag": 87667330,
+                        "@": 87667331,
+                        "Alpha": 255,
+                        "Name": "title2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/close_btn_blue.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            565, -44, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.9098, -0.088, 0.1391, 0.1728],
+                        "MG": [156.8, 70.4, 904, 990.4],
+                        "Tag": 87667328,
+                        "@": 87667329,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 621, "Y": 500 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

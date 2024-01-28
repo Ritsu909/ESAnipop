@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_transparent_rect.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            2, -3, 7.1899, 1, 30.4, 30.4, 0, 0, 0.0033, 0.9967
+                        ],
+                        "PrePos": [0.0091, -0.0667, 0.1388, 0.6756],
+                        "MG": [35.2, 4.8, 3.2, 33.6],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "touch_area",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_quick_pay_cells_checkBg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 35.2, 35.2, 0, 0, 0.0028, 0.9972],
+                        "MG": [35.2, 0, 0, 35.2],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 255,
+                        "Name": "checkBg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_quick_pay_cells_checkIcon.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [-2, 6, 1, 1, 46.4, 40, 0, 0, 0.0022, 0.9975],
+                        "PrePos": [-0.0091, 0.1333, 0.2119, 0.8889],
+                        "MG": [30.4, -9.6, -3.2, 43.2],
+                        "Tag": 50004,
+                        "@": 50005,
+                        "Alpha": 255,
+                        "Name": "checkIcon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [39, -4, 1, 1, 177, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1781, -0.0889, 0.8082, 0.7778],
+                        "MG": [6, 4, 39, 3],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "开通支付宝快付",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 219, "Y": 45 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

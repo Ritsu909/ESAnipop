@@ -1,0 +1,176 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/reward_box_panel_bg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 939.2, 913.6, 0, 0, 0.4994, 0.5351],
+                        "MG": [913.6, 0, 0, 939.2],
+                        "Tag": 87667338,
+                        "@": 87667339,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/reward_box_panel_bg2.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [18, 0, 1, 1, 512, 376, 0, 0, 0.5015, 0.4995],
+                        "PrePos": [0.0192, 0, 0.5464, 0.4052],
+                        "MG": [376, 0, 28.8, 540.8],
+                        "Tag": 87667336,
+                        "@": 87667337,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/textimg.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            23, -213, 1, 1, 430.4, 76.8, 0, 0, 0.5078, 0.5208
+                        ],
+                        "PrePos": [0.0245, -0.2295, 0.4593, 0.0828],
+                        "MG": [417.6, 340.8, 36.8, 467.2],
+                        "Tag": 87667334,
+                        "@": 87667335,
+                        "Alpha": 255,
+                        "Name": "descb_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_green_start3@6x.json"
+                        },
+                        "Pos": [-27, -309, 1, 1, 346, 122, 0, 0, 0, 0],
+                        "PrePos": [-0.0288, -0.333, 0.3693, 0.1315],
+                        "MG": [497, 309, -27, 618],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667330,
+                        "@": 87667331,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-91, -376, 1, 1, 178, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 88, "B": 166 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0971, -0.4052, 0.19, 0.0366],
+                        "MG": [518, 376, -91, 850],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "拥有：5000\\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 87667326,
+                        "@": 87667327,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/color_heart.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            101, -393, 0.21, 0.21, 219.2, 169.6, 0, 0, 0.5,
+                            0.5015
+                        ],
+                        "PrePos": [0.1078, -0.4235, 0.2339, 0.1828],
+                        "MG": [798.4, 628.8, 161.6, 380.8],
+                        "Tag": 87667408,
+                        "@": 87667409,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/panel_group_top.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            18, 305, 1, 1, 700.8, 288, 0, 0, 0.5004, 0.5269
+                        ],
+                        "PrePos": [0.0192, 0.3287, 0.7479, 0.3103],
+                        "MG": [-200, -488, 28.8, 729.6],
+                        "Tag": 87667406,
+                        "@": 87667407,
+                        "Alpha": 255,
+                        "Name": "panel_group_top",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/titleimg1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            23, 337, 1, 1, 347.2, 86.4, 0, 0, 0.4986, 0.5069
+                        ],
+                        "PrePos": [0.0245, 0.3631, 0.3705, 0.0931],
+                        "MG": [-452.8, -539.2, 36.8, 384],
+                        "Tag": 87667404,
+                        "@": 87667405,
+                        "Alpha": 255,
+                        "Name": "titleimg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/close_btn_blue.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            321, 255, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.3426, 0.2748, 0.0922, 0.0931],
+                        "MG": [-321.6, -408, 513.6, 600],
+                        "Tag": 87667328,
+                        "@": 87667329,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 937, "Y": 928 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

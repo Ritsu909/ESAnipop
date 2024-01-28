@@ -1,0 +1,149 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted_succeed/bg.png",
+                            "Plist": "cocos/wanted_succeed@6x.plist"
+                        },
+                        "Pos": [
+                            0, -46, 1, 1, 686.4, 603.2, 0, 0, 0.0022, 0.9998
+                        ],
+                        "PrePos": [0, -0.0711, 1.002, 0.9323],
+                        "MG": [676.8, 73.6, 0, 686.4],
+                        "Tag": 79972770,
+                        "@": 79972771,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted_succeed/finish.png",
+                            "Plist": "cocos/wanted_succeed@6x.plist"
+                        },
+                        "Pos": [
+                            155, 0, 1, 1, 374.4, 92.8, 0, 0, 0.0003, 0.9989
+                        ],
+                        "PrePos": [0.2263, 0, 0.5466, 0.1434],
+                        "MG": [92.8, 0, 248, 622.4],
+                        "Tag": 79972788,
+                        "@": 79972789,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [162, -350, 0.6098, 0.6098, 329, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [0.2365, -0.541, 0.4803, 0.0526],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [263, 350, 162, 194],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "分数：280000    排名：10",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 79972768,
+                        "@": 79972769,
+                        "Name": "score",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [65, -448, 0.6098, 0.6098, 526, 72, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0949, -0.6924, 0.7679, 0.1113],
+                        "MG": [127, 448, 65, 94],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "当前悬赏结束后才可以领取奖励，前3名的玩家才有资格瓜分赏金哦！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 79972790,
+                        "@": 79972791,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            623, -106, 1.3, 1.3, 46.4, 46.4, 0, 0, 0.4871, 0.514
+                        ],
+                        "PrePos": [0.9095, -0.1638, 0.0677, 0.0717],
+                        "MG": [216, 169.6, 996.8, 1043.2],
+                        "Tag": 79972766,
+                        "@": 79972767,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_succeed_retry_btn@6x.json"
+                        },
+                        "Pos": [202, -532, 1, 1, 230, 104, 0, 0, 0, 0],
+                        "PrePos": [0.2949, -0.8223, 0.3358, 0.1607],
+                        "MG": [11, 532, 202, 253],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 79972764,
+                        "@": 79972765,
+                        "Alpha": 255,
+                        "Name": "retry_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_succeed_ok_btn@6x.json"
+                        },
+                        "Pos": [489, -532, 0.8, 0.87, 194, 119, 0, 0, 0, 0],
+                        "PrePos": [0.7139, -0.8223, 0.2832, 0.1839],
+                        "MG": [-4, 532, 489, 2],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 79972762,
+                        "@": 79972763,
+                        "Alpha": 255,
+                        "Name": "ok_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 685, "Y": 647 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,116 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "new_user_reward_panel/leaves.png",
+                            "Plist": "cocos/new_user_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            183, 38, 1, 1, 196.8, 115.2, 0, 0, 0.0168, 0.9262
+                        ],
+                        "PrePos": [0.3291, 0.0541, 0.354, 0.1639],
+                        "MG": [54.4, -60.8, 292.8, 489.6],
+                        "Tag": 84747500,
+                        "@": 84747501,
+                        "Alpha": 255,
+                        "Name": "deco",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -49, 1, 1, 556.7334, 607.8725, 0, 0, 0.0002,
+                            0.9993
+                        ],
+                        "PrePos": [0, -0.0697, 1.1165, 0.198],
+                        "MG": [217.6, 78.4, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 84747506,
+                        "@": 84747507,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/second_board.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            52, -173, 1, 1, 448.3318, 196.1944, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [0.0935, -0.2461, 0.3856, 0.2344],
+                        "MG": [441.6, 276.8, 83.2, 297.6],
+                        "Scale9": [106, 79, 4, 4],
+                        "Tag": 84747504,
+                        "@": 84747505,
+                        "Alpha": 255,
+                        "Name": "energybg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_user_reward_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [225, -555, 1, 1, 291, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4047, -0.7895, 0.5234, 0.1735],
+                        "MG": [26, 555, 225, 40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747502,
+                        "@": 84747503,
+                        "Alpha": 255,
+                        "Name": "getbtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [218, -215, 1, 1, 260, 107, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3921, -0.3058, 0.4676, 0.1522],
+                        "MG": [381, 215, 218, 78],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "1小时内进行关卡挑战不消耗任何体力，领取后立即生效\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84747496,
+                        "@": 84747497,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 556, "Y": 703 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

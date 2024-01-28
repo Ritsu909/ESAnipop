@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 26,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        10128070,
+                        [
+                            { "P": [-10.3, 81.25], "I": 0 },
+                            { "P": [62.2, 112.65], "I": 13 },
+                            { "P": [-10.3, 81.25], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        10128070,
+                        [
+                            { "P": [8.11, 8.11], "I": 0 },
+                            { "P": [43.55, 43.55], "I": 13 },
+                            { "P": [8.11, 8.11], "I": 25, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/hammer2.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            -10, 81, 1, 1, 96, 102.4, 8.11, 8.11, 0.001, 0.999
+                        ],
+                        "MG": [-27.2, -129.6, -16, 80],
+                        "Tag": 10128069,
+                        "@": 10128070,
+                        "Alpha": 255,
+                        "Name": "chuizi",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

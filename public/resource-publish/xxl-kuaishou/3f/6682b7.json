@@ -1,0 +1,54 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_buttons_button_common_ui_button_close_rect.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -43, 43, 2.8667, 2.8667, 30.4, 30.4, 0, 0, 0.0033,
+                            0.9967
+                        ],
+                        "PrePos": [-0.5, 0.5, 0.3535, 0.3535],
+                        "MG": [-38.4, -68.8, -68.8, -38.4],
+                        "Tag": 2054,
+                        "@": 2055,
+                        "Name": "hit_area",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/ui_buttons_close_brown_ui_button_close_panel_brown_shape.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -16, 16, 1, 1, 35.2, 35.2, 0, 0, 0.0028, 0.9972
+                        ],
+                        "PrePos": [-0.186, 0.186, 0.4093, 0.4093],
+                        "MG": [9.6, -25.6, -25.6, 9.6],
+                        "Tag": 2056,
+                        "@": 2057,
+                        "Name": "_bg",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 86, "Y": 86 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

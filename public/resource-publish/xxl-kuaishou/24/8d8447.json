@@ -1,0 +1,46 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 200,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Alpha",
+                        50013,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 69 },
+                            { "V": 188, "I": 100 },
+                            { "V": 0, "I": 199, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_sandshadow.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 964.8, 75.2, 0, 0, 0.5008, 0.5066],
+                        "MG": [75.2, 0, 0, 964.8],
+                        "Tag": 50012,
+                        "@": 50013,
+                        "Alpha": 0,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,68 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        9447768,
+                        [
+                            { "P": [-11.6, 56.6], "I": 0, "T": 0 },
+                            { "P": [-11.6, 56.6], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447766,
+                        [
+                            { "P": [-11.6, 56.5], "I": 0, "T": 0 },
+                            { "P": [-11.6, 56.5], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/orange_in.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [-11, 56, 1, 1, 150.4, 168, 0, 0, 0.496, 0.4875],
+                        "MG": [78.4, -89.6, -17.6, 132.8],
+                        "Tag": 9447767,
+                        "@": 9447768,
+                        "Alpha": 255,
+                        "Name": "orange_in",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/orange_out.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [
+                            -11, 56, 1, 1, 150.4, 172.8, 0, 0, 0.496, 0.5017
+                        ],
+                        "MG": [83.2, -89.6, -17.6, 132.8],
+                        "Tag": 9447765,
+                        "@": 9447766,
+                        "Alpha": 255,
+                        "Name": "orange_out",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

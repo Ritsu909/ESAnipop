@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -14, 1, 1, 662.4, 147.2, 0, 0, 0.0026, 0.9993
+                        ],
+                        "PrePos": [0, -0.0966, 1.0052, 1.0152],
+                        "MG": [169.6, 22.4, 0, 662.4],
+                        "Tag": 84824959,
+                        "@": 84824960,
+                        "Alpha": 255,
+                        "Name": "banner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [75, -46, 1, 1, 519, 45, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [0.1138, -0.3172, 0.7876, 0.3103],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [54, 46, 75, 65],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "膜拜！轻松拿下好友排行第一名！",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 84824957,
+                        "@": 84824958,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 659, "Y": 145 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

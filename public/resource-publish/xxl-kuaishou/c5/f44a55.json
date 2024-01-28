@@ -1,0 +1,761 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 55,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84825006,
+                        [
+                            { "P": [-11.15, -38.25], "I": 0, "T": 0 },
+                            {
+                                "P": [-11.15, -38.25],
+                                "I": 14,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-11.15, -107.65],
+                                "I": 18,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-11.15, -81.7], "I": 26, "T": 0 },
+                            { "P": [-11.15, -81.7], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84825006,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 14,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.6808, 1.6808],
+                                "I": 18,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.426, 1.426], "I": 26, "T": 0 },
+                            { "P": [1.426, 1.426], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84825006,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 14 },
+                            { "V": 255, "I": 18 },
+                            { "V": 255, "I": 26, "T": 0 },
+                            { "V": 255, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84825004,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 27,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 31,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 54,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84825004,
+                        [
+                            { "P": [-150, -49.2], "I": 0, "T": 0 },
+                            {
+                                "P": [-150, -49.2],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-150.25, -49.1], "I": 22 },
+                            { "P": [-150.25, -49.1], "I": 27 },
+                            { "P": [-150.25, -49.1], "I": 31, "T": 0 },
+                            { "P": [-150.25, -49.1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84825004,
+                        [
+                            { "P": [0.5212, 0.5212], "I": 0, "T": 0 },
+                            {
+                                "P": [0.5212, 0.5212],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [1, 1.1082],
+                                "I": 22,
+                                "E": [0.3333, 0.3333, 0.2805, 0.9178]
+                            },
+                            {
+                                "P": [1, 0.856],
+                                "I": 27,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 0.9749], "I": 31, "T": 0 },
+                            { "P": [1, 0.9749], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84825004,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [-5.04, 0],
+                                "I": 22,
+                                "E": [0.3333, 0.3333, 0.2805, 0.9178]
+                            },
+                            {
+                                "P": [-3.27, 0],
+                                "I": 27,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-2.38, 0], "I": 31, "T": 0 },
+                            { "P": [-2.38, 0], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84825004,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 18 },
+                            { "V": 255, "I": 22 },
+                            { "V": 255, "I": 27 },
+                            { "V": 255, "I": 31, "T": 0 },
+                            { "V": 255, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84825002,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 11,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 17,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 26,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 54,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84825002,
+                        [
+                            { "P": [-7.75, -25.8], "I": 0, "T": 0 },
+                            {
+                                "P": [-7.75, -25.8],
+                                "I": 11,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [-7.75, 71.9],
+                                "I": 17,
+                                "E": [0.3333, 0, 0.5224, 1]
+                            },
+                            {
+                                "P": [-7.75, 60.95],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-7.75, 61.95], "I": 26, "T": 0 },
+                            { "P": [-7.75, 61.95], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84825002,
+                        [
+                            { "P": [0.4279, 0.4279], "I": 0, "T": 0 },
+                            {
+                                "P": [0.4279, 0.4279],
+                                "I": 11,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [1.0979, 1.0979],
+                                "I": 17,
+                                "E": [0.3333, 0, 0.5224, 1]
+                            },
+                            {
+                                "P": [0.9405, 0.9405],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 26, "T": 0 },
+                            { "P": [1, 1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84825002,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 11 },
+                            { "V": 255, "I": 17 },
+                            { "V": 255, "I": 22 },
+                            { "V": 255, "I": 26, "T": 0 },
+                            { "V": 255, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84825000,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 26,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 28,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 32,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 54,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84825000,
+                        [
+                            { "P": [180.65, -67.15], "I": 0, "T": 0 },
+                            {
+                                "P": [180.65, -67.15],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [180.15, -67.75],
+                                "I": 23,
+                                "E": [0.3333, 0.3333, 0.3679, 0.8801]
+                            },
+                            {
+                                "P": [180.25, -67.6],
+                                "I": 26,
+                                "E": [0.2534, 0.4612, 0.5719, 0.8182]
+                            },
+                            {
+                                "P": [180.3, -67.5],
+                                "I": 28,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [180.25, -67.6], "I": 32, "T": 0 },
+                            { "P": [180.25, -67.6], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84825000,
+                        [
+                            { "P": [0.6028, 0.6028], "I": 0, "T": 0 },
+                            {
+                                "P": [0.6028, 0.6028],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [1, 1.14],
+                                "I": 23,
+                                "E": [0.3333, 0.3333, 0.3679, 0.8801]
+                            },
+                            {
+                                "P": [1, 0.9657],
+                                "I": 26,
+                                "E": [0.2534, 0.4612, 0.5719, 0.8182]
+                            },
+                            {
+                                "P": [1, 0.9279],
+                                "I": 28,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 32, "T": 0 },
+                            { "P": [1, 1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84825000,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [3.2, 0],
+                                "I": 23,
+                                "E": [0.3333, 0.3333, 0.3679, 0.8801]
+                            },
+                            {
+                                "P": [-2.06, 0],
+                                "I": 26,
+                                "E": [0.2534, 0.4612, 0.5719, 0.8182]
+                            },
+                            {
+                                "P": [-3.42, 0],
+                                "I": 28,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 32, "T": 0 },
+                            { "P": [0, 0], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84825000,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 18 },
+                            { "V": 255, "I": 23 },
+                            { "V": 255, "I": 26 },
+                            { "V": 255, "I": 28 },
+                            { "V": 255, "I": 32, "T": 0 },
+                            { "V": 255, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84824998,
+                        [
+                            { "P": [8.15, -22.05], "I": 0, "T": 0 },
+                            {
+                                "P": [8.15, -22.05],
+                                "I": 5,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [2.45, 3.7],
+                                "I": 9,
+                                "E": [0.3333, 0.3333, 0.2541, 0.7877]
+                            },
+                            {
+                                "P": [4, -23.8],
+                                "I": 15,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [3.4, -24.1], "I": 20, "T": 0 },
+                            { "P": [3.4, -24.1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84824998,
+                        [
+                            { "P": [0.179, 0.1658], "I": 0, "T": 0 },
+                            {
+                                "P": [0.179, 0.1658],
+                                "I": 5,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [0.8236, 0.9635],
+                                "I": 9,
+                                "E": [0.3333, 0.3333, 0.2541, 0.7877]
+                            },
+                            {
+                                "P": [0.6445, 0.5969],
+                                "I": 15,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.7162, 0.6632], "I": 20, "T": 0 },
+                            { "P": [0.7162, 0.6632], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84824998,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 15 },
+                            { "V": 255, "I": 20, "T": 0 },
+                            { "V": 255, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84824996,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 10,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 15,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 54,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84824996,
+                        [
+                            {
+                                "P": [-67.15, -10.85],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [-344, 68.9],
+                                "I": 4,
+                                "E": [0.3333, 0.3333, 0.2541, 0.7877]
+                            },
+                            {
+                                "P": [-267.1, 16.55],
+                                "I": 10,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-297.85, 20.75], "I": 15, "T": 0 },
+                            { "P": [-297.85, 20.75], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84824996,
+                        [
+                            {
+                                "P": [0.2333, 0.2157],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "P": [1.0732, 1.2538],
+                                "I": 4,
+                                "E": [0.3333, 0.3333, 0.2541, 0.7877]
+                            },
+                            {
+                                "P": [0.8399, 0.7767],
+                                "I": 10,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.9333, 0.863], "I": 15, "T": 0 },
+                            { "P": [0.9333, 0.863], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84824994,
+                        [
+                            { "P": [31.8, 209.75], "I": 0, "T": 0 },
+                            { "P": [31.8, 209.75], "I": 20 },
+                            { "P": [31.8, 198.55], "I": 23 },
+                            { "P": [31.8, 176.1], "I": 29 },
+                            { "P": [31.8, 146.1], "I": 34, "T": 0 },
+                            { "P": [31.8, 146.1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84824994,
+                        [
+                            { "P": [0.6861, 0.6861], "I": 0, "T": 0 },
+                            { "P": [0.6861, 0.6861], "I": 20 },
+                            { "P": [0.7896, 0.7896], "I": 23 },
+                            { "P": [0.9965, 0.9965], "I": 29 },
+                            { "P": [0.9965, 0.9965], "I": 34, "T": 0 },
+                            { "P": [0.9965, 0.9965], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84824994,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 122, "I": 20 },
+                            { "V": 165, "I": 23 },
+                            { "V": 255, "I": 29 },
+                            { "V": 0, "I": 34, "T": 0 },
+                            { "V": 0, "I": 54, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_friendFirstRank/racon_light_15.png",
+                            "Plist": "cocos/share_friendFirstRank@6x.plist"
+                        },
+                        "Pos": [
+                            -11, -38, 1, 1, 283.2, 204.8, 0, 0, 0.4981, 0.0044
+                        ],
+                        "MG": [265.6, 60.8, -17.6, 265.6],
+                        "Tag": 84825005,
+                        "@": 84825006,
+                        "Alpha": 0,
+                        "Name": "racon_light_bling12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_friendFirstRank_chicken_top111@6x.json"
+                        },
+                        "Pos": [
+                            -150, -49, 0.5212, 0.5212, 207, 205, 0, 0, 0, 0
+                        ],
+                        "MG": [-254, 49, -150, -57],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84825003,
+                        "@": 84825004,
+                        "Alpha": 0,
+                        "Name": "topone_chicken",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_friendFirstRank_prideRacoon@6x.json"
+                        },
+                        "Pos": [-7, -25, 0.4279, 0.4279, 287, 341, 0, 0, 0, 0],
+                        "MG": [-366, 25, -7, -280],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84825001,
+                        "@": 84825002,
+                        "Alpha": 0,
+                        "Name": "topone_racoon",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_friendFirstRank_hippo_top1111@6x.json"
+                        },
+                        "Pos": [180, -67, 0.6028, 0.6028, 195, 236, 0, 0, 0, 0],
+                        "MG": [-303, 67, 180, -375],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84824999,
+                        "@": 84825000,
+                        "Alpha": 0,
+                        "Name": "hipple_blingeyes",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_friendFirstRank/firstRank.png",
+                            "Plist": "cocos/share_friendFirstRank@6x.plist"
+                        },
+                        "Pos": [
+                            8, -22, 0.179, 0.1658, 356.8, 155.2, 0, 0, 0.5024,
+                            0.0422
+                        ],
+                        "MG": [190.4, 35.2, 12.8, 369.6],
+                        "Tag": 84824997,
+                        "@": 84824998,
+                        "Alpha": 0,
+                        "Name": "diyimingtaizi",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_friendFirstRank_sharebanner@6x.json"
+                        },
+                        "Pos": [-67, -10, 0.2333, 0.2157, 659, 145, 0, 0, 0, 0],
+                        "MG": [-155, 10, -67, -592],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84824995,
+                        "@": 84824996,
+                        "Alpha": 255,
+                        "Name": "board_red45",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_friendFirstRank/coloerfulpaper125.png",
+                            "Plist": "cocos/share_friendFirstRank@6x.plist"
+                        },
+                        "Pos": [
+                            31, 209, 0.6861, 0.6861, 523.2, 216, 0, 0, 0.5432,
+                            0.1546
+                        ],
+                        "MG": [-118.4, -334.4, 49.6, 572.8],
+                        "Tag": 84824993,
+                        "@": 84824994,
+                        "Alpha": 0,
+                        "Name": "colorful_paper",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

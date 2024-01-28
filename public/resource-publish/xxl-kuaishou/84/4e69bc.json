@@ -1,0 +1,158 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/captainRacoon.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            81, 32, 1, 1, 171.2, 156.8, 0, 0, 0.0006, 0.9994
+                        ],
+                        "PrePos": [0.1262, 0.0345, 0.2667, 0.1691],
+                        "MG": [105.6, -51.2, 129.6, 300.8],
+                        "Tag": 84753065,
+                        "@": 84753066,
+                        "Alpha": 255,
+                        "Name": "captain",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/calenderbg.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -66, 1, 1, 646.6176, 829.8547, 0, 0, -0.0069,
+                            1.0007
+                        ],
+                        "PrePos": [0, -0.0712, 0.3589, 0.2485],
+                        "MG": [336, 105.6, 0, 230.4],
+                        "Scale9": [54, 54, 109, 108],
+                        "Tag": 84753035,
+                        "@": 84753036,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_calenderPage@6x.json"
+                        },
+                        "Pos": [13, -78, 1, 1, 607, 624, 0, 0, 0, 0],
+                        "PrePos": [0.0202, -0.0841, 0.9455, 0.6731],
+                        "MG": [225, 78, 13, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753051,
+                        "@": 84753052,
+                        "Alpha": 255,
+                        "Name": "calender",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/progressbg.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            32, -742, 1, 1, 571.2, 70.4, 0, 0, 0.0002, 0.9986
+                        ],
+                        "PrePos": [0.0498, -0.8004, 0.8897, 0.0759],
+                        "MG": [1257.6, 1187.2, 51.2, 622.4],
+                        "Tag": 84753031,
+                        "@": 84753032,
+                        "Alpha": 255,
+                        "Name": "progressbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_taskProgress@6x.json"
+                        },
+                        "Pos": [45, -751, 1, 1, 547, 52, 0, 0, 0, 0],
+                        "PrePos": [0.0701, -0.8101, 0.852, 0.0561],
+                        "MG": [124, 751, 45, 50],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753029,
+                        "@": 84753030,
+                        "Alpha": 255,
+                        "Name": "processbar",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [140, 10, 1, 1, 409, 94, 0, 0, 0, 1],
+                        "PrePos": [0.2181, 0.0108, 0.6371, 0.1014],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [843, -10, 140, 93],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "船长任务",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84753027,
+                        "@": 84753028,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/ring.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [499, -47, 1, 1, 24, 72, 0, 0, -0.0208, 1.1056],
+                        "PrePos": [0.7773, -0.0507, 0.0374, 0.0777],
+                        "MG": [147.2, 75.2, 798.4, 822.4],
+                        "Tag": 84753023,
+                        "@": 84753024,
+                        "Alpha": 255,
+                        "Name": "rightRing",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/ring.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [110, -48, 1, 1, 24, 72, 0, 0, -0.0208, 1.1056],
+                        "PrePos": [0.1713, -0.0518, 0.0374, 0.0777],
+                        "MG": [148.8, 76.8, 176, 200],
+                        "Tag": 84753025,
+                        "@": 84753026,
+                        "Alpha": 255,
+                        "Name": "leftRing",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 642, "Y": 927 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

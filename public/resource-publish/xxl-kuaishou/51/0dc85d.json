@@ -1,0 +1,209 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/mailchicken.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [42, -4, 1, 1, 208, 174.4, 0, 0, 0.0005, 0.9994],
+                        "PrePos": [0.064, -0.0035, 0.3171, 0.1541],
+                        "MG": [180.8, 6.4, 67.2, 275.2],
+                        "Tag": 9416680,
+                        "@": 9416681,
+                        "Alpha": 255,
+                        "Name": "chicken",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/title.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [
+                            237, -62, 1, 1, 307.2, 83.2, 0, 0, 0.0003, 0.9988
+                        ],
+                        "PrePos": [0.3613, -0.0548, 0.4683, 0.0735],
+                        "MG": [182.4, 99.2, 379.2, 686.4],
+                        "Tag": 9416678,
+                        "@": 9416679,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -146, 1, 1, 657.1168, 992.3707, 0, 0, 0.0002,
+                            0.9993
+                        ],
+                        "PrePos": [0, -0.129, 0.9463, 0.123],
+                        "MG": [372.8, 233.6, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 9416676,
+                        "@": 9416677,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/newsquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            21, -256, 1, 1, 616.1136, 865.7818, 0, 0, 0.0007,
+                            0.9993
+                        ],
+                        "PrePos": [0.032, -0.2261, 0.2293, 0.1357],
+                        "MG": [563.2, 409.6, 33.6, 184],
+                        "Scale9": [59, 60, 28, 31],
+                        "Tag": 9416674,
+                        "@": 9416675,
+                        "Alpha": 255,
+                        "Name": "viewRect",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/seperateline.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [
+                            36, -255, 1, 1, 585.6, 6.4, 0, 0, -0.0014, 0.5938
+                        ],
+                        "PrePos": [0.0549, -0.2253, 0.8927, 0.0057],
+                        "MG": [414.4, 408, 57.6, 643.2],
+                        "Tag": 9416672,
+                        "@": 9416673,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/tabarrow.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [
+                            155, -237, 1, 1, 35.2, 17.6, 0, 0, 0.0028, 0.9943
+                        ],
+                        "PrePos": [0.2363, -0.2094, 0.0537, 0.0155],
+                        "MG": [396.8, 379.2, 248, 283.2],
+                        "Tag": 9416670,
+                        "@": 9416671,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mail_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [627, -171, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.9558, -0.1511, 0.0838, 0.0504],
+                        "MG": [904, 171, 627, -26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416668,
+                        "@": 9416669,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [83, -206, 1, 1, 140, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1265, -0.182, 0.2134, 0.0327],
+                        "MG": [889, 206, 83, 433],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "添加好友",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9416666,
+                        "@": 9416667,
+                        "Name": "tabText1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [264, -206, 1, 1, 140, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4024, -0.182, 0.2134, 0.0327],
+                        "MG": [889, 206, 264, 252],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "帮助解锁",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9416664,
+                        "@": 9416665,
+                        "Name": "tabText2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [453, -206, 1, 1, 140, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6905, -0.182, 0.2134, 0.0327],
+                        "MG": [889, 206, 453, 63],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "新鲜事",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 9416662,
+                        "@": 9416663,
+                        "Name": "tabText3",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 656, "Y": 1132 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

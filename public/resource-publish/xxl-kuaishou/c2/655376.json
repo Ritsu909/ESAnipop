@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/hhh.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 653.2506, 81.1934, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 102.4],
+                        "Scale9": [25, 23, 50, 47],
+                        "Tag": 84755921,
+                        "@": 84755922,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/marketpanel_buygolditemtitlearrowr.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            20, -28, 1, 1, 22.4, 27.2, 0, 0, 0.0045, 0.9963
+                        ],
+                        "PrePos": [0.0311, -0.3457, 0.0348, 0.3358],
+                        "MG": [72, 44.8, 32, 54.4],
+                        "Tag": 84755919,
+                        "@": 84755920,
+                        "Alpha": 255,
+                        "Name": "arrr",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/marketpanel_buygolditemtitlearrowd.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            15, -33, 1, 1, 27.2, 22.4, 0, 0, 0.0037, 0.9955
+                        ],
+                        "PrePos": [0.0233, -0.4074, 0.0422, 0.2765],
+                        "MG": [75.2, 52.8, 24, 51.2],
+                        "Tag": 84755917,
+                        "@": 84755918,
+                        "Alpha": 255,
+                        "Name": "arrd",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [54, -17, 1, 1, 511, 51, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0839, -0.2099, 0.7935, 0.6296],
+                        "MG": [13, 17, 54, 79],
+                        "IsCustomSize": true,
+                        "LabelText": "支付宝支付(额外多送）",
+                        "FontSize": 36,
+                        "Shadow": [2, -2],
+                        "Tag": 84755915,
+                        "@": 84755916,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 644, "Y": 81 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

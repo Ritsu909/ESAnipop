@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_invite/panel_bg.png",
+                            "Plist": "cocos/share_invite@6x.plist"
+                        },
+                        "Pos": [
+                            337, -624, 1, 1, 702.4, 1273.6, 0, 0, 0.5004, 0.5075
+                        ],
+                        "PrePos": [0.5, -0.5004, 1.0421, 1.0213],
+                        "MG": [2272, 998.4, 539.2, 1241.6],
+                        "Tag": 83804104,
+                        "@": 83804105,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [185, -12, 0.85, 0.85, 281, 58, 0, 0, 0, 1],
+                        "PrePos": [0.2745, -0.0096, 0.4169, 0.0465],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [1177, 12, 185, 208],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请奖励",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 83804102,
+                        "@": 83804103,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [185, -90, 1, 1, 283, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 2, "G": 98, "B": 115 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2745, -0.0722, 0.4199, 0.0313],
+                        "MG": [1118, 90, 185, 206],
+                        "IsCustomSize": true,
+                        "LabelText": "邀请好友，赢取风车币！\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 83804100,
+                        "@": 83804101,
+                        "Name": "subtitle",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            625, -76, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.9273, -0.0609, 0.0688, 0.0372],
+                        "MG": [168, 121.6, 1000, 1046.4],
+                        "Tag": 83804098,
+                        "@": 83804099,
+                        "Alpha": 115,
+                        "Name": "btn_close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [40, -1101, 1, 1, 601, 79, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 2, "G": 98, "B": 115 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0593, -0.8829, 0.8917, 0.0634],
+                        "MG": [67, 1101, 40, 33],
+                        "IsCustomSize": true,
+                        "LabelText": "每日成功分享至QQ群即可直接获得奖励。\\n新玩家进入游戏并通关第1、20、45、69关，您就可以分别获得30、40、40、50风车币的奖励！\\n",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 83804096,
+                        "@": 83804097,
+                        "Name": "info",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 674, "Y": 1247 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

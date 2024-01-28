@@ -1,0 +1,53 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/box_cover.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            56, -29, 1, 1, 60.8, 36.8, 0, 0, 0.4868, 0.5217
+                        ],
+                        "PrePos": [0.6588, -0.4328, 0.7153, 0.5493],
+                        "MG": [83.2, 46.4, 89.6, 150.4],
+                        "Tag": 84752913,
+                        "@": 84752914,
+                        "Alpha": 255,
+                        "Name": "cover",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/box_empty.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [2, -8, 1, 1, 72, 51.2, 0, 0, 0.0153, 1.3975],
+                        "PrePos": [0.0235, -0.1194, 0.8471, 0.7642],
+                        "MG": [64, 12.8, 3.2, 75.2],
+                        "Tag": 84752911,
+                        "@": 84752912,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 85, "Y": 67 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

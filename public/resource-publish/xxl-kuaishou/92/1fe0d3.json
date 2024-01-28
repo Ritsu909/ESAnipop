@@ -1,0 +1,115 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/sys_msgbg.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [
+                            142, -76, 1, 1, 425.4208, 105.6, 0, 0, 0.0002,
+                            0.9991
+                        ],
+                        "PrePos": [0.2383, -0.4176, 0.7517, 0.5802],
+                        "MG": [227.2, 121.6, 227.2, 675.2],
+                        "Scale9": [111, 41, 223, 20],
+                        "Tag": 9416702,
+                        "@": 9416703,
+                        "Alpha": 255,
+                        "Name": "content",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mail_panel/itembg.png",
+                            "Plist": "cocos/mail_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 598.7779, 129.6, 0, 0, 0.0004, 0.9992
+                        ],
+                        "MG": [129.6, 0, 0, 259.2],
+                        "Scale9": [151, 32, 42, 64],
+                        "Tag": 9416700,
+                        "@": 9416701,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mail_panel_btn_green_small@6x.json"
+                        },
+                        "Pos": [532, -59, 0.5146, 0.5145, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.8926, -0.3242, 0.3255, 0.6703],
+                        "MG": [1, 59, 532, -130],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416704,
+                        "@": 9416705,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            65, -61, 0.807, 0.807, 124.8, 124.8, 0, 0, 0.498,
+                            0.502
+                        ],
+                        "PrePos": [0.1091, -0.3352, 0.2094, 0.6857],
+                        "MG": [222.4, 97.6, 104, 228.8],
+                        "Tag": 9416698,
+                        "@": 9416699,
+                        "Alpha": 255,
+                        "Name": "headbg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [181, -21, 1, 1, 280, 78, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 104, "B": 65 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3037, -0.1154, 0.4698, 0.4286],
+                        "MG": [83, 21, 181, 135],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "请求添加你为好友",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 9416696,
+                        "@": 9416697,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 596, "Y": 182 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,111 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [-36, -115, 1, 1, 209, 43, 0, 0, 0, 1],
+                        "PrePos": [-0.0571, -0.1949, 0.3312, 0.0729],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [432, 115, -36, 458],
+                        "IsCustomSize": true,
+                        "LabelText": "还有      次机会",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051185,
+                        "@": 1051186,
+                        "Name": "txt_1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_scale9grid_container@6x.json"
+                        },
+                        "Pos": [-120, 215, 1, 1, 631, 186, 0, 0, 0, 0],
+                        "PrePos": [-0.1902, 0.3644, 1, 0.3153],
+                        "MG": [619, -215, -120, 120],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051191,
+                        "@": 1051192,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [61, -90, 1, 1, 69, 83, 0, 0, 0, 1],
+                        "PrePos": [0.0967, -0.1525, 0.1094, 0.1407],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_70_bluestroke@6x.fnt"
+                        },
+                        "MG": [417, 90, 61, 501],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "3",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 1051393,
+                        "@": 1051394,
+                        "Name": "txt_replace",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-174, 160, 1, 1, 315, 128, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 109, "G": 57, "B": 50 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2758, 0.2712, 0.4992, 0.2169],
+                        "MG": [622, -160, -174, 490],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 1051187,
+                        "@": 1051188,
+                        "Name": "txt_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/shake_racoon.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [-265, 260, 1, 1, 304, 315.2, 0, 0, 0.4987, 0.5],
+                        "PrePos": [-0.42, 0.4407, 0.4818, 0.5342],
+                        "MG": [-100.8, -416, -424, -120],
+                        "Tag": 1051417,
+                        "@": 1051418,
+                        "Alpha": 255,
+                        "Name": "npc",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 631, "Y": 590 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

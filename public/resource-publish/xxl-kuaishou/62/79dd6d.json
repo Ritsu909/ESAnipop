@@ -1,0 +1,167 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 689.44, 712.704, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [143, 79, 10, 9],
+                        "Tag": 84747975,
+                        "@": 84747976,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "praise_panel/bg.png",
+                            "Plist": "cocos/praise_panel@6x.plist"
+                        },
+                        "Pos": [
+                            85, -195, 0.85, 0.85, 600, 459.2, 0, 0, 0.0002,
+                            0.9998
+                        ],
+                        "PrePos": [0.1235, -0.2559, 0.8721, 0.6026],
+                        "MG": [771.2, 312, 136, 736],
+                        "Tag": 84747973,
+                        "@": 84747974,
+                        "Alpha": 255,
+                        "Name": "bg_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "praise_panel/bg_great.png",
+                            "Plist": "cocos/praise_panel@6x.plist"
+                        },
+                        "Pos": [
+                            145, -220, 0.85, 0.85, 505.6, 483.2, 0, 0, 0.0002,
+                            0.9998
+                        ],
+                        "PrePos": [0.2108, -0.2887, 0.7349, 0.6341],
+                        "MG": [835.2, 352, 232, 737.6],
+                        "Tag": 84747995,
+                        "@": 84747996,
+                        "Alpha": 255,
+                        "Name": "bg_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [70, 50, 1.8, 1.8, 588, 112, 0, 0, 0, 1],
+                        "PrePos": [0.1017, 0.0656, 0.8547, 0.147],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [700, -50, 70, 30],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "感谢您的支持！\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84747971,
+                        "@": 84747972,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [70, -56, 1, 1, 548, 126, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 51, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1017, -0.0735, 0.7965, 0.1654],
+                        "MG": [580, 56, 70, 70],
+                        "IsCustomSize": true,
+                        "LabelText": "台厉害咯，这么短的时间过了这么多关！\\n喜欢我们的消消乐海滨假日请给我们好评吧！您的鼓励将是我们最大的动力！",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84747969,
+                        "@": 84747970,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/praise_panel_bottom_btn_orange_start@6x.json"
+                        },
+                        "Pos": [469, -582, 1.25, 1.25, 244, 120, 0, 0, 0, 0],
+                        "PrePos": [0.6817, -0.7638, 0.3547, 0.1575],
+                        "MG": [60, 582, 469, -25],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747967,
+                        "@": 84747968,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/praise_panel_bottom_btn_orange_start_gray@6x.json"
+                        },
+                        "Pos": [168, -586, 0.85, 0.85, 242, 120, 0, 0, 0, 0],
+                        "PrePos": [0.2442, -0.769, 0.3517, 0.1575],
+                        "MG": [56, 586, 168, 278],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747965,
+                        "@": 84747966,
+                        "Alpha": 255,
+                        "Name": "cancel_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/praise_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [654, -23, 0.72, 0.72, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9506, -0.0302, 0.1148, 0.1037],
+                        "MG": [660, 23, 654, -45],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747963,
+                        "@": 84747964,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 688, "Y": 762 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

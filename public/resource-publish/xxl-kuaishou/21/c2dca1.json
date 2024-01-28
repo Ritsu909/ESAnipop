@@ -1,0 +1,38 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 571.396, 601.4301, 0, 0, 0.0018, 0.9982
+                        ],
+                        "MG": [54.4, 0, 0, 56],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 84747029,
+                        "@": 84747030,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 558, "Y": 598 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

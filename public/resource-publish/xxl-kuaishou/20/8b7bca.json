@@ -1,0 +1,101 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 23,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        29325410,
+                        [
+                            { "P": [-2.25, -0.3], "I": 0 },
+                            {
+                                "P": [-2.25, -0.3],
+                                "I": 5,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-16.75, -0.3], "I": 8, "T": 0 },
+                            { "P": [0.3, -0.3], "I": 9, "T": 0 },
+                            { "P": [-16.75, -0.3], "I": 17 },
+                            { "P": [-2.25, -0.3], "I": 20 },
+                            { "P": [-2.25, -0.3], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        29325410,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.1025, 1],
+                                "I": 5,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.9262, 1], "I": 8, "T": 0 },
+                            { "P": [1, 1], "I": 9, "T": 0 },
+                            { "P": [0.9262, 1], "I": 17 },
+                            { "P": [1.1025, 1], "I": 20 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        29325410,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 0, "I": 8, "T": 0 },
+                            { "V": 0, "I": 9, "T": 0 },
+                            { "V": 0, "I": 17 },
+                            { "V": 255, "I": 20 },
+                            { "V": 255, "I": 22, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [
+                {
+                    "StartIndex": 0,
+                    "EndIndex": 13,
+                    "Name": "open",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 152 }
+                },
+                {
+                    "StartIndex": 13,
+                    "EndIndex": 22,
+                    "Name": "close",
+                    "RenderColor": { "A": 150, "R": 255, "G": 60, "B": 255 }
+                }
+            ],
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/shadowofsaizi.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [-2, 0, 1, 1, 244.8, 14.4, 0, 0, 0.4992, 0.5417],
+                        "MG": [14.4, 0, -3.2, 241.6],
+                        "Tag": 29325409,
+                        "@": 29325410,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -307, 125, 1, 1, 617.6, 126.4, 0, 0, 0.0028, 0.9992
+                        ],
+                        "PrePos": [-0.4992, 1, 1.0042, 1.0112],
+                        "MG": [-73.6, -200, -491.2, 126.4],
+                        "Tag": 80430332,
+                        "@": 80430333,
+                        "Alpha": 255,
+                        "Name": "banner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-229, 98, 0.9333, 0.863, 464, 42, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [-0.3724, 0.784, 0.7545, 0.336],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_32_redstroke@6x.fnt"
+                        },
+                        "MG": [181, -98, -229, 380],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "好想偷吃一个水果冰淇淋",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 80430330,
+                        "@": 80430331,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 615, "Y": 125 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

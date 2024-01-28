@@ -1,0 +1,114 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 626.7072, 736.7066, 0, 0, 0.0018, 0.9982
+                        ],
+                        "MG": [54.4, 0, 0, 56],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 29325871,
+                        "@": 29325872,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [159, -32, 1, 1, 293, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 1, "G": 123, "B": 209 },
+                        "PrePos": [0.2598, -0.0437, 0.4788, 0.075],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [646, 32, 159, 160],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "排名规则\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29325869,
+                        "@": 29325870,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [564, -44, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9216, -0.06, 0.1389, 0.1132],
+                        "MG": [606, 44, 564, -37],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325867,
+                        "@": 29325868,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [34, -114, 1, 1, 544, 465, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 1, "G": 123, "B": 209 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0556, -0.1555, 0.8889, 0.6344],
+                        "MG": [154, 114, 34, 34],
+                        "IsCustomSize": true,
+                        "LabelText": "1.规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容.规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容规则内容\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325865,
+                        "@": 29325866,
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_green_start2@6x.json"
+                        },
+                        "Pos": [308, -647, 1, 1, 203, 120, 0, 0, 0, 0],
+                        "PrePos": [0.5033, -0.8827, 0.3317, 0.1637],
+                        "MG": [-34, 647, 308, 101],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325863,
+                        "@": 29325864,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 612, "Y": 733 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

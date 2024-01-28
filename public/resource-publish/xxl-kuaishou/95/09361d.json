@@ -1,0 +1,491 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontlegwaterleft.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -135, 125, 1.9211, 1.7388, 40, 30.4, 0.99, 0, 0.5,
+                            0.5148
+                        ],
+                        "PrePos": [-0.3325, 0.2654, 0.0985, 0.0645],
+                        "MG": [-169.6, -200, -216, -176],
+                        "Tag": 80574895,
+                        "@": 80574896,
+                        "Alpha": 255,
+                        "Name": "frontlegwaterleft",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_sideleglower.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -132, 97, 1.7948, 1.7951, 46.4, 40, 0.99, 0, 0.694,
+                            0.34
+                        ],
+                        "PrePos": [-0.3251, 0.2059, 0.1143, 0.0849],
+                        "MG": [-115.2, -155.2, -211.2, -164.8],
+                        "Tag": 80574931,
+                        "@": 80574932,
+                        "Alpha": 255,
+                        "Name": "sideleglower1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_sidelegupper.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -177, 134, 1.6025, 1.6555, 35.2, 36.8, -4.25, -4.89,
+                            0.4006, 0.3234
+                        ],
+                        "PrePos": [-0.436, 0.2845, 0.0867, 0.0781],
+                        "MG": [-177.6, -214.4, -283.2, -248],
+                        "Tag": 80574897,
+                        "@": 80574898,
+                        "Alpha": 255,
+                        "Name": "sidelegupper",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_bodyunderwaterblur.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 78, 1.641, 1.6831, 156.8, 110.4, 0.98, 0,
+                            0.5016, 0.4316
+                        ],
+                        "PrePos": [-0.0049, 0.1656, 0.3862, 0.2344],
+                        "MG": [-14.4, -124.8, -3.2, 153.6],
+                        "Tag": 80574929,
+                        "@": 80574930,
+                        "Alpha": 255,
+                        "Name": "bodyunderwaterblur",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_octopus_Octopus_water@6x.json"
+                        },
+                        "Pos": [
+                            -2, 113, 1.7948, 1.7951, 134, 43, 0.99, 0, 0, 0
+                        ],
+                        "PrePos": [-0.0049, 0.2399, 0.33, 0.0913],
+                        "MG": [541, -113, -2, 274],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80574927,
+                        "@": 80574928,
+                        "Alpha": 255,
+                        "Name": "water",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_body_lower.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 110, 1.7953, 1.7945, 134.4, 80, 0.04, -0.95,
+                            0.5074, 0.1913
+                        ],
+                        "PrePos": [-0.0049, 0.2335, 0.331, 0.1699],
+                        "MG": [-96, -176, -3.2, 131.2],
+                        "Tag": 80574925,
+                        "@": 80574926,
+                        "Alpha": 255,
+                        "Name": "body_lower",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_bodyupper.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -3, 127, 1.8262, 1.9001, 171.2, 168, 0.3, -1.23,
+                            0.4883, 0.0946
+                        ],
+                        "PrePos": [-0.0074, 0.2696, 0.4217, 0.3567],
+                        "MG": [-35.2, -203.2, -4.8, 166.4],
+                        "Tag": 80574923,
+                        "@": 80574924,
+                        "Alpha": 255,
+                        "Name": "bodyupper",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_faceleft.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -96, 224, 1.7948, 1.7976, 96, 83.2, -3.2, 0, 0.4958,
+                            0.506
+                        ],
+                        "PrePos": [-0.2365, 0.4756, 0.2365, 0.1766],
+                        "MG": [-275.2, -358.4, -153.6, -57.6],
+                        "Tag": 80574921,
+                        "@": 80574922,
+                        "Alpha": 255,
+                        "Name": "faceleft",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_faceright.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            40, 218, 1.7948, 1.7951, 88, 88, 0.99, 0, 0.4955,
+                            0.4989
+                        ],
+                        "PrePos": [0.0985, 0.4628, 0.2167, 0.1868],
+                        "MG": [-260.8, -348.8, 64, 152],
+                        "Tag": 80574919,
+                        "@": 80574920,
+                        "Alpha": 255,
+                        "Name": "faceright",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_eye_open_r.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -98, 282, 1.6244, 1.86, 72, 72, 0.09, -0.17, 0.5097,
+                            0.4903
+                        ],
+                        "PrePos": [-0.2414, 0.5987, 0.1773, 0.1529],
+                        "MG": [-379.2, -451.2, -156.8, -84.8],
+                        "Tag": 80574917,
+                        "@": 80574918,
+                        "Alpha": 255,
+                        "Name": "eye_open_r44",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_eye_open_r.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            28, 283, 1.8955, 1.8963, 72, 72, 1.64, 0, 0.5097,
+                            0.4903
+                        ],
+                        "PrePos": [0.069, 0.6008, 0.1773, 0.1529],
+                        "MG": [-380.8, -452.8, 44.8, 116.8],
+                        "Tag": 80574915,
+                        "@": 80574916,
+                        "Alpha": 255,
+                        "Name": "eye_open_r22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_pupil.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -115, 284, 1.3414, 1.5707, 24, 24, 0.99, 0, 0.5042,
+                            0.4958
+                        ],
+                        "PrePos": [-0.2833, 0.603, 0.0591, 0.051],
+                        "MG": [-430.4, -454.4, -184, -160],
+                        "Tag": 80574913,
+                        "@": 80574914,
+                        "Alpha": 255,
+                        "Name": "pupil3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_pupil.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            3, 282, 1.6453, 1.6455, 24, 24, 0.99, 0, 0.5042,
+                            0.4958
+                        ],
+                        "PrePos": [0.0074, 0.5987, 0.0591, 0.051],
+                        "MG": [-427.2, -451.2, 4.8, 28.8],
+                        "Tag": 80574911,
+                        "@": 80574912,
+                        "Alpha": 255,
+                        "Name": "pupil2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_eyelid.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -98, 252, 1.7651, 1.8598, 52.8, 24, -0.76, -0.72,
+                            0.4943, 0.5167
+                        ],
+                        "PrePos": [-0.2414, 0.535, 0.13, 0.051],
+                        "MG": [-379.2, -403.2, -156.8, -104.0],
+                        "Tag": 80574909,
+                        "@": 80574910,
+                        "Alpha": 255,
+                        "Name": "eyelid44",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_eyelid.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            28, 253, 2.0609, 1.9026, 52.8, 24, 3.48, -2, 0.4943,
+                            0.5167
+                        ],
+                        "PrePos": [0.069, 0.5372, 0.13, 0.051],
+                        "MG": [-380.8, -404.8, 44.8, 97.6],
+                        "Tag": 80574907,
+                        "@": 80574908,
+                        "Alpha": 255,
+                        "Name": "eyelid33",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_mouth_grin.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -41, 233, 1.7948, 1.7951, 46.4, 38.4, 0.99, 0,
+                            0.4871, 0.4974
+                        ],
+                        "PrePos": [-0.101, 0.4947, 0.1143, 0.0815],
+                        "MG": [-334.4, -372.8, -65.6, -19.2],
+                        "Tag": 80574905,
+                        "@": 80574906,
+                        "Alpha": 255,
+                        "Name": "mouth_grin",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_eyebrow.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -36, 358, 1.7993, 1.7941, 52.8, 12.8, -0.91, 2.84,
+                            0.4943, 0.5234
+                        ],
+                        "PrePos": [-0.0887, 0.7601, 0.13, 0.0272],
+                        "MG": [-560, -572.8, -57.6, -4.8],
+                        "Tag": 80574903,
+                        "@": 80574904,
+                        "Alpha": 255,
+                        "Name": "eyebrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_hat.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            50, 366, 1.7975, 1.7922, 96, 78.4, -4.66, -4.96,
+                            0.3812, 0.3163
+                        ],
+                        "PrePos": [0.1232, 0.7771, 0.2365, 0.1665],
+                        "MG": [-507.2, -585.6, 80, 176],
+                        "Tag": 80574901,
+                        "@": 80574902,
+                        "Alpha": 255,
+                        "Name": "hat",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_sideleglower.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            109, 96, 2.5051, 2.067, 46.4, 40, -32.74, 170.52,
+                            0.694, 0.34
+                        ],
+                        "PrePos": [0.2685, 0.2038, 0.1143, 0.0849],
+                        "MG": [-113.6, -153.6, 174.4, 220.8],
+                        "Tag": 80574899,
+                        "@": 80574900,
+                        "Alpha": 255,
+                        "Name": "sideleglower",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_sidelegupper.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            148, 134, 2.408, 1.9184, 35.2, 36.8, -22.84, 162.67,
+                            0.4006, 0.3234
+                        ],
+                        "PrePos": [0.3645, 0.2845, 0.0867, 0.0781],
+                        "MG": [-177.6, -214.4, 236.8, 272],
+                        "Tag": 80574897,
+                        "@": 80574898,
+                        "Alpha": 255,
+                        "Name": "sidelegupper",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontlegwaterleft.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -115, 127, 1.6552, 1.6566, 40, 30.4, -2.43, 0, 0.5,
+                            0.5148
+                        ],
+                        "PrePos": [-0.2833, 0.2696, 0.0985, 0.0645],
+                        "MG": [-172.8, -203.2, -184, -144],
+                        "Tag": 80574895,
+                        "@": 80574896,
+                        "Alpha": 255,
+                        "Name": "frontlegwaterleft",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontleglower.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -113, 128, 1.642, 1.7642, 43.2, 48, -34.29, -18.5,
+                            0.3912, 0.2458
+                        ],
+                        "PrePos": [-0.2783, 0.2718, 0.1064, 0.1019],
+                        "MG": [-156.8, -204.8, -180.8, -137.6],
+                        "Tag": 80574893,
+                        "@": 80574894,
+                        "Alpha": 255,
+                        "Name": "frontleglower11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontlegupper.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -116, 166, 1.7186, 1.8207, 27.2, 46.4, -62.5,
+                            112.31, 0.4853, 0.3427
+                        ],
+                        "PrePos": [-0.2857, 0.3524, 0.067, 0.0985],
+                        "MG": [-219.2, -265.6, -185.6, -158.4],
+                        "Tag": 80574891,
+                        "@": 80574892,
+                        "Alpha": 255,
+                        "Name": "frontlegupper22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontlegwaterleft.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 116, 1.8039, 1.8055, 40, 30.4, -2.43, 0, 0.5,
+                            0.5148
+                        ],
+                        "PrePos": [-0.0049, 0.2463, 0.0985, 0.0645],
+                        "MG": [-155.2, -185.6, -3.2, 36.8],
+                        "Tag": 80574889,
+                        "@": 80574890,
+                        "Alpha": 255,
+                        "Name": "frontlegwaterleft13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontleglower.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            0, 112, 1.9308, 1.7575, 43.2, 48, -17.97, -6.11,
+                            0.3912, 0.2458
+                        ],
+                        "PrePos": [0, 0.2378, 0.1064, 0.1019],
+                        "MG": [-131.2, -179.2, 0, 43.2],
+                        "Tag": 80574887,
+                        "@": 80574888,
+                        "Alpha": 255,
+                        "Name": "frontleglower12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation_octopus/Octopus_frontlegupper.png",
+                            "Plist": "cocos/clover_animation_octopus@6x.plist"
+                        },
+                        "Pos": [
+                            11, 152, 2.4268, 1.8419, 27.2, 46.4, -49.79, 121.69,
+                            0.4853, 0.3427
+                        ],
+                        "PrePos": [0.0271, 0.3227, 0.067, 0.0985],
+                        "MG": [-196.8, -243.2, 17.6, 44.8],
+                        "Tag": 80574885,
+                        "@": 80574886,
+                        "Alpha": 255,
+                        "Name": "frontlegupper12",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 406, "Y": 471 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,35 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/Octopus_pupil.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 24, 0, 0, 0.5042, 0.4958],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 84190112,
+                        "@": 84190113,
+                        "Alpha": 255,
+                        "Name": "pupil",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 24, "Y": 24 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

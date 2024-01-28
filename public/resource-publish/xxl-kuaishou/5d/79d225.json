@@ -1,0 +1,149 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 13,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        90062614,
+                        [
+                            { "P": [0.5, 0.95], "I": 0, "T": 0 },
+                            { "P": [0.5, 0.95], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90062612,
+                        [
+                            { "P": [-0.5, 0.8], "I": 0 },
+                            { "P": [0.1, -15.45], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90062612,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 25, "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90062610,
+                        [
+                            { "P": [1.75, -3.65], "I": 0 },
+                            { "P": [2.1, -13.15], "I": 7, "T": 0 },
+                            { "P": [1.5, 3.1], "I": 8 },
+                            { "P": [1.7, -2.3], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90062610,
+                        [
+                            { "V": 160, "I": 0 },
+                            { "V": 25, "I": 7, "T": 0 },
+                            { "V": 255, "I": 8 },
+                            { "V": 178, "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90062608,
+                        [
+                            { "P": [3.8, -13.05], "I": 0 },
+                            { "P": [4, -18.45], "I": 4, "T": 0 },
+                            { "P": [3.4, -2.2], "I": 5 },
+                            { "P": [3.75, -11.7], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90062608,
+                        [
+                            { "V": 102, "I": 0 },
+                            { "V": 25, "I": 4, "T": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 122, "I": 12, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_tilecolorcollector/wrty1.png",
+                            "Plist": "cocos/obstacle_anim_tilecolorcollector@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 17.6, 24, 0, 0, 0.4318, 0.3958],
+                        "MG": [24, 0, 0, 17.6],
+                        "Tag": 90062613,
+                        "@": 90062614,
+                        "Alpha": 255,
+                        "Name": "wrty",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_tilecolorcollector/zai1.png",
+                            "Plist": "cocos/obstacle_anim_tilecolorcollector@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.5175, 0.5175, 20.8, 19.2, 0, 0, 0.5, 0.5026
+                        ],
+                        "MG": [19.2, 0, 0, 20.8],
+                        "Tag": 90062611,
+                        "@": 90062612,
+                        "Alpha": 255,
+                        "Name": "staarrr3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_tilecolorcollector/zai1.png",
+                            "Plist": "cocos/obstacle_anim_tilecolorcollector@6x.plist"
+                        },
+                        "Pos": [
+                            1, -3, 0.5175, 0.5175, 20.8, 19.2, 0, 0, 0.5, 0.5026
+                        ],
+                        "MG": [24, 4.8, 1.6, 22.4],
+                        "Tag": 90062609,
+                        "@": 90062610,
+                        "Alpha": 160,
+                        "Name": "staarrr2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_tilecolorcollector/zai1.png",
+                            "Plist": "cocos/obstacle_anim_tilecolorcollector@6x.plist"
+                        },
+                        "Pos": [
+                            3, -13, 0.5175, 0.5175, 20.8, 19.2, 0, 0, 0.5,
+                            0.5026
+                        ],
+                        "MG": [40, 20.8, 4.8, 25.6],
+                        "Tag": 90062607,
+                        "@": 90062608,
+                        "Alpha": 102,
+                        "Name": "staarrr1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

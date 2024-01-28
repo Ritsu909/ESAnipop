@@ -1,0 +1,68 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "5": [
+                    { "X": 0.0, "Y": 0.0 },
+                    { "X": 0.8227, "Y": 118.2527 },
+                    { "X": -6.3, "Y": 35.2 }
+                ]
+            },
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50103,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "Tag": "5",
+                                "E": [0.1905, 1, 0.752, 0.9]
+                            },
+                            { "P": [-1.9, 69.45], "I": 10, "Tag": "5" },
+                            { "P": [-6.3, 35.2], "I": 26, "Tag": "5", "T": 0 },
+                            { "P": [-35.2, 35.2], "I": 27, "Tag": "5", "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50103,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 10 },
+                            { "V": 0, "I": 26, "T": 0 },
+                            { "V": 0, "I": 27, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeSceneStarGroupBomb/fireflower04.png",
+                            "Plist": "cocos/homeSceneStarGroupBomb@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 27.2, 27.2, 0, 0, 0.4761, 0.5239],
+                        "MG": [27.2, 0, 0, 27.2],
+                        "Tag": 50102,
+                        "@": 50103,
+                        "Alpha": 255,
+                        "Name": "a1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

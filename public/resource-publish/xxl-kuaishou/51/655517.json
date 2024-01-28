@@ -1,0 +1,131 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 566.5856, 726.5446, 0, 0, 0.0018, 0.9982
+                        ],
+                        "MG": [54.4, 0, 0, 56],
+                        "Scale9": [20, 19, 16, 16],
+                        "Tag": 84751305,
+                        "@": 84751306,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [42, -100, 1, 1, 473, 457, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 37,
+                            "G": 58,
+                            "B": 119
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0759, -0.1383, 0.8553, 0.6321],
+                        "MG": [166, 100, 42, 38],
+                        "IsCustomSize": true,
+                        "LabelText": "1. 星星排行榜根据玩家持有的星星总数对玩家进行排列。星星总数越多的玩家排名越靠前。2.当星星总数相同时，根据玩家拥有的蓝星和橙星进行排序。拥有蓝星数量多的在最前，蓝星相同时根据橙星数量进行比较。3.当星星数完全一致时，根据玩家到取得当前星星数的时间进行判定。最先取得最多星星的玩家排名在前。",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84751303,
+                        "@": 84751304,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [197, -30, 1, 1, 164, 55, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 82,
+                            "G": 95,
+                            "B": 173
+                        },
+                        "PrePos": [0.3562, -0.0415, 0.2966, 0.0761],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [638, 30, 197, 192],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "排名规则",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84751301,
+                        "@": 84751302,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [272, -633, 1, 1, 194, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4919, -0.8755, 0.3508, 0.166],
+                        "MG": [-30, 633, 272, 87],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751299,
+                        "@": 84751300,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            510, -42, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.9222, -0.0581, 0.1562, 0.1151],
+                        "MG": [150.4, 67.2, 816, 902.4],
+                        "Tag": 84751297,
+                        "@": 84751298,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 553,
+                    "Y": 723
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,100 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/beer676767.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0.5, 0.3352, 0.5029],
+                        "MG": [-41.6, -112, -168, -97.6],
+                        "Tag": 82412623,
+                        "@": 82412624,
+                        "Alpha": 255,
+                        "Name": "beer6767671",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-34, 70, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.1619, 0.5, 0.3352, 0.5143],
+                        "MG": [-40, -112, -54.4, 16.0],
+                        "Tag": 82412621,
+                        "@": 82412622,
+                        "Alpha": 255,
+                        "Name": "fox76772",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [34, 69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.1619, 0.4929, 0.3352, 0.5029],
+                        "MG": [-40, -110.4, 54.4, 124.8],
+                        "Tag": 82412619,
+                        "@": 82412620,
+                        "Alpha": 255,
+                        "Name": "hippo3434343",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [35, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.1667, 0, 0.3352, 0.5029],
+                        "MG": [70.4, 0, 56, 126.4],
+                        "Tag": 82412617,
+                        "@": 82412618,
+                        "Alpha": 255,
+                        "Name": "frog13434344",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0, 0.3352, 0.5029],
+                        "MG": [70.4, 0, -168, -97.6],
+                        "Tag": 82412615,
+                        "@": 82412616,
+                        "Alpha": 255,
+                        "Name": "frog13434345",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 210, "Y": 140 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

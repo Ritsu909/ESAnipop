@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_sliver.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            31, -32, 0.6959, 0.6966, 120, 123.2, 0, 0, 0.5058,
+                            0.5
+                        ],
+                        "PrePos": [0.1722, -0.3765, 0.6667, 1.4494],
+                        "MG": [174.4, 51.2, 49.6, 169.6],
+                        "Tag": 1051285,
+                        "@": 1051286,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [63, -20, 1, 1, 107, 38, 0, 0, 0, 1],
+                        "PrePos": [0.35, -0.2353, 0.5944, 0.4471],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [27, 20, 63, 10],
+                        "IsCustomSize": true,
+                        "LabelText": "2000",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 1051283,
+                        "@": 1051284,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 180, "Y": 85 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

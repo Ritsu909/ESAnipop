@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 613.1568, 767.3818, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [143, 79, 10, 9],
+                        "Tag": 84748598,
+                        "@": 84748599,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dynamic_update_panel/reward_bg.png",
+                            "Plist": "cocos/dynamic_update_panel@6x.plist"
+                        },
+                        "Pos": [
+                            34, -71, 1, 1, 555.2, 358.4, 0, 0, -0.0014, 1.0013
+                        ],
+                        "PrePos": [0.0549, -0.0891, 0.8969, 0.4497],
+                        "MG": [472, 113.6, 54.4, 609.6],
+                        "Tag": 84748596,
+                        "@": 84748597,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [39, -322, 1, 1, 378, 85, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 51, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.063, -0.404, 0.6107, 0.1066],
+                        "MG": [390, 322, 39, 202],
+                        "IsCustomSize": true,
+                        "LabelText": "欢迎来到新版本~小浣熊和小黄鸡略备薄礼，祝您玩得开心^▽^\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84748594,
+                        "@": 84748595,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/dynamic_update_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [305, -660, 1, 1, 277, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4927, -0.8281, 0.4475, 0.1506],
+                        "MG": [17, 660, 305, 37],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748592,
+                        "@": 84748593,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [134, 29, 1.5, 1.5, 359, 83, 0, 0, 0, 1],
+                        "PrePos": [0.2165, 0.0364, 0.58, 0.1041],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [743, -29, 134, 126],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "更新成功啦",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84748590,
+                        "@": 84748591,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/dynamic_update_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [579, -29, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9354, -0.0364, 0.1276, 0.0991],
+                        "MG": [689, 29, 579, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748646,
+                        "@": 84748647,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 619, "Y": 797 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

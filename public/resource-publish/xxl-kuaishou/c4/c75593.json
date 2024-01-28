@@ -1,0 +1,70 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        50003,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.4553, 0, 0.5711, 1]
+                            },
+                            {
+                                "P": [1, 1.0157],
+                                "I": 49,
+                                "E": [0.4797, 0, 0.5569, 1]
+                            },
+                            { "P": [1, 1], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50003,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.4553, 0, 0.5711, 1]
+                            },
+                            {
+                                "P": [-10.1, 0],
+                                "I": 49,
+                                "E": [0.4797, 0, 0.5569, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_leaf02.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [24, 34, 1, 1, 272, 78.4, 0, 0, 0.5868, 0.9349],
+                        "MG": [24.0, -54.4, 38.4, 310.4],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

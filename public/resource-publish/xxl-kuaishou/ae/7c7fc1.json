@@ -1,0 +1,306 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        50015,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50015,
+                        [
+                            {
+                                "P": [102.55, -15.35],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [102.55, -7.45],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [102.55, -15.35], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50015,
+                        [
+                            {
+                                "P": [0.8272, 1],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [0.8269, 1],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [0.8272, 1], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50015,
+                        [
+                            {
+                                "P": [-0.79, -179.15],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [-0.79, 178.65],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [-0.79, -179.15], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50017,
+                        [
+                            {
+                                "P": [104.05, 16.85],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [104.05, 30.85],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [104.05, 16.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50017,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0.6341, 0, 0.372, 1] },
+                            {
+                                "P": [-1.66, -1.66],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [0, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50029,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50029,
+                        [
+                            {
+                                "P": [94.7, -22.25],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [94.6, -8.75],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [94.7, -22.25], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50029,
+                        [
+                            {
+                                "P": [0.9231, 1],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [0.923, 1],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [0.9231, 1], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50029,
+                        [
+                            {
+                                "P": [-0.71, -0.71],
+                                "I": 0,
+                                "E": [0.6341, 0, 0.372, 1]
+                            },
+                            {
+                                "P": [-1, -1],
+                                "I": 49,
+                                "E": [0.6301, 0, 0.45, 1]
+                            },
+                            { "P": [-0.71, -0.71], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50031,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50031,
+                        [
+                            { "P": [237.25, 305], "I": 0, "T": 0 },
+                            { "P": [237.25, 305], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fish_ship_wavexanime@6x.json"
+                        },
+                        "Pos": [
+                            102, -15, 0.8272, 1, 0, 0, -0.79, -179.15, 0, 0
+                        ],
+                        "CColor": { "A": 255, "R": 229, "G": 229, "B": 229 },
+                        "MG": [-15, 15, 102, -102],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50014,
+                        "@": 50015,
+                        "Alpha": 255,
+                        "Name": "wave_bg",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fish_ship/boat.png",
+                            "Plist": "cocos/fish_ship@6x.plist"
+                        },
+                        "Pos": [
+                            104, 16, 1, 1, 512, 107.2, 0, 0, 0.5359, 0.5466
+                        ],
+                        "MG": [81.6, -25.6, 166.4, 678.4],
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "ship",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fish_ship_wavexanime2@6x.json"
+                        },
+                        "Pos": [94, -22, 0.923, 1, 0, 0, -0.71, -0.71, 0, 0],
+                        "MG": [-22, 22, 94, -94],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Alpha": 255,
+                        "Name": "wave_fg",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fish_ship_fish_target_bubble@6x.json"
+                        },
+                        "Pos": [237, 305, 1, 1, 123, 129, 0, 0, 0, 0],
+                        "MG": [176, -305, 237, -360],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "target",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

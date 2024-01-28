@@ -1,0 +1,110 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_green.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -106, 141, 1.0282, 1.0282, 72, 72, 0, 0, 0.0014,
+                            0.9986
+                        ],
+                        "PrePos": [-0.4977, 0.986, 0.338, 0.5035],
+                        "MG": [-153.6, -225.6, -169.6, -97.6],
+                        "Tag": 88333138,
+                        "@": 88333139,
+                        "Alpha": 255,
+                        "Name": "dige_green_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_green.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -36, 141, 1.0282, 1.0282, 72, 72, 0, 0, 0.0014,
+                            0.9986
+                        ],
+                        "PrePos": [-0.169, 0.986, 0.338, 0.5035],
+                        "MG": [-153.6, -225.6, -57.6, 14.4],
+                        "Tag": 88333136,
+                        "@": 88333137,
+                        "Alpha": 255,
+                        "Name": "dige_green_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_green.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -106, 71, 1.0282, 1.0282, 72, 72, 0, 0, 0.0014,
+                            0.9986
+                        ],
+                        "PrePos": [-0.4977, 0.4965, 0.338, 0.5035],
+                        "MG": [-41.6, -113.6, -169.6, -97.6],
+                        "Tag": 88333134,
+                        "@": 88333135,
+                        "Alpha": 255,
+                        "Name": "dige_green_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_green.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -36, 71, 1.0282, 1.0282, 72, 72, 0, 0, 0.0014,
+                            0.9986
+                        ],
+                        "PrePos": [-0.169, 0.4965, 0.338, 0.5035],
+                        "MG": [-41.6, -113.6, -57.6, 14.4],
+                        "Tag": 88333132,
+                        "@": 88333133,
+                        "Alpha": 255,
+                        "Name": "dige_green_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/dige_green.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            33, 71, 1.0282, 1.0282, 72, 72, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1549, 0.4965, 0.338, 0.5035],
+                        "MG": [-41.6, -113.6, 52.8, 124.8],
+                        "Tag": 88333130,
+                        "@": 88333131,
+                        "Alpha": 255,
+                        "Name": "dige_green_6",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 213, "Y": 143 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,42 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_friendRankInfoCard@6x.json"
+                        },
+                        "Pos": [230, -180, 1, 1, 479, 360, 0, 0, 0, 0],
+                        "PrePos": [0.4802, -0.5, 1, 1],
+                        "MG": [-180, 180, 230, -230],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746557,
+                        "@": 84746558,
+                        "Alpha": 255,
+                        "Name": "card",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 479,
+                    "Y": 360
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

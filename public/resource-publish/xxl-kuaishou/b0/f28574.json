@@ -1,0 +1,109 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -143, 44, 1, 1, 370.0211, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.3824, 0.3607, 0.5219, 0.9967],
+                        "MG": [51.2, -70.4, -228.8, -33.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 29325617,
+                        "@": 29325618,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -143, 46, 1, 1, 370.5677, 119.952, 0, 0, 0.012,
+                            0.9992
+                        ],
+                        "PrePos": [-0.3824, 0.377, 0.5219, 0.9836],
+                        "MG": [46.4, -73.6, -228.8, -33.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 29325615,
+                        "@": 29325616,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -143, 46, 1, 1, 370.0211, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.3824, 0.377, 0.5219, 0.9836],
+                        "MG": [46.4, -73.6, -228.8, -33.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 29325613,
+                        "@": 29325614,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-153, 20, 1, 1, 354, 62, 0, 0, 0, 1],
+                        "PrePos": [-0.4091, 0.1639, 0.9465, 0.5082],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [80, -20, -153, 173],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "注入 \\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29325611,
+                        "@": 29325612,
+                        "Name": "label1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/stars_icon.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [-10, 1, 1, 1, 43.2, 40, 0, 0, 0.4838, 0.515],
+                        "PrePos": [-0.0267, 0.0082, 0.1155, 0.3279],
+                        "MG": [38.4, -1.6, -16, 27.2],
+                        "Tag": 29325609,
+                        "@": 29325610,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 374, "Y": 122 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

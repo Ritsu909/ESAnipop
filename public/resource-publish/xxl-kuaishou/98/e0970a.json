@@ -1,0 +1,477 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/sand_bg.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -253, 1, 1, 736, 814.2014, 0, 0, 0.0023, 0.9979
+                        ],
+                        "PrePos": [0, -0.2338, 0.9235, 0.7497],
+                        "MG": [1216, 404.8, 736],
+                        "Scale9": [117, 369, 229, 100],
+                        "Tag": 2112,
+                        "@": 2113,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/rainbow.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            165, -62, 2, 2, 284.8, 123.2, 0, 0, 0.006, 0.9862
+                        ],
+                        "PrePos": [0.207, -0.0573, 0.3573, 0.1139],
+                        "MG": [222.4, 99.2, 264, 548.8],
+                        "Tag": 2114,
+                        "@": 2115,
+                        "Name": "rainbow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco1.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [701, -733, 1, 1, 22.4, 19.2, 0, 0, 0.5, 0.4948],
+                        "PrePos": [0.8795, -0.6774, 0.0281, 0.0177],
+                        "MG": [1192, 1172.8, 1121.6, 1144],
+                        "Tag": 2116,
+                        "@": 2117,
+                        "Name": "deco1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco2.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            711, -800, 1, 1, 144, 123.2, 0, 0, 0.4979, 0.4943
+                        ],
+                        "PrePos": [0.8921, -0.7394, 0.1807, 0.1139],
+                        "MG": [1403.2, 1280, 1137.6, 1281.6],
+                        "Tag": 2118,
+                        "@": 2119,
+                        "Name": "deco2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [618, -786, 1, 1, 54.4, 51.2, 0, 0, 0.5, 0.5078],
+                        "PrePos": [0.7754, -0.7264, 0.0683, 0.0473],
+                        "MG": [1308.8, 1257.6, 988.8, 1043.2],
+                        "Tag": 2120,
+                        "@": 2121,
+                        "Name": "deco3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco4.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [34, -812, 1, 1, 56, 59.2, 0, 0, 0.5036, 0.4882],
+                        "PrePos": [0.0427, -0.7505, 0.0703, 0.0547],
+                        "MG": [1358.4, 1299.2, 54.4, 110.4],
+                        "Tag": 2122,
+                        "@": 2123,
+                        "Name": "deco4",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco5.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [12, -851, 1, 1, 35.2, 24, 0, 0, 0.5199, 0.5125],
+                        "PrePos": [0.0151, -0.7865, 0.0442, 0.0222],
+                        "MG": [1385.6, 1361.6, 19.2, 54.4],
+                        "Tag": 2124,
+                        "@": 2125,
+                        "Name": "deco5",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco6.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            30, -1036, 1, 1, 48, 52.8, 0, 0, 0.5042, 0.5038
+                        ],
+                        "PrePos": [0.0376, -0.9575, 0.0602, 0.0488],
+                        "MG": [1710.4, 1657.6, 48, 96],
+                        "Tag": 2126,
+                        "@": 2127,
+                        "Name": "deco6",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/reward_bg.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            131, -564, 1, 1, 475.2, 118.4, 0, 0, 0.0036, 0.9856
+                        ],
+                        "PrePos": [0.1644, -0.5213, 0.5962, 0.1094],
+                        "MG": [1020.8, 902.4, 209.6, 684.8],
+                        "Tag": 2128,
+                        "@": 2129,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [
+                            245, -742, 0.9167, 0.8492, 300, 126, 0, 0, 0.5, 0.5
+                        ],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3074, -0.6858, 0.3764, 0.1165],
+                        "MG": [214, 742, 245, 252],
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 2130,
+                        "@": 2131,
+                        "Name": "btn1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "Pos": [
+                            502, -743, 0.7433, 0.7778, 300, 126, 0, 0, 0.5, 0.5
+                        ],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6299, -0.6867, 0.3764, 0.1165],
+                        "MG": [213, 743, 502, -5],
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 2132,
+                        "@": 2133,
+                        "Name": "btn2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/sandline.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [34, -849, 1, 1, 680, 24, 0, 0, 0.0025, 0.5125],
+                        "PrePos": [0.0427, -0.7847, 0.8532, 0.0222],
+                        "MG": [1382.4, 1358.4, 54.4, 734.4],
+                        "Tag": 2134,
+                        "@": 2135,
+                        "Name": "sandline",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_qwt@6x.json"
+                        },
+                        "Pos": [106, -81, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.133, -0.0749, 0, 0],
+                        "MG": [1001, 81, 106, 691],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2246,
+                        "@": 2247,
+                        "Name": "firework1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_qwt2@6x.json"
+                        },
+                        "Pos": [447, 18, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.5609, 0.0166, 0, 0],
+                        "MG": [1100, -18, 447, 350],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2354,
+                        "@": 2355,
+                        "Name": "firework2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_qwt@6x.json"
+                        },
+                        "Pos": [567, -51, 0.5393, 0.5393, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.7114, -0.0471, 0, 0],
+                        "MG": [1031, 51, 567, 230],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2356,
+                        "@": 2357,
+                        "Name": "firework3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/upright2.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            655, -225, 1, 1, 212.8, 286.4, 0, 0, 0.4991, 0.5
+                        ],
+                        "PrePos": [0.8218, -0.2079, 0.267, 0.2647],
+                        "MG": [646.4, 360, 1048, 1260.8],
+                        "Tag": 2358,
+                        "@": 2359,
+                        "Name": "upright",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/upleft.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [86, -266, 1, 1, 208, 272, 0, 0, 0.501, 0.4993],
+                        "PrePos": [0.1079, -0.2458, 0.261, 0.2514],
+                        "MG": [697.6, 425.6, 137.6, 345.6],
+                        "Tag": 2360,
+                        "@": 2361,
+                        "Name": "upleft",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_anim1@6x.json"
+                        },
+                        "Pos": [625, -259, 0.8031, 0.8031, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.7842, -0.2394, 0, 0],
+                        "MG": [823, 259, 625, 172],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2408,
+                        "@": 2409,
+                        "Name": "anim1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_anim2@6x.json"
+                        },
+                        "Pos": [
+                            479, -223, 0.6186, 0.6186, 0, 0, -4.19, -4.19, 0, 0
+                        ],
+                        "PrePos": [0.601, -0.2061, 0, 0],
+                        "MG": [859, 223, 479, 318],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2470,
+                        "@": 2471,
+                        "Name": "anim2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_anim3@6x.json"
+                        },
+                        "Pos": [654, -303, 0.6105, 0.6105, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.8206, -0.28, 0, 0],
+                        "MG": [779, 303, 654, 143],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2528,
+                        "@": 2529,
+                        "Name": "anim3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_anim4@6x.json"
+                        },
+                        "Pos": [584, -363, 0.604, 0.604, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.7327, -0.3355, 0, 0],
+                        "MG": [719, 363, 584, 213],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2566,
+                        "@": 2567,
+                        "Name": "anim4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_happy@6x.json"
+                        },
+                        "Pos": [
+                            333, -64, 1.0176, 1.0176, 0, 0, -2.7, -2.7, 0, 0
+                        ],
+                        "PrePos": [0.4178, -0.0591, 0, 0],
+                        "MG": [1018, 64, 333, 464],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2600,
+                        "@": 2601,
+                        "Name": "paper1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_happy@6x.json"
+                        },
+                        "Pos": [
+                            651, -123, 0.7998, 0.7998, 0, 0, 0.69, -179.31, 0, 0
+                        ],
+                        "PrePos": [0.8168, -0.1137, 0, 0],
+                        "MG": [959, 123, 651, 146],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2602,
+                        "@": 2603,
+                        "Name": "paper2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_anim5@6x.json"
+                        },
+                        "Pos": [354, -433, 1.0176, 1.0176, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4442, -0.4002, 0, 0],
+                        "MG": [649, 433, 354, 443],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2694,
+                        "@": 2695,
+                        "Name": "anim5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            321, -118, 0.9987, 0.9987, 27.2, 27.2, -27.35,
+                            -27.35, 0.4908, 0.511
+                        ],
+                        "PrePos": [0.4028, -0.1091, 0.0341, 0.0251],
+                        "MG": [216, 188.8, 513.6, 540.8],
+                        "Tag": 2696,
+                        "@": 2697,
+                        "Name": "title",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_flash@6x.json"
+                        },
+                        "Pos": [
+                            192, -198, 0.9989, 0.9989, 283, 74, -19.1, -19.1, 0,
+                            0
+                        ],
+                        "PrePos": [0.2409, -0.183, 0.3551, 0.0684],
+                        "MG": [810, 198, 192, 322],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2716,
+                        "@": 2717,
+                        "Name": "titlestar",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [251, -543, 1, 1, 325, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 184, "G": 109, "B": 10 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3149, -0.5018, 0.4078, 0.0277],
+                        "MG": [509, 543, 251, 221],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "分数：1234567",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 2718,
+                        "@": 2719,
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 797, "Y": 1082 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

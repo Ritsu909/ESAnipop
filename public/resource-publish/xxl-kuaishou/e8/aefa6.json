@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/c_l_t_i_9008.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -119, 95, 1, 1, 236.8, 145.6, 0, 0, -0.0061, 0.9993
+                        ],
+                        "PrePos": [-0.3449, 0.4657, 0.6864, 0.7137],
+                        "MG": [-6.4, -152, -190.4, 46.4],
+                        "Tag": 84746761,
+                        "@": 84746762,
+                        "Alpha": 255,
+                        "Name": "c_l_t_i_9008",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/c_l_t_2.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -167, -70, 1, 1, 345.6, 40, 0, 0, 0.0003, 0.9975
+                        ],
+                        "PrePos": [-0.4841, -0.3431, 1.0017, 0.1961],
+                        "MG": [152, 112, -267.2, 78.4],
+                        "Tag": 84746759,
+                        "@": 84746760,
+                        "Alpha": 255,
+                        "Name": "c_l_t_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 345, "Y": 204 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

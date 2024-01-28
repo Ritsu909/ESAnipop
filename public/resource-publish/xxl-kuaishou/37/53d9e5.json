@@ -1,0 +1,153 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -108, 1, 1, 619.1171, 717.3811, 0, 0, 0.0002,
+                            1.0056
+                        ],
+                        "PrePos": [0, -0.1394, 0.7197, 0.3592],
+                        "MG": [451.2, 172.8, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 88154586,
+                        "@": 88154587,
+                        "Alpha": 255,
+                        "Name": "twoboard",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMissionHelper/cocos/ActivityMissionHelper_btn_green_1d2_1d@6x.json"
+                        },
+                        "Pos": [301, -728, 1, 1, 232, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4871, -0.9394, 0.3754, 0.1548],
+                        "MG": [-73, 728, 301, 85],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 88154584,
+                        "@": 88154585,
+                        "Alpha": 255,
+                        "Name": "btn_ok",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [70, -513, 1, 1, 484, 76, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 170, "G": 84, "B": 40 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1133, -0.6619, 0.7832, 0.0981],
+                        "MG": [186, 513, 70, 64],
+                        "IsCustomSize": true,
+                        "LabelText": "国庆关卡活动将于xxxxxx开启。你可在商店、开心摇一摇、星星图册、周赛内提前收集宝石心，在活动开启后兑换奖励哦！",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 88154590,
+                        "@": 88154591,
+                        "Name": "label_desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionHelper/act12_p1.png",
+                            "Plist": "activity/ActivityMissionHelper/cocos/ActivityMissionHelper@6x.plist"
+                        },
+                        "Pos": [
+                            36, -50, 1, 1, 545.6, 438.4, 0, 0, 0.0002, 0.9998
+                        ],
+                        "PrePos": [0.0583, -0.0645, 0.8828, 0.5657],
+                        "MG": [518.4, 80, 57.6, 603.2],
+                        "Tag": 88154802,
+                        "@": 88154803,
+                        "Alpha": 255,
+                        "Name": "act12_p1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionHelper/img_icon.png",
+                            "Plist": "activity/ActivityMissionHelper/cocos/ActivityMissionHelper@6x.plist"
+                        },
+                        "Pos": [
+                            279, -612, 1, 1, 70.4, 56, 0, 0, 0.0014, 0.9982
+                        ],
+                        "PrePos": [0.4515, -0.7897, 0.1139, 0.0723],
+                        "MG": [1035.2, 979.2, 446.4, 516.8],
+                        "Tag": 88154640,
+                        "@": 88154641,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [344, -626, 0.9361, 0.9361, 122, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.5566, -0.8077, 0.1974, 0.0452],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [114, 626, 344, 152],
+                        "IsCustomSize": true,
+                        "LabelText": "00",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 88154578,
+                        "@": 88154579,
+                        "Name": "label_coin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [140, -630, 1, 1, 160, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2265, -0.8129, 0.2589, 0.0387],
+                        "MG": [115, 630, 140, 318],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "已获得：",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 88154638,
+                        "@": 88154639,
+                        "Name": "label_prefix",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 618, "Y": 775 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

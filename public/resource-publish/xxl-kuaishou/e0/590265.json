@@ -1,0 +1,45 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 20,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        9417145,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.4765, 0.4765], "I": 9 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/lightstar.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 28.8, 32, 0, 0, 0.4983, 0.5094],
+                        "MG": [32, 0, 0, 28.8],
+                        "Tag": 9417144,
+                        "@": 9417145,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

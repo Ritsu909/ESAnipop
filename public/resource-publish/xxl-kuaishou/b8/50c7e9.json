@@ -1,0 +1,267 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/page_left_bg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 283.2, 355.2, 0, 0, 0.0004, 0.9997],
+                        "MG": [355.2, 0, 0, 283.2],
+                        "Tag": 84747392,
+                        "@": 84747393,
+                        "Alpha": 255,
+                        "Name": "bg_b",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/paper2.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [11, -7, 1, 1, 272, 331.2, 0, 0, 0.0004, 0.9997],
+                        "PrePos": [0.039, -0.0197, 0.9645, 0.933],
+                        "MG": [342.4, 11.2, 17.6, 289.6],
+                        "Tag": 84747390,
+                        "@": 84747391,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/corner_sprite.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            23, -346, 1.0769, 1.0769, 80, 83.2, -180, 0, 0.2306,
+                            0.9501
+                        ],
+                        "PrePos": [0.0816, -0.9746, 0.2837, 0.2344],
+                        "MG": [636.8, 553.6, 36.8, 116.8],
+                        "Tag": 84747398,
+                        "@": 84747399,
+                        "Alpha": 255,
+                        "Name": "corner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/trash_sprite.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            25, -319, 0.6196, 0.6196, 40, 43.2, 0, 0, 0.0525,
+                            0.5359
+                        ],
+                        "PrePos": [0.0887, -0.8986, 0.1418, 0.1217],
+                        "MG": [553.6, 510.4, 40, 80],
+                        "Tag": 84747440,
+                        "@": 84747441,
+                        "Alpha": 255,
+                        "Name": "trash",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/infobg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            40, -237, 1, 1, 97.6, 25.6, 0, 0, 0.001, 0.9961
+                        ],
+                        "PrePos": [0.1418, -0.6676, 0.3461, 0.0721],
+                        "MG": [404.8, 379.2, 64, 161.6],
+                        "Tag": 84747438,
+                        "@": 84747439,
+                        "Alpha": 255,
+                        "Name": "level_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/werr.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            38, -236, 0.5725, 0.5725, 49.6, 56, 0, 0, 0.0585,
+                            0.9446
+                        ],
+                        "PrePos": [0.1348, -0.6648, 0.1759, 0.1577],
+                        "MG": [433.6, 377.6, 60.8, 110.4],
+                        "Tag": 84747436,
+                        "@": 84747437,
+                        "Alpha": 255,
+                        "Name": "level_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/infobg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            153, -237, 1, 1, 97.6, 25.6, 0, 0, 0.001, 0.9961
+                        ],
+                        "PrePos": [0.5426, -0.6676, 0.3461, 0.0721],
+                        "MG": [404.8, 379.2, 244.8, 342.4],
+                        "Tag": 84747434,
+                        "@": 84747435,
+                        "Alpha": 255,
+                        "Name": "boss_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/optopus_sprite.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            148, -233, 0.82, 0.82, 35.2, 40, 0, 0, 0.0028,
+                            0.9975
+                        ],
+                        "PrePos": [0.5248, -0.6563, 0.1248, 0.1127],
+                        "MG": [412.8, 372.8, 236.8, 272],
+                        "Tag": 84747432,
+                        "@": 84747433,
+                        "Alpha": 255,
+                        "Name": "boss_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [114, -276, 1, 1, 115, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 251, "G": 79, "B": 65 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4043, -0.7775, 0.4078, 0.0761],
+                        "MG": [52, 276, 114, 53],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "1234567890",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84747388,
+                        "@": 84747389,
+                        "Name": "label_id",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [33, -275, 1, 1, 83, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 17, "G": 157, "B": 199 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.117, -0.7746, 0.2943, 0.0761],
+                        "MG": [53, 275, 33, 166],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "消消乐ID:",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 84747386,
+                        "@": 84747387,
+                        "Name": "label_id_prefix",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/name_bg.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [140, -203, 1, 1, 177.6, 32, 0, 0, 0.5, 0.5188],
+                        "PrePos": [0.4965, -0.5718, 0.6298, 0.0901],
+                        "MG": [356.8, 324.8, 224, 401.6],
+                        "Tag": 84747384,
+                        "@": 84747385,
+                        "Alpha": 255,
+                        "Name": "sp_rename_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/btn_rename.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            207, -205, 1, 1, 28.8, 28.8, 0, 0, 0.4861, 0.5139
+                        ],
+                        "PrePos": [0.734, -0.5775, 0.1021, 0.0811],
+                        "MG": [356.8, 328, 331.2, 360],
+                        "Tag": 84747382,
+                        "@": 84747383,
+                        "Alpha": 255,
+                        "Name": "btn_rename",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/namecard_panel_touxiang@6x.json"
+                        },
+                        "Pos": [138, -109, 1, 1, 138, 138, 0, 0, 0, 0],
+                        "PrePos": [0.4894, -0.307, 0.4894, 0.3887],
+                        "MG": [108, 109, 138, 6],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747380,
+                        "@": 84747381,
+                        "Alpha": 255,
+                        "Name": "headicon",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "namecard_panel/play_sprite.png",
+                            "Plist": "cocos/namecard_panel@6x.plist"
+                        },
+                        "Pos": [
+                            175, -150, 1, 1, 28.8, 28.8, 0, 0, 0.0035, 0.9965
+                        ],
+                        "PrePos": [0.6206, -0.4225, 0.1021, 0.0811],
+                        "MG": [268.8, 240, 280, 308.8],
+                        "Tag": 84747378,
+                        "@": 84747379,
+                        "Alpha": 255,
+                        "Name": "editicon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 282, "Y": 355 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

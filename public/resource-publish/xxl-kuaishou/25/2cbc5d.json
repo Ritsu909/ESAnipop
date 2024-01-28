@@ -1,0 +1,394 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0002.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 206.4, 206.4, 0, 0, 0.4995, 0.5007
+                        ],
+                        "MG": [206.4, 0, 0, 206.4],
+                        "Tag": 84747291,
+                        "@": 84747292,
+                        "Alpha": 255,
+                        "Name": "glow1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0002.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.72, 0.72, 206.4, 206.4, 0, 0, 0.4995, 0.5007
+                        ],
+                        "MG": [206.4, 0, 0, 206.4],
+                        "Tag": 84747289,
+                        "@": 84747290,
+                        "Alpha": 102,
+                        "Name": "glow2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/res_stargolow0004.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -1, 0, 0.96, 0.96, 156.8, 156.8, 0, 0, 0.4968,
+                            0.5035
+                        ],
+                        "PrePos": [-0.0061, 0, 0.9561, 0.9561],
+                        "MG": [156.8, 0, -1.6, 155.2],
+                        "Tag": 84747287,
+                        "@": 84747288,
+                        "Alpha": 255,
+                        "Name": "glow3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/res_stargolow0003.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -2, 0.8, 0.8, 107.2, 107.2, 0, 0, 0.4939, 0.5061
+                        ],
+                        "PrePos": [0, -0.0122, 0.6537, 0.6537],
+                        "MG": [110.4, 3.2, 0, 107.2],
+                        "Tag": 84747285,
+                        "@": 84747286,
+                        "Alpha": 255,
+                        "Name": "glow4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747283,
+                        "@": 84747284,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747281,
+                        "@": 84747282,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747279,
+                        "@": 84747280,
+                        "Alpha": 255,
+                        "Name": "star3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747277,
+                        "@": 84747278,
+                        "Alpha": 255,
+                        "Name": "star4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747275,
+                        "@": 84747276,
+                        "Alpha": 255,
+                        "Name": "star5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747273,
+                        "@": 84747274,
+                        "Alpha": 255,
+                        "Name": "star6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747271,
+                        "@": 84747272,
+                        "Alpha": 255,
+                        "Name": "star7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747269,
+                        "@": 84747270,
+                        "Alpha": 255,
+                        "Name": "star8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747267,
+                        "@": 84747268,
+                        "Alpha": 255,
+                        "Name": "star9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747265,
+                        "@": 84747266,
+                        "Alpha": 255,
+                        "Name": "star10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747263,
+                        "@": 84747264,
+                        "Alpha": 255,
+                        "Name": "star11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747261,
+                        "@": 84747262,
+                        "Alpha": 255,
+                        "Name": "star12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747259,
+                        "@": 84747260,
+                        "Alpha": 255,
+                        "Name": "star13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747257,
+                        "@": 84747258,
+                        "Alpha": 255,
+                        "Name": "star14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747255,
+                        "@": 84747256,
+                        "Alpha": 255,
+                        "Name": "star15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747253,
+                        "@": 84747254,
+                        "Alpha": 255,
+                        "Name": "star16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747251,
+                        "@": 84747252,
+                        "Alpha": 255,
+                        "Name": "star17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "common_reward_panel/stargolow0006.png",
+                            "Plist": "cocos/common_reward_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 19.2, 19.2, -56.22, -56.22, 0.4766,
+                            0.5182
+                        ],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 84747249,
+                        "@": 84747250,
+                        "Alpha": 255,
+                        "Name": "star18",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 164, "Y": 164 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

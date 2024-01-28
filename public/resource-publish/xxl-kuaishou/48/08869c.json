@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 4,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        80857293,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [-0.05, 0], "I": 2, "T": 0 },
+                            { "P": [-0.05, 0], "I": 3, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80857293,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            { "P": [0.6929, 0.6913], "I": 2, "T": 0 },
+                            { "P": [0.6929, 0.6913], "I": 3, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pursue_star_bomb/star_star.png",
+                            "Plist": "cocos/pursue_star_bomb@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 25.6, 25.6, 0, 0, 0.5137, 0.4883],
+                        "MG": [25.6, 0, 0, 25.6],
+                        "Tag": 80857292,
+                        "@": 80857293,
+                        "Alpha": 255,
+                        "Name": "sp",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

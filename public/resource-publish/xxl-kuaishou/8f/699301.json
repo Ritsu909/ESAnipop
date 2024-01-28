@@ -1,0 +1,84 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 50,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        87595374,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.185, 0.6, 0.6702, 0.8801]
+                            },
+                            { "P": [65, 41.2], "I": 47, "T": 0 },
+                            { "P": [65, 41.2], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87595374,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.185, 0.6, 0.6702, 0.8801]
+                            },
+                            { "P": [0.9984, 0.9984], "I": 47, "T": 0 },
+                            { "P": [0.9984, 0.9984], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        87595374,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.185, 0.6, 0.6702, 0.8801]
+                            },
+                            { "P": [143.9, 143.9], "I": 47, "T": 0 },
+                            { "P": [143.9, 143.9], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87595374,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 47, "T": 0 },
+                            { "V": 0, "I": 49, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_animation/stargolow0006.png",
+                            "Plist": "cocos/prop_animation@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.5182],
+                        "MG": [19.2, 0, 0, 19.2],
+                        "Tag": 87595373,
+                        "@": 87595374,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

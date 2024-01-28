@@ -1,0 +1,93 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "save_phone/_c_l_title.png",
+                            "Plist": "cocos/save_phone@6x.plist"
+                        },
+                        "Pos": [97, -25, 1, 1, 379.2, 56, 0, 0, 0.0003, 0.9982],
+                        "PrePos": [0.2082, -0.0651, 0.8137, 0.1458],
+                        "MG": [96, 40, 155.2, 534.4],
+                        "Tag": 9202118,
+                        "@": 9202119,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/save_phone_bottom_btn_green_get@6x.json"
+                        },
+                        "Pos": [290, -351, 0.8, 0.8, 240, 122, 0, 0, 0, 0],
+                        "PrePos": [0.6223, -0.9141, 0.515, 0.3177],
+                        "MG": [-89, 351, 290, -64],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9202154,
+                        "@": 9202155,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [60, -100, 1, 1, 466, 103, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 139, "G": 69, "B": 28 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1288, -0.2604, 1, 0.2682],
+                        "MG": [181, 100, 60, -60],
+                        "IsCustomSize": true,
+                        "LabelText": "请您填写领取手机账号，我们会将票的兑换码发送给你哦！请您填写领取手机账号，我们会将票的兑换码发送给你哦！\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 9202158,
+                        "@": 9202159,
+                        "Name": "desc1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/save_phone_input_container@6x.json"
+                        },
+                        "Pos": [291, -256, 1, 1, 407, 71, 0, 0, 0, 0],
+                        "PrePos": [0.6245, -0.6667, 0.8734, 0.1849],
+                        "MG": [57, 256, 291, -232],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9202150,
+                        "@": 9202151,
+                        "Alpha": 255,
+                        "Name": "input_container",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 466, "Y": 384 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

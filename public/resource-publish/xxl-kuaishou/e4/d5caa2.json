@@ -1,0 +1,53 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-35, 35, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.5, 0.25, 1.0057, 0.5143],
+                        "MG": [16, -56, -56, 14.4],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "fox7677",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -34, 105, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.4857, 0.75, 1.0057, 0.5029],
+                        "MG": [-97.6, -168, -54.4, 16.0],
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "chicken3434",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 70, "Y": 140 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

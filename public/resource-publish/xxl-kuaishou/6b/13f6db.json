@@ -1,0 +1,44 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 4,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Alpha",
+                        80867309,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 3, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx1bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 198.4, 198.4, 0, 0, 0.4894, 0.5106],
+                        "MG": [198.4, 0, 0, 198.4],
+                        "Tag": 80867308,
+                        "@": 80867309,
+                        "Alpha": 255,
+                        "Name": "图层 3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

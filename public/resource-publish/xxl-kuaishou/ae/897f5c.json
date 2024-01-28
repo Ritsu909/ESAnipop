@@ -1,0 +1,39 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [-125, 27, 1, 1, 300, 62, 0, 0, 0, 1],
+                        "PrePos": [-0.4167, 0.4355, 1, 1],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [27, -27, -125, 125],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "XXX关全三星\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84748097,
+                        "@": 84748098,
+                        "Name": "txt",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 300, "Y": 62 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

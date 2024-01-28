@@ -1,0 +1,1437 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 35,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        80867307,
+                        [
+                            { "P": [-162.8, -154.25], "I": 0 },
+                            { "P": [-173.95, -163.25], "I": 5 },
+                            { "P": [-217.95, -194.25], "I": 22, "T": 0 },
+                            { "P": [194.25, -194.25], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867307,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 0, "I": 22, "T": 0 },
+                            { "V": 0, "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867305,
+                        [
+                            { "P": [-224.4, 83.9], "I": 0, "T": 0 },
+                            { "P": [-224.4, 83.9], "I": 3 },
+                            { "P": [-247.95, 101], "I": 8 },
+                            { "P": [-249.15, 108.4], "I": 25, "T": 0 },
+                            { "P": [-108.4, 108.4], "I": 31, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867305,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 8 },
+                            { "V": 0, "I": 25, "T": 0 },
+                            { "V": 0, "I": 31, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867303,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867303,
+                        [
+                            { "P": [-37.05, 93.05], "I": 0, "T": 0 },
+                            { "P": [-37.05, 93.05], "I": 1 },
+                            { "P": [-37.05, 169.05], "I": 7 },
+                            { "P": [-37.05, 191.05], "I": 24, "T": 0 },
+                            { "P": [-191.05, 191.05], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867303,
+                        [
+                            { "P": [0.3313, 0.3313], "I": 0, "T": 0 },
+                            { "P": [0.3313, 0.3313], "I": 1 },
+                            { "P": [0.3313, 0.3313], "I": 7 },
+                            { "P": [0.2524, 0.2524], "I": 24, "T": 0 },
+                            { "P": [1, 1], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867303,
+                        [
+                            { "P": [-69.22, -69.22], "I": 0, "T": 0 },
+                            { "P": [-69.22, -69.22], "I": 1 },
+                            { "P": [-69.22, -69.22], "I": 7 },
+                            { "P": [-99.22, -99.22], "I": 24, "T": 0 },
+                            { "P": [0, 0], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867303,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1 },
+                            { "V": 255, "I": 7 },
+                            { "V": 0, "I": 24, "T": 0 },
+                            { "V": 0, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867301,
+                        [
+                            { "P": [-48.55, 62.45], "I": 0, "T": 0 },
+                            { "P": [-48.55, 62.45], "I": 2 },
+                            { "P": [-54.8, 110.2], "I": 7 },
+                            { "P": [-60.55, 121.95], "I": 24, "T": 0 },
+                            { "P": [-121.95, 121.95], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867301,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2 },
+                            { "V": 255, "I": 7 },
+                            { "V": 0, "I": 24, "T": 0 },
+                            { "V": 0, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867299,
+                        [
+                            { "P": [172.55, 139.5], "I": 0, "T": 0 },
+                            { "P": [172.55, 139.5], "I": 3 },
+                            { "P": [185.55, 165.5], "I": 9 },
+                            { "P": [205.55, 178], "I": 31, "T": 0 },
+                            { "P": [-178, 178], "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867299,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 31, "T": 0 },
+                            { "V": 0, "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867297,
+                        [
+                            { "P": [192.5, -21.65], "I": 0, "T": 0 },
+                            { "P": [192.5, -21.65], "I": 6 },
+                            { "P": [216.5, -29.65], "I": 11 },
+                            { "P": [245.5, -33.65], "I": 33, "T": 0 },
+                            { "P": [33.65, -33.65], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867297,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 6 },
+                            { "V": 255, "I": 11 },
+                            { "V": 0, "I": 33, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867295,
+                        [
+                            { "P": [13.9, 66.9], "I": 0, "T": 0 },
+                            { "P": [13.9, 66.9], "I": 4 },
+                            { "P": [60.9, 116.9], "I": 10 },
+                            { "P": [86.9, 145.9], "I": 32, "T": 0 },
+                            { "P": [-145.9, 145.9], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867295,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 4 },
+                            { "V": 255, "I": 10 },
+                            { "V": 255, "I": 32, "T": 0 },
+                            { "V": 0, "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867293,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 5,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867293,
+                        [
+                            { "P": [-150, 171.35], "I": 0 },
+                            { "P": [-167.25, 193.6], "I": 5 },
+                            { "P": [-176.7, 203.65], "I": 22, "T": 0 },
+                            { "P": [-203.65, 203.65], "I": 23, "T": 0 },
+                            { "P": [-203.65, 203.65], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867293,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0 },
+                            { "P": [0.2765, 0.2765], "I": 5 },
+                            { "P": [0.2104, 0.2104], "I": 22, "T": 0 },
+                            { "P": [1, 1], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867293,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0 },
+                            { "P": [-84.23, -84.23], "I": 5 },
+                            { "P": [-114.23, -114.23], "I": 22, "T": 0 },
+                            { "P": [0, 0], "I": 23, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867293,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 255, "I": 22, "T": 0 },
+                            { "V": 0, "I": 23, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867291,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 5,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 32,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867291,
+                        [
+                            { "P": [185.5, -92.95], "I": 0 },
+                            { "P": [201.8, -112.65], "I": 5 },
+                            { "P": [228.3, -133.65], "I": 22, "T": 0 },
+                            { "P": [133.65, -133.65], "I": 23, "T": 0 },
+                            { "P": [133.65, -133.65], "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867291,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0 },
+                            { "P": [0.3092, 0.3092], "I": 5 },
+                            { "P": [0.2566, 0.2566], "I": 22, "T": 0 },
+                            { "P": [1, 1], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867291,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0 },
+                            { "P": [35.77, 35.77], "I": 5 },
+                            { "P": [80.77, 80.77], "I": 22, "T": 0 },
+                            { "P": [0, 0], "I": 23, "T": 0 },
+                            { "P": [0, 0], "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867291,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 255, "I": 22, "T": 0 },
+                            { "V": 0, "I": 23, "T": 0 },
+                            { "V": 0, "I": 32, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867289,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 6,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867289,
+                        [
+                            { "P": [-122.15, -174.75], "I": 0, "T": 0 },
+                            { "P": [-122.15, -174.75], "I": 1 },
+                            { "P": [-152.55, -210.75], "I": 6 },
+                            { "P": [-164.15, -237.15], "I": 23, "T": 0 },
+                            { "P": [237.15, -237.15], "I": 24, "T": 0 },
+                            { "P": [237.15, -237.15], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867289,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 1 },
+                            { "P": [0.2969, 0.2969], "I": 6 },
+                            { "P": [0.2704, 0.2704], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 24, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867289,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 1 },
+                            { "P": [-84.23, -84.23], "I": 6 },
+                            { "P": [-114.22, -114.22], "I": 23, "T": 0 },
+                            { "P": [0, 0], "I": 24, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867289,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1 },
+                            { "V": 255, "I": 6 },
+                            { "V": 0, "I": 23, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867287,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 6,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867287,
+                        [
+                            { "P": [-134.45, -139.9], "I": 0, "T": 0 },
+                            { "P": [-134.45, -139.9], "I": 1 },
+                            { "P": [-179.45, -216.5], "I": 6 },
+                            { "P": [-196.45, -231.4], "I": 23, "T": 0 },
+                            { "P": [231.4, -231.4], "I": 24, "T": 0 },
+                            { "P": [231.4, -231.4], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867287,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 1 },
+                            { "P": [0.3115, 0.3115], "I": 6 },
+                            { "P": [0.3115, 0.3115], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 24, "T": 0 },
+                            { "P": [1, 1], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867287,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 1 },
+                            { "P": [-69.23, -69.23], "I": 6 },
+                            { "P": [-99.22, -99.22], "I": 23, "T": 0 },
+                            { "P": [0, 0], "I": 24, "T": 0 },
+                            { "P": [0, 0], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867287,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1 },
+                            { "V": 255, "I": 6 },
+                            { "V": 0, "I": 23, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 },
+                            { "V": 0, "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867285,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 3,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 8,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 31,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867285,
+                        [
+                            { "P": [224.5, 91.1], "I": 0, "T": 0 },
+                            { "P": [224.5, 91.1], "I": 3 },
+                            { "P": [253.5, 98.6], "I": 8 },
+                            { "P": [267, 104.6], "I": 25, "T": 0 },
+                            { "P": [-104.6, 104.6], "I": 31, "T": 0 },
+                            { "P": [-104.6, 104.6], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867285,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 3 },
+                            { "P": [0.318, 0.318], "I": 8 },
+                            { "P": [0.2464, 0.2464], "I": 25, "T": 0 },
+                            { "P": [1, 1], "I": 31, "T": 0 },
+                            { "P": [1, 1], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867285,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 3 },
+                            { "P": [5.77, 5.77], "I": 8 },
+                            { "P": [35.77, 35.77], "I": 25, "T": 0 },
+                            { "P": [0, 0], "I": 31, "T": 0 },
+                            { "P": [0, 0], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867285,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 8 },
+                            { "V": 255, "I": 25, "T": 0 },
+                            { "V": 0, "I": 31, "T": 0 },
+                            { "V": 0, "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867283,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 3,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 9,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 31,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867283,
+                        [
+                            { "P": [-172.45, -60.9], "I": 0, "T": 0 },
+                            { "P": [-172.45, -60.9], "I": 3 },
+                            { "P": [-236.45, -66.4], "I": 9 },
+                            { "P": [-243.95, -62.95], "I": 25, "T": 0 },
+                            { "P": [62.95, -62.95], "I": 31, "T": 0 },
+                            { "P": [62.95, -62.95], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867283,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 3 },
+                            { "P": [0.2699, 0.2699], "I": 9 },
+                            { "P": [0.2699, 0.2699], "I": 25, "T": 0 },
+                            { "P": [1, 1], "I": 31, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867283,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 3 },
+                            { "P": [-129.23, -129.23], "I": 9 },
+                            { "P": [-144.23, -144.23], "I": 25, "T": 0 },
+                            { "P": [0, 0], "I": 31, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867283,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 25, "T": 0 },
+                            { "V": 0, "I": 31, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867281,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 5,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 11,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867281,
+                        [
+                            { "P": [-23, 67], "I": 0, "T": 0 },
+                            { "P": [-23, 67], "I": 5 },
+                            { "P": [-23, 132], "I": 11 },
+                            { "P": [-23, 160], "I": 33, "T": 0 },
+                            { "P": [-160, 160], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867281,
+                        [
+                            { "P": [0.4972, 0.4972], "I": 0, "T": 0 },
+                            { "P": [0.4972, 0.4972], "I": 5 },
+                            { "P": [0.3313, 0.3313], "I": 11 },
+                            { "P": [0.3313, 0.3313], "I": 33, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867281,
+                        [
+                            { "P": [-39.22, -39.22], "I": 0, "T": 0 },
+                            { "P": [-39.22, -39.22], "I": 5 },
+                            { "P": [-69.22, -69.22], "I": 11 },
+                            { "P": [-99.22, -99.22], "I": 33, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867281,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 255, "I": 11 },
+                            { "V": 0, "I": 33, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867279,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 6,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 12,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867279,
+                        [
+                            { "P": [186.05, -60.05], "I": 0, "T": 0 },
+                            { "P": [186.05, -60.05], "I": 6 },
+                            { "P": [230.05, -76.55], "I": 12 },
+                            { "P": [253.55, -84.05], "I": 33, "T": 0 },
+                            { "P": [84.05, -84.05], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867279,
+                        [
+                            { "P": [0.4972, 0.4972], "I": 0, "T": 0 },
+                            { "P": [0.4972, 0.4972], "I": 6 },
+                            { "P": [0.2903, 0.2903], "I": 12 },
+                            { "P": [0.2903, 0.2903], "I": 33, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867279,
+                        [
+                            { "P": [-39.22, -39.22], "I": 0, "T": 0 },
+                            { "P": [-39.22, -39.22], "I": 6 },
+                            { "P": [-9.23, -9.23], "I": 12 },
+                            { "P": [20.77, 20.77], "I": 33, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867279,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 6 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 33, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867277,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 12,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867277,
+                        [
+                            { "P": [45.5, -209.9], "I": 0, "T": 0 },
+                            { "P": [45.5, -209.9], "I": 7 },
+                            { "P": [71.5, -251.9], "I": 12 },
+                            { "P": [78.5, -263.9], "I": 33, "T": 0 },
+                            { "P": [263.9, -263.9], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867277,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 7 },
+                            { "P": [0.274, 0.274], "I": 12 },
+                            { "P": [0.274, 0.274], "I": 33, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867277,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 7 },
+                            { "P": [5.77, 5.77], "I": 12 },
+                            { "P": [5.77, 5.77], "I": 33, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867277,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 7 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 33, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        80867275,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 12,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 33,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 34,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        80867275,
+                        [
+                            { "P": [-39.85, -194.1], "I": 0, "T": 0 },
+                            { "P": [-39.85, -194.1], "I": 7 },
+                            { "P": [-59.35, -235.6], "I": 12 },
+                            { "P": [-66.85, -259.65], "I": 33, "T": 0 },
+                            { "P": [259.65, -259.65], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        80867275,
+                        [
+                            { "P": [0.4043, 0.4043], "I": 0, "T": 0 },
+                            { "P": [0.4043, 0.4043], "I": 7 },
+                            { "P": [0.4043, 0.4043], "I": 12 },
+                            { "P": [0.2919, 0.2919], "I": 33, "T": 0 },
+                            { "P": [1, 1], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        80867275,
+                        [
+                            { "P": [-39.23, -39.23], "I": 0, "T": 0 },
+                            { "P": [-39.23, -39.23], "I": 7 },
+                            { "P": [-39.23, -39.23], "I": 12 },
+                            { "P": [-69.23, -69.23], "I": 33, "T": 0 },
+                            { "P": [0, 0], "I": 34, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        80867275,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 7 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 33, "T": 0 },
+                            { "V": 0, "I": 34, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [
+                            -162, -154, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513
+                        ],
+                        "MG": [265.6, 246.4, -259.2, -240],
+                        "Tag": 80867306,
+                        "@": 80867307,
+                        "Alpha": 255,
+                        "Name": "17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [
+                            -224, 83, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513
+                        ],
+                        "MG": [-113.6, -132.8, -358.4, -339.2],
+                        "Tag": 80867304,
+                        "@": 80867305,
+                        "Alpha": 0,
+                        "Name": "16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -37, 93, 0.3313, 0.3313, 0, 0, -69.22, -69.22, 0, 0
+                        ],
+                        "MG": [93, -93, -37, 37],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867302,
+                        "@": 80867303,
+                        "Alpha": 0,
+                        "Name": "15",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [-48, 62, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513],
+                        "MG": [-80, -99.2, -76.8, -57.6],
+                        "Tag": 80867300,
+                        "@": 80867301,
+                        "Alpha": 0,
+                        "Name": "14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [
+                            172, 139, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513
+                        ],
+                        "MG": [-203.2, -222.4, 275.2, 294.4],
+                        "Tag": 80867298,
+                        "@": 80867299,
+                        "Alpha": 0,
+                        "Name": "13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [
+                            192, -21, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513
+                        ],
+                        "MG": [52.8, 33.6, 307.2, 326.4],
+                        "Tag": 80867296,
+                        "@": 80867297,
+                        "Alpha": 0,
+                        "Name": "12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "hssg_stars_bomb/starsglowxx3bomb.png",
+                            "Plist": "cocos/hssg_stars_bomb@6x.plist"
+                        },
+                        "Pos": [13, 66, 1, 1, 19.2, 19.2, 0, 0, 0.4766, 0.513],
+                        "MG": [-86.4, -105.6, 20.8, 40],
+                        "Tag": 80867294,
+                        "@": 80867295,
+                        "Alpha": 0,
+                        "Name": "11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -150, 171, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0,
+                            0
+                        ],
+                        "MG": [171, -171, -150, 150],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867292,
+                        "@": 80867293,
+                        "Alpha": 255,
+                        "Name": "10",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            185, -92, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0, 0
+                        ],
+                        "MG": [-92, 92, 185, -185],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867290,
+                        "@": 80867291,
+                        "Alpha": 255,
+                        "Name": "9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -122, -174, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0,
+                            0
+                        ],
+                        "MG": [-174, 174, -122, 122],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867288,
+                        "@": 80867289,
+                        "Alpha": 0,
+                        "Name": "8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -134, -139, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0,
+                            0
+                        ],
+                        "MG": [-139, 139, -134, 134],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867286,
+                        "@": 80867287,
+                        "Alpha": 0,
+                        "Name": "7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            224, 91, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0, 0
+                        ],
+                        "MG": [91, -91, 224, -224],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867284,
+                        "@": 80867285,
+                        "Alpha": 0,
+                        "Name": "6",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -172, -60, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0,
+                            0
+                        ],
+                        "MG": [-60, 60, -172, 172],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867282,
+                        "@": 80867283,
+                        "Alpha": 0,
+                        "Name": "5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -23, 67, 0.4972, 0.4972, 0, 0, -39.22, -39.22, 0, 0
+                        ],
+                        "MG": [67, -67, -23, 23],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867280,
+                        "@": 80867281,
+                        "Alpha": 0,
+                        "Name": "4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            186, -60, 0.4972, 0.4972, 0, 0, -39.22, -39.22, 0, 0
+                        ],
+                        "MG": [-60, 60, 186, -186],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867278,
+                        "@": 80867279,
+                        "Alpha": 0,
+                        "Name": "3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            45, -209, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0, 0
+                        ],
+                        "MG": [-209, 209, 45, -45],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867276,
+                        "@": 80867277,
+                        "Alpha": 0,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/hssg_stars_bomb_starsglowxxx2bomb@6x.json"
+                        },
+                        "Pos": [
+                            -39, -194, 0.4043, 0.4043, 0, 0, -39.23, -39.23, 0,
+                            0
+                        ],
+                        "MG": [-194, 194, -39, 39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 80867274,
+                        "@": 80867275,
+                        "Alpha": 0,
+                        "Name": "1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

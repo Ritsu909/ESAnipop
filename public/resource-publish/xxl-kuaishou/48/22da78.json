@@ -1,0 +1,168 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 576.3274, 747.0029, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 84751392,
+                        "@": 84751393,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/compen_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [279, -609, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4697, -0.794, 0.3266, 0.1591],
+                        "MG": [36, 609, 279, 121],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751390,
+                        "@": 84751391,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [81, -377, 0.3846, 0.3846, 408, 105, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 139,
+                            "G": 66,
+                            "B": 31
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1364, -0.4915, 0.6869, 0.1369],
+                        "MG": [285, 377, 81, 105],
+                        "IsCustomSize": true,
+                        "LabelText": "好友可以互赠道具，还可以帮忙解锁关卡哦！这些小伙伴经常在线哦！好消息好消息",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 84751388,
+                        "@": 84751389,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [160, -24, 0.403, 0.403, 251, 127, 0, 0, 0, 1],
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2694, -0.0313, 0.4226, 0.1656],
+                        "MG": [616, 24, 160, 183],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "发现新版本",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84751386,
+                        "@": 84751387,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_close@6x.json"
+                        },
+                        "Pos": [555, -19, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9343, -0.0248, 0.133, 0.103],
+                        "MG": [669, 19, 555, -40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751384,
+                        "@": 84751385,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "compen_panel/image_bg.png",
+                            "Plist": "cocos/compen_panel@6x.plist"
+                        },
+                        "Pos": [
+                            508, -353, 1, 1, 444.8, 259.2, 0, 0, 1.0002, 0.0056
+                        ],
+                        "PrePos": [0.8552, -0.4602, 0.7488, 0.3379],
+                        "MG": [824, 564.8, 812.8, 1257.6],
+                        "Tag": 84751382,
+                        "@": 84751383,
+                        "Alpha": 255,
+                        "Name": "image_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "compen_panel/image.png",
+                            "Plist": "cocos/compen_panel@6x.plist"
+                        },
+                        "Pos": [
+                            493, -341, 1, 1, 416, 235.2, 0, 0, 0.9995, 0.0011
+                        ],
+                        "PrePos": [0.83, -0.4446, 0.7003, 0.3066],
+                        "MG": [780.8, 545.6, 788.8, 1204.8],
+                        "Tag": 84751380,
+                        "@": 84751381,
+                        "Alpha": 255,
+                        "Name": "image",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 594,
+                    "Y": 767
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

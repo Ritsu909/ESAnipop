@@ -1,0 +1,189 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.3, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, 168, 238.4],
+                        "Tag": 50174,
+                        "@": 50175,
+                        "Alpha": 255,
+                        "Name": "candychick_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            105, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.3, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, 168, 238.4],
+                        "Tag": 50176,
+                        "@": 50177,
+                        "Alpha": 255,
+                        "Name": "candychick_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candychick.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            35, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.1, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, 56, 126.4],
+                        "Tag": 50178,
+                        "@": 50179,
+                        "Alpha": 255,
+                        "Name": "candychick_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candybear.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, -0.25, 0.2011, 0.2514],
+                        "MG": [182.4, 112, -280, -209.6],
+                        "Tag": 50180,
+                        "@": 50181,
+                        "Alpha": 255,
+                        "Name": "candybear_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candybear.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -34, -69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.0971, -0.2464, 0.2011, 0.2514],
+                        "MG": [180.8, 110.4, -54.4, 16.0],
+                        "Tag": 50182,
+                        "@": 50183,
+                        "Alpha": 255,
+                        "Name": "candybear_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candybear.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -175, 70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.5, 0.25, 0.2011, 0.2514],
+                        "MG": [-41.6, -112, -280, -209.6],
+                        "Tag": 50184,
+                        "@": 50185,
+                        "Alpha": 255,
+                        "Name": "candybear_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candy_hippo.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -104, -69, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.2971, -0.2464, 0.2011, 0.2514],
+                        "MG": [180.8, 110.4, -166.4, -96],
+                        "Tag": 50186,
+                        "@": 50187,
+                        "Alpha": 255,
+                        "Name": "candy_hippo_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -174, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.4971, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, -278.4, -208.0],
+                        "Tag": 50188,
+                        "@": 50189,
+                        "Alpha": 255,
+                        "Name": "candyfox_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -105, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3, 0, 0.2011, 0.2514],
+                        "MG": [70.4, 0, -168, -97.6],
+                        "Tag": 50190,
+                        "@": 50191,
+                        "Alpha": 255,
+                        "Name": "candyfox_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/candyfox.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -34, 140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.0971, 0.5, 0.2011, 0.2514],
+                        "MG": [-153.6, -224, -54.4, 16.0],
+                        "Tag": 50192,
+                        "@": 50193,
+                        "Alpha": 255,
+                        "Name": "candyfox_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 350, "Y": 280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

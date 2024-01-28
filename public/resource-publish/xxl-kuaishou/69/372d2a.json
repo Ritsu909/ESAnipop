@@ -1,0 +1,119 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "CloverUI/friendback.png",
+                            "Plist": "cocos/CloverUI@6x.plist"
+                        },
+                        "Pos": [0, -5, 1, 1, 102.4, 160, 0, 0, 0.5, 0.4988],
+                        "PrePos": [0, -0.0298, 1.0343, 0.9524],
+                        "MG": [168, 8, 102.4],
+                        "Tag": 3298,
+                        "@": 3299,
+                        "Name": "friendback",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "CloverUI/friendpic.png",
+                            "Plist": "cocos/CloverUI@6x.plist"
+                        },
+                        "Pos": [0, 20, 1, 1, 76.8, 76.8, 0, 0, 0.5039, 0.4961],
+                        "PrePos": [0, 0.119, 0.7758, 0.4571],
+                        "MG": [44.8, -32, 76.8],
+                        "Tag": 3300,
+                        "@": 3301,
+                        "Name": "friendpic",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "CloverUI/friendpicup.png",
+                            "Plist": "cocos/CloverUI@6x.plist"
+                        },
+                        "Pos": [0, 19, 1, 1, 83.2, 84.8, 0, 0, 0.5012, 0.5024],
+                        "PrePos": [0, 0.1131, 0.8404, 0.5048],
+                        "MG": [54.4, -30.4, 83.2],
+                        "Tag": 3302,
+                        "@": 3303,
+                        "Name": "friendpicup",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "CloverUI/crown.png",
+                            "Plist": "cocos/CloverUI@6x.plist"
+                        },
+                        "Pos": [0, 68, 1, 1, 43.2, 35.2, 0, 0, 0.5162, 0.5114],
+                        "PrePos": [0, 0.4048, 0.4364, 0.2095],
+                        "MG": [-73.6, -108.8, 43.2],
+                        "Tag": 3304,
+                        "@": 3305,
+                        "Name": "crown",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-37, -18, 1, 1, 76, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 184, "G": 115, "B": 9 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3737, -0.1071, 0.7677, 0.1607],
+                        "MG": [123, 18, -37, 60],
+                        "IsCustomSize": true,
+                        "LabelText": "那个谁谁",
+                        "FontSize": 18,
+                        "Shadow": [2, -2],
+                        "Tag": 3306,
+                        "@": 3307,
+                        "Name": "friendsname",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-37, -45, 1, 1, 53, 19, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 184, "G": 115, "B": 9 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3737, -0.2679, 0.5354, 0.1131],
+                        "MG": [104, 45, -37, 83],
+                        "IsCustomSize": true,
+                        "LabelText": "1200000",
+                        "FontSize": 12,
+                        "Shadow": [2, -2],
+                        "Tag": 3308,
+                        "@": 3309,
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 99, "Y": 168 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

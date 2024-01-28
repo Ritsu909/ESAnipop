@@ -1,0 +1,686 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 620.0656, 661.0448, 0, 0, 0.005, 0.9998
+                        ],
+                        "MG": [488, 0, 0, 616],
+                        "Scale9": [353, 176, 7, 6],
+                        "Tag": 28250789,
+                        "@": 28250790,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/wavewet.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -540, 1, 1, 608, 202.499, 0, 0, 0.0002, 0.9985
+                        ],
+                        "PrePos": [0, -0.5788, 0.9728, 0.0737],
+                        "MG": [932.8, 864, 0, 608],
+                        "Scale9": [151, 52, 329, 4],
+                        "Tag": 28250819,
+                        "@": 28250820,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_sandpit001.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            309, -182, 1, 1, 576, 288, 0, 0, 0.4993, 0.4997
+                        ],
+                        "PrePos": [0.4944, -0.1951, 0.9216, 0.3087],
+                        "MG": [579.2, 291.2, 494.4, 1070.4],
+                        "Tag": 28250781,
+                        "@": 28250782,
+                        "Alpha": 147,
+                        "Name": "bubble_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_seabeach.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -539, 1, 1, 620.0656, 329.3069, 0, 0, 0.0058,
+                            0.9528
+                        ],
+                        "PrePos": [0, -0.5777, 0.9856, 0.2881],
+                        "MG": [1131.2, 862.4, 0, 616],
+                        "Scale9": [312, 126, 3, 4],
+                        "Tag": 28250787,
+                        "@": 28250788,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_rank_btn@6x.json"
+                        },
+                        "Pos": [0, -771, 1, 1, 303, 66, 0, 0, 0, 0],
+                        "PrePos": [0, -0.8264, 0.4848, 0.0707],
+                        "MG": [96, 771, 0, 322],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250785,
+                        "@": 28250786,
+                        "Alpha": 255,
+                        "Name": "rank_btn1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_rank_btn@6x.json"
+                        },
+                        "Pos": [606, -771, 1, 1, 303, 66, 0, 180, 0, 0],
+                        "PrePos": [0.9696, -0.8264, 0.4848, 0.0707],
+                        "MG": [96, 771, 606, -284],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250783,
+                        "@": 28250784,
+                        "Alpha": 255,
+                        "Name": "rank_btn2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_symbol36d.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            139, -211, 1, 1, 131.2, 131.2, 0, 0, 0.4878, 0.5038
+                        ],
+                        "PrePos": [0.2224, -0.2262, 0.2099, 0.1406],
+                        "MG": [468.8, 337.6, 222.4, 353.6],
+                        "Tag": 28250779,
+                        "@": 28250780,
+                        "Alpha": 255,
+                        "Name": "bubble1_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_symbol36d.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            302, -211, 1, 1, 131.2, 131.2, 0, 0, 0.4878, 0.5038
+                        ],
+                        "PrePos": [0.4832, -0.2262, 0.2099, 0.1406],
+                        "MG": [468.8, 337.6, 483.2, 614.4],
+                        "Tag": 28250777,
+                        "@": 28250778,
+                        "Alpha": 255,
+                        "Name": "bubble2_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_symbol36d.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            465, -211, 1, 1, 131.2, 131.2, 0, 0, 0.4878, 0.5038
+                        ],
+                        "PrePos": [0.744, -0.2262, 0.2099, 0.1406],
+                        "MG": [468.8, 337.6, 744, 875.2],
+                        "Tag": 28250775,
+                        "@": 28250776,
+                        "Alpha": 255,
+                        "Name": "bubble3_shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_groove_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            83, -299, 1, 1, 114.7608, 50.6118, 0, 0, 0.0019,
+                            0.998
+                        ],
+                        "PrePos": [0.1328, -0.3205, 0.0845, 0.0532],
+                        "MG": [528, 478.4, 132.8, 185.6],
+                        "Scale9": [23, 23, 5, 4],
+                        "Tag": 28250773,
+                        "@": 28250774,
+                        "Alpha": 255,
+                        "Name": "bubbletab1_shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_groove_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            246, -299, 1, 1, 114.7608, 50.6118, 0, 0, 0.0019,
+                            0.998
+                        ],
+                        "PrePos": [0.3936, -0.3205, 0.0845, 0.0532],
+                        "MG": [528, 478.4, 393.6, 446.4],
+                        "Scale9": [23, 23, 5, 4],
+                        "Tag": 28250771,
+                        "@": 28250772,
+                        "Alpha": 255,
+                        "Name": "bubbletab2_shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_groove_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            409, -299, 1, 1, 114.7608, 50.6118, 0, 0, 0.0019,
+                            0.998
+                        ],
+                        "PrePos": [0.6544, -0.3205, 0.0845, 0.0532],
+                        "MG": [528, 478.4, 654.4, 707.2],
+                        "Scale9": [23, 23, 5, 4],
+                        "Tag": 28250769,
+                        "@": 28250770,
+                        "Alpha": 255,
+                        "Name": "bubbletab3_shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_unlock@6x.json"
+                        },
+                        "Pos": [139, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.2224, -0.2262, 0, 0],
+                        "MG": [722, 211, 139, 486],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250767,
+                        "@": 28250768,
+                        "Alpha": 255,
+                        "Name": "bubble1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_unlock@6x.json"
+                        },
+                        "Pos": [302, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4832, -0.2262, 0, 0],
+                        "MG": [722, 211, 302, 323],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250765,
+                        "@": 28250766,
+                        "Alpha": 255,
+                        "Name": "bubble2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_unlock@6x.json"
+                        },
+                        "Pos": [465, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.744, -0.2262, 0, 0],
+                        "MG": [722, 211, 465, 160],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250763,
+                        "@": 28250764,
+                        "Alpha": 255,
+                        "Name": "bubble3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_use@6x.json"
+                        },
+                        "Pos": [139, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.2224, -0.2262, 0, 0],
+                        "MG": [722, 211, 139, 486],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250761,
+                        "@": 28250762,
+                        "Alpha": 255,
+                        "Name": "bubble1_tap",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_use@6x.json"
+                        },
+                        "Pos": [302, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4832, -0.2262, 0, 0],
+                        "MG": [722, 211, 302, 323],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250759,
+                        "@": 28250760,
+                        "Alpha": 255,
+                        "Name": "bubble2_tap",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_bubble_use@6x.json"
+                        },
+                        "Pos": [465, -211, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.744, -0.2262, 0, 0],
+                        "MG": [722, 211, 465, 160],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250757,
+                        "@": 28250758,
+                        "Alpha": 255,
+                        "Name": "bubble3_tap",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/prop_disable_icon.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            138, -211, 1, 1, 78.4, 78.4, 0, 0, 0.4923, 0.5077
+                        ],
+                        "PrePos": [0.2208, -0.2262, 0.1254, 0.084],
+                        "MG": [416, 337.6, 220.8, 299.2],
+                        "Tag": 28250827,
+                        "@": 28250828,
+                        "Alpha": 255,
+                        "Name": "disable_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/prop_disable_icon.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            301, -211, 1, 1, 78.4, 78.4, 0, 0, 0.4923, 0.5077
+                        ],
+                        "PrePos": [0.4816, -0.2262, 0.1254, 0.084],
+                        "MG": [416, 337.6, 481.6, 560],
+                        "Tag": 28250825,
+                        "@": 28250826,
+                        "Alpha": 255,
+                        "Name": "disable_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/prop_disable_icon.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            464, -211, 1, 1, 78.4, 78.4, 0, 0, 0.4923, 0.5077
+                        ],
+                        "PrePos": [0.7424, -0.2262, 0.1254, 0.084],
+                        "MG": [416, 337.6, 742.4, 820.8],
+                        "Tag": 28250823,
+                        "@": 28250824,
+                        "Alpha": 255,
+                        "Name": "disable_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/lock_icon.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            138, -211, 1, 1, 64, 73.6, 0, 0, 0.4938, 0.5027
+                        ],
+                        "PrePos": [0.2208, -0.2262, 0.1024, 0.0789],
+                        "MG": [411.2, 337.6, 220.8, 284.8],
+                        "Tag": 28250755,
+                        "@": 28250756,
+                        "Alpha": 255,
+                        "Name": "lock1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/lock_icon.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            301, -211, 1, 1, 64, 73.6, 0, 0, 0.4938, 0.5027
+                        ],
+                        "PrePos": [0.4816, -0.2262, 0.1024, 0.0789],
+                        "MG": [411.2, 337.6, 481.6, 545.6],
+                        "Tag": 28250753,
+                        "@": 28250754,
+                        "Alpha": 255,
+                        "Name": "lock2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/lock_icon.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            464, -211, 1, 1, 64, 73.6, 0, 0, 0.4938, 0.5027
+                        ],
+                        "PrePos": [0.7424, -0.2262, 0.1024, 0.0789],
+                        "MG": [411.2, 337.6, 742.4, 806.4],
+                        "Tag": 28250751,
+                        "@": 28250752,
+                        "Alpha": 255,
+                        "Name": "lock3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/star2_full.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            303, 8, 1, 1, 142.4, 145.6, 0, 0, 0.4993, 0.5014
+                        ],
+                        "PrePos": [0.4848, 0.0086, 0.2278, 0.1561],
+                        "MG": [132.8, -12.8, 484.8, 627.2],
+                        "Tag": 28250749,
+                        "@": 28250750,
+                        "Alpha": 255,
+                        "Name": "stara",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [583, -36, 1, 1, 78, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9328, -0.0386, 0.1248, 0.0847],
+                        "MG": [818, 36, 583, -36],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250747,
+                        "@": 28250748,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_bottom_btn_question2@6x.json"
+                        },
+                        "Pos": [57, -131, 1, 1, 47, 48, 0, 0, 0, 0],
+                        "PrePos": [0.0912, -0.1404, 0.0752, 0.0514],
+                        "MG": [754, 131, 57, 521],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250745,
+                        "@": 28250746,
+                        "Alpha": 255,
+                        "Name": "question",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            107, -324, 0.52, 0.52, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.1712, -0.3473, 0.1613, 0.108],
+                        "MG": [619.2, 518.4, 171.2, 272],
+                        "Tag": 28250743,
+                        "@": 28250744,
+                        "Alpha": 255,
+                        "Name": "bubbletabicon1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            270, -324, 0.52, 0.52, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.432, -0.3473, 0.1613, 0.108],
+                        "MG": [619.2, 518.4, 432, 532.8],
+                        "Tag": 28250741,
+                        "@": 28250742,
+                        "Alpha": 255,
+                        "Name": "bubbletabicon2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            433, -324, 0.52, 0.52, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.6928, -0.3473, 0.1613, 0.108],
+                        "MG": [619.2, 518.4, 692.8, 793.6],
+                        "Tag": 28250739,
+                        "@": 28250740,
+                        "Alpha": 255,
+                        "Name": "bubbletabicon3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [137, -308, 1, 1, 60, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2192, -0.3301, 0.096, 0.0375],
+                        "MG": [590, 308, 137, 428],
+                        "IsCustomSize": true,
+                        "LabelText": "999",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 28250737,
+                        "@": 28250738,
+                        "Name": "bubbletabnum1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [300, -308, 1, 1, 50, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.48, -0.3301, 0.08, 0.0375],
+                        "MG": [590, 308, 300, 275],
+                        "IsCustomSize": true,
+                        "LabelText": "999",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 28250735,
+                        "@": 28250736,
+                        "Name": "bubbletabnum2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [463, -308, 1, 1, 53, 35, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7408, -0.3301, 0.0848, 0.0375],
+                        "MG": [590, 308, 463, 109],
+                        "IsCustomSize": true,
+                        "LabelText": "999",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 28250733,
+                        "@": 28250734,
+                        "Name": "bubbletabnum3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [171, -80, 1.2, 1.2, 266, 58, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.2736, -0.0857, 0.4256, 0.0622],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [795, 80, 171, 188],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "1234567890",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28250731,
+                        "@": 28250732,
+                        "Name": "levelId",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [142, -96, 1, 1, 44, 42, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.2272, -0.1029, 0.0704, 0.045],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30_brownstroke@6x.fnt"
+                        },
+                        "MG": [795, 96, 142, 439],
+                        "IsCustomSize": true,
+                        "LabelText": "第",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 28250729,
+                        "@": 28250730,
+                        "Name": "levelIdL",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [422, -96, 1, 1, 44, 42, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 254, "G": 255, "B": 254 },
+                        "PrePos": [0.6752, -0.1029, 0.0704, 0.045],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30_brownstroke@6x.fnt"
+                        },
+                        "MG": [795, 96, 422, 159],
+                        "IsCustomSize": true,
+                        "LabelText": "关",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 28250727,
+                        "@": 28250728,
+                        "Name": "levelIdR",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_bottom_startuistartbottommmm@6x.json"
+                        },
+                        "Pos": [303, -448, 1, 1, 501, 127, 0, 0, 0, 0],
+                        "PrePos": [0.4848, -0.4802, 0.8016, 0.1361],
+                        "MG": [358, 448, 303, -179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250725,
+                        "@": 28250726,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 625, "Y": 933 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

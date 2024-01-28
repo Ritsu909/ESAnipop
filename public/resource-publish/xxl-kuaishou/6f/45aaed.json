@@ -1,0 +1,53 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/inviteBoxBg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -30, 31, 1, 1, 68.8, 68.8, 0, 0, 0.0015, 0.9985
+                        ],
+                        "PrePos": [-0.4412, 0.4559, 1.0118, 1.0118],
+                        "MG": [19.2, -49.6, -48, 20.8],
+                        "Tag": 84746645,
+                        "@": 84746646,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/invitebox.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [1, -1, 1, 1, 48, 51.2, 0, 0, 0.4396, 0.5098],
+                        "PrePos": [0.0147, -0.0147, 0.7059, 0.7529],
+                        "MG": [52.8, 1.6, 1.6, 49.6],
+                        "Tag": 84746643,
+                        "@": 84746644,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 68, "Y": 68 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

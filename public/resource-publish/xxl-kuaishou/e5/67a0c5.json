@@ -1,0 +1,38 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_bag_panel/prop_bg.png",
+                            "Plist": "cocos/prop_bag_panel@6x.plist"
+                        },
+                        "Pos": [
+                            50, -50, 1, 1, 102.4, 100.8, 0, 0, 0.5049, 0.5025
+                        ],
+                        "PrePos": [0.5, -0.5, 1.024, 1.008],
+                        "MG": [180.8, 80, 80, 182.4],
+                        "Tag": 84745445,
+                        "@": 84745446,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 100, "Y": 100 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,262 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 659.1936, 798.312, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 9417168,
+                        "@": 9417169,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/bg_1.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            327, -262, 2.0243, 2.0243, 332.8, 224, 0, 0, 0.5029,
+                            0.496
+                        ],
+                        "PrePos": [0.4619, -0.2832, 0.4701, 0.2422],
+                        "MG": [643.2, 419.2, 523.2, 856],
+                        "Tag": 9417166,
+                        "@": 9417167,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/bg_2.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            5, -674, 1, 1, 647.3414, 105.6, 0, 0, 0.0009, 0.9991
+                        ],
+                        "PrePos": [0.0071, -0.7286, 0.1559, 0.1142],
+                        "MG": [1184, 1078.4, 8, 118.4],
+                        "Scale9": [50, 38, 10, 9],
+                        "Tag": 9417164,
+                        "@": 9417165,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/res_title_bg.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -25, 8, 1, 1, 708.8, 113.6, 0, 0, 0.0001, 0.9991
+                        ],
+                        "PrePos": [-0.0353, 0.0086, 1.0011, 0.1228],
+                        "MG": [100.8, -12.8, -40, 668.8],
+                        "Tag": 9417162,
+                        "@": 9417163,
+                        "Alpha": 255,
+                        "Name": "bg3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/res_bg4.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [67, 131, 1, 1, 156.8, 144, 0, 0, 0.126, 1.0299],
+                        "PrePos": [0.0946, 0.1416, 0.2215, 0.1557],
+                        "MG": [-65.6, -209.6, 107.2, 264],
+                        "Tag": 9417160,
+                        "@": 9417161,
+                        "Alpha": 255,
+                        "Name": "bg4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/smtm_panel_res_smtm_title@6x.json"
+                        },
+                        "Pos": [207, 49, 1, 1, 394, 94, 0, 0, 0, 0],
+                        "PrePos": [0.2924, 0.053, 0.5565, 0.1016],
+                        "MG": [880, -49, 207, 107],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417158,
+                        "@": 9417159,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/smtm_panel_bottom_btn_blue_start2@6x.json"
+                        },
+                        "Pos": [334, -630, 1, 1, 461, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4718, -0.6811, 0.6511, 0.1297],
+                        "MG": [175, 630, 334, -87],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417156,
+                        "@": 9417157,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/smtm_panel_res_btn_tag@6x.json"
+                        },
+                        "Pos": [548, -620, 1, 1, 105, 135, 0, 0, 0, 0],
+                        "PrePos": [0.774, -0.6703, 0.1483, 0.1459],
+                        "MG": [170, 620, 548, 55],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417154,
+                        "@": 9417155,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [248, -531, 1, 1, 160, 39, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 128,
+                            "G": 92,
+                            "B": 82
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3503, -0.5741, 0.226, 0.0422],
+                        "MG": [355, 531, 248, 300],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "价值¥10",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 9417152,
+                        "@": 9417153,
+                        "Name": "oprice",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [158, -718, 1, 1, 354, 30, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 112,
+                            "G": 97,
+                            "B": 71
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2232, -0.7762, 0.5, 0.0324],
+                        "MG": [177, 718, 158, 196],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "倒计时：6天23:59:59",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 9417150,
+                        "@": 9417151,
+                        "Name": "countdown",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            611, -42, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.863, -0.0454, 0.122, 0.0899],
+                        "MG": [150.4, 67.2, 977.6, 1064],
+                        "Tag": 9417148,
+                        "@": 9417149,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/smtm_panel_res_smtm_box@6x.json"
+                        },
+                        "Pos": [332, -474, 0.9654, 0.9654, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4689, -0.5124, 0, 0],
+                        "MG": [451, 474, 332, 376],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417146,
+                        "@": 9417147,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 708,
+                    "Y": 925
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

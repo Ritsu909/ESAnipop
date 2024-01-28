@@ -1,0 +1,71 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/mainiconback.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.25, 1.25, 97.6, 116.8, 0, 0, 0.4964, 0.6113
+                        ],
+                        "MG": [116.8, 0, 0, 97.6],
+                        "Tag": 3035545,
+                        "@": 3035546,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/friendicon.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 80, 83.2, 0, 0, 0.4844, 0.5373],
+                        "MG": [83.2, 0, 0, 80],
+                        "Tag": 3035859,
+                        "@": 3035860,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-27, -24, 0.4, 0.4, 56, 36, 0, 0, 0, 1],
+                        "PrePos": [-0.225, -0.1667, 0.4667, 0.25],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/microsoftYahei_60_blueStroke@6x.fnt"
+                        },
+                        "MG": [84, 24, -27, 91],
+                        "IsCustomSize": true,
+                        "LabelText": "好友",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 3035543,
+                        "@": 3035544,
+                        "Name": "txt",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 120,
+                    "Y": 144
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,158 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        1,
+                        "uilibrary/pnl_common03.png",
+                        "cocos/uilibrary@6x"
+                    ],
+                    "Pos": [
+                        0, 0, 1, 1, 640.7898, 450.6461, 0, 0, 0.0002, 0.9993
+                    ],
+                    "Scale9": [188, 40, 10, 4],
+                    "Tag": 50012,
+                    "@": 50013,
+                    "#": "bg",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/debug_panel_bottom_btn_green_cancel@6x.json",
+                        ""
+                    ],
+                    "Pos": [621, -26, 1, 1, 55, 57, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50014,
+                    "@": 50015,
+                    "#": "close",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/debug_panel_btn_green_small@6x.json", ""],
+                    "Pos": [321, -255, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50016,
+                    "@": 50017,
+                    "#": "btnOk",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        1,
+                        "uilibrary/tablet_friend.png",
+                        "cocos/uilibrary@6x"
+                    ],
+                    "Pos": [
+                        161, -162, 1, 1, 423.6883, 44.8205, 0, 0, 0.0089, 0.985
+                    ],
+                    "Scale9": [40, 12, 80, 24],
+                    "Tag": 50018,
+                    "@": 50019,
+                    "#": "Layer 10",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "uilibrary/tablet_friend2.png",
+                        "cocos/uilibrary@6x"
+                    ],
+                    "Pos": [
+                        162, -108, 1, 1, 420.6557, 42.7776, 0, 0, 0.0089, 0.985
+                    ],
+                    "Scale9": [40, 12, 80, 24],
+                    "Tag": 50020,
+                    "@": 50021,
+                    "#": "Layer 11",
+                    "$": "IV"
+                },
+                {
+                    "F": [0, "cocos/debug_panel_btn_green_small@6x.json", ""],
+                    "Pos": [109, -386, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50022,
+                    "@": 50023,
+                    "#": "btnTest1",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/debug_panel_btn_green_small@6x.json", ""],
+                    "Pos": [250, -386, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50024,
+                    "@": 50025,
+                    "#": "btnTest2",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/debug_panel_btn_green_small@6x.json", ""],
+                    "Pos": [392, -386, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50026,
+                    "@": 50027,
+                    "#": "btnTest3",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/debug_panel_btn_green_small@6x.json", ""],
+                    "Pos": [527, -386, 0.6, 0.6, 194, 122, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 50028,
+                    "@": 50029,
+                    "#": "btnTest4",
+                    "$": "PN"
+                },
+                {
+                    "Pos": [102, -116, 1, 1, 104, 37, 0, 0, 0, 1],
+                    "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                    "HA": "HT_Right",
+                    "T": "ID:",
+                    "i": 25,
+                    "Tag": 50030,
+                    "@": 50031,
+                    "#": "tabText3",
+                    "$": "TXT"
+                },
+                {
+                    "Pos": [100, -171, 1, 1, 104, 37, 0, 0, 0, 1],
+                    "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                    "HA": "HT_Right",
+                    "T": "IP:",
+                    "i": 25,
+                    "Tag": 50032,
+                    "@": 50033,
+                    "#": "Layer 2",
+                    "$": "TXT"
+                },
+                {
+                    "Pos": [214, -168, 1, 1, 361, 37, 0, 0, 0, 1],
+                    "CColor": { "A": 255, "R": 0, "G": 0, "B": 0 },
+                    "T": "0",
+                    "i": 25,
+                    "Tag": 50034,
+                    "@": 50035,
+                    "#": "ipAddress",
+                    "$": "TextFieldObjectData"
+                },
+                {
+                    "Pos": [214, -112, 1, 1, 361, 37, 0, 0, 0, 1],
+                    "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                    "T": "0",
+                    "i": 25,
+                    "Tag": 50036,
+                    "@": 50037,
+                    "#": "userId",
+                    "$": "TXT"
+                }
+            ],
+            "Size": { "X": 649, "Y": 452 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

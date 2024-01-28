@@ -1,0 +1,72 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "vip_privileges_info/bg.png",
+                            "Plist": "cocos/vip_privileges_info@6x.plist"
+                        },
+                        "Pos": [1, 4, 1, 1, 643.2, 745.6, 0, 0, 0.0396, 0.9999],
+                        "PrePos": [0.0016, 0.0054, 1.0019, 1.0022],
+                        "MG": [739.2, -6.4, 1.6, 644.8],
+                        "Tag": 86606534,
+                        "@": 86606535,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/vip_privileges_info_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [566, -95, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.8816, -0.1277, 0.1324, 0.1116],
+                        "MG": [566, 95, 566, -9],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86606532,
+                        "@": 86606533,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [232, -15, 1, 1, 155, 55, 0, 0, 0, 1],
+                        "PrePos": [0.3614, -0.0202, 0.2414, 0.0739],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_redstroke@6x.fnt"
+                        },
+                        "MG": [674, 15, 232, 255],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "VIP说明",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 86606536,
+                        "@": 86606537,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 642, "Y": 744 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

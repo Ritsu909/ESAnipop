@@ -1,0 +1,89 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/bingzhu_tp_up.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            74, -173, 1, 1, 68.8, 6.4, -90, -90, 0.4956, 0.4922
+                        ],
+                        "PrePos": [0.9487, -0.8357, 0.8821, 0.0309],
+                        "MG": [283.2, 276.8, 118.4, 187.2],
+                        "Tag": 50064,
+                        "@": 50065,
+                        "Alpha": 255,
+                        "Name": "bingzhu_tp_up1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/bingzhu_tp_up.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            74, -34, 1, 1, 68.8, 6.4, -90, -90, 0.4956, 0.4922
+                        ],
+                        "PrePos": [0.9487, -0.1643, 0.8821, 0.0309],
+                        "MG": [60.8, 54.4, 118.4, 187.2],
+                        "Tag": 50066,
+                        "@": 50067,
+                        "Alpha": 255,
+                        "Name": "bingzhu_tp_up2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/bingzhu_tp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            4, -173, 1, 1, 70.4, 9.6, -90, -90, 0.4844, 0.5365
+                        ],
+                        "PrePos": [0.0513, -0.8357, 0.9026, 0.0464],
+                        "MG": [286.4, 276.8, 6.4, 76.8],
+                        "Tag": 50068,
+                        "@": 50069,
+                        "Alpha": 255,
+                        "Name": "bingzhu_tp3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/bingzhu_tp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            4, -34, 1, 1, 70.4, 9.6, -90, -90, 0.4844, 0.5365
+                        ],
+                        "PrePos": [0.0513, -0.1643, 0.9026, 0.0464],
+                        "MG": [64, 54.4, 6.4, 76.8],
+                        "Tag": 50070,
+                        "@": 50071,
+                        "Alpha": 255,
+                        "Name": "bingzhu_tp4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 78, "Y": 207 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

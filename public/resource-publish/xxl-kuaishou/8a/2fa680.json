@@ -1,0 +1,141 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        85383380,
+                        [
+                            { "P": [31.5, -139.45], "I": 0, "T": 0 },
+                            { "P": [31.5, -139.45], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383378,
+                        [
+                            { "P": [18.25, -109.25], "I": 0, "T": 0 },
+                            { "P": [18.25, -109.25], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383376,
+                        [
+                            { "P": [-57.65, -81.1], "I": 0, "T": 0 },
+                            { "P": [-57.65, -81.1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383374,
+                        [
+                            { "P": [64.25, -89.75], "I": 0, "T": 0 },
+                            { "P": [64.25, -89.75], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383372,
+                        [
+                            { "P": [-37, -145.45], "I": 0, "T": 0 },
+                            { "P": [-37, -145.45], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/coin1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [31, -139, 1, 1, 288, 152, 0, 0, 0.5003, 0.4993],
+                        "MG": [374.4, 222.4, 49.6, 337.6],
+                        "Tag": 85383379,
+                        "@": 85383380,
+                        "Alpha": 255,
+                        "Name": "bba",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/aa4.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            18, -109, 1, 1, 220.8, 123.2, 0, 0, 0.4534, 0.5284
+                        ],
+                        "MG": [297.6, 174.4, 28.8, 249.6],
+                        "Tag": 85383377,
+                        "@": 85383378,
+                        "Alpha": 255,
+                        "Name": "aa4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/aaa1.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            -57, -81, 0.854, 0.854, 200, 156.8, 0, 0, 0.5035,
+                            0.0006
+                        ],
+                        "MG": [286.4, 129.6, -91.2, 108.8],
+                        "Tag": 85383375,
+                        "@": 85383376,
+                        "Alpha": 255,
+                        "Name": "aaa1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/aa6.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            64, -89, 1, 1, 25.6, 35.2, 0, 0, 0.5098, 0.6719
+                        ],
+                        "MG": [177.6, 142.4, 102.4, 128],
+                        "Tag": 85383373,
+                        "@": 85383374,
+                        "Alpha": 255,
+                        "Name": "aa3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/coin.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            -37, -145, 1, 1, 241.6, 88, 0, 0, 0.2777, 0.4989
+                        ],
+                        "MG": [320, 232, -59.2, 182.4],
+                        "Tag": 85383371,
+                        "@": 85383372,
+                        "Alpha": 255,
+                        "Name": "bbb",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

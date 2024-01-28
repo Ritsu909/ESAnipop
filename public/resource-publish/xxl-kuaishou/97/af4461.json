@@ -1,0 +1,36 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/faq_img.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [-24, 29, 1, 1, 56, 64, 0, 0, 0.0018, 0.9984],
+                        "PrePos": [-0.4286, 0.4531, 1, 1],
+                        "MG": [17.6, -46.4, -38.4, 17.6],
+                        "Tag": 3035405,
+                        "@": 3035406,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 56, "Y": 64 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

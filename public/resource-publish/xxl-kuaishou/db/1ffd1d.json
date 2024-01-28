@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 670.896, 202.4125, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84757902,
+                        "@": 84757903,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/select_payment_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [615, -44, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9276, -0.2211, 0.1282, 0.4171],
+                        "MG": [72, 44, 615, -37],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84757900,
+                        "@": 84757901,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [178, -46, 1, 1, 306, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2685, -0.2312, 0.4615, 0.2764],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [98, 46, 178, 179],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "购买闯关套餐",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84757898,
+                        "@": 84757899,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/select_payment_panel_res_more_btn@6x.json"
+                        },
+                        "Pos": [629, -134, 1, 1, 164, 38, 0, 0, 0, 0],
+                        "PrePos": [0.9487, -0.6734, 0.2474, 0.191],
+                        "MG": [27, 134, 629, -130],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84757894,
+                        "@": 84757895,
+                        "Alpha": 255,
+                        "Name": "switch",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 663, "Y": 199 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

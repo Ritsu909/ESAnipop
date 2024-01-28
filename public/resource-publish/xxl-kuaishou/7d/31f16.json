@@ -1,0 +1,124 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/bg.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            480, -819, 1, 1, 960, 923.2, 0, 0, 0.5001, 0.5005
+                        ],
+                        "PrePos": [0.4795, -0.7, 0.959, 0.7891],
+                        "MG": [2233.6, 1310.4, 768, 1728],
+                        "Tag": 50042,
+                        "@": 50043,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_bar.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            480, -397, 1, 0.8239, 960, 160, 0, 0, 0.5001, 0.5025
+                        ],
+                        "PrePos": [0.4795, -0.3393, 0.959, 0.1368],
+                        "MG": [795.2, 635.2, 768, 1728],
+                        "Tag": 50044,
+                        "@": 50045,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_bowl_withflower@6x.json"
+                        },
+                        "Pos": [205, -340, 1, 1, 129, 94, 0, 0, 0, 0],
+                        "PrePos": [0.2048, -0.2906, 0.1289, 0.0803],
+                        "MG": [736, 340, 205, 667],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50046,
+                        "@": 50047,
+                        "Alpha": 255,
+                        "Name": "leftplus",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_decoleft02.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            90, -284, 1, 1, 217.6, 299.2, 0, 0, 0.4991, 0.4948
+                        ],
+                        "PrePos": [0.0899, -0.2427, 0.2174, 0.2557],
+                        "MG": [753.6, 454.4, 144, 361.6],
+                        "Tag": 50048,
+                        "@": 50049,
+                        "Alpha": 255,
+                        "Name": "left",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_decorigh02.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            878, -270, 1, 1, 211.2, 321.6, 0, 0, 0.5, 0.5006
+                        ],
+                        "PrePos": [0.8771, -0.2308, 0.211, 0.2749],
+                        "MG": [753.6, 432, 1404.8, 1616],
+                        "Tag": 50050,
+                        "@": 50051,
+                        "Alpha": 255,
+                        "Name": "right",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_lemon.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            760, -351, 1, 1, 75.2, 70.4, 0, 0, 0.4934, 0.5085
+                        ],
+                        "PrePos": [0.7592, -0.3, 0.0751, 0.0602],
+                        "MG": [632, 561.6, 1216, 1291.2],
+                        "Tag": 50052,
+                        "@": 50053,
+                        "Alpha": 255,
+                        "Name": "rightplus",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 1001, "Y": 1170 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,89 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_panel_cut.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [
+                        -309, 237, 1, 1, 620.0232, 476.0458, 0, 0, 0.0011,
+                        0.9989
+                    ],
+                    "Scale9": [27, 26, 6, 5],
+                    "Tag": 81947076,
+                    "@": 81947077,
+                    "#": "back",
+                    "$": "IV"
+                },
+                {
+                    "F": [0, "cocos/preloadScene_login_btn_green@6x.json", ""],
+                    "Pos": [0, -59, 1, 1, 269, 100, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 81947074,
+                    "@": 81947075,
+                    "#": "green_btn",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_input_bg.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [
+                        -275, 123, 1, 1, 588.7984, 82.3194, 0, 0, 0.0312, 0.998
+                    ],
+                    "Scale9": [11, 10, 10, 12],
+                    "Tag": 81947072,
+                    "@": 81947073,
+                    "#": "input_bg",
+                    "$": "IV"
+                },
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_clear.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [234, 80, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192],
+                    "Tag": 81947070,
+                    "@": 81947071,
+                    "#": "clear_btn",
+                    "$": "S"
+                },
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_check_bg.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [-236, -154, 1, 1, 48, 48, 0, 0, 0.0021, 0.9979],
+                    "Tag": 81947068,
+                    "@": 81947069,
+                    "#": "login_check_bg",
+                    "$": "S"
+                },
+                {
+                    "F": [
+                        1,
+                        "preloadScene/login_check.png",
+                        "cocos/preloadScene@6x"
+                    ],
+                    "Pos": [-237, -161, 1, 1, 52.8, 38.4, 0, 0, 0.0322, 0.9557],
+                    "Tag": 81947066,
+                    "@": 81947067,
+                    "#": "login_check",
+                    "$": "S"
+                }
+            ],
+            "Size": { "X": 619, "Y": 475 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

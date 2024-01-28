@@ -1,0 +1,38 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_sdewe.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 137.6, 247.0478, 0, 0, -0.0113, 1.0019
+                        ],
+                        "MG": [132.8, 0, 0, 137.6],
+                        "Scale9": [54, 57, 18, 12],
+                        "Tag": 84759059,
+                        "@": 84759060,
+                        "Alpha": 255,
+                        "Name": "sp",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 137, "Y": 245 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

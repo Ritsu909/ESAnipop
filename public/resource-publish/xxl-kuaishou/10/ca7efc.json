@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/smtm_panel_res_icon_sp@6x.json"
+                        },
+                        "Pos": [-6, 15, 0.7612, 0.7612, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0508, 0.0893, 0, 0],
+                        "MG": [183, -15, -6, 124],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9417308,
+                        "@": 9417309,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/smtm_icontext.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [0, -40, 1, 1, 99.2, 27.2, 0, 0, 0.495, 0.5],
+                        "PrePos": [0, -0.2381, 0.8407, 0.1619],
+                        "MG": [91.2, 64, 0, 99.2],
+                        "Tag": 9417306,
+                        "@": 9417307,
+                        "Alpha": 255,
+                        "Name": "text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-42, -50, 0.5, 0.5, 85, 24, 0, 0, 0, 1],
+                        "PrePos": [-0.3559, -0.2976, 0.7203, 0.1429],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [94, 50, -42, 75],
+                        "IsCustomSize": true,
+                        "LabelText": "24:00:00\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9417304,
+                        "@": 9417305,
+                        "Name": "time",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 118,
+                    "Y": 168
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

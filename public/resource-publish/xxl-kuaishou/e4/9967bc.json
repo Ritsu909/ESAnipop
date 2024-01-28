@@ -1,0 +1,403 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -17, 1, 1, 617.8822, 523.7539, 0, 0, 0.0002,
+                            0.9993
+                        ],
+                        "PrePos": [0, -0.0314, 0.9965, 0.2573],
+                        "MG": [166.4, 27.2, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 84759726,
+                        "@": 84759727,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/darksquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            65, -306, 1, 1, 545.352, 190.4717, 0, 0, 0.0494,
+                            1.0089
+                        ],
+                        "PrePos": [0.1043, -0.5656, 0.2388, 0.2484],
+                        "MG": [624, 489.6, 104, 252.8],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 84759724,
+                        "@": 84759725,
+                        "Alpha": 255,
+                        "Name": "itemBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/darksquareback.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            87, -80, 1, 1, 185.9107, 172.3277, 0, 0, 0.0494,
+                            1.0089
+                        ],
+                        "PrePos": [0.1396, -0.1479, 0.2388, 0.2484],
+                        "MG": [262.4, 128, 139.2, 288],
+                        "Scale9": [63, 62, 5, 5],
+                        "Tag": 84759806,
+                        "@": 84759807,
+                        "Alpha": 255,
+                        "Name": "energyBg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [96, -189, 0.8445, 0.8445, 152, 45, 0, 0, 0, 1],
+                        "PrePos": [0.1541, -0.3494, 0.244, 0.0832],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [307, 189, 96, 375],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "30/30",
+                        "FontSize": 44,
+                        "Shadow": [2, -2],
+                        "Tag": 84759720,
+                        "@": 84759721,
+                        "Name": "energyNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_panel_bottom_btn_green_start2@6x.json"
+                        },
+                        "Pos": [415, -199, 0.9, 0.9, 272, 120, 0, 0, 0, 0],
+                        "PrePos": [0.6661, -0.3678, 0.4366, 0.2218],
+                        "MG": [222, 199, 415, -64],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84759718,
+                        "@": 84759719,
+                        "Alpha": 255,
+                        "Name": "continueBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_panel_btn_blue_start@6x.json"
+                        },
+                        "Pos": [421, -202, 0.9, 0.9, 272, 120, 0, 0, 0, 0],
+                        "PrePos": [0.6758, -0.3734, 0.4366, 0.2218],
+                        "MG": [219, 202, 421, -70],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84759716,
+                        "@": 84759717,
+                        "Alpha": 255,
+                        "Name": "buyEnergy",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [584, -38, 1, 1, 78, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9374, -0.0702, 0.1252, 0.146],
+                        "MG": [424, 38, 584, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84759714,
+                        "@": 84759715,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [75, -277, 1, 1, 257, 50, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 170, "G": 121, "B": 81 },
+                        "PrePos": [0.1204, -0.512, 0.4125, 0.0924],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30@6x.fnt"
+                        },
+                        "MG": [214, 277, 75, 291],
+                        "IsCustomSize": true,
+                        "LabelText": "用精力瓶补充",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84759712,
+                        "@": 84759713,
+                        "Name": "addTip",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/new_bubble003.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            152, -411, 0.7, 0.7, 132.8, 142.4, 0, 0, 0.4947,
+                            0.5123
+                        ],
+                        "PrePos": [0.244, -0.7597, 0.2132, 0.2632],
+                        "MG": [800, 657.6, 243.2, 376],
+                        "Tag": 84759804,
+                        "@": 84759805,
+                        "Alpha": 255,
+                        "Name": "bubble1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/new_bubble003.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            291, -402, 0.85, 0.85, 132.8, 142.4, 0, 0, 0.4947,
+                            0.5123
+                        ],
+                        "PrePos": [0.4671, -0.7431, 0.2132, 0.2632],
+                        "MG": [785.6, 643.2, 465.6, 598.4],
+                        "Tag": 84759802,
+                        "@": 84759803,
+                        "Alpha": 255,
+                        "Name": "bubble2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/new_bubble003.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            451, -396, 1, 1, 132.8, 142.4, 0, 0, 0.4947, 0.5123
+                        ],
+                        "PrePos": [0.7239, -0.732, 0.2132, 0.2632],
+                        "MG": [776, 633.6, 721.6, 854.4],
+                        "Tag": 84759800,
+                        "@": 84759801,
+                        "Alpha": 255,
+                        "Name": "bubble3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_panel/shopitembg.png",
+                            "Plist": "cocos/energy_panel@6x.plist"
+                        },
+                        "Pos": [
+                            227, -443, 0.6711, 0.747, 190.4, 62.4, 0, 0, 0.0005,
+                            0.9984
+                        ],
+                        "PrePos": [0.3644, -0.8189, 0.3056, 0.1153],
+                        "MG": [771.2, 708.8, 363.2, 553.6],
+                        "Tag": 84759710,
+                        "@": 84759711,
+                        "Alpha": 255,
+                        "Name": "groove2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_panel/shopitembg.png",
+                            "Plist": "cocos/energy_panel@6x.plist"
+                        },
+                        "Pos": [
+                            387, -443, 0.6711, 0.747, 190.4, 62.4, 0, 0, 0.0005,
+                            0.9984
+                        ],
+                        "PrePos": [0.6212, -0.8189, 0.3056, 0.1153],
+                        "MG": [771.2, 708.8, 619.2, 809.6],
+                        "Tag": 84759708,
+                        "@": 84759709,
+                        "Alpha": 255,
+                        "Name": "groove3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/energy_panel_askbutton@6x.json"
+                        },
+                        "Pos": [153, -462, 0.7, 0.7, 117, 60, 0, 0, 0, 0],
+                        "PrePos": [0.2456, -0.854, 0.1878, 0.1109],
+                        "MG": [19, 462, 153, 353],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84759702,
+                        "@": 84759703,
+                        "Alpha": 255,
+                        "Name": "freegetBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [296, -114, 1, 1, 246, 56, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 97, "B": 46 },
+                        "PrePos": [0.4751, -0.2107, 0.3949, 0.1035],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [371, 114, 296, 81],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "精力已满",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84759698,
+                        "@": 84759699,
+                        "Name": "energyFull",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [269, -125, 1, 1, 127, 36, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 97, "B": 46 },
+                        "PrePos": [0.4318, -0.2311, 0.2039, 0.0665],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30@6x.fnt"
+                        },
+                        "MG": [380, 125, 269, 227],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "后恢复至       ",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84759798,
+                        "@": 84759799,
+                        "Name": "targetLeft",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [396, -120, 1, 1, 59, 37, 0, 0, 0, 1],
+                        "PrePos": [0.6356, -0.2218, 0.0947, 0.0684],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [384, 120, 396, 168],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "30",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84759796,
+                        "@": 84759797,
+                        "Name": "target",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [457, -123, 1, 1, 100, 36, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 97, "B": 46 },
+                        "PrePos": [0.7335, -0.2274, 0.1605, 0.0665],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30@6x.fnt"
+                        },
+                        "MG": [382, 123, 457, 66],
+                        "IsCustomSize": true,
+                        "LabelText": "点精力",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84759794,
+                        "@": 84759795,
+                        "Name": "targetRight",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [303, -74, 1, 1, 229, 37, 0, 0, 0, 1],
+                        "PrePos": [0.4864, -0.1368, 0.3676, 0.0684],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [430, 74, 303, 91],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "00:00:25",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84759792,
+                        "@": 84759793,
+                        "Name": "timeLeft",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [275, -443, 1, 1, 56, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 222, "G": 97, "B": 38 },
+                        "PrePos": [0.4414, -0.8189, 0.0899, 0.0591],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [66, 443, 275, 292],
+                        "IsCustomSize": true,
+                        "LabelText": "230",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84759696,
+                        "@": 84759697,
+                        "Name": "energyValue2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [439, -444, 1, 1, 56, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 222, "G": 97, "B": 38 },
+                        "PrePos": [0.7047, -0.8207, 0.0899, 0.0591],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [65, 444, 439, 128],
+                        "IsCustomSize": true,
+                        "LabelText": "230",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84759694,
+                        "@": 84759695,
+                        "Name": "energyValue3",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 623, "Y": 541 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

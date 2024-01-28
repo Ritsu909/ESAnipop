@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/starUIstartbottom2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -222, 51, 1, 1, 447.84, 123.2, 0, 0, 0.0002, 0.9992
+                        ],
+                        "PrePos": [-0.4966, 0.4146, 1.1132, 1.0016],
+                        "MG": [41.6, -81.6, -355.2, 142.4],
+                        "Scale9": [61, 31, 373, 62],
+                        "Tag": 28249256,
+                        "@": 28249257,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/starUIstartbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -222, 51, 1, 1, 447.84, 123.2, 0, 0, 0.0002, 0.9992
+                        ],
+                        "PrePos": [-0.4966, 0.4146, 1.1132, 1.0016],
+                        "MG": [41.6, -81.6, -355.2, 142.4],
+                        "Scale9": [61, 31, 373, 62],
+                        "Tag": 28249254,
+                        "@": 28249255,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-85, 22, 1, 1, 289, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1902, 0.1789, 0.6465, 0.4472],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [90, -22, -85, 243],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "分享到朋友圈",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28249252,
+                        "@": 28249253,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_panel/wechatTimeline.png",
+                            "Plist": "cocos/share_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -188, 35, 0.837, 0.837, 96, 96, 0, 0, 0.001, 0.999
+                        ],
+                        "PrePos": [-0.4206, 0.2846, 0.2148, 0.7805],
+                        "MG": [40, -56, -300.8, -204.8],
+                        "Tag": 28249250,
+                        "@": 28249251,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 447, "Y": 123 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

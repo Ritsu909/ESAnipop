@@ -1,0 +1,95 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/honor_stone.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -41, 36, 1, 1, 108.8, 97.6, 0, 0, 0.091, 0.9221
+                        ],
+                        "PrePos": [-0.3905, 0.4235, 1.0362, 1.1482],
+                        "MG": [40.0, -57.6, -65.6, 43.2],
+                        "Tag": 84747546,
+                        "@": 84747547,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_honor_flash@6x.json"
+                        },
+                        "Pos": [
+                            45, 4, 1.0547, 1.0547, 0, 0, -1.24, -1.24, 0, 0
+                        ],
+                        "PrePos": [0.4286, 0.0471, 0, 0],
+                        "MG": [89, -4, 45, 60],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747560,
+                        "@": 84747561,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_honor_flash@6x.json"
+                        },
+                        "Pos": [
+                            -28, 21, 0.6861, 0.6861, 0, 0, -1.23, -1.23, 0, 0
+                        ],
+                        "PrePos": [-0.2667, 0.2471, 0, 0],
+                        "MG": [106, -21, -28, 133],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747558,
+                        "@": 84747559,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-28, 21, 1.2, 1.2, 64, 45, 0, 0, 0, 1],
+                        "PrePos": [-0.2667, 0.2471, 0.6095, 0.5294],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_purplestroke@6x.fnt"
+                        },
+                        "MG": [61, -21, -28, 69],
+                        "IsCustomSize": true,
+                        "LabelText": "126",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84747534,
+                        "@": 84747535,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 105, "Y": 85 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

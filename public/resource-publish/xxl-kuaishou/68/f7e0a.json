@@ -1,0 +1,100 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -177, 28, 1, 1, 358.1389, 59.0448, 0, 0, 0.002,
+                            0.9979
+                        ],
+                        "PrePos": [-0.489, 0.4828, 0.1414, 0.8276],
+                        "MG": [3.2, -44.8, -283.2, -232],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 29325625,
+                        "@": 29325626,
+                        "Alpha": 255,
+                        "Name": "sp_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/btn_join_team.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            31, 29, 1.0929, 1.1667, 140.8, 49.6, 0, 0, -0.0018,
+                            0.9859
+                        ],
+                        "PrePos": [0.0856, 0.5, 0.389, 0.8552],
+                        "MG": [3.2, -46.4, 49.6, 190.4],
+                        "Tag": 29325623,
+                        "@": 29325624,
+                        "Alpha": 255,
+                        "Name": "sp_team_id_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [43, 13, 1, 1, 128, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 6, "G": 133, "B": 10 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1188, 0.2241, 0.3536, 0.6379],
+                        "MG": [34, -13, 43, 191],
+                        "IsCustomSize": true,
+                        "LabelText": "加入队伍",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325621,
+                        "@": 29325622,
+                        "Name": "label_add_team",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-143, 14, 1, 1, 138, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 102, "G": 102, "B": 102 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.395, 0.2414, 0.3812, 0.6379],
+                        "MG": [35, -14, -143, 367],
+                        "IsCustomSize": true,
+                        "LabelText": "输入队长ID",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325619,
+                        "@": 29325620,
+                        "Name": "label_team_id",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 362, "Y": 58 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

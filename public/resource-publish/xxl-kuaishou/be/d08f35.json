@@ -1,0 +1,61 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_bubble.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -197, 73, 1, 1, 397.1824, 163.008, 0, 0, 0.0005,
+                            0.9994
+                        ],
+                        "PrePos": [-0.4987, 0.4479, 0.4658, 0.9816],
+                        "MG": [43.2, -116.8, -315.2, -131.2],
+                        "Scale9": [57, 63, 4, 4],
+                        "Tag": 28250575,
+                        "@": 28250576,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-157, 60, 1, 1, 314, 120, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 135, "G": 150, "B": 175 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3975, 0.3681, 0.7949, 0.7362],
+                        "MG": [103, -60, -157, 238],
+                        "IsCustomSize": true,
+                        "LabelText": "别灰心，下次一定能成功的！\\n",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 28250573,
+                        "@": 28250574,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 395, "Y": 163 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,74 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/recommendBg.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.0162, 1.0651, 129.6, 142.4, 0, 0, 0.0131,
+                            0.9993
+                        ],
+                        "MG": [142.4, 0, 0, 129.6],
+                        "Tag": 84747189,
+                        "@": 84747190,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/squarewhite.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            8, -116, 1, 1, 26.6395, 26.6395, 0, 0, 0.0033,
+                            0.9967
+                        ],
+                        "PrePos": [0.0625, -0.7682, 0.2375, 0.2013],
+                        "MG": [216, 185.6, 12.8, 43.2],
+                        "Scale9": [7, 7, 14, 14],
+                        "Tag": 84747187,
+                        "@": 84747188,
+                        "Alpha": 255,
+                        "Name": "box",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/nike_bottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            20, -130, 0.35, 0.35, 83.2, 72, 0, 0, 0.494, 0.5056
+                        ],
+                        "PrePos": [0.1562, -0.8609, 0.65, 0.4768],
+                        "MG": [280, 208, 32, 115.2],
+                        "Tag": 84747185,
+                        "@": 84747186,
+                        "Alpha": 255,
+                        "Name": "mark",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 128, "Y": 151 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

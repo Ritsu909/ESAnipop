@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 539, 1, 1, 480.6346, 520.2403, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0, 0.9963, 0.2711, 0.2396],
+                        "MG": [-732.8, -862.4, 0, 129.6],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 29325607,
+                        "@": 29325608,
+                        "Alpha": 229,
+                        "Name": "sp_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [64, 22, 1, 1, 32, 25.6, 0, 0, 0.4875, 0.9961],
+                        "PrePos": [0.1339, 0.0407, 0.0669, 0.0473],
+                        "MG": [-9.6, -35.2, 102.4, 134.4],
+                        "Tag": 29325605,
+                        "@": 29325606,
+                        "Alpha": 255,
+                        "Name": "sp_corner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [38, 495, 1, 1, 400, 168, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 91, "G": 72, "B": 66 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0795, 0.915, 0.8368, 0.3105],
+                        "MG": [868, -495, 38, 40],
+                        "IsCustomSize": true,
+                        "LabelText": "      看来您已经拥有一些星星啦，好心的船长帮您运来一部分，快去把他们注入许愿瓶吧！\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 29325597,
+                        "@": 29325598,
+                        "Name": "label_desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_join_team_stars@6x.json"
+                        },
+                        "Pos": [63, 288, 1, 1, 393, 193, 0, 0, 0, 0],
+                        "PrePos": [0.1318, 0.5323, 0.8222, 0.3567],
+                        "MG": [636, -288, 63, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325603,
+                        "@": 29325604,
+                        "Alpha": 255,
+                        "Name": "stars",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_insert_team@6x.json"
+                        },
+                        "Pos": [245, 221, 1, 1, 362, 58, 0, 0, 0, 0],
+                        "PrePos": [0.5126, 0.4085, 0.7573, 0.1072],
+                        "MG": [704, -221, 245, -129],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325601,
+                        "@": 29325602,
+                        "Alpha": 255,
+                        "Name": "join_team",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_btn_green_start_12@6x.json"
+                        },
+                        "Pos": [211, 120, 1, 1, 374, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4414, 0.2218, 0.7824, 0.2255],
+                        "MG": [539, -120, 211, -107],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325599,
+                        "@": 29325600,
+                        "Alpha": 255,
+                        "Name": "btn_create_team",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 478, "Y": 541 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

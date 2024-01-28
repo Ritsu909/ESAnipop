@@ -1,0 +1,37 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [1, "gameScene/decbubble.png", "cocos/gameScene@6x"],
+                    "Pos": [0, 0, 1, 1, 12.8, 12.8, 0, 0, 0.4688, 0.5313],
+                    "Tag": 2130,
+                    "@": 2131,
+                    "#": "bubble1",
+                    "$": "IV"
+                },
+                {
+                    "F": [1, "gameScene/decbubble.png", "cocos/gameScene@6x"],
+                    "Pos": [0, 0, 1, 1, 12.8, 12.8, 0, 0, 0.4688, 0.5313],
+                    "Tag": 2132,
+                    "@": 2133,
+                    "#": "bubble2",
+                    "$": "IV"
+                },
+                {
+                    "F": [1, "gameScene/decbubble.png", "cocos/gameScene@6x"],
+                    "Pos": [0, 0, 1, 1, 12.8, 12.8, 0, 0, 0.4688, 0.5313],
+                    "Tag": 2134,
+                    "@": 2135,
+                    "#": "bubble3",
+                    "$": "IV"
+                }
+            ],
+            "Size": { "X": 9, "Y": 9 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,173 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-140, 35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [-0.407, 0.2397, 0.186, 0.526],
+                        "MG": [20.8, -56, -224, -160],
+                        "Tag": 81777343,
+                        "@": 81777344,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-70, 35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [-0.2035, 0.2397, 0.186, 0.526],
+                        "MG": [20.8, -56, -112, -48],
+                        "Tag": 81777341,
+                        "@": 81777342,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0, 0.2397, 0.186, 0.526],
+                        "MG": [20.8, -56, 0, 64],
+                        "Tag": 81777339,
+                        "@": 81777340,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, 35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0.2035, 0.2397, 0.186, 0.526],
+                        "MG": [20.8, -56, 112, 176],
+                        "Tag": 81777337,
+                        "@": 81777338,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [140, 35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0.407, 0.2397, 0.186, 0.526],
+                        "MG": [20.8, -56, 224, 288],
+                        "Tag": 81777335,
+                        "@": 81777336,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            -140, -35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085
+                        ],
+                        "PrePos": [-0.407, -0.2397, 0.186, 0.526],
+                        "MG": [132.8, 56, -224, -160],
+                        "Tag": 81777333,
+                        "@": 81777334,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [-70, -35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [-0.2035, -0.2397, 0.186, 0.526],
+                        "MG": [132.8, 56, -112, -48],
+                        "Tag": 81777331,
+                        "@": 81777332,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, -35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0, -0.2397, 0.186, 0.526],
+                        "MG": [132.8, 56, 0, 64],
+                        "Tag": 81777329,
+                        "@": 81777330,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, -35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0.2035, -0.2397, 0.186, 0.526],
+                        "MG": [132.8, 56, 112, 176],
+                        "Tag": 81777327,
+                        "@": 81777328,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/or_grid_sp.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [140, -35, 1, 1, 64, 76.8, 0, 0, 0.4992, 0.5085],
+                        "PrePos": [0.407, -0.2397, 0.186, 0.526],
+                        "MG": [132.8, 56, 224, 288],
+                        "Tag": 81777325,
+                        "@": 81777326,
+                        "Alpha": 255,
+                        "Name": "or_grid_sp10",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 344, "Y": 146 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

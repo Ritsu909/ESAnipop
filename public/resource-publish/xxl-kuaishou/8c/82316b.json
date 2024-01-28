@@ -1,0 +1,260 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50087,
+                        [
+                            { "P": [21, -7.25], "I": 0, "T": 0 },
+                            { "P": [21, -7.25], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50089,
+                        [
+                            { "P": [38.75, -2.25], "I": 0, "T": 0 },
+                            { "P": [38.75, -2.25], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50089,
+                        [
+                            { "P": [0.5513, 1.0231], "I": 0, "T": 0 },
+                            { "P": [0.5513, 1.0231], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50091,
+                        [
+                            { "P": [-22.75, 11.25], "I": 0, "T": 0 },
+                            { "P": [-22.75, 11.25], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50093,
+                        [
+                            { "P": [-31.25, -5.25], "I": 0, "T": 0 },
+                            { "P": [-31.25, -5.25], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50095,
+                        [
+                            { "P": [29.25, -5.25], "I": 0, "T": 0 },
+                            { "P": [29.25, -5.25], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50097,
+                        [
+                            { "P": [42.65, -13.5], "I": 0, "T": 0 },
+                            { "P": [42.65, -13.5], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50099,
+                        [
+                            { "P": [18, 8.1], "I": 0, "T": 0 },
+                            { "P": [18, 8.1], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50099,
+                        [
+                            { "P": [0.3091, 0.4679], "I": 0, "T": 0 },
+                            { "P": [0.3091, 0.4679], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50099,
+                        [
+                            { "P": [13.52, 13.52], "I": 0, "T": 0 },
+                            { "P": [13.52, 13.52], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50101,
+                        [
+                            { "P": [-5.6, 14.1], "I": 0, "T": 0 },
+                            { "P": [-5.6, 14.1], "I": 24, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 24, 0, 0, 0.5062, 0.4938],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 50084,
+                        "@": 50085,
+                        "Alpha": 255,
+                        "Name": "d01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            21, -7, 0.6552, 0.6552, 24, 24, 9.97, 9.97, 0.5062,
+                            0.4938
+                        ],
+                        "MG": [35.2, 11.2, 33.6, 57.6],
+                        "Tag": 50086,
+                        "@": 50087,
+                        "Alpha": 255,
+                        "Name": "d02",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            38, -2, 0.5512, 1.0231, 24, 24, 9.97, 9.97, 0.5062,
+                            0.4938
+                        ],
+                        "MG": [27.2, 3.2, 60.8, 84.8],
+                        "Tag": 50088,
+                        "@": 50089,
+                        "Alpha": 255,
+                        "Name": "d03",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            -22, 11, 0.4486, 0.3932, 24, 24, -10.51, -10.51,
+                            0.5062, 0.4938
+                        ],
+                        "MG": [6.4, -17.6, -35.2, -11.2],
+                        "Tag": 50090,
+                        "@": 50091,
+                        "Alpha": 255,
+                        "Name": "d04",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            -31, -5, 0.3156, 0.2766, 24, 24, -14.48, -14.48,
+                            0.5062, 0.4938
+                        ],
+                        "MG": [32, 8, -49.6, -25.6],
+                        "Tag": 50092,
+                        "@": 50093,
+                        "Alpha": 255,
+                        "Name": "d05",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            29, -5, 0.2442, 0.5028, 24, 24, 15.8, 15.81, 0.5062,
+                            0.4938
+                        ],
+                        "MG": [32, 8, 46.4, 70.4],
+                        "Tag": 50094,
+                        "@": 50095,
+                        "Alpha": 255,
+                        "Name": "d06",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            42, -13, 0.196, 0.4167, 24, 24, 35.76, 35.76,
+                            0.5062, 0.4938
+                        ],
+                        "MG": [44.8, 20.8, 67.2, 91.2],
+                        "Tag": 50096,
+                        "@": 50097,
+                        "Alpha": 255,
+                        "Name": "d07",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            18, 8, 0.309, 0.4679, 24, 24, 13.52, 13.53, 0.5062,
+                            0.4938
+                        ],
+                        "MG": [11.2, -12.8, 28.8, 52.8],
+                        "Tag": 50098,
+                        "@": 50099,
+                        "Alpha": 255,
+                        "Name": "d08",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_small_beat_2/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_small_beat_2@6x.plist"
+                        },
+                        "Pos": [
+                            -5, 14, 0.4625, 0.4679, 24, 24, 0.55, 0.55, 0.5062,
+                            0.4938
+                        ],
+                        "MG": [1.6, -22.4, -8, 16],
+                        "Tag": 50100,
+                        "@": 50101,
+                        "Alpha": 255,
+                        "Name": "d09",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

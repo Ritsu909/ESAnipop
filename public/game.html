@@ -1,0 +1,1302 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>ES2×Anipop</title>
+        <meta
+            content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1"
+            name="viewport"
+        />
+        <meta content="yes" name="apple-mobile-web-app-capable" />
+        <meta
+            content="black-translucent"
+            name="apple-mobile-web-app-status-bar-style"
+        />
+        <meta content="telephone=no" name="format-detection" />
+        <meta content="webkit" name="renderer" />
+        <meta content="webkit" name="force-rendering" />
+        <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+        <meta content="no" name="msapplication-tap-highlight" />
+        <meta content="yes" name="full-screen" />
+        <meta content="true" name="x5-fullscreen" />
+        <meta content="true" name="360-fullscreen" />
+        <meta content="portrait" name="screen-orientation" />
+        <meta content="portrait" name="x5-orientation" />
+        <meta content="app" name="x5-page-mode" />
+        <link href="./ " rel="dns-prefetch" />
+        <link href="./ " rel="dns-prefetch" />
+        <style>
+            body,
+            canvas,
+            div {
+                margin: 0;
+                padding: 0;
+                display: block;
+                -moz-user-select: none;
+                -webkit-user-select: none;
+                -ms-user-select: none;
+                -khtml-user-select: none;
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            body {
+                overflow: hidden;
+                background: #000;
+            }
+
+            @media (min-width: 320px) {
+                html {
+                    font-size: 14px;
+                }
+            }
+
+            @media (min-width: 414px) {
+                html {
+                    font-size: 16px;
+                }
+            }
+
+            @media (min-width: 440px) {
+                html {
+                    font-size: 18px;
+                }
+            }
+
+            .page {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+            #gameCanvas {
+                outline: 0;
+            }
+
+            .wechat-game-icon {
+                position: absolute;
+                width: 25%;
+                height: 30px;
+                top: 20px;
+                right: 20px;
+                border-radius: 20px;
+                background-color: #000;
+                opacity: 0;
+                pointer-events: none;
+            }
+
+            @media (min-aspect-ratio: 769 / 1024) {
+                .page {
+                    right: 0;
+                    margin: auto;
+                    max-width: 720px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="gameCanvas"></canvas>
+        <script
+            crossorigin="anonymous"
+            defer="defer"
+            src="./vendor-c2e3ca3e65.js"
+        ></script>
+        <script>
+            !(function (c) {
+                function s(e) {
+                    if (n[e]) {
+                        return n[e].exports;
+                    }
+                    var t = (n[e] = { i: e, l: !1, exports: {} });
+                    return (
+                        c[e].call(t.exports, t, t.exports, s),
+                        (t.l = !0),
+                        t.exports
+                    );
+                }
+
+                var p = window.webpackJsonp;
+                window.webpackJsonp = function (e, t, n) {
+                    for (var r, o, i, a = 0, u = []; a < e.length; a++) {
+                        (o = e[a]), f[o] && u.push(f[o][0]), (f[o] = 0);
+                    }
+                    for (r in t) {
+                        Object.prototype.hasOwnProperty.call(t, r) &&
+                            (c[r] = t[r]);
+                    }
+                    for (p && p(e, t, n); u.length; ) {
+                        u.shift()();
+                    }
+                    if (n) {
+                        for (a = 0; a < n.length; a++) {
+                            i = s((s.s = n[a]));
+                        }
+                    }
+                    return i;
+                };
+                var n = {},
+                    f = { 2: 0 };
+                (s.m = c),
+                    (s.c = n),
+                    (s.d = function (e, t, n) {
+                        s.o(e, t) ||
+                            Object.defineProperty(e, t, {
+                                configurable: !1,
+                                enumerable: !0,
+                                get: n
+                            });
+                    }),
+                    (s.n = function (e) {
+                        var t =
+                            e && e.__esModule
+                                ? function () {
+                                      return e.default;
+                                  }
+                                : function () {
+                                      return e;
+                                  };
+                        return s.d(t, "a", t), t;
+                    }),
+                    (s.o = function (e, t) {
+                        return Object.prototype.hasOwnProperty.call(e, t);
+                    }),
+                    (s.p = "./"),
+                    (s.oe = function (e) {
+                        throw e;
+                    }),
+                    s((s.s = 336));
+            })({
+                100: function (e, t) {
+                    e.exports = !0;
+                },
+                101: function (e, t) {
+                    var n = 0,
+                        r = Math.random();
+                    e.exports = function (e) {
+                        return "Symbol(".concat(
+                            void 0 === e ? "" : e,
+                            ")_",
+                            (++n + r).toString(36)
+                        );
+                    };
+                },
+                102: function (e, t, n) {
+                    var r = n(16),
+                        o = n(13).document,
+                        i = r(o) && r(o.createElement);
+                    e.exports = function (e) {
+                        return i ? o.createElement(e) : {};
+                    };
+                },
+                103: function (e, t) {
+                    e.exports = function (e, t) {
+                        return {
+                            enumerable: !(1 & e),
+                            configurable: !(2 & e),
+                            writable: !(4 & e),
+                            value: t
+                        };
+                    };
+                },
+                104: function (e, t, n) {
+                    e.exports = { default: n(349), __esModule: !0 };
+                },
+                11: function (e, t, n) {
+                    var v = n(13),
+                        h = n(7),
+                        y = n(20),
+                        m = n(24),
+                        w = n(41),
+                        x = function (e, t, n) {
+                            var r,
+                                o,
+                                i,
+                                a = e & x.F,
+                                u = e & x.G,
+                                c = e & x.S,
+                                s = e & x.P,
+                                p = e & x.B,
+                                f = e & x.W,
+                                l = u ? h : h[t] || (h[t] = {}),
+                                d = l.prototype,
+                                g = u ? v : c ? v[t] : (v[t] || {}).prototype;
+                            for (r in (u && (n = t), n)) {
+                                ((o = !a && g && void 0 !== g[r]) && w(l, r)) ||
+                                    ((i = o ? g[r] : n[r]),
+                                    (l[r] =
+                                        u && "function" != typeof g[r]
+                                            ? n[r]
+                                            : p && o
+                                              ? y(i, v)
+                                              : f && g[r] == i
+                                                ? (function (r) {
+                                                      var e = function (
+                                                          e,
+                                                          t,
+                                                          n
+                                                      ) {
+                                                          if (
+                                                              this instanceof r
+                                                          ) {
+                                                              switch (
+                                                                  arguments.length
+                                                              ) {
+                                                                  case 0:
+                                                                      return new r();
+                                                                  case 1:
+                                                                      return new r(
+                                                                          e
+                                                                      );
+                                                                  case 2:
+                                                                      return new r(
+                                                                          e,
+                                                                          t
+                                                                      );
+                                                              }
+                                                              return new r(
+                                                                  e,
+                                                                  t,
+                                                                  n
+                                                              );
+                                                          }
+                                                          return r.apply(
+                                                              this,
+                                                              arguments
+                                                          );
+                                                      };
+                                                      return (
+                                                          (e.prototype =
+                                                              r.prototype),
+                                                          e
+                                                      );
+                                                  })(i)
+                                                : s && "function" == typeof i
+                                                  ? y(Function.call, i)
+                                                  : i),
+                                    s &&
+                                        (((l.virtual || (l.virtual = {}))[r] =
+                                            i),
+                                        e & x.R && d && !d[r] && m(d, r, i)));
+                            }
+                        };
+                    (x.F = 1),
+                        (x.G = 2),
+                        (x.S = 4),
+                        (x.P = 8),
+                        (x.B = 16),
+                        (x.W = 32),
+                        (x.U = 64),
+                        (x.R = 128),
+                        (e.exports = x);
+                },
+                13: function (e, t) {
+                    var n = (e.exports =
+                        "undefined" != typeof window && window.Math == Math
+                            ? window
+                            : "undefined" != typeof self && self.Math == Math
+                              ? self
+                              : Function("return this")());
+                    "number" == typeof __g && (__g = n);
+                },
+                15: function (wa, xa) {
+                    var ya;
+                    ya = (function () {
+                        return this;
+                    })();
+                    try {
+                        ya = ya || Function("return this")() || eval("this");
+                    } catch (wa) {
+                        "object" == typeof window && (ya = window);
+                    }
+                    wa.exports = ya;
+                },
+                16: function (e, t) {
+                    e.exports = function (e) {
+                        return "object" == typeof e
+                            ? null !== e
+                            : "function" == typeof e;
+                    };
+                },
+                18: function (e, t, n) {
+                    var r = n(21),
+                        o = n(342),
+                        i = n(343),
+                        a = Object.defineProperty;
+                    t.f = n(19)
+                        ? Object.defineProperty
+                        : function (e, t, n) {
+                              if ((r(e), (t = i(t, !0)), r(n), o)) {
+                                  try {
+                                      return a(e, t, n);
+                                  } catch (e) {}
+                              }
+                              if ("get" in n || "set" in n) {
+                                  throw TypeError("Accessors not supported!");
+                              }
+                              return "value" in n && (e[t] = n.value), e;
+                          };
+                },
+                182: function (e, t, n) {
+                    var r = n(7),
+                        o = n(13),
+                        i =
+                            o["__core-js_shared__"] ||
+                            (o["__core-js_shared__"] = {});
+                    (e.exports = function (e, t) {
+                        return i[e] || (i[e] = void 0 !== t ? t : {});
+                    })("versions", []).push({
+                        version: r.version,
+                        mode: n(100) ? "pure" : "global",
+                        copyright: "© 2020 Denis Pushkarev (zloirock.ru)"
+                    });
+                },
+                183: function (e, t) {
+                    e.exports =
+                        "constructor,hasOwnProperty,isPrototypeOf,propertyIsEnumerable,toLocaleString,toString,valueOf".split(
+                            ","
+                        );
+                },
+                184: function (e, t, n) {
+                    var o = n(11),
+                        i = n(7),
+                        a = n(30);
+                    e.exports = function (e, t) {
+                        var n = (i.Object || {})[e] || Object[e],
+                            r = {};
+                        (r[e] = t(n)),
+                            o(
+                                o.S +
+                                    o.F *
+                                        a(function () {
+                                            n(1);
+                                        }),
+                                "Object",
+                                r
+                            );
+                    };
+                },
+                19: function (e, t, n) {
+                    e.exports = !n(30)(function () {
+                        return (
+                            7 !=
+                            Object.defineProperty({}, "a", {
+                                get: function () {
+                                    return 7;
+                                }
+                            }).a
+                        );
+                    });
+                },
+                20: function (e, t, n) {
+                    var i = n(43);
+                    e.exports = function (r, o, e) {
+                        if ((i(r), void 0 === o)) {
+                            return r;
+                        }
+                        switch (e) {
+                            case 1:
+                                return function (e) {
+                                    return r.call(o, e);
+                                };
+                            case 2:
+                                return function (e, t) {
+                                    return r.call(o, e, t);
+                                };
+                            case 3:
+                                return function (e, t, n) {
+                                    return r.call(o, e, t, n);
+                                };
+                        }
+                        return function () {
+                            return r.apply(o, arguments);
+                        };
+                    };
+                },
+                21: function (e, t, n) {
+                    var r = n(16);
+                    e.exports = function (e) {
+                        if (!r(e)) {
+                            throw TypeError(e + " is not an object!");
+                        }
+                        return e;
+                    };
+                },
+                24: function (e, t, n) {
+                    var r = n(18),
+                        o = n(103);
+                    e.exports = n(19)
+                        ? function (e, t, n) {
+                              return r.f(e, t, o(1, n));
+                          }
+                        : function (e, t, n) {
+                              return (e[t] = n), e;
+                          };
+                },
+                28: function (e, t, n) {
+                    e.exports = { default: n(337), __esModule: !0 };
+                },
+                29: function (e, t, n) {
+                    var r = n(94);
+                    e.exports = function (e) {
+                        return Object(r(e));
+                    };
+                },
+                30: function (e, t) {
+                    e.exports = function (e) {
+                        try {
+                            return !!e();
+                        } catch (e) {
+                            return !0;
+                        }
+                    };
+                },
+                336: function (e, t, r) {
+                    (function (e) {
+                        var t = r(28);
+                        t && t.__esModule,
+                            r(344),
+                            r(345),
+                            r(346),
+                            window.addEventListener(
+                                "unhandledrejection",
+                                function (e) {}
+                            );
+                        var n = r(347);
+                        (e.logCenter = new n({
+                            app_name: "h5clover_client",
+                            platform: META.platform,
+                            app_id: META.version,
+                            host: "https://etlog.happyelements.cn/etrequest.php"
+                        })),
+                            (window.onerror = function () {
+                                logCenter.error.apply(logCenter, arguments);
+                            }),
+                            window.wx &&
+                                wx.onError(function (e) {
+                                    var t = e.stack || e.message;
+                                    logCenter.error(e.message, "", 0, 0, {
+                                        stack: t
+                                    });
+                                }),
+                            r(354);
+                    }).call(t, r(15));
+                },
+                337: function (e, t, n) {
+                    n(338), (e.exports = n(7).Object.keys);
+                },
+                338: function (e, t, n) {
+                    var r = n(29),
+                        o = n(95);
+                    n(184)("keys", function () {
+                        return function (e) {
+                            return o(r(e));
+                        };
+                    });
+                },
+                339: function (e, t, n) {
+                    var a = n(41),
+                        u = n(96),
+                        c = n(340)(!1),
+                        s = n(99)("IE_PROTO");
+                    e.exports = function (e, t) {
+                        var n,
+                            r = u(e),
+                            o = 0,
+                            i = [];
+                        for (n in r) {
+                            n != s && a(r, n) && i.push(n);
+                        }
+                        for (; t.length > o; ) {
+                            a(r, (n = t[o++])) && (~c(i, n) || i.push(n));
+                        }
+                        return i;
+                    };
+                },
+                340: function (e, t, n) {
+                    var c = n(96),
+                        s = n(63),
+                        p = n(341);
+                    e.exports = function (u) {
+                        return function (e, t, n) {
+                            var r,
+                                o = c(e),
+                                i = s(o.length),
+                                a = p(n, i);
+                            if (u && t != t) {
+                                for (; a < i; ) {
+                                    if ((r = o[a++]) != r) {
+                                        return !0;
+                                    }
+                                }
+                            } else {
+                                for (; a < i; a++) {
+                                    if ((u || a in o) && o[a] === t) {
+                                        return u || a || 0;
+                                    }
+                                }
+                            }
+                            return !u && -1;
+                        };
+                    };
+                },
+                341: function (e, t, n) {
+                    var r = n(98),
+                        o = Math.max,
+                        i = Math.min;
+                    e.exports = function (e, t) {
+                        return (e = r(e)) < 0 ? o(e + t, 0) : i(e, t);
+                    };
+                },
+                342: function (e, t, n) {
+                    e.exports =
+                        !n(19) &&
+                        !n(30)(function () {
+                            return (
+                                7 !=
+                                Object.defineProperty(n(102)("div"), "a", {
+                                    get: function () {
+                                        return 7;
+                                    }
+                                }).a
+                            );
+                        });
+                },
+                343: function (e, t, n) {
+                    var o = n(16);
+                    e.exports = function (e, t) {
+                        if (!o(e)) {
+                            return e;
+                        }
+                        var n, r;
+                        if (
+                            t &&
+                            "function" == typeof (n = e.toString) &&
+                            !o((r = n.call(e)))
+                        ) {
+                            return r;
+                        }
+                        if (
+                            "function" == typeof (n = e.valueOf) &&
+                            !o((r = n.call(e)))
+                        ) {
+                            return r;
+                        }
+                        if (
+                            !t &&
+                            "function" == typeof (n = e.toString) &&
+                            !o((r = n.call(e)))
+                        ) {
+                            return r;
+                        }
+                        throw TypeError(
+                            "Can't convert object to primitive value"
+                        );
+                    };
+                },
+                344: function (e, t, n) {
+                    (function (e) {
+                        (e.loadJs = function (e, t) {
+                            var n = document
+                                    .getElementsByTagName("HEAD")
+                                    .item(0),
+                                r = document.createElement("script");
+                            (r.id = e),
+                                (r.type = "text/javascript"),
+                                (r.src = t),
+                                n.appendChild(r);
+                        }),
+                            (e.generateUUID = function () {
+                                var n = new Date().getTime();
+                                return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(
+                                    /[xy]/g,
+                                    function (e) {
+                                        var t =
+                                            (n + 16 * Math.random()) % 16 | 0;
+                                        return (
+                                            (n = Math.floor(n / 16)),
+                                            ("x" == e
+                                                ? t
+                                                : (7 & t) | 8
+                                            ).toString(16)
+                                        );
+                                    }
+                                );
+                            }),
+                            (e.getQueryVariable = function (e) {
+                                for (
+                                    var t = (window.location.search || "")
+                                            .substring(1)
+                                            .split("&"),
+                                        n = 0;
+                                    n < t.length;
+                                    n++
+                                ) {
+                                    var r = t[n].split("=");
+                                    if (decodeURIComponent(r[0]) == e) {
+                                        return decodeURIComponent(r[1]);
+                                    }
+                                }
+                            }),
+                            (e.formatDate = function (e, t) {
+                                var n = {
+                                        "M+": e.getMonth() + 1,
+                                        "d+": e.getDate(),
+                                        "H+": e.getHours(),
+                                        "m+": e.getMinutes(),
+                                        "s+": e.getSeconds(),
+                                        "q+": Math.floor(
+                                            (e.getMonth() + 3) / 3
+                                        ),
+                                        "S": e.getMilliseconds()
+                                    },
+                                    r = t || "yyyyMMddHHmmss";
+                                for (var o in (/(y+)/.test(r) &&
+                                    (r = r.replace(
+                                        RegExp.$1,
+                                        (e.getFullYear() + "").substr(
+                                            4 - RegExp.$1.length
+                                        )
+                                    )),
+                                n)) {
+                                    new RegExp("(" + o + ")").test(r) &&
+                                        (r = r.replace(
+                                            RegExp.$1,
+                                            1 == RegExp.$1.length
+                                                ? n[o]
+                                                : ("00" + n[o]).substr(
+                                                      ("" + n[o]).length
+                                                  )
+                                        ));
+                                }
+                                return r;
+                            }),
+                            (e.randomChar = function (e) {
+                                for (
+                                    var t =
+                                            "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+                                        n = "",
+                                        r = (new Date().getTime(), 0);
+                                    r < e;
+                                    r++
+                                ) {
+                                    n += t.charAt(
+                                        Math.ceil(1e8 * Math.random()) %
+                                            t.length
+                                    );
+                                }
+                                return n;
+                            }),
+                            (e.getParameterByName = function (e, t) {
+                                t || (t = window.location.href),
+                                    (e = e.replace(/[\[\]]/g, "\\$&"));
+                                var n = new RegExp(
+                                    "[?&]" + e + "(=([^&#]*)|&|#|$)"
+                                ).exec(t);
+                                return n
+                                    ? n[2]
+                                        ? decodeURIComponent(
+                                              n[2].replace(/\+/g, " ")
+                                          )
+                                        : ""
+                                    : null;
+                            }),
+                            (e.getLocation = function (e) {
+                                var t = document.createElement("a");
+                                return (t.href = e), t;
+                            }),
+                            (e.formatParams = function (e) {
+                                if (!e) {
+                                    return null;
+                                }
+                                if ("string" == typeof e) {
+                                    return e;
+                                }
+                                var t = [];
+                                for (var n in e) {
+                                    var r = e[n];
+                                    (r || "#" === r) &&
+                                        t.push(
+                                            encodeURIComponent(n) +
+                                                "=" +
+                                                encodeURIComponent(r)
+                                        );
+                                }
+                                return t.join("&");
+                            }),
+                            (function () {
+                                function e(e, t) {
+                                    t = t || {
+                                        bubbles: !1,
+                                        cancelable: !1,
+                                        detail: void 0
+                                    };
+                                    var n = document.createEvent("CustomEvent");
+                                    return (
+                                        n.initCustomEvent(
+                                            e,
+                                            t.bubbles,
+                                            t.cancelable,
+                                            t.detail
+                                        ),
+                                        n
+                                    );
+                                }
+
+                                "function" != typeof window.CustomEvent &&
+                                    "function" == typeof window.Event &&
+                                    ((e.prototype = window.Event.prototype),
+                                    (window.CustomEvent = e),
+                                    (HTMLElement.prototype.remove =
+                                        HTMLElement.prototype.remove ||
+                                        function () {
+                                            return (
+                                                this.parentNode.removeChild(
+                                                    this
+                                                ),
+                                                this
+                                            );
+                                        }));
+                            })();
+                    }).call(t, n(15));
+                },
+                345: function (e, t, n) {
+                    document.ccConfig = {
+                        project_type: "javascript",
+                        debugMode: 0,
+                        showFPS: !1,
+                        frameRate: 60,
+                        noCache: !1,
+                        id: "canvas",
+                        renderMode: 0,
+                        engineDir: "frameworks/cocos2d-html5",
+                        modules: ["cocos2d", "ccui"]
+                    };
+                    var r = getParameterByName("fps");
+                    void 0 !== r && (document.ccConfig.showFps = r);
+                },
+                346: function (x, e, _) {
+                    (function (e) {
+                        var t,
+                            n = _(28),
+                            r = (t = n) && t.__esModule ? t : { default: t },
+                            o = {};
+                        o.user = {};
+                        var i = getQueryVariable("media") || "wanba_ts",
+                            a = navigator.userAgent.toLowerCase();
+                        if (window.wx) {
+                            (i = "wechatgame"), (o.user.serverid = 1);
+                        } else if ("wanba_ts" == i) {
+                            if (window.mqq && (0, r.default)(mqq).length) {
+                                (o.user.openid = window.OPEN_DATA.openid),
+                                    (o.user.openkey = window.OPEN_DATA.openkey),
+                                    (o.user.serverid =
+                                        window.OPEN_DATA.platform),
+                                    (o.user.pf = window.OPEN_DATA.pf),
+                                    (o.user.app =
+                                        window.OPEN_DATA.qua.app.toLowerCase()),
+                                    (o.user.qua =
+                                        window.OPEN_DATA.qua.meybeQua),
+                                    (o.user.isMobile =
+                                        window.OPEN_DATA.isMobile);
+                                var u = getParameterByName(
+                                        "_proxy",
+                                        window.OPEN_DATA.jumpurl
+                                    ),
+                                    c = getParameterByName(
+                                        "_wv",
+                                        window.OPEN_DATA.jumpurl
+                                    ),
+                                    s = getParameterByName(
+                                        "via",
+                                        window.OPEN_DATA.jumpurl
+                                    ),
+                                    p = getLocation(window.OPEN_DATA.jumpurl),
+                                    f = getLocation(window.OPEN_DATA.shareurl),
+                                    l = p.origin + p.pathname,
+                                    d = f.origin + f.pathname,
+                                    g = {};
+                                u && (g._proxy = u), c && (g._wv = c);
+                                var v = formatParams(g);
+                                v &&
+                                    ((window.OPEN_DATA.jumpurl = l + "?" + v),
+                                    "H5.DESKTOP" == s &&
+                                        (window.OPEN_DATA.jumpurl +=
+                                            "&via=H5.DESKTOP"),
+                                    (window.OPEN_DATA.shareurl = d + "?" + v)),
+                                    document.addEventListener(
+                                        "qbrowserVisibilityChange",
+                                        function (e) {
+                                            var t = new CustomEvent(
+                                                "cloverVisibilityChange",
+                                                { detail: { hidden: e.hidden } }
+                                            );
+                                            document.dispatchEvent(t);
+                                        }
+                                    );
+                            } else {
+                                (i = "he"),
+                                    (o.user.pf = "he"),
+                                    (null !==
+                                        (y = localStorage.getItem(
+                                            "_local_identify_key_"
+                                        )) &&
+                                        "" !== y) ||
+                                        ((y = generateUUID()),
+                                        localStorage.setItem(
+                                            "_local_identify_key_",
+                                            y
+                                        )),
+                                    (o.user.openid = y),
+                                    (o.user.serverid = 0),
+                                    (o.user.app = "he"),
+                                    (o.user.isMobile = !0);
+                            }
+                        } else if ("4399" == i) {
+                            (o.user.openid = getQueryVariable("userId")),
+                                (o.user.serverid = 1),
+                                loadJs(
+                                    "sdkApi",
+                                    "http://cdn.h5wan.4399sj.com/h5web-frame/dist/static/js/api.js"
+                                ),
+                                document.body.classList.add("bg4399");
+                        } else if ("iqiyi" == i) {
+                            (o.user.openid = getQueryVariable("user_id")),
+                                (o.user.serverid = 1);
+                        } else if ("uc_h5" == i) {
+                            (o.user.serverid = 1),
+                                loadJs(
+                                    "sdkApi",
+                                    "http://image.9game.cn/s/uae/g/1m/h5sdk/js/v1/sdk/h5-sdk.js"
+                                );
+                        } else if ("oppo_h5" == i) {
+                            (o.user.serverid = 1),
+                                loadJs(
+                                    "sdkApi",
+                                    "https://open.oppomobile.com/static/files/oppo-1.0.1.js"
+                                );
+                        } else if (0 == i.indexOf("wx_")) {
+                            var h = 0;
+                            a && 0 <= a.indexOf("android")
+                                ? (h = 1)
+                                : /(iphone|ipad|ipod|ios)/i.test(a) && (h = 2),
+                                (o.user.serverid = h);
+                        } else if (/micromessenger/i.test(a)) {
+                            o.user.pf = "wx";
+                            var y = getQueryVariable("openid");
+                            (o.user.openid = y),
+                                (o.user.serverid = 3),
+                                (o.user.app = "wx");
+                        }
+                        (o.platform = o.user.platform = i),
+                            (o.version = "1.8.0-23040612");
+                        var m = localStorage.getItem("_local_is_new_device");
+                        if (null === m || "" === m) {
+                            localStorage.setItem("_local_is_new_device", !1);
+                            var w = localStorage.getItem("user_top_level_id");
+                            o.is_new_device = null === w || "" === w;
+                        } else {
+                            o.is_new_device = !1;
+                        }
+                        e.META = x.exports = o;
+                    }).call(e, _(15));
+                },
+                347: function (o, e, i) {
+                    (function (e) {
+                        function t(e) {
+                            return e && e.__esModule ? e : { default: e };
+                        }
+
+                        var r = t(i(8)),
+                            n = t(i(104));
+                        "function" != typeof n.default &&
+                            Object.defineProperty(Object, "assign", {
+                                value: function (e, t) {
+                                    "use strict";
+                                    if (null == e) {
+                                        throw new TypeError(
+                                            "Cannot convert undefined or null to object"
+                                        );
+                                    }
+                                    for (
+                                        var n = Object(e), r = 1;
+                                        r < arguments.length;
+                                        r++
+                                    ) {
+                                        var o = arguments[r];
+                                        if (null != o) {
+                                            for (var i in o) {
+                                                Object.prototype.hasOwnProperty.call(
+                                                    o,
+                                                    i
+                                                ) && (n[i] = o[i]);
+                                            }
+                                        }
+                                    }
+                                    return n;
+                                },
+                                writable: !0,
+                                configurable: !0
+                            }),
+                            (LogCenter = function (e) {
+                                if (!e.app_name) {
+                                    throw new Error("param app_name is needed");
+                                }
+                                (this.host = e.host || ""),
+                                    (this.app_name = e.app_name),
+                                    (this.platform = e.platform || ""),
+                                    (this.app_id = e.app_id || "");
+                            }),
+                            (LogCenter.prototype.getUserId = function () {
+                                return META.user.openid;
+                            }),
+                            (LogCenter.prototype.send = function (e) {
+                                var t = new Image(),
+                                    n = encodeURIComponent((0, r.default)(e));
+                                t.src = this.host + "?type=web&data=" + n;
+                            }),
+                            (LogCenter.prototype.log = function (e) {
+                                this.send(
+                                    (0, n.default)(
+                                        {
+                                            app_name: this.app_name,
+                                            user_id: this.getUserId(),
+                                            category: "",
+                                            priority: "debug",
+                                            platform: this.platform,
+                                            app_id: this.app_id,
+                                            timestamp: formatDate(
+                                                new Date(),
+                                                "yyyy-MM-dd HH:mm:ss"
+                                            )
+                                        },
+                                        e
+                                    )
+                                );
+                            }),
+                            (LogCenter.prototype.error = function (
+                                e,
+                                t,
+                                n,
+                                r,
+                                o
+                            ) {
+                                if (2 === arguments.length) {
+                                    var i = e;
+                                    this.log({
+                                        priority: "error",
+                                        message: i.message,
+                                        call_stack: i.stack,
+                                        category: t
+                                    });
+                                } else {
+                                    this.log({
+                                        priority: "error",
+                                        message: e,
+                                        call_stack: o && o.stack,
+                                        file_name: t,
+                                        file_line: n + ":" + r
+                                    });
+                                }
+                            }),
+                            (e.LogCenter = o.exports = LogCenter);
+                    }).call(e, i(15));
+                },
+                348: function (e, t, n) {
+                    var r = n(7),
+                        o = r.JSON || (r.JSON = { stringify: JSON.stringify });
+                    e.exports = function (e) {
+                        return o.stringify.apply(o, arguments);
+                    };
+                },
+                349: function (e, t, n) {
+                    n(350), (e.exports = n(7).Object.assign);
+                },
+                350: function (e, t, n) {
+                    var r = n(11);
+                    r(r.S + r.F, "Object", { assign: n(351) });
+                },
+                351: function (e, t, n) {
+                    "use strict";
+                    var l = n(19),
+                        d = n(95),
+                        g = n(352),
+                        v = n(353),
+                        h = n(29),
+                        y = n(97),
+                        o = Object.assign;
+                    e.exports =
+                        !o ||
+                        n(30)(function () {
+                            var e = {},
+                                t = {},
+                                n = Symbol(),
+                                r = "abcdefghijklmnopqrst";
+                            return (
+                                (e[n] = 7),
+                                r.split("").forEach(function (e) {
+                                    t[e] = e;
+                                }),
+                                7 != o({}, e)[n] ||
+                                    Object.keys(o({}, t)).join("") != r
+                            );
+                        })
+                            ? function (e, t) {
+                                  for (
+                                      var n = h(e),
+                                          r = arguments.length,
+                                          o = 1,
+                                          i = g.f,
+                                          a = v.f;
+                                      o < r;
+
+                                  ) {
+                                      for (
+                                          var u,
+                                              c = y(arguments[o++]),
+                                              s = i ? d(c).concat(i(c)) : d(c),
+                                              p = s.length,
+                                              f = 0;
+                                          f < p;
+
+                                      ) {
+                                          (u = s[f++]),
+                                              (l && !a.call(c, u)) ||
+                                                  (n[u] = c[u]);
+                                      }
+                                  }
+                                  return n;
+                              }
+                            : o;
+                },
+                352: function (e, t) {
+                    t.f = Object.getOwnPropertySymbols;
+                },
+                353: function (e, t) {
+                    t.f = {}.propertyIsEnumerable;
+                },
+                354: function (e, t) {
+                    UpdateManager = function () {
+                        (this.onUpdateReady = !1),
+                            (this.onUpdateFailed = !1),
+                            (this.targetVersion = "1.0.0"),
+                            (this._listeners = []);
+                    };
+                    var n = null;
+                    (UpdateManager.getInstance = function () {
+                        return (
+                            n ||
+                                (n =
+                                    window.META &&
+                                    "wechatgame" === META.platform
+                                        ? new WxUpdateManager()
+                                        : new UpdateManager()),
+                            n
+                        );
+                    }),
+                        (UpdateManager.prototype.isSupportUpdate = function () {
+                            return !1;
+                        }),
+                        (UpdateManager.prototype.setTargetVersion =
+                            function () {
+                                var e =
+                                    0 < arguments.length &&
+                                    void 0 !== arguments[0]
+                                        ? arguments[0]
+                                        : "";
+                                -1 < e.indexOf(".") && (this.targetVersion = e);
+                            }),
+                        (UpdateManager.prototype.initEvent = function () {}),
+                        (UpdateManager.prototype.forceUpdate = function () {}),
+                        (UpdateManager.prototype.canUpdate = function () {
+                            var e = META.version || "";
+                            return (
+                                this.onUpdateReady &&
+                                !this.onUpdateFailed &&
+                                (function () {
+                                    var e =
+                                            0 < arguments.length &&
+                                            void 0 !== arguments[0]
+                                                ? arguments[0]
+                                                : "",
+                                        t =
+                                            1 < arguments.length &&
+                                            void 0 !== arguments[1]
+                                                ? arguments[1]
+                                                : "",
+                                        n = !1;
+                                    try {
+                                        (e = e.split("-")[0]),
+                                            (t = t.split("-")[0]),
+                                            (e = e.split(".")),
+                                            (t = t.split(".")),
+                                            (n = !!(
+                                                e &&
+                                                t &&
+                                                (t[0] > e[0] || t[1] > e[1])
+                                            ));
+                                    } catch (e) {
+                                        n = !1;
+                                    }
+                                    return n;
+                                })(e, this.targetVersion)
+                            );
+                        }),
+                        (UpdateManager.prototype.addReadyListener = function (
+                            e
+                        ) {
+                            if ("function" == typeof e) {
+                                return this._listeners.push(e) - 1;
+                            }
+                        }),
+                        (UpdateManager.prototype.removeListener = function () {
+                            var e =
+                                0 < arguments.length && void 0 !== arguments[0]
+                                    ? arguments[0]
+                                    : 0;
+                            this._listeners.splice(e, 1);
+                        }),
+                        (UpdateManager.prototype.testUpdate = function () {
+                            (this.onUpdateReady = !0), this.forceUpdate();
+                        }),
+                        (WxUpdateManager = function () {
+                            UpdateManager.call(this);
+                        }),
+                        (WxUpdateManager.prototype = Object(
+                            UpdateManager.prototype
+                        )),
+                        (WxUpdateManager.prototype.constructor =
+                            WxUpdateManager),
+                        (WxUpdateManager.prototype.isSupportUpdate =
+                            function () {
+                                return !(
+                                    !window.META ||
+                                    "wechatgame" !== META.platform ||
+                                    "function" != typeof wx.getUpdateManager
+                                );
+                            }),
+                        (WxUpdateManager.prototype.initEvent = function () {
+                            var e = this;
+                            if (e.isSupportUpdate()) {
+                                var t = wx.getUpdateManager();
+                                t.onUpdateReady(function () {
+                                    (e.onUpdateReady = !0),
+                                        e._listeners.forEach(function (e) {
+                                            "function" == typeof e && e();
+                                        });
+                                }),
+                                    t.onUpdateFailed(function () {
+                                        e.onUpdateFailed = !0;
+                                    });
+                            }
+                        }),
+                        (WxUpdateManager.prototype.forceUpdate = function () {
+                            this.canUpdate() &&
+                                wx.showModal({
+                                    content: "点击确定更新游戏",
+                                    showCancel: !1,
+                                    confirmText: "确定",
+                                    success: function () {
+                                        var e = wx.getUpdateManager();
+                                        e && e.applyUpdate();
+                                    }
+                                });
+                        }),
+                        UpdateManager.getInstance().initEvent();
+                },
+                41: function (e, t) {
+                    var n = {}.hasOwnProperty;
+                    e.exports = function (e, t) {
+                        return n.call(e, t);
+                    };
+                },
+                42: function (e, t) {
+                    var n = {}.toString;
+                    e.exports = function (e) {
+                        return n.call(e).slice(8, -1);
+                    };
+                },
+                43: function (e, t) {
+                    e.exports = function (e) {
+                        if ("function" != typeof e) {
+                            throw TypeError(e + " is not a function!");
+                        }
+                        return e;
+                    };
+                },
+                63: function (e, t, n) {
+                    var r = n(98),
+                        o = Math.min;
+                    e.exports = function (e) {
+                        return 0 < e ? o(r(e), 9007199254740991) : 0;
+                    };
+                },
+                7: function (e, t) {
+                    var n = (e.exports = { version: "2.6.12" });
+                    "number" == typeof __e && (__e = n);
+                },
+                8: function (e, t, n) {
+                    e.exports = { default: n(348), __esModule: !0 };
+                },
+                94: function (e, t) {
+                    e.exports = function (e) {
+                        if (null == e) {
+                            throw TypeError("Can't call method on  " + e);
+                        }
+                        return e;
+                    };
+                },
+                95: function (e, t, n) {
+                    var r = n(339),
+                        o = n(183);
+                    e.exports =
+                        Object.keys ||
+                        function (e) {
+                            return r(e, o);
+                        };
+                },
+                96: function (e, t, n) {
+                    var r = n(97),
+                        o = n(94);
+                    e.exports = function (e) {
+                        return r(o(e));
+                    };
+                },
+                97: function (e, t, n) {
+                    var r = n(42);
+                    e.exports = Object("z").propertyIsEnumerable(0)
+                        ? Object
+                        : function (e) {
+                              return "String" == r(e) ? e.split("") : Object(e);
+                          };
+                },
+                98: function (e, t) {
+                    var n = Math.ceil,
+                        r = Math.floor;
+                    e.exports = function (e) {
+                        return isNaN((e = +e)) ? 0 : (0 < e ? r : n)(e);
+                    };
+                },
+                99: function (e, t, n) {
+                    var r = n(182)("keys"),
+                        o = n(101);
+                    e.exports = function (e) {
+                        return r[e] || (r[e] = o(e));
+                    };
+                }
+            });
+        </script>
+        <script
+            crossorigin="anonymous"
+            defer="defer"
+            src="./res.17ba43cdbff94ff664bd.js"
+            type="text/javascript"
+        ></script>
+        <script
+            crossorigin="anonymous"
+            defer="defer"
+            src="./home.13b8db775912d85daa66.js"
+            type="text/javascript"
+        ></script>
+    </body>
+</html>

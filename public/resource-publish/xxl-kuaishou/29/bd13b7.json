@@ -1,0 +1,406 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3182524,
+                        [
+                            { "P": [0, 1.25], "I": 0, "T": 0 },
+                            { "P": [0, 1.25], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182522,
+                        [
+                            { "P": [118.3, -59.05], "I": 0, "T": 0 },
+                            { "P": [118.3, -59.05], "I": 16 },
+                            { "P": [114.8, -55.55], "I": 18 },
+                            { "P": [140.3, -81.05], "I": 20, "T": 0 },
+                            { "P": [81.05, -81.05], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3182522,
+                        [
+                            { "P": [0.9007, 0.9007], "I": 0, "T": 0 },
+                            { "P": [0.9007, 0.9007], "I": 16 },
+                            { "P": [1.0009, 1.0009], "I": 18 },
+                            { "P": [0.2715, 0.2715], "I": 20, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182522,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 255, "I": 16 },
+                            { "V": 255, "I": 18 },
+                            { "V": 0, "I": 20, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182520,
+                        [
+                            { "P": [-47.6, -69.4], "I": 0, "T": 0 },
+                            { "P": [-47.6, -69.4], "I": 21, "T": 0 },
+                            { "P": [-47.6, -69.4], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182520,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 },
+                            { "V": 255, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182518,
+                        [
+                            { "P": [151, -90.1], "I": 0, "T": 0 },
+                            { "P": [151, -90.1], "I": 21 },
+                            { "P": [151, -90.1], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3182518,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 21 },
+                            { "P": [0, 0], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182518,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21 },
+                            { "V": 255, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182516,
+                        [
+                            { "P": [149.85, -90.85], "I": 0, "T": 0 },
+                            { "P": [149.85, -90.85], "I": 21 },
+                            { "P": [149.85, -90.85], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3182516,
+                        [
+                            { "P": [0, 0], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 21 },
+                            { "P": [0, 0], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182516,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21 },
+                            { "V": 255, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182514,
+                        [
+                            { "P": [150.9, -90.7], "I": 0, "T": 0 },
+                            { "P": [150.9, -90.7], "I": 21, "T": 0 },
+                            { "P": [150.9, -90.7], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182514,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 21, "T": 0 },
+                            { "V": 255, "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        3182512,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 7,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 8,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 9,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 10,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 26,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 27,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3182512,
+                        [
+                            {
+                                "P": [292.95, -116],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [292.95, -94.1], "I": 7 },
+                            {
+                                "P": [292.95, -94.1],
+                                "I": 8,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [291.8, -94.05], "I": 9 },
+                            { "P": [277.75, -93.7], "I": 10 },
+                            { "P": [151.3, -90.75], "I": 19 },
+                            { "P": [150.9, -90.15], "I": 21 },
+                            { "P": [149.9, -88.7], "I": 26, "T": 0 },
+                            { "P": [88.7, -88.7], "I": 27, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3182512,
+                        [
+                            {
+                                "P": [0.74, 0.74],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 7 },
+                            { "P": [1, 1], "I": 8 },
+                            { "P": [1, 1], "I": 9 },
+                            { "P": [1, 1], "I": 10 },
+                            { "P": [1, 1], "I": 19 },
+                            { "P": [1.1934, 1.1934], "I": 21 },
+                            { "P": [1.6768, 1.6768], "I": 26, "T": 0 },
+                            { "P": [1, 1], "I": 27, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3182512,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 7 },
+                            { "V": 255, "I": 8 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 10 },
+                            { "V": 255, "I": 19 },
+                            { "V": 181, "I": 21 },
+                            { "V": 0, "I": 26, "T": 0 },
+                            { "V": 0, "I": 27, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/common_bg.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 347.2, 179.2, 0, 0, 0.0003, 0.9994],
+                        "MG": [179.2, 0, 0, 347.2],
+                        "Tag": 3182525,
+                        "@": 3182526,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/magicbird_animalbg.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [0, 1, 1, 1, 241.6, 188.8, 0, 0, 0.0004, 0.9995],
+                        "MG": [187.2, -1.6, 0, 241.6],
+                        "Tag": 3182523,
+                        "@": 3182524,
+                        "Alpha": 255,
+                        "Name": "animal_magicbird",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/fox76772.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            118, -59, 0.9007, 0.9007, 70.4, 75.2, 0, 0, 0.0014,
+                            0.9987
+                        ],
+                        "MG": [169.6, 94.4, 188.8, 259.2],
+                        "Tag": 3182521,
+                        "@": 3182522,
+                        "Alpha": 255,
+                        "Name": "fox_magicbird",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/magicbird_color.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            -47, -69, 0.9, 0.9, 113.6, 113.6, 0, 0, -1.4498,
+                            0.7205
+                        ],
+                        "MG": [224, 110.4, -75.2, 38.4],
+                        "Tag": 3182519,
+                        "@": 3182520,
+                        "Alpha": 0,
+                        "Name": "color",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/magicbird_tornado2.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            151, -90, 0.858, 0.858, 123.2, 124.8, 0, 0, 0.5069,
+                            0.4996
+                        ],
+                        "MG": [268.8, 144, 241.6, 364.8],
+                        "Tag": 3182517,
+                        "@": 3182518,
+                        "Alpha": 0,
+                        "Name": "tornado",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/zhuanzhuanzhuan.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [
+                            149, -90, 0.7755, 0.7755, 94.4, 100.8, 0, 0, 0.5212,
+                            0.4985
+                        ],
+                        "MG": [244.8, 144, 238.4, 332.8],
+                        "Tag": 3182515,
+                        "@": 3182516,
+                        "Alpha": 0,
+                        "Name": "zhuanzhuanzhuan",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "prop_anim/red1.png",
+                            "Plist": "cocos/prop_anim@6x.plist"
+                        },
+                        "Pos": [150, -90, 1, 1, 64, 65.6, 0, 0, 0.4938, 0.4939],
+                        "MG": [209.6, 144, 240, 304],
+                        "Tag": 3182513,
+                        "@": 3182514,
+                        "Alpha": 0,
+                        "Name": "magic_bird",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/prop_anim_X6_red_Mbird@6x.json"
+                        },
+                        "Pos": [292, -116, 0.74, 0.74, 0, 0, 0, 0, 0, 0],
+                        "MG": [-116, 116, 292, -292],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3182511,
+                        "@": 3182512,
+                        "Alpha": 0,
+                        "Name": "Layer2_magicbird",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

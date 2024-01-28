@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_bottle_glow2.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            11, 54, 4, 4, 161.6, 267.2, 0, 0, 0.0006, 0.9996
+                        ],
+                        "PrePos": [0.0163, 0.0409, 0.2398, 0.2026],
+                        "MG": [180.8, -86.4, 17.6, 179.2],
+                        "Tag": 87977076,
+                        "@": 87977077,
+                        "Alpha": 255,
+                        "Name": "glow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_res_bottle_title2@6x.json"
+                        },
+                        "Pos": [13, 31, 1, 1, 615, 293, 0, 0, 0, 0],
+                        "PrePos": [0.0193, 0.0235, 0.9125, 0.2221],
+                        "MG": [1057, -31, 13, 46],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977074,
+                        "@": 87977075,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [640, 10, 2, 2, 46.4, 46.4, 0, 0, 0.4871, 0.514],
+                        "PrePos": [0.9496, 0.0076, 0.0688, 0.0352],
+                        "MG": [30.4, -16, 1024, 1070.4],
+                        "Tag": 87977072,
+                        "@": 87977073,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/new_teamgetstar_bottle_animation2@6x.json"
+                        },
+                        "Pos": [11, -315, 1, 1, 655, 949, 0, 0, 0, 0],
+                        "PrePos": [0.0163, -0.2388, 0.9718, 0.7195],
+                        "MG": [55, 315, 11, 8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87977070,
+                        "@": 87977071,
+                        "Alpha": 255,
+                        "Name": "bottle",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 674,
+                    "Y": 1319
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

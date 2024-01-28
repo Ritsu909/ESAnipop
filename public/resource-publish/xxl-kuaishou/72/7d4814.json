@@ -1,0 +1,56 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 21,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84747124,
+                        [
+                            { "P": [5.55, -48.4], "I": 0 },
+                            { "P": [5.55, -38.05], "I": 9 },
+                            { "P": [5.55, -27], "I": 19, "T": 0 },
+                            { "P": [27, -27], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84747124,
+                        [
+                            { "V": 25, "I": 0 },
+                            { "V": 255, "I": 9 },
+                            { "V": 25, "I": 19, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/star.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [5, -48, 1, 1, 14.4, 12.8, 0, 0, 0.5243, 0.5703],
+                        "MG": [89.6, 76.8, 8, 22.4],
+                        "Tag": 84747123,
+                        "@": 84747124,
+                        "Alpha": 26,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

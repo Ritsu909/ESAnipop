@@ -1,0 +1,68 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ani_2/qm_2.png",
+                            "Plist": "cocos/shake_ani_2@6x.plist"
+                        },
+                        "Pos": [
+                            -18, 13, 1, 1, 52.8, 52.8, 0, 0, 0.0625, 0.9375
+                        ],
+                        "PrePos": [-0.36, 0.2364, 1.056, 0.96],
+                        "MG": [32.0, -20.8, -28.8, 24.0],
+                        "Tag": 17573938,
+                        "@": 17573939,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ani_2/qm_3.png",
+                            "Plist": "cocos/shake_ani_2@6x.plist"
+                        },
+                        "Pos": [-23, 21, 1, 1, 46.4, 48, 0, 0, 0.0022, 0.9979],
+                        "PrePos": [-0.46, 0.3818, 0.928, 0.8727],
+                        "MG": [14.4, -33.6, -36.8, 9.6],
+                        "Tag": 17573936,
+                        "@": 17573937,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ani_2/qm_1.png",
+                            "Plist": "cocos/shake_ani_2@6x.plist"
+                        },
+                        "Pos": [-23, 21, 1, 1, 46.4, 48, 0, 0, 0.0022, 0.9979],
+                        "PrePos": [-0.46, 0.3818, 0.928, 0.8727],
+                        "MG": [14.4, -33.6, -36.8, 9.6],
+                        "Tag": 17573934,
+                        "@": 17573935,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 50, "Y": 55 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

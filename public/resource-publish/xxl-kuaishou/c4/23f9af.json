@@ -1,0 +1,230 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/broad.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [
+                            -247, 26, 1, 1, 539.981, 59.2, 0, 0, 0.02, 0.9983
+                        ],
+                        "PrePos": [-0.4652, 0.325, 0.1597, 0.74],
+                        "MG": [17.6, -41.6, -395.2, -310.4],
+                        "Scale9": [30, 22, 19, 9],
+                        "Tag": 1051323,
+                        "@": 1051324,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/racoon_icon.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [
+                            -191, -5, 0.5369, 0.5298, 150.4, 152, 0, 0, 0.496,
+                            0.5026
+                        ],
+                        "PrePos": [-0.3597, -0.0625, 0.2832, 1.9],
+                        "MG": [160, 8, -305.6, -155.2],
+                        "Tag": 1051321,
+                        "@": 1051322,
+                        "Alpha": 255,
+                        "Name": "icon_h",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-149, 9, 1, 1, 31, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2806, 0.1125, 0.0584, 0.425],
+                        "MG": [55, -9, -149, 649],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "0\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051319,
+                        "@": 1051320,
+                        "Name": "icon_n_num",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-176, 11, 1, 1, 34, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3315, 0.1375, 0.064, 0.425],
+                        "MG": [57, -11, -176, 673],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "×\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051317,
+                        "@": 1051318,
+                        "Name": "icon_n_x",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_sliver.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -31, -2, 0.32, 0.32, 120, 123.2, 0, 0, 0.5058, 0.5
+                        ],
+                        "PrePos": [-0.0584, -0.025, 0.226, 1.54],
+                        "MG": [126.4, 3.2, -49.6, 70.4],
+                        "Tag": 1051315,
+                        "@": 1051316,
+                        "Alpha": 255,
+                        "Name": "r_icon_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-7, 12, 1, 1, 110, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0132, 0.15, 0.2072, 0.425],
+                        "MG": [58, -12, -7, 428],
+                        "IsCustomSize": true,
+                        "LabelText": "50000\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051313,
+                        "@": 1051314,
+                        "Name": "r_num_1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_sliver.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            106, -2, 0.32, 0.32, 120, 123.2, 0, 0, 0.5058, 0.5
+                        ],
+                        "PrePos": [0.1996, -0.025, 0.226, 1.54],
+                        "MG": [126.4, 3.2, 169.6, 289.6],
+                        "Tag": 1051311,
+                        "@": 1051312,
+                        "Alpha": 255,
+                        "Name": "r_icon_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [130, 12, 1, 1, 110, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2448, 0.15, 0.2072, 0.425],
+                        "MG": [58, -12, 130, 291],
+                        "IsCustomSize": true,
+                        "LabelText": "50000\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051309,
+                        "@": 1051310,
+                        "Name": "r_num_2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_sliver.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            208, -2, 0.32, 0.32, 120, 123.2, 0, 0, 0.5058, 0.5
+                        ],
+                        "PrePos": [0.3917, -0.025, 0.226, 1.54],
+                        "MG": [126.4, 3.2, 332.8, 452.8],
+                        "Tag": 1051397,
+                        "@": 1051398,
+                        "Alpha": 255,
+                        "Name": "r_icon_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [232, 12, 1, 1, 51, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4369, 0.15, 0.096, 0.425],
+                        "MG": [58, -12, 232, 248],
+                        "IsCustomSize": true,
+                        "LabelText": "50\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1051395,
+                        "@": 1051396,
+                        "Name": "r_num_3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/arrows.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [-85, 0, 1, 1, 27.2, 27.2, 0, 0, 0.5055, 0.5202],
+                        "PrePos": [-0.1601, 0, 0.0512, 0.34],
+                        "MG": [27.2, 0, -136, -108.8],
+                        "Tag": 1051307,
+                        "@": 1051308,
+                        "Alpha": 255,
+                        "Name": "arror",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 531, "Y": 80 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

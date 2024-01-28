@@ -1,0 +1,138 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_invite/yellowbig.png",
+                            "Plist": "cocos/share_invite@6x.plist"
+                        },
+                        "Pos": [
+                            306, -127, 1, 1, 612.8, 256, 0, 0, 0.4995, 0.4973
+                        ],
+                        "PrePos": [0.5, -0.5, 1.0013, 1.0079],
+                        "MG": [459.2, 203.2, 489.6, 1102.4],
+                        "Tag": 83804116,
+                        "@": 83804117,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [332, -195, 1, 1, 260, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 243, "G": 123, "B": 34 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5425, -0.7677, 0.4248, 0.1339],
+                        "MG": [25, 195, 332, 20],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "距离下次分享还剩：14:59\\n",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 83804114,
+                        "@": 83804115,
+                        "Name": "countdown",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [404, -56, 1, 1, 114, 34, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 243, "G": 123, "B": 34 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6601, -0.2205, 0.1863, 0.1339],
+                        "MG": [164, 56, 404, 94],
+                        "IsCustomSize": true,
+                        "LabelText": "奖励：                      \\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804112,
+                        "@": 83804113,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [515, -55, 1, 1, 42, 33, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 243, "G": 123, "B": 34 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.8415, -0.2165, 0.0686, 0.1299],
+                        "MG": [166, 55, 515, 55],
+                        "IsCustomSize": true,
+                        "LabelText": "X1                      \\n",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 83804110,
+                        "@": 83804111,
+                        "Name": "num",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/share_invite_btn_get_reward1@6x.json"
+                        },
+                        "Pos": [473, -144, 1, 0.9, 244, 115, 0, 0, 0, 0],
+                        "PrePos": [0.7729, -0.5669, 0.3987, 0.4528],
+                        "MG": [-5, 144, 473, -105],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 83804108,
+                        "@": 83804109,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_gold.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            489, -71, 0.28, 0.28, 118.4, 123.2, 0, 0, 0.4992,
+                            0.5
+                        ],
+                        "PrePos": [0.799, -0.2795, 0.1935, 0.485],
+                        "MG": [236.8, 113.6, 782.4, 900.8],
+                        "Tag": 83804106,
+                        "@": 83804107,
+                        "Alpha": 255,
+                        "Name": "gold",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 612, "Y": 254 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

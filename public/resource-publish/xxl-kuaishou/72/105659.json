@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -306, 125, 1, 1, 617.6, 126.4, 0, 0, 0.0028, 0.9992
+                        ],
+                        "PrePos": [-0.4976, 1, 1.0042, 1.0112],
+                        "MG": [-73.6, -200, -489.6, 128],
+                        "Tag": 87515451,
+                        "@": 87515452,
+                        "Alpha": 255,
+                        "Name": "banner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-264, 99, 1, 1, 559, 46, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [-0.4293, 0.792, 0.9089, 0.368],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_32_redstroke@6x.fnt"
+                        },
+                        "MG": [178, -99, -264, 320],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "恭喜，获得5个金浣熊大奖啦！",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 87515449,
+                        "@": 87515450,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 615, "Y": 125 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

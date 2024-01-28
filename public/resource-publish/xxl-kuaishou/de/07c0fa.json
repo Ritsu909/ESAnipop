@@ -1,0 +1,127 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 620.0656, 661.0448, 0, 0, 0.005, 0.9998
+                        ],
+                        "MG": [488, 0, 0, 616],
+                        "Scale9": [353, 176, 7, 6],
+                        "Tag": 28250631,
+                        "@": 28250632,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_backoflosepanel_all.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            304, -307, 2, 2, 288, 193.6, 0, 0, 0.4951, 0.3419
+                        ],
+                        "PrePos": [0.4848, -0.4137, 0.4593, 0.2609],
+                        "MG": [684.8, 491.2, 486.4, 774.4],
+                        "Tag": 28250629,
+                        "@": 28250630,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [585, -37, 1, 1, 78, 79, 0, 0, 0, 0],
+                        "PrePos": [0.933, -0.0499, 0.1244, 0.1065],
+                        "MG": [626, 37, 585, -36],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250627,
+                        "@": 28250628,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_loseraccon_aniall@6x.json"
+                        },
+                        "Pos": [306, -263, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.488, -0.3544, 0, 0],
+                        "MG": [479, 263, 306, 321],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250625,
+                        "@": 28250626,
+                        "Alpha": 255,
+                        "Name": "animal",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_bottom_btn_green_restart@6x.json"
+                        },
+                        "Pos": [305, -501, 1, 1, 272, 127, 0, 0, 0, 0],
+                        "PrePos": [0.4864, -0.6752, 0.4338, 0.1712],
+                        "MG": [114, 501, 305, 50],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250623,
+                        "@": 28250624,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_res_fish_target_bubble@6x.json"
+                        },
+                        "Pos": [314, 9, 1, 1, 395, 163, 0, 0, 0, 0],
+                        "PrePos": [0.5008, 0.0121, 0.63, 0.2197],
+                        "MG": [588, -9, 314, -82],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28250621,
+                        "@": 28250622,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 627, "Y": 742 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

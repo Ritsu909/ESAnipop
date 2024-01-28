@@ -1,0 +1,168 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -300, 155, 1, 1, 599.1398, 311.2387, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.5034, 0.5, 0.2094, 0.4026],
+                        "MG": [-123.2, -248, -480, -355.2],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 1051371,
+                        "@": 1051372,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [0, -87, 0.7365, 0.7365, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0, -0.2806, 0.3255, 0.3935],
+                        "MG": [101, 87, 0, 402],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051177,
+                        "@": 1051178,
+                        "Alpha": 255,
+                        "Name": "btn_ok",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_bottom_btn_question2@6x.json"
+                        },
+                        "Pos": [252, 110, 1, 1, 47, 48, 0, 0, 0, 0],
+                        "PrePos": [0.4228, 0.3548, 0.0789, 0.1548],
+                        "MG": [372, -110, 252, 297],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051175,
+                        "@": 1051176,
+                        "Alpha": 255,
+                        "Name": "help_icon",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-241, 122, 1, 1, 469, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 109, "G": 57, "B": 50 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4044, 0.3935, 0.7869, 0.1194],
+                        "MG": [395, -122, -241, 368],
+                        "IsCustomSize": true,
+                        "LabelText": "哇！    只小浣熊！恭喜你获得大奖！",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 1051379,
+                        "@": 1051380,
+                        "Name": "txt_tip1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-186, 138, 1, 1, 24, 57, 0, 0, 0, 1],
+                        "PrePos": [-0.3121, 0.4452, 0.0403, 0.1839],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [391, -138, -186, 758],
+                        "IsCustomSize": true,
+                        "LabelText": "5\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051171,
+                        "@": 1051172,
+                        "Name": "txt_replace",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_reward_2@6x.json"
+                        },
+                        "Pos": [-235, 43, 1, 1, 180, 85, 0, 0, 0, 0],
+                        "PrePos": [-0.3943, 0.1387, 0.302, 0.2742],
+                        "MG": [268, -43, -235, 651],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051169,
+                        "@": 1051170,
+                        "Alpha": 255,
+                        "Name": "reward_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_reward_2@6x.json"
+                        },
+                        "Pos": [-42, 43, 1, 1, 180, 85, 0, 0, 0, 0],
+                        "PrePos": [-0.0705, 0.1387, 0.302, 0.2742],
+                        "MG": [268, -43, -42, 458],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051167,
+                        "@": 1051168,
+                        "Alpha": 255,
+                        "Name": "reward_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_reward_2@6x.json"
+                        },
+                        "Pos": [117, 43, 1, 1, 180, 85, 0, 0, 0, 0],
+                        "PrePos": [0.1963, 0.1387, 0.302, 0.2742],
+                        "MG": [268, -43, 117, 299],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051399,
+                        "@": 1051400,
+                        "Alpha": 255,
+                        "Name": "reward_3",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 596, "Y": 310 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

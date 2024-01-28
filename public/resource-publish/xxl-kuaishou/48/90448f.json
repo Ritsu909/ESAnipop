@@ -1,0 +1,105 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "chest/panel_bg.png",
+                            "Plist": "cocos/chest@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 680, 1075.2, 0, 0, 0.0001, 0.9999],
+                        "MG": [1075.2, 0, 0, 680],
+                        "Tag": 41471,
+                        "@": 41472,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "chest/元件_033.png",
+                            "Plist": "cocos/chest@6x.plist"
+                        },
+                        "Pos": [
+                            594, -83, 1.2, 1.2, 89.6, 88, 0, 0, 0.4978, 0.5045
+                        ],
+                        "PrePos": [0.8748, -0.0773, 0.132, 0.0819],
+                        "MG": [220.8, 132.8, 950.4, 1040],
+                        "Tag": 41469,
+                        "@": 41470,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "chest/inner_bg.png",
+                            "Plist": "cocos/chest@6x.plist"
+                        },
+                        "Pos": [
+                            338, -627, 1, 1, 500.8, 387.2, 0, 0, 0.4994, 0.5
+                        ],
+                        "PrePos": [0.4978, -0.5838, 0.7376, 0.3605],
+                        "MG": [1390.4, 1003.2, 540.8, 1041.6],
+                        "Tag": 41467,
+                        "@": 41468,
+                        "Alpha": 255,
+                        "Name": "inner_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [98, -445, 1, 1, 477, 55, 0, 0, 0, 1],
+                        "PrePos": [0.1443, -0.4143, 0.7025, 0.0512],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [574, 445, 98, 104],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "未领取奖励",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 41465,
+                        "@": 41466,
+                        "Name": "inner_title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/chest_btn_open@6x.json"
+                        },
+                        "Pos": [288, -891, 1, 1, 300, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4242, -0.8296, 0.4418, 0.1136],
+                        "MG": [61, 891, 288, 91],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 41489,
+                        "@": 41490,
+                        "Alpha": 255,
+                        "Name": "btn_open",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 679, "Y": 1074 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

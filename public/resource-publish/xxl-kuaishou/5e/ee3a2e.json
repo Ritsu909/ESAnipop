@@ -1,0 +1,1413 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 37,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        90392004,
+                        [
+                            {
+                                "P": [155.3, -101.6],
+                                "I": 0,
+                                "E": [0.2561, 0.6541, 0.6667, 1]
+                            },
+                            { "P": [234, -151.7], "I": 7 },
+                            { "P": [318.65, -208.4], "I": 13, "T": 0 },
+                            { "P": [318.65, -208.4], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392004,
+                        [
+                            {
+                                "P": [0.96, 0.96],
+                                "I": 0,
+                                "E": [0.2561, 0.6541, 0.6667, 1]
+                            },
+                            { "P": [1.4457, 1.4457], "I": 7 },
+                            { "P": [1.97, 1.97], "I": 13, "T": 0 },
+                            { "P": [1.97, 1.97], "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392004,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 209, "I": 7 },
+                            { "V": 0, "I": 13, "T": 0 },
+                            { "V": 0, "I": 33, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392002,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392002,
+                        [
+                            { "P": [0.7, -6.35], "I": 0, "T": 0 },
+                            { "P": [0.7, -6.35], "I": 1, "T": 0 },
+                            { "P": [6.35, -6.35], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392002,
+                        [
+                            { "P": [1.2, 1.2], "I": 0, "T": 0 },
+                            { "P": [1.2, 1.2], "I": 1, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392002,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90392000,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90392000,
+                        [
+                            { "P": [0.7, -6.35], "I": 0, "T": 0 },
+                            { "P": [6.35, -6.35], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90392000,
+                        [
+                            { "P": [1.2, 1.2], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90392000,
+                        [
+                            { "P": [43.72, 43.72], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90392000,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391998,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391998,
+                        [
+                            { "P": [0.7, -6.35], "I": 0, "T": 0 },
+                            { "P": [0.7, -6.35], "I": 2, "T": 0 },
+                            { "P": [6.35, -6.35], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391998,
+                        [
+                            { "P": [0.9584, 0.9584], "I": 0, "T": 0 },
+                            { "P": [0.9584, 0.9584], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391998,
+                        [
+                            { "P": [22.93, 22.93], "I": 0, "T": 0 },
+                            { "P": [22.93, 22.93], "I": 2, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391998,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391996,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 3,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391996,
+                        [
+                            { "P": [-10.55, 20.3], "I": 0, "T": 0 },
+                            { "P": [-10.55, 20.3], "I": 3, "T": 0 },
+                            { "P": [-20.3, 20.3], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391996,
+                        [
+                            { "P": [0.7409, 0.7409], "I": 0, "T": 0 },
+                            { "P": [0.7409, 0.7409], "I": 3, "T": 0 },
+                            { "P": [1, 1], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391996,
+                        [
+                            { "P": [-76.71, -76.71], "I": 0, "T": 0 },
+                            { "P": [-76.71, -76.71], "I": 3, "T": 0 },
+                            { "P": [0, 0], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391996,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3, "T": 0 },
+                            { "V": 0, "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391994,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391994,
+                        [
+                            { "P": [-15.2, 13.15], "I": 0, "T": 0 },
+                            { "P": [-15.2, 13.15], "I": 2, "T": 0 },
+                            { "P": [-13.15, 13.15], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391994,
+                        [
+                            { "P": [1.1043, 1.1043], "I": 0, "T": 0 },
+                            { "P": [1.1043, 1.1043], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391994,
+                        [
+                            { "P": [-94.05, -94.05], "I": 0, "T": 0 },
+                            { "P": [-94.05, -94.05], "I": 2, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391994,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391992,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391992,
+                        [
+                            { "P": [0.7, -6.35], "I": 0, "T": 0 },
+                            { "P": [6.35, -6.35], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391992,
+                        [
+                            { "P": [1.0784, 1.0784], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391992,
+                        [
+                            { "P": [-139.29, -139.29], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391992,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391990,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391990,
+                        [
+                            { "P": [-32.95, 16.85], "I": 0, "T": 0 },
+                            { "P": [-32.95, 16.85], "I": 1, "T": 0 },
+                            { "P": [-16.85, 16.85], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391990,
+                        [
+                            { "P": [0.7131, 0.7131], "I": 0, "T": 0 },
+                            { "P": [0.7131, 0.7131], "I": 1, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391990,
+                        [
+                            { "P": [-113.57, -113.57], "I": 0, "T": 0 },
+                            { "P": [-113.57, -113.57], "I": 1, "T": 0 },
+                            { "P": [0, 0], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391990,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391988,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391988,
+                        [
+                            { "P": [16.55, 16.45], "I": 0, "T": 0 },
+                            { "P": [16.55, 16.45], "I": 2, "T": 0 },
+                            { "P": [-16.45, 16.45], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391988,
+                        [
+                            { "P": [0.6767, 0.6767], "I": 0, "T": 0 },
+                            { "P": [0.6767, 0.6767], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391988,
+                        [
+                            { "P": [-14.81, -14.81], "I": 0, "T": 0 },
+                            { "P": [-14.81, -14.81], "I": 2, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391988,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391986,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 3,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391986,
+                        [
+                            { "P": [-45.35, -17.9], "I": 0, "T": 0 },
+                            { "P": [-45.35, -17.9], "I": 3, "T": 0 },
+                            { "P": [17.9, -17.9], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391986,
+                        [
+                            { "P": [0.6136, 0.5899], "I": 0, "T": 0 },
+                            { "P": [0.6136, 0.5899], "I": 3, "T": 0 },
+                            { "P": [1, 1], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391986,
+                        [
+                            { "P": [-166.61, -166.61], "I": 0, "T": 0 },
+                            { "P": [-166.61, -166.61], "I": 3, "T": 0 },
+                            { "P": [0, 0], "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391986,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3, "T": 0 },
+                            { "V": 0, "I": 23, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391984,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391984,
+                        [
+                            { "P": [0.2, -0.35], "I": 0, "T": 0 },
+                            { "P": [0.2, -0.35], "I": 1, "T": 0 },
+                            { "P": [0.35, -0.35], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391984,
+                        [
+                            { "P": [1.1375, 1.1457], "I": 0, "T": 0 },
+                            { "P": [1.1375, 1.1457], "I": 1, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391984,
+                        [
+                            { "P": [94.66, 94.66], "I": 0, "T": 0 },
+                            { "P": [94.66, 94.66], "I": 1, "T": 0 },
+                            { "P": [0, 0], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391984,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391982,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391982,
+                        [
+                            { "P": [8.9, -41.5], "I": 0, "T": 0 },
+                            { "P": [8.9, -41.5], "I": 2, "T": 0 },
+                            { "P": [41.5, -41.5], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391982,
+                        [
+                            { "P": [0.6349, 0.6349], "I": 0, "T": 0 },
+                            { "P": [0.6349, 0.6349], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391982,
+                        [
+                            { "P": [118.39, 118.39], "I": 0, "T": 0 },
+                            { "P": [118.39, 118.39], "I": 2, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391982,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391980,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391980,
+                        [
+                            { "P": [0.2, -36.5], "I": 0, "T": 0 },
+                            { "P": [0.2, -36.5], "I": 1, "T": 0 },
+                            { "P": [36.5, -36.5], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391980,
+                        [
+                            { "P": [0.8322, 0.8223], "I": 0, "T": 0 },
+                            { "P": [0.8322, 0.8223], "I": 1, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391980,
+                        [
+                            { "P": [131.37, 131.37], "I": 0, "T": 0 },
+                            { "P": [131.37, 131.37], "I": 1, "T": 0 },
+                            { "P": [0, 0], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391980,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391978,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 2,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391978,
+                        [
+                            { "P": [-6.8, -14.45], "I": 0, "T": 0 },
+                            { "P": [-6.8, -14.45], "I": 2, "T": 0 },
+                            { "P": [14.45, -14.45], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391978,
+                        [
+                            { "P": [1.1647, 1.1647], "I": 0, "T": 0 },
+                            { "P": [1.1647, 1.1647], "I": 2, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391978,
+                        [
+                            { "P": [148.4, 148.4], "I": 0, "T": 0 },
+                            { "P": [148.4, 148.4], "I": 2, "T": 0 },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391978,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391976,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391976,
+                        [
+                            { "P": [-22.75, -18.35], "I": 0, "T": 0 },
+                            { "P": [18.35, -18.35], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391976,
+                        [
+                            { "P": [0.8781, 0.8431], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391976,
+                        [
+                            { "P": [163.39, 163.39], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391976,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391974,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 21,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391974,
+                        [
+                            { "P": [-11.05, -6.95], "I": 0, "T": 0 },
+                            { "P": [-11.05, -6.95], "I": 1, "T": 0 },
+                            { "P": [6.95, -6.95], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391974,
+                        [
+                            { "P": [1.2894, 1.2894], "I": 0, "T": 0 },
+                            { "P": [1.2894, 1.2894], "I": 1, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391974,
+                        [
+                            { "P": [-174.65, -174.65], "I": 0, "T": 0 },
+                            { "P": [-174.65, -174.65], "I": 1, "T": 0 },
+                            { "P": [0, 0], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391974,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 1, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391972,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 20,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391972,
+                        [
+                            { "P": [0.2, -0.35], "I": 0, "T": 0 },
+                            { "P": [0.35, -0.35], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391972,
+                        [
+                            { "P": [0.8839, 0.8839], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391972,
+                        [
+                            { "P": [67.41, 67.41], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391972,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 20, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        90391970,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        90391970,
+                        [
+                            { "P": [323.8, 83.5], "I": 0, "T": 0 },
+                            { "P": [-83.5, 83.5], "I": 18, "T": 0 },
+                            { "P": [-83.5, 83.5], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        90391970,
+                        [
+                            { "P": [2.0693, 2.0683], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 18, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        90391970,
+                        [
+                            { "P": [89.45, 89.45], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 18, "T": 0 },
+                            { "P": [0, 0], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        90391970,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 18, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel_pass/bobobo.png",
+                            "Plist": "cocos/level_panel_pass@6x.plist"
+                        },
+                        "Pos": [
+                            155, -101, 0.96, 0.96, 155.2, 150.4, 0, 0, 1.537,
+                            -0.1968
+                        ],
+                        "MG": [312, 161.6, 248, 403.2],
+                        "Tag": 90392003,
+                        "@": 90392004,
+                        "Alpha": 255,
+                        "Name": "Layer 14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [0, -6, 1.2, 1.2, 0, 0, 0, 0, 0, 0],
+                        "MG": [-6, 6, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90392001,
+                        "@": 90392002,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [0, -6, 1.2, 1.2, 0, 0, 43.72, 43.72, 0, 0],
+                        "MG": [-6, 6, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391999,
+                        "@": 90392000,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            0, -6, 0.9584, 0.9584, 0, 0, 22.93, 22.93, 0, 0
+                        ],
+                        "MG": [-6, 6, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391997,
+                        "@": 90391998,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -10, 20, 0.7409, 0.7409, 0, 0, -76.71, -76.71, 0, 0
+                        ],
+                        "MG": [20, -20, -10, 10],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391995,
+                        "@": 90391996,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -15, 13, 1.1042, 1.1042, 0, 0, -94.05, -94.05, 0, 0
+                        ],
+                        "MG": [13, -13, -15, 15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391993,
+                        "@": 90391994,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_6",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            0, -6, 1.0784, 1.0784, 0, 0, -139.29, -139.29, 0, 0
+                        ],
+                        "MG": [-6, 6, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391991,
+                        "@": 90391992,
+                        "Alpha": 255,
+                        "Name": "lightStarFx01_7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -32, 16, 0.7131, 0.7131, 0, 0, -113.57, -113.57, 0,
+                            0
+                        ],
+                        "MG": [16, -16, -32, 32],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391989,
+                        "@": 90391990,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            16, 16, 0.6767, 0.6767, 0, 0, -14.81, -14.81, 0, 0
+                        ],
+                        "MG": [16, -16, 16, -16],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391987,
+                        "@": 90391988,
+                        "Alpha": 0,
+                        "Name": "lightStarFx01_9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -45, -17, 0.6136, 0.5899, 0, 0, -166.61, -166.61, 0,
+                            0
+                        ],
+                        "MG": [-17, 17, -45, 45],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391985,
+                        "@": 90391986,
+                        "Alpha": 0,
+                        "Name": "lightStarFx011",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [0, 0, 1.1375, 1.1457, 0, 0, 94.66, 94.66, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391983,
+                        "@": 90391984,
+                        "Alpha": 0,
+                        "Name": "lightStarFx012",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            8, -41, 0.6349, 0.6349, 0, 0, 118.39, 118.39, 0, 0
+                        ],
+                        "MG": [-41, 41, 8, -8],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391981,
+                        "@": 90391982,
+                        "Alpha": 0,
+                        "Name": "lightStarFx013",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            0, -36, 0.8322, 0.8223, 0, 0, 131.37, 131.37, 0, 0
+                        ],
+                        "MG": [-36, 36, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391979,
+                        "@": 90391980,
+                        "Alpha": 0,
+                        "Name": "lightStarFx014",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -6, -14, 1.1646, 1.1646, 0, 0, 148.4, 148.4, 0, 0
+                        ],
+                        "MG": [-14, 14, -6, 6],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391977,
+                        "@": 90391978,
+                        "Alpha": 0,
+                        "Name": "lightStarFx015",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -22, -18, 0.8781, 0.8432, 0, 0, 163.39, 163.39, 0, 0
+                        ],
+                        "MG": [-18, 18, -22, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391975,
+                        "@": 90391976,
+                        "Alpha": 255,
+                        "Name": "lightStarFx016",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [
+                            -11, -6, 1.2894, 1.2894, 0, 0, -174.65, -174.65, 0,
+                            0
+                        ],
+                        "MG": [-6, 6, -11, 11],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391973,
+                        "@": 90391974,
+                        "Alpha": 0,
+                        "Name": "lightStarFx017",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_01@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8839, 0.8839, 0, 0, 67.41, 67.41, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391971,
+                        "@": 90391972,
+                        "Alpha": 255,
+                        "Name": "lightStarFx018",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_pass_lightStarFx01_02bl@6x.json"
+                        },
+                        "Pos": [
+                            323, 83, 2.0693, 2.0683, 0, 0, 89.45, 89.45, 0, 0
+                        ],
+                        "MG": [83, -83, 323, -323],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 90391969,
+                        "@": 90391970,
+                        "Alpha": 255,
+                        "Name": "Layer 13",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

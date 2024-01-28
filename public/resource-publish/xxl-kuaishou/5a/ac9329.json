@@ -1,0 +1,105 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_transparent_rect.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            2, -3, 7.1899, 1, 30.4, 30.4, 0, 0, 0.0033, 0.9967
+                        ],
+                        "PrePos": [0.0038, -0.0732, 0.0582, 0.7415],
+                        "MG": [35.2, 4.8, 3.2, 33.6],
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Alpha": 255,
+                        "Name": "touch_area",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_quick_pay_cells_checkBg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 35.2, 35.2, 0, 0, 0.0028, 0.9972],
+                        "MG": [35.2, 0, 0, 35.2],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Alpha": 255,
+                        "Name": "checkBg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_quick_pay_cells_checkIcon.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [-2, 6, 1, 1, 46.4, 40, 0, 0, 0.0022, 0.9975],
+                        "PrePos": [-0.0038, 0.1463, 0.0889, 0.9756],
+                        "MG": [30.4, -9.6, -3.2, 43.2],
+                        "Tag": 50012,
+                        "@": 50013,
+                        "Alpha": 255,
+                        "Name": "checkIcon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [43, 2, 1, 1, 440, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 91, "B": 91 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0824, 0.0488, 0.8429, 0.8537],
+                        "MG": [8, -2, 43, 39],
+                        "IsCustomSize": true,
+                        "LabelText": "支付宝快付，每笔随机立减！",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 50014,
+                        "@": 50015,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_promotion_cells_fasdfdsa78fdsghjgf78ds7g8fdsg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -39, -3, 1, 1, 27.2, 27.2, 0, 0, 0.0037, 0.9963
+                        ],
+                        "PrePos": [-0.0747, -0.0732, 0.0521, 0.6634],
+                        "MG": [32, 4.8, -62.4, -35.2],
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "reduceIcon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 522, "Y": 41 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

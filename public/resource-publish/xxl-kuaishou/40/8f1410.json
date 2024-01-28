@@ -1,0 +1,167 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 641.9693, 500.7302, 0, 0, 0.0002, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 620.8],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 50020,
+                        "@": 50021,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [56, -44, 1, 1, 529, 85, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0864, -0.087, 0.8164, 0.168],
+                        "MG": [377, 44, 56, 63],
+                        "IsCustomSize": true,
+                        "LabelText": "我们想获得您的定位权限，如果想添加附近的玩家，请稍后选择“允许”哦~\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 50022,
+                        "@": 50023,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [332, -411, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.5123, -0.8123, 0.2994, 0.2411],
+                        "MG": [-27, 411, 332, 122],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50024,
+                        "@": 50025,
+                        "Alpha": 255,
+                        "Name": "btn_green_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "permission_show/pic6.png",
+                            "Plist": "cocos/permission_show@6x.plist"
+                        },
+                        "Pos": [
+                            349, -245, 0.648, 0.648, 566.4, 321.6, 0, 0, 0.5034,
+                            0.4975
+                        ],
+                        "PrePos": [0.5386, -0.4842, 0.8741, 0.6356],
+                        "MG": [713.6, 392, 558.4, 1124.8],
+                        "Tag": 50026,
+                        "@": 50027,
+                        "Alpha": 255,
+                        "Name": "pic6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "permission_show/pic1.png",
+                            "Plist": "cocos/permission_show@6x.plist"
+                        },
+                        "Pos": [
+                            349, -245, 0.65, 0.65, 569.6, 331.2, 0, 0, 0.4996,
+                            0.5
+                        ],
+                        "PrePos": [0.5386, -0.4842, 0.879, 0.6545],
+                        "MG": [723.2, 392, 558.4, 1128],
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Alpha": 255,
+                        "Name": "pic1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_btn_no@6x.json"
+                        },
+                        "Pos": [517, -415, 1, 1, 64, 45, 0, 0, 0, 0],
+                        "PrePos": [0.7978, -0.8202, 0.0988, 0.0889],
+                        "MG": [46, 415, 517, 67],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "btn_no",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_goodcircle@6x.json"
+                        },
+                        "Pos": [432, -311, 1.452, 1.452, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.6667, -0.6146, 0, 0],
+                        "MG": [195, 311, 432, 216],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "goodcircle",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/permission_show_stay@6x.json"
+                        },
+                        "Pos": [135, -502, 0.8, 0.8, 299, 392, 0, 0, 0, 0],
+                        "PrePos": [0.2083, -0.9921, 0.4614, 0.7747],
+                        "MG": [-388, 502, 135, 214],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50068,
+                        "@": 50069,
+                        "Alpha": 255,
+                        "Name": "npc",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 648, "Y": 506 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

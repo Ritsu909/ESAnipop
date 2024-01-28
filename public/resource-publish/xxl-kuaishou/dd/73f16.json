@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 47, 1, 1, 279.585, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4838, 0.395, 0.7047, 1.0084],
+                        "MG": [44.8, -75.2, -214.4, -19.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84747065,
+                        "@": 84747066,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 47, 1, 1, 279.585, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4838, 0.395, 0.7047, 1.0084],
+                        "MG": [44.8, -75.2, -214.4, -19.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84747063,
+                        "@": 84747064,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-87, 22, 1, 1, 186, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.3141, 0.1849, 0.6715, 0.4622],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [86, -22, -87, 178],
+                        "IsCustomSize": true,
+                        "LabelText": "给ta加油",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84747061,
+                        "@": 84747062,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -95, -2, 0.5397, 0.5397, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [-0.343, -0.0168, 0.3639, 0.8471],
+                        "MG": [104, 3.2, -152, -51.2],
+                        "Tag": 84747059,
+                        "@": 84747060,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 277, "Y": 119 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

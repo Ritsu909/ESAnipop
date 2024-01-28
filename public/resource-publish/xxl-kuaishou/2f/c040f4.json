@@ -1,0 +1,322 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 16,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        10128082,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 4,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 8,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 11,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 15,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128082,
+                        [
+                            {
+                                "P": [-7.2, 9.45],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-81, 36.5],
+                                "I": 4,
+                                "E": [0.3333, 0, 0.6, 1]
+                            },
+                            {
+                                "P": [-38.5, 63.05],
+                                "I": 8,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-48, 48], "I": 11, "T": 0 },
+                            { "P": [-48, 48], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        10128082,
+                        [
+                            {
+                                "P": [0.1501, 0.197],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.6877, 0.7604],
+                                "I": 4,
+                                "E": [0.3333, 0, 0.6, 1]
+                            },
+                            {
+                                "P": [0.8021, 1.3131],
+                                "I": 8,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 11, "T": 0 },
+                            { "P": [1, 1], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128080,
+                        [
+                            { "P": [1.2, 1.3], "I": 0 },
+                            { "P": [1.2, 1.3], "I": 9 },
+                            { "P": [1.2, 1.3], "I": 14, "T": 0 },
+                            { "P": [-1.3, 1.3], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        10128080,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [3.6075, 3.6075], "I": 9 },
+                            { "P": [3.6966, 3.6966], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10128080,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 183, "I": 9 },
+                            { "V": 0, "I": 14, "T": 0 },
+                            { "V": 0, "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128078,
+                        [
+                            { "P": [1.2, 1.3], "I": 0, "T": 0 },
+                            { "P": [1.2, 1.3], "I": 2 },
+                            { "P": [1.2, 1.3], "I": 9 },
+                            { "P": [1.2, 1.3], "I": 14, "T": 0 },
+                            { "P": [-1.3, 1.3], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        10128078,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 2,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [4.7084, 4.7084], "I": 9 },
+                            { "P": [4.9011, 4.9011], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10128078,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 2 },
+                            { "V": 183, "I": 9 },
+                            { "V": 0, "I": 14, "T": 0 },
+                            { "V": 0, "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128076,
+                        [
+                            { "P": [0.55, -43.8], "I": 0, "T": 0 },
+                            {
+                                "P": [0.55, -43.8],
+                                "I": 3,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.55, -59.8], "I": 9 },
+                            { "P": [0.55, -43.8], "I": 14, "T": 0 },
+                            { "P": [0.55, -43.8], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        10128076,
+                        [
+                            { "P": [180, 180], "I": 0, "T": 0 },
+                            { "P": [180, 180], "I": 3 },
+                            { "P": [180, 180], "I": 9 },
+                            { "P": [180, 180], "I": 14, "T": 0 },
+                            { "P": [180, 180], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10128076,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 14, "T": 0 },
+                            { "V": 255, "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        10128074,
+                        [
+                            { "P": [0.55, 43.8], "I": 0, "T": 0 },
+                            {
+                                "P": [0.55, 43.8],
+                                "I": 3,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0.55, 60.8], "I": 9 },
+                            { "P": [0.55, 43.8], "I": 14, "T": 0 },
+                            { "P": [0.55, 43.8], "I": 15, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        10128074,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 3 },
+                            { "V": 255, "I": 9 },
+                            { "V": 255, "I": 14, "T": 0 },
+                            { "V": 255, "I": 15, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/propPrompt_line_row@6x.json"
+                        },
+                        "Pos": [-7, 9, 0.1501, 0.197, 96, 96, 0, 0, 0, 0],
+                        "MG": [-87, -9, -7, -89],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 10128081,
+                        "@": 10128082,
+                        "Alpha": 255,
+                        "Name": "chuizi",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/white_round.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [1, 1, 1, 1, 72, 72, 0, 0, 0.4958, 0.5042],
+                        "MG": [70.4, -1.6, 1.6, 73.6],
+                        "Tag": 10128079,
+                        "@": 10128080,
+                        "Alpha": 255,
+                        "Name": "round1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/white_round.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [1, 1, 1, 1, 72, 72, 0, 0, 0.4958, 0.5042],
+                        "MG": [70.4, -1.6, 1.6, 73.6],
+                        "Tag": 10128077,
+                        "@": 10128078,
+                        "Alpha": 0,
+                        "Name": "round2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/heng.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            0, -43, 1.5883, 1.5883, 43.2, 28.8, -180, 180,
+                            0.4861, 0.4896
+                        ],
+                        "MG": [97.6, 68.8, 0, 43.2],
+                        "Tag": 10128075,
+                        "@": 10128076,
+                        "Alpha": 0,
+                        "Name": "heng2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/heng.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [
+                            0, 43, 1.5883, 1.5883, 43.2, 28.8, 0, 180, 0.4861,
+                            0.4896
+                        ],
+                        "MG": [-40, -68.8, 0, 43.2],
+                        "Tag": 10128073,
+                        "@": 10128074,
+                        "Alpha": 0,
+                        "Name": "heng",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

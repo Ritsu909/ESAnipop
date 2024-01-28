@@ -1,0 +1,272 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/chick_chick_hand_L_fly.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            5, 124, 1.217, 0.9999, 28.8, 52.8, 160.39, -174.32,
+                            0.7656, 0.7898
+                        ],
+                        "PrePos": [0.0203, 0.4276, 0.1171, 0.1821],
+                        "MG": [-145.6, -198.4, 8, 36.8],
+                        "Tag": 80430292,
+                        "@": 80430293,
+                        "Alpha": 255,
+                        "Name": "chick_hand_L_fly",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_body.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            11, 31, 0.7129, 0.7579, 184, 166.4, 24.66, 25.95,
+                            0.5005, 0.0018
+                        ],
+                        "PrePos": [0.0447, 0.1069, 0.748, 0.5738],
+                        "MG": [116.8, -49.6, 17.6, 201.6],
+                        "Tag": 80430290,
+                        "@": 80430291,
+                        "Alpha": 255,
+                        "Name": "chick_body 副本 15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/face_L.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            19, 126, 0.7927, 0.8668, 136, 43.2, 28.64, 27.2,
+                            0.2092, 0.5197
+                        ],
+                        "PrePos": [0.0772, 0.4345, 0.5528, 0.149],
+                        "MG": [-158.4, -201.6, 30.4, 166.4],
+                        "Tag": 80430288,
+                        "@": 80430289,
+                        "Alpha": 255,
+                        "Name": "chicke_face_L 副本 14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hat1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            55, 139, 0.8096, 0.6204, 60.8, 64, 41.63, 42.49,
+                            0.2048, -0.0016
+                        ],
+                        "PrePos": [0.2236, 0.4793, 0.2472, 0.2207],
+                        "MG": [-158.4, -222.4, 88, 148.8],
+                        "Tag": 80430286,
+                        "@": 80430287,
+                        "Alpha": 255,
+                        "Name": "chick_hat1 副本 15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_smileeye01.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            75, 109, 0.6173, 0.72, 40, 27.2, 13.94, -155.45,
+                            0.5025, 0.5
+                        ],
+                        "PrePos": [0.3049, 0.3759, 0.1626, 0.0938],
+                        "MG": [-147.2, -174.4, 120, 160],
+                        "Tag": 80430284,
+                        "@": 80430285,
+                        "Alpha": 255,
+                        "Name": "chick_smileeye01 副本",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_smileeye01.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            39, 126, 0.753, 0.7077, 40, 27.2, 24.54, 24.54,
+                            0.5025, 0.5
+                        ],
+                        "PrePos": [0.1585, 0.4345, 0.1626, 0.0938],
+                        "MG": [-174.4, -201.6, 62.4, 102.4],
+                        "Tag": 80430284,
+                        "@": 80430285,
+                        "Alpha": 255,
+                        "Name": "chick_smileeye01 副本",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/chick_chick_mouth_come.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            53, 97, 1.1921, 1.6595, 22.4, 20.8, 34.22, -143.42,
+                            0.4598, 0.5938
+                        ],
+                        "PrePos": [0.2154, 0.3345, 0.0911, 0.0717],
+                        "MG": [-134.4, -155.2, 84.8, 107.2],
+                        "Tag": 80430282,
+                        "@": 80430283,
+                        "Alpha": 255,
+                        "Name": "chick_mouth_come",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/chick_chick_eyerow1.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            43, 146, 1.0445, 0.7748, 41.6, 9.6, 27.97, 26.91,
+                            0.0024, 0.9896
+                        ],
+                        "PrePos": [0.1748, 0.5034, 0.1691, 0.0331],
+                        "MG": [-224, -233.6, 68.8, 110.4],
+                        "Tag": 80430280,
+                        "@": 80430281,
+                        "Alpha": 255,
+                        "Name": "chick_eyerow1 副本",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/chick_chick_foot.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            -53, 30, 0.9136, 0.9137, 27.2, 24, 115.06, 115.06,
+                            0.8107, 0.8833
+                        ],
+                        "PrePos": [-0.2154, 0.1034, 0.1106, 0.0828],
+                        "MG": [-24, -48, -84.8, -57.6],
+                        "Tag": 80430278,
+                        "@": 80430279,
+                        "Alpha": 255,
+                        "Name": "chick_foot 副本 7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/chick_chick_foot.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            94, 36, 0.9137, 0.9139, 27.2, 24, -118.96, -118.97,
+                            0.8107, 0.8833
+                        ],
+                        "PrePos": [0.3821, 0.1241, 0.1106, 0.0828],
+                        "MG": [-33.6, -57.6, 150.4, 177.6],
+                        "Tag": 80430278,
+                        "@": 80430279,
+                        "Alpha": 255,
+                        "Name": "chick_foot 副本 7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/icecream_down.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            -23, 96, 1.1974, 1.1974, 104, 132.8, 24.55, 24.55,
+                            0.5808, 0.5207
+                        ],
+                        "PrePos": [-0.0935, 0.331, 0.4228, 0.4579],
+                        "MG": [-20.8, -153.6, -36.8, 67.2],
+                        "Tag": 80430276,
+                        "@": 80430277,
+                        "Alpha": 255,
+                        "Name": "icecream_down",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/icecream_cream.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            -80, 261, 1, 1, 152, 132.8, 0, 0, 0.0007, 0.9992
+                        ],
+                        "PrePos": [-0.3252, 0.9, 0.6179, 0.4579],
+                        "MG": [-284.8, -417.6, -128, 24],
+                        "Tag": 80430274,
+                        "@": 80430275,
+                        "Alpha": 255,
+                        "Name": "icecream_animation2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockIceMode/fruite_yellow.png",
+                            "Plist": "cocos/share_unlockIceMode@6x.plist"
+                        },
+                        "Pos": [
+                            -40, 256, 1.1974, 1.1973, 64, 51.2, -5.45, -5.45,
+                            0.5109, 0.5
+                        ],
+                        "PrePos": [-0.1626, 0.8828, 0.2602, 0.1766],
+                        "MG": [-358.4, -409.6, -64, 0],
+                        "Tag": 80430272,
+                        "@": 80430273,
+                        "Alpha": 255,
+                        "Name": "fruite_yellow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hand3.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            55, 81, 1.5344, 0.9689, 56, 44.8, 32.11, 23.49,
+                            0.8152, 0.7812
+                        ],
+                        "PrePos": [0.2236, 0.2793, 0.2276, 0.1545],
+                        "MG": [-84.8, -129.6, 88, 144],
+                        "Tag": 80430270,
+                        "@": 80430271,
+                        "Alpha": 255,
+                        "Name": "chick_hand3 2 14",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 246, "Y": 290 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

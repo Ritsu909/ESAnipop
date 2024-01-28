@@ -1,0 +1,150 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 687.4272, 424.951, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 1163362,
+                        "@": 1163363,
+                        "Alpha": 255,
+                        "Name": "toast_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            50, -116, 1, 1, 585.2621, 120.5165, 0, 0, 0.0012,
+                            0.9987
+                        ],
+                        "PrePos": [0.0735, -0.2775, 0.1224, 0.1876],
+                        "MG": [264, 185.6, 80, 163.2],
+                        "Scale9": [38, 35, 5, 5],
+                        "Tag": 1163360,
+                        "@": 1163361,
+                        "Alpha": 255,
+                        "Name": "pnl_common02",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [140, -29, 1, 1, 399, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2059, -0.0694, 0.5868, 0.1316],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [334, 29, 140, 141],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得抽奖次数",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1163358,
+                        "@": 1163359,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/luckybuy_wait@6x.json"
+                        },
+                        "Pos": [471, -177, 1.0123, 1.0123, 279, 74, 0, 0, 0, 0],
+                        "PrePos": [0.6926, -0.4234, 0.4103, 0.177],
+                        "MG": [167, 177, 471, -70],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1163356,
+                        "@": 1163357,
+                        "Alpha": 255,
+                        "Name": "countdown",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/luckybuy_btn_green_start2@6x.json"
+                        },
+                        "Pos": [207, -320, 0.8, 0.8, 415, 120, 0, 0, 0, 0],
+                        "PrePos": [0.3044, -0.7656, 0.6103, 0.2871],
+                        "MG": [-22, 320, 207, 58],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1163354,
+                        "@": 1163355,
+                        "Alpha": 255,
+                        "Name": "btn_green_start2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/luckybuy_btn_blue_start@6x.json"
+                        },
+                        "Pos": [503, -316, 0.8, 0.8, 311, 218, 0, 0, 0, 0],
+                        "PrePos": [0.7397, -0.756, 0.4574, 0.5215],
+                        "MG": [-116, 316, 503, -134],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1163352,
+                        "@": 1163353,
+                        "Alpha": 255,
+                        "Name": "btn_blue_start",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [88, -155, 0.9, 0.9, 217, 51, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 204, "G": 98, "B": 45 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1294, -0.3708, 0.3191, 0.122],
+                        "MG": [212, 155, 88, 375],
+                        "IsCustomSize": true,
+                        "LabelText": "转盘恢复时间：\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 1163350,
+                        "@": 1163351,
+                        "Name": "tips1",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 680, "Y": 418 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

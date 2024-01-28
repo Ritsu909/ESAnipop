@@ -1,0 +1,157 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        9447736,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447736,
+                        [
+                            { "P": [23.2, -99.7], "I": 0, "T": 0 },
+                            { "P": [23.2, -99.7], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        9447734,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447734,
+                        [
+                            { "P": [15.45, -42.35], "I": 0, "T": 0 },
+                            { "P": [15.45, -42.35], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        9447732,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447732,
+                        [
+                            { "P": [5.85, -72.75], "I": 0, "T": 0 },
+                            { "P": [5.85, -72.75], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fox_finish_peach@6x.json"
+                        },
+                        "Pos": [23, -99, 1.43, 1.43, 0, 0, 0, 0, 0, 0],
+                        "MG": [-99, 99, 23, -23],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9447735,
+                        "@": 9447736,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fox_finish_rose@6x.json"
+                        },
+                        "Pos": [15, -42, 1.43, 1.43, 0, 0, 0, 0, 0, 0],
+                        "MG": [-42, 42, 15, -15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9447733,
+                        "@": 9447734,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/fox_finish_icecream_cup@6x.json"
+                        },
+                        "Pos": [5, -72, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-72, 72, 5, -5],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9447731,
+                        "@": 9447732,
+                        "Alpha": 255,
+                        "Name": "3",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

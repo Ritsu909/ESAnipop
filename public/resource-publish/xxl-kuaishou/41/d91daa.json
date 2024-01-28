@@ -1,0 +1,121 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -16, 1, 1, 666.5568, 144.9677, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0, -0.0994, 0.1882, 0.7752],
+                        "MG": [150.4, 25.6, 0, 124.8],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 84746611,
+                        "@": 84746612,
+                        "Alpha": 255,
+                        "Name": "whitebubblespeak1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            444, -17, 1.125, 1, 17.6, 17.6, -180, 0, 0.0057,
+                            0.9943
+                        ],
+                        "PrePos": [0.6697, -0.1056, 0.0265, 0.1093],
+                        "MG": [44.8, 27.2, 710.4, 728],
+                        "Tag": 84746609,
+                        "@": 84746610,
+                        "Alpha": 255,
+                        "Name": "boxTail",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [13, -34, 1, 1, 645, 31, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 142, "G": 74, "B": 55 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0196, -0.2112, 0.9729, 0.1925],
+                        "MG": [96, 34, 13, 5],
+                        "IsCustomSize": true,
+                        "LabelText": "第1-10名：  长隆海洋王国，野生动物世界门票各一张（价值580元）",
+                        "FontSize": 21,
+                        "Shadow": [2, -2],
+                        "Tag": 84746607,
+                        "@": 84746608,
+                        "Name": "rank1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [13, -71, 1, 1, 643, 31, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 142, "G": 74, "B": 55 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0196, -0.441, 0.9698, 0.1925],
+                        "MG": [59, 71, 13, 7],
+                        "IsCustomSize": true,
+                        "LabelText": "第10-50名：长隆野生动物世界门票一张（价值300元）",
+                        "FontSize": 21,
+                        "Shadow": [2, -2],
+                        "Tag": 84746605,
+                        "@": 84746606,
+                        "Name": "rank2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [13, -108, 1, 1, 640, 31, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 142, "G": 74, "B": 55 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0196, -0.6708, 0.9653, 0.1925],
+                        "MG": [22, 108, 13, 10],
+                        "IsCustomSize": true,
+                        "LabelText": "第51-90名：长隆海洋王国门票一张（价值280元）",
+                        "FontSize": 21,
+                        "Shadow": [2, -2],
+                        "Tag": 84746603,
+                        "@": 84746604,
+                        "Name": "rank3",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 663, "Y": 161 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

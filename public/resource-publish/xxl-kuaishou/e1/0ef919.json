@@ -1,0 +1,79 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 45,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        42772355,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [-0.1, 0.05], "I": 19 },
+                            { "P": [0, 0], "I": 39, "T": 0 },
+                            { "P": [0, 0], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        42772355,
+                        [
+                            { "P": [0.3792, 0.3792], "I": 0 },
+                            { "P": [1.468, 1.468], "I": 19 },
+                            { "P": [0.3792, 0.3792], "I": 39, "T": 0 },
+                            { "P": [1, 1], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        42772355,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [120, 120], "I": 19 },
+                            { "P": [-120, -120], "I": 39, "T": 0 },
+                            { "P": [0, 0], "I": 40, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        42772355,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 19 },
+                            { "V": 0, "I": 39, "T": 0 },
+                            { "V": 0, "I": 40, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/star_ani.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.3792, 0.3792, 35.2, 35.2, 0, 0, 0.483,
+                            0.5099
+                        ],
+                        "MG": [35.2, 0, 0, 35.2],
+                        "Tag": 42772354,
+                        "@": 42772355,
+                        "Alpha": 0,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

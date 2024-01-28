@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/liquid_basic.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -6, 0, 0.9754, 1.8744, 528, 331.2, 0, 0, 0.5002,
+                            0.0029
+                        ],
+                        "PrePos": [-0.0096, 0, 0.8435, 0.3952],
+                        "MG": [331.2, 0, -9.6, 518.4],
+                        "Tag": 29325415,
+                        "@": 29325416,
+                        "Alpha": 255,
+                        "Name": "body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottle_liquid_top@6x.json"
+                        },
+                        "Pos": [1, 619, 1, 1, 626, 708, 0, 0, 0, 0],
+                        "PrePos": [0.0016, 0.7387, 1, 0.8449],
+                        "MG": [749, -619, 1, -1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325413,
+                        "@": 29325414,
+                        "Alpha": 255,
+                        "Name": "top",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 626, "Y": 838 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

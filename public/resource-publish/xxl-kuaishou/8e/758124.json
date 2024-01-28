@@ -1,0 +1,279 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/background7days.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            323, -495, 1, 1, 662.4, 968, 0, 0, 0.4885, 0.5102
+                        ],
+                        "PrePos": [0.4792, -0.442, 0.9828, 0.8643],
+                        "MG": [1760, 792, 516.8, 1179.2],
+                        "Tag": 3133915,
+                        "@": 3133916,
+                        "Alpha": 255,
+                        "Name": "background7days",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/day7total_btn_close@6x.json"
+                        },
+                        "Pos": [634, -41, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9407, -0.0366, 0.1172, 0.0705],
+                        "MG": [1000, 41, 634, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3133913,
+                        "@": 3133914,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/days.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            237, -465, 1, 1, 243.2, 830.4, 0, 0, 0.5, 0.5001
+                        ],
+                        "PrePos": [0.3516, -0.4152, 0.3608, 0.7414],
+                        "MG": [1574.4, 744, 379.2, 622.4],
+                        "Tag": 3133911,
+                        "@": 3133912,
+                        "Alpha": 255,
+                        "Name": "days",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [31, 0, 1, 1, 564, 94, 0, 0, 0, 1],
+                        "PrePos": [0.046, 0, 0.8368, 0.0839],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_brownstroke@6x.fnt"
+                        },
+                        "MG": [1026, 0, 31, 79],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "七日连登奖励",
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 3133909,
+                        "@": 3133910,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/day7total_btn_green_get_reward@6x.json"
+                        },
+                        "Pos": [317, -1047, 1, 1, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0.4703, -0.9348, 0.2878, 0.1089],
+                        "MG": [-49, 1047, 317, 163],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3133907,
+                        "@": 3133908,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [94, -65, 1, 1, 484, 55, 0, 0, 0, 1],
+                        "PrePos": [0.1395, -0.058, 0.7181, 0.0491],
+                        "MG": [1000, 65, 94, 96],
+                        "CColor": { "R": 255, "G": 255, "B": 255, "A": 255 },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "连续登录，奖励多多！",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 3133905,
+                        "@": 3133906,
+                        "Name": "subtitle",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [76, -904, 1, 1, 477, 55, 0, 0, 0, 1],
+                        "PrePos": [0.1128, -0.8071, 0.7077, 0.0491],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_30_brownstroke@6x.fnt"
+                        },
+                        "MG": [161, 904, 76, 121],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "活动倒计时：**时**分**秒",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 3133903,
+                        "@": 3133904,
+                        "Name": "countdown",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -834, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.7446, 0.1424, 0.0814],
+                        "MG": [1425.6, 1334.4, 929.6, 1025.6],
+                        "Tag": 3133901,
+                        "@": 3133902,
+                        "Alpha": 255,
+                        "Name": "flag1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -727, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.6491, 0.1424, 0.0814],
+                        "MG": [1254.4, 1163.2, 929.6, 1025.6],
+                        "Tag": 3133899,
+                        "@": 3133900,
+                        "Alpha": 255,
+                        "Name": "flag2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -619, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.5527, 0.1424, 0.0814],
+                        "MG": [1081.6, 990.4, 929.6, 1025.6],
+                        "Tag": 3133897,
+                        "@": 3133898,
+                        "Alpha": 255,
+                        "Name": "flag3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -511, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.4562, 0.1424, 0.0814],
+                        "MG": [908.8, 817.6, 929.6, 1025.6],
+                        "Tag": 3133895,
+                        "@": 3133896,
+                        "Alpha": 255,
+                        "Name": "flag4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -403, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.3598, 0.1424, 0.0814],
+                        "MG": [736, 644.8, 929.6, 1025.6],
+                        "Tag": 3133893,
+                        "@": 3133894,
+                        "Alpha": 255,
+                        "Name": "flag5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -295, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.2634, 0.1424, 0.0814],
+                        "MG": [563.2, 472, 929.6, 1025.6],
+                        "Tag": 3133891,
+                        "@": 3133892,
+                        "Alpha": 255,
+                        "Name": "flag6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "day7total/unreceive.png",
+                            "Plist": "cocos/day7total@6x.plist"
+                        },
+                        "Pos": [
+                            581, -187, 1, 1, 96, 91.2, 0, 0, 0.4958, 0.5055
+                        ],
+                        "PrePos": [0.862, -0.167, 0.1424, 0.0814],
+                        "MG": [390.4, 299.2, 929.6, 1025.6],
+                        "Tag": 3133889,
+                        "@": 3133890,
+                        "Alpha": 255,
+                        "Name": "flag7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/day7total_star@6x.json"
+                        },
+                        "Pos": [345, -781, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.5119, -0.6973, 0, 0],
+                        "MG": [339, 781, 345, 329],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3133887,
+                        "@": 3133888,
+                        "Alpha": 255,
+                        "Name": "stars",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 674, "Y": 1120 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

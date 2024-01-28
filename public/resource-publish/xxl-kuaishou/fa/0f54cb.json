@@ -1,0 +1,143 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 46, 1, 1, 292.0192, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.4558, 0.3833, 0.6639, 1.0133],
+                        "MG": [48, -73.6, -214.4, -19.2],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 1051215,
+                        "@": 1051216,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 47, 1, 1, 292.0192, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4558, 0.3917, 0.6639, 1],
+                        "MG": [44.8, -75.2, -214.4, -19.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 1051213,
+                        "@": 1051214,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 47, 1, 1, 292.0192, 120, 0, 0, 0.0225, 0.9992
+                        ],
+                        "PrePos": [-0.4558, 0.3917, 0.6639, 1],
+                        "MG": [44.8, -75.2, -214.4, -19.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 1051211,
+                        "@": 1051212,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-37, 22, 1, 1, 192, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1259, 0.1833, 0.6531, 0.4583],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [87, -22, -37, 139],
+                        "IsCustomSize": true,
+                        "LabelText": "特殊机会",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051209,
+                        "@": 1051210,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-83, 25, 1, 1, 55, 48, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 255, "B": 0 },
+                        "PrePos": [-0.2823, 0.2083, 0.1871, 0.4],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_dropshadow@6x.fnt"
+                        },
+                        "MG": [97, -25, -83, 322],
+                        "IsCustomSize": true,
+                        "LabelText": "10",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051207,
+                        "@": 1051208,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_gold.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -102, -1, 0.33, 0.33, 118.4, 123.2, 0, 0, 0.4992,
+                            0.5
+                        ],
+                        "PrePos": [-0.3469, -0.0083, 0.4027, 1.0267],
+                        "MG": [124.8, 1.6, -163.2, -44.8],
+                        "Tag": 1051205,
+                        "@": 1051206,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_ui/free.png",
+                            "Plist": "cocos/shake_ui@6x.plist"
+                        },
+                        "Pos": [-93, 14, 1, 1, 60.8, 52.8, 0, 0, 0.4951, 0.5],
+                        "PrePos": [-0.3163, 0.1167, 0.2068, 0.44],
+                        "MG": [30.4, -22.4, -148.8, -88.0],
+                        "Tag": 1051369,
+                        "@": 1051370,
+                        "Alpha": 255,
+                        "Name": "free",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 294, "Y": 120 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

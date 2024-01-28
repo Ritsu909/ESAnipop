@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/tx01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.9279, 0.9278, 88, 88, 0, 0, 0.4955, 0.5045
+                        ],
+                        "MG": [88, 0, 0, 88],
+                        "Tag": 84747071,
+                        "@": 84747072,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bottom_btn_add.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -1, 0.9279, 0.9278, 73.6, 73.6, 0, 0, 0.4973,
+                            0.5027
+                        ],
+                        "PrePos": [0, -0.0125, 0.92, 0.92],
+                        "MG": [75.2, 1.6, 0, 73.6],
+                        "Tag": 84747069,
+                        "@": 84747070,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 80, "Y": 80 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

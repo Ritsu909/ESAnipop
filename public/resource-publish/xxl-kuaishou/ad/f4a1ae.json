@@ -1,0 +1,118 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/groove_01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 103.1923, 52.084, 0, 0, 0.0019, 0.9978
+                        ],
+                        "MG": [46.4, 0, 0, 52.8],
+                        "Scale9": [23, 21, 4, 2],
+                        "Tag": 28249939,
+                        "@": 28249940,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/bg2.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [6, -7, 1, 1, 89.6, 40, 0, 0, 0.0011, 0.9975],
+                        "PrePos": [0.0594, -0.1373, 0.8871, 0.7843],
+                        "MG": [51.2, 11.2, 9.6, 99.2],
+                        "Tag": 28249949,
+                        "@": 28249950,
+                        "Alpha": 255,
+                        "Name": "green",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/on.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [96, -6, 1, 1, 48, 40, 0, 180, 0.0021, 0.9975],
+                        "PrePos": [0.9505, -0.1176, 0.4752, 0.7843],
+                        "MG": [49.6, 9.6, 153.6, 201.6],
+                        "Tag": 28249947,
+                        "@": 28249948,
+                        "Alpha": 255,
+                        "Name": "on",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/on.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [52, -6, 1, 1, 48, 40, 0, 180, 0.0021, 0.9975],
+                        "PrePos": [0.5149, -0.1176, 0.4752, 0.7843],
+                        "MG": [49.6, 9.6, 83.2, 131.2],
+                        "Tag": 28249945,
+                        "@": 28249946,
+                        "Alpha": 255,
+                        "Name": "off",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [20, -17, 0.5, 0.5, 22, 27, 0, 0, 0, 1],
+                        "PrePos": [0.198, -0.3333, 0.2178, 0.5294],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [7, 17, 20, 59],
+                        "IsCustomSize": true,
+                        "LabelText": "开",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28249943,
+                        "@": 28249944,
+                        "Name": "txton",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [64, -17, 0.5, 0.5, 22, 27, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 140, "G": 93, "B": 76 },
+                        "PrePos": [0.6337, -0.3333, 0.2178, 0.5294],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [7, 17, 64, 15],
+                        "IsCustomSize": true,
+                        "LabelText": "关",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28249941,
+                        "@": 28249942,
+                        "Name": "txtoff",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 101, "Y": 51 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

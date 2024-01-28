@@ -1,0 +1,63 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 5,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3035477,
+                        [
+                            { "P": [-0.1, 0.15], "I": 0 },
+                            { "P": [-0.1, 0.15], "I": 2 },
+                            { "P": [-0.1, 0.15], "I": 4, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3035477,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.8036, 0.8036], "I": 2 },
+                            { "P": [1, 1], "I": 4, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035477,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 178, "I": 2 },
+                            { "V": 255, "I": 4, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/star_blink.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 24, 0, 0, 0.5271, 0.5],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 3035476,
+                        "@": 3035477,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,155 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 26,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Alpha",
+                        50003,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 2 },
+                            { "V": 255, "I": 5, "T": 0 },
+                            { "V": 255, "I": 9, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50005,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 7 },
+                            { "V": 255, "I": 10, "T": 0 },
+                            { "V": 255, "I": 14, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50007,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 12 },
+                            { "V": 255, "I": 15, "T": 0 },
+                            { "V": 255, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50009,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 17 },
+                            { "V": 255, "I": 20, "T": 0 },
+                            { "V": 255, "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50011,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 22 },
+                            { "V": 255, "I": 25, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only1.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only2.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 0,
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only3.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50004,
+                        "@": 50005,
+                        "Alpha": 0,
+                        "Name": "d",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only4.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Alpha": 0,
+                        "Name": "e",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50008,
+                        "@": 50009,
+                        "Alpha": 0,
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish/only1.png",
+                            "Plist": "cocos/water_dig_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 36.8, 20.8, 0, 0, 0.4633, 0.5529],
+                        "MG": [20.8, 0, 0, 36.8],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Alpha": 0,
+                        "Name": "f",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

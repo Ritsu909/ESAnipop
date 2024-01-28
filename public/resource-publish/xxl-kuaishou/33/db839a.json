@@ -1,0 +1,89 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -163, 42, 1, 1, 331.84, 122.292, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4954, 0.3443, 0.5933, 0.9836],
+                        "MG": [52.8, -67.2, -260.8, -65.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84746253,
+                        "@": 84746254,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -163, 42, 1, 1, 331.84, 122.304, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4954, 0.3443, 0.5933, 0.9836],
+                        "MG": [52.8, -67.2, -260.8, -65.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84746251,
+                        "@": 84746252,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-67, 14, 1, 1, 188, 42, 0, 0, 0, 1],
+                        "PrePos": [-0.2036, 0.1148, 0.5714, 0.3443],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [94, -14, -67, 208],
+                        "IsCustomSize": true,
+                        "LabelText": "发名片加好友",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746249,
+                        "@": 84746250,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/wechat.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [-136, 23, 1, 1, 72, 62.4, 0, 0, 0.0014, 0.9984],
+                        "PrePos": [-0.4134, 0.1885, 0.2188, 0.5115],
+                        "MG": [25.6, -36.8, -217.6, -145.6],
+                        "Tag": 84746247,
+                        "@": 84746248,
+                        "Alpha": 255,
+                        "Name": "children",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 329, "Y": 122 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

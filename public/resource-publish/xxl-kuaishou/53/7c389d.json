@@ -1,0 +1,147 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 462.5165, 289.967, 0, 0, 0.0008, 0.9992
+                        ],
+                        "MG": [129.6, 0, 0, 129.6],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 29325521,
+                        "@": 29325522,
+                        "Alpha": 229,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            321, -211, 0.7501, 0.7501, 273, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.6978, -0.7326, 0.5935, 0.4167],
+                        "MG": [-43, 211, 321, -134],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325519,
+                        "@": 29325520,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_blue_start_@6x.json"
+                        },
+                        "Pos": [115, -211, 0.75, 0.75, 194, 120, 0, 0, 0, 0],
+                        "PrePos": [0.25, -0.7326, 0.4217, 0.4167],
+                        "MG": [-43, 211, 115, 151],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325517,
+                        "@": 29325518,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            30, -101, 1, 1, 402.4883, 48, 0, 0, 0.002, 0.9979
+                        ],
+                        "PrePos": [0.0652, -0.3507, 0.1113, 0.1667],
+                        "MG": [209.6, 161.6, 48, 99.2],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 29325515,
+                        "@": 29325516,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_create_icon.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            405, -125, 1, 1, 44.8, 44.8, 0, 0, 0.4978, 0.5022
+                        ],
+                        "PrePos": [0.8804, -0.434, 0.0974, 0.1556],
+                        "MG": [244.8, 200, 648, 692.8],
+                        "Tag": 29325513,
+                        "@": 29325514,
+                        "Alpha": 255,
+                        "Name": "icn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            214, -125, 3.3149, 0.4259, 100.8, 100.8, 0, 0,
+                            0.497, 0.503
+                        ],
+                        "PrePos": [0.4652, -0.434, 0.2191, 0.35],
+                        "MG": [300.8, 200, 342.4, 443.2],
+                        "Tag": 29325511,
+                        "@": 29325512,
+                        "Alpha": 255,
+                        "Name": "ph",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [98, -31, 0.8, 0.8, 265, 44, 0, 0, 0, 1],
+                        "PrePos": [0.213, -0.1076, 0.5761, 0.1528],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [213, 31, 98, 97],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "队伍改名",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29325509,
+                        "@": 29325510,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 460, "Y": 288 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

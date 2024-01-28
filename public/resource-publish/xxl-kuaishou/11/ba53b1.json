@@ -1,0 +1,123 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 245.6438, 168.5299, 0, 0, 0.0008, 0.9992
+                        ],
+                        "MG": [124.8, 0, 0, 124.8],
+                        "Scale9": [58, 52, 7, 20],
+                        "Tag": 84746465,
+                        "@": 84746466,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [16, -9, 1, 1, 204, 37, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 27,
+                            "G": 126,
+                            "B": 145
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0656, -0.0539, 0.8361, 0.2216],
+                        "MG": [121, 9, 16, 24],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "好友的名字",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746463,
+                        "@": 84746464,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [53, -42, 1, 1, 131, 30, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 27,
+                            "G": 126,
+                            "B": 145
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2172, -0.2515, 0.5369, 0.1796],
+                        "MG": [95, 42, 53, 60],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "第XX关",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746461,
+                        "@": 84746462,
+                        "Name": "level",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start_encourage@6x.json"
+                        },
+                        "Pos": [123, -125, 1, 1, 182, 84, 0, 0, 0, 0],
+                        "PrePos": [0.5041, -0.7485, 0.7459, 0.503],
+                        "MG": [-42, 125, 123, -61],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746459,
+                        "@": 84746460,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 244,
+                    "Y": 167
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,111 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -128, 46, 1, 1, 277.9258, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.4638, 0.377, 0.7072, 0.9967],
+                        "MG": [48, -73.6, -204.8, -9.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 80603663,
+                        "@": 80603664,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -128, 48, 1, 1, 278.3552, 119.94, 0, 0, 0.012,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4638, 0.3934, 0.7072, 0.9836],
+                        "MG": [43.2, -76.8, -204.8, -9.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 80603661,
+                        "@": 80603662,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -128, 48, 1, 1, 277.9258, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4638, 0.3934, 0.7072, 0.9836],
+                        "MG": [43.2, -76.8, -204.8, -9.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 80603659,
+                        "@": 80603660,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-54, 24, 1, 1, 191, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1957, 0.1967, 0.692, 0.4508],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [91, -24, -54, 139],
+                        "IsCustomSize": true,
+                        "LabelText": "赠送礼物",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 80603657,
+                        "@": 80603658,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "energy_invite_panel.lua/wechatFriends.png",
+                            "Plist": "cocos/energy_invite_panel.lua@6x.plist"
+                        },
+                        "Pos": [
+                            -109, 16, 0.5, 0.5, 105.6, 86.4, 0, 0, 0.0009,
+                            0.9988
+                        ],
+                        "PrePos": [-0.3949, 0.1311, 0.3826, 0.7082],
+                        "MG": [60.8, -25.6, -174.4, -68.8],
+                        "Tag": 80603655,
+                        "@": 80603656,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 276, "Y": 122 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

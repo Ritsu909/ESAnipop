@@ -1,0 +1,77 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 11,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3449,
+                        [
+                            {
+                                "P": [-246.85, 187.8],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-274.2, 211.75], "I": 9, "T": 0 },
+                            { "P": [-211.75, 211.75], "I": 10, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3449,
+                        [
+                            {
+                                "P": [1.1867, 1.1867],
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [1.5592, 1.5592], "I": 9, "T": 0 },
+                            { "P": [1, 1], "I": 10, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3449,
+                        [
+                            {
+                                "V": 255,
+                                "I": 0,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "V": 26, "I": 9, "T": 0 },
+                            { "V": 0, "I": 10, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/bobo.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -246, 187, 1.1867, 1.1867, 147.2, 142.4, 0, 0,
+                            0.0115, 0.9881
+                        ],
+                        "MG": [-156.8, -299.2, -393.6, -246.4],
+                        "Tag": 3448,
+                        "@": 3449,
+                        "Name": "Layer 1",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

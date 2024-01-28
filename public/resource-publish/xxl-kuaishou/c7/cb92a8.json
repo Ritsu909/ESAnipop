@@ -1,0 +1,121 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 274.3632, 165.7454, 0, 0, 0, 1.0012
+                        ],
+                        "MG": [129.6, 0, 0, 129.6],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 84745459,
+                        "@": 84745460,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [25, -57, 1, 1, 227, 85, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 47, "G": 89, "B": 173 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0916, -0.3455, 0.8315, 0.5152],
+                        "MG": [23, 57, 25, 21],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "游戏中强制交换2个相邻小动物，单个关卡限用2次\\n",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84745457,
+                        "@": 84745458,
+                        "Name": "desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [25, -18, 1, 1, 207, 36, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 208, "G": 73, "B": 22 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0916, -0.1091, 0.7582, 0.2182],
+                        "MG": [111, 18, 25, 41],
+                        "IsCustomSize": true,
+                        "LabelText": "强制交换\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84745455,
+                        "@": 84745456,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [54, -118, 1, 1, 168, 29, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 170, "G": 0, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1978, -0.7152, 0.6154, 0.1758],
+                        "MG": [18, 118, 54, 51],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "24:00:00后失效\\n",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84745453,
+                        "@": 84745454,
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/prop_bag_panel_use_button@6x.json"
+                        },
+                        "Pos": [211, -133, 1, 1, 108, 49, 0, 0, 0, 0],
+                        "PrePos": [0.7729, -0.8061, 0.3956, 0.297],
+                        "MG": [-17, 133, 211, -46],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84745451,
+                        "@": 84745452,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 273, "Y": 165 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

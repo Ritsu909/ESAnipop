@@ -1,0 +1,161 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/ice_bg_bottom.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [
+                            -480, 44, 1, 1, 960, 684.8, 0, 0, 0.0001, 0.9999
+                        ],
+                        "PrePos": [-0.3777, 0.0344, 0.7553, 0.535],
+                        "MG": [614.4, -70.4, -768, 192],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "bg_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/ice_bg_top.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [
+                            -480, 640, 1, 1, 960, 560, 0, 0, 0.0001, 0.9998
+                        ],
+                        "PrePos": [-0.3777, 0.5, 0.7553, 0.4375],
+                        "MG": [-464, -1024, -768, 192],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 255,
+                        "Name": "bg_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/background_ice_polarbear_shinegrps@6x.json"
+                        },
+                        "Pos": [0, 368, 1.5115, 1.5115, 10, 3, 0, 0, 0, 0],
+                        "PrePos": [0, 0.2875, 0.0079, 0.0023],
+                        "MG": [1645, -368, 0, 1261],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Alpha": 255,
+                        "Name": "stars",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/background_ice_polarbear_wave02all@6x.json"
+                        },
+                        "Pos": [-16, -90, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "CColor": { "A": 255, "R": 255, "G": 255, "B": 229 },
+                        "PrePos": [-0.0126, -0.0703, 0, 0],
+                        "MG": [1190, 90, -16, 1287],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "wave_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/ice_bg_rect_2.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [
+                            -482, 108, 10, 1, 96, 163.2, 0, 0, 0.001, 0.9994
+                        ],
+                        "PrePos": [-0.3792, 0.0844, 0.0755, 0.1275],
+                        "MG": [-9.6, -172.8, -771.2, -675.2],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "color_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/polarbear_geass3.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [
+                            128, 453, 1, 1, 352, 230.4, 0, 0, 0.0003, 0.9996
+                        ],
+                        "PrePos": [0.1007, 0.3539, 0.2769, 0.18],
+                        "MG": [-494.4, -724.8, 204.8, 556.8],
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "grass_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "background_ice/polarbear_grass2.png",
+                            "Plist": "cocos/background_ice@6x.plist"
+                        },
+                        "Pos": [
+                            -480, 447, 1, 1, 267.2, 224, 0, 0, 0.0004, 0.9996
+                        ],
+                        "PrePos": [-0.3777, 0.3492, 0.2102, 0.175],
+                        "MG": [-491.2, -715.2, -768, -500.8],
+                        "Tag": 50042,
+                        "@": 50043,
+                        "Alpha": 255,
+                        "Name": "grass_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/background_ice_polarbear_sunshineAnimation@6x.json"
+                        },
+                        "Pos": [-110, 483, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.0865, 0.3773, 0, 0],
+                        "MG": [1763, -483, -110, 1381],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50060,
+                        "@": 50061,
+                        "Alpha": 255,
+                        "Name": "sun_light",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 1271, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

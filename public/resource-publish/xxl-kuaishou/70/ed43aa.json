@@ -1,0 +1,596 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 26,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "ActionValue",
+                        84746634,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746634,
+                        [
+                            { "P": [-4.05, 20.05], "I": 0, "T": 0 },
+                            { "P": [-4.05, 20.05], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746632,
+                        [
+                            { "P": [0.35, 0.2], "I": 0, "T": 0 },
+                            { "P": [0.35, 0.2], "I": 8, "T": 0 },
+                            { "P": [0.35, 0.2], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746632,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 8, "T": 0 },
+                            { "V": 255, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746630,
+                        [
+                            { "P": [1.4, -83.3], "I": 0, "T": 0 },
+                            { "P": [1.4, -83.3], "I": 11 },
+                            { "P": [1.4, -83.3], "I": 18, "T": 0 },
+                            { "P": [83.3, -83.3], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746630,
+                        [
+                            { "P": [1.3265, 1.3265], "I": 0, "T": 0 },
+                            { "P": [1.3265, 1.3265], "I": 11 },
+                            { "P": [1.3265, 1.3265], "I": 18, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746630,
+                        [
+                            { "V": 204, "I": 0, "T": 0 },
+                            { "V": 204, "I": 11 },
+                            { "V": 0, "I": 18, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746628,
+                        [
+                            {
+                                "P": [2.05, -80.1],
+                                "I": 0,
+                                "E": [0, 1, 0.6667, 1]
+                            },
+                            { "P": [2.15, -82.15], "I": 5 },
+                            { "P": [2.05, -80.1], "I": 11 },
+                            {
+                                "P": [2.05, -80.1],
+                                "I": 12,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [2.05, -6.1], "I": 18, "T": 0 },
+                            { "P": [6.1, -6.1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746628,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0, 1, 0.6667, 1] },
+                            { "P": [1.0515, 0.9158], "I": 5 },
+                            { "P": [1, 1], "I": 11 },
+                            {
+                                "P": [1, 1],
+                                "I": 12,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.3, 0.3], "I": 18, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746628,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 255, "I": 11 },
+                            { "V": 255, "I": 12 },
+                            { "V": 0, "I": 18, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746626,
+                        [
+                            {
+                                "P": [-6.1, 33.65],
+                                "I": 0,
+                                "E": [0, 1, 0.6667, 1]
+                            },
+                            { "P": [-6.4, 15.6], "I": 5 },
+                            { "P": [23.45, 82.65], "I": 7 },
+                            { "P": [68.75, 119.6], "I": 9 },
+                            {
+                                "P": [81, 119.6],
+                                "I": 11,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [64.95, 56.65], "I": 18, "T": 0 },
+                            { "P": [-56.65, 56.65], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746626,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0, 1, 0.6667, 1] },
+                            { "P": [1.0515, 1.0002], "I": 5 },
+                            { "P": [1.0326, 0.9986], "I": 7 },
+                            { "P": [1.0157, 0.9987], "I": 9 },
+                            {
+                                "P": [1, 1],
+                                "I": 11,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [0.3, 0.3], "I": 18, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84746626,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 5 },
+                            { "P": [39.89, 39.89], "I": 7 },
+                            { "P": [56.51, 56.51], "I": 9 },
+                            {
+                                "P": [60, 60],
+                                "I": 11,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [75, 75], "I": 18, "T": 0 },
+                            { "P": [0, 0], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746626,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 5 },
+                            { "V": 247, "I": 7 },
+                            { "V": 239, "I": 9 },
+                            { "V": 232, "I": 11 },
+                            { "V": 0, "I": 18, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746624,
+                        [
+                            { "P": [23.05, -3.5], "I": 0, "T": 0 },
+                            {
+                                "P": [23.05, -3.5],
+                                "I": 6,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [7.05, 59.5], "I": 11 },
+                            { "P": [7.05, 59.5], "I": 18, "T": 0 },
+                            { "P": [-59.5, 59.5], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746624,
+                        [
+                            { "P": [0.4397, 0.4413], "I": 0, "T": 0 },
+                            {
+                                "P": [0.4397, 0.4413],
+                                "I": 6,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            { "P": [1.5488, 1.5547], "I": 11 },
+                            { "P": [1.5488, 1.5547], "I": 18, "T": 0 },
+                            { "P": [1, 1], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746624,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 201, "I": 6 },
+                            { "V": 201, "I": 11 },
+                            { "V": 0, "I": 18, "T": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        84746624,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.74, 1, 1, 1],
+                                    "u_delta": [0.27, 0.11, 0.19, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.74, 1, 1, 1],
+                                    "u_delta": [0.27, 0.11, 0.19, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 6
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.74, 1, 1, 1],
+                                    "u_delta": [0.27, 0.11, 0.19, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 11
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.74, 1, 1, 1],
+                                    "u_delta": [0.27, 0.11, 0.19, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 18,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [0.74, 1, 1, 1],
+                                    "u_delta": [0.27, 0.11, 0.19, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 19,
+                                "T": 0
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84746622,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 15,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 18,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 22,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746622,
+                        [
+                            { "P": [0.45, -225.6], "I": 0, "T": 0 },
+                            { "P": [0.45, -225.6], "I": 15 },
+                            { "P": [0.45, -225.6], "I": 18 },
+                            { "P": [0.45, -225.6], "I": 22 },
+                            { "P": [0.45, -225.6], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746622,
+                        [
+                            { "P": [0.3545, 0.3545], "I": 0, "T": 0 },
+                            { "P": [0.3545, 0.3545], "I": 15 },
+                            { "P": [1.2512, 1.2512], "I": 18 },
+                            { "P": [0.9054, 0.9054], "I": 22 },
+                            { "P": [1.2, 1.2], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746622,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 99, "I": 15 },
+                            { "V": 255, "I": 18 },
+                            { "V": 255, "I": 22 },
+                            { "V": 255, "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84746620,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 1,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746620,
+                        [
+                            { "P": [-170.4, -178.05], "I": 0, "T": 0 },
+                            { "P": [178.05, -178.05], "I": 1, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746620,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 1, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84746618,
+                        [
+                            { "P": [2, -1.55], "I": 0, "T": 0 },
+                            { "P": [2, -1.55], "I": 11 },
+                            { "P": [2, -1.55], "I": 15 },
+                            { "P": [2, -1.55], "I": 19 },
+                            { "P": [2, -1.55], "I": 23, "T": 0 },
+                            { "P": [2, -1.55], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        84746618,
+                        [
+                            { "P": [0.2051, 0.2051], "I": 0, "T": 0 },
+                            { "P": [0.2051, 0.2051], "I": 11 },
+                            { "P": [1.1897, 1.295], "I": 15 },
+                            { "P": [0.7165, 0.6321], "I": 19 },
+                            { "P": [1, 1], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 25, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84746618,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 11 },
+                            { "V": 255, "I": 15 },
+                            { "V": 255, "I": 19 },
+                            { "V": 255, "I": 23, "T": 0 },
+                            { "V": 255, "I": 25, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_boom_animation@6x.json"
+                        },
+                        "Pos": [-4, 20, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [20, -20, -4, 4],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746633,
+                        "@": 84746634,
+                        "Alpha": 255,
+                        "Name": "ring",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 100.8, 100.8, 0, 0, 0.497, 0.503],
+                        "MG": [100.8, 0, 0, 100.8],
+                        "Tag": 84746631,
+                        "@": 84746632,
+                        "Alpha": 0,
+                        "Name": "bgGlow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/box_shadow.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            1, -83, 1.3265, 1.3265, 171.2, 72, 0, 0, 0.502,
+                            0.5028
+                        ],
+                        "MG": [204.8, 132.8, 1.6, 172.8],
+                        "Tag": 84746629,
+                        "@": 84746630,
+                        "Alpha": 204,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/box_under.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [2, -80, 1, 1, 224, 166.4, 0, 0, 0.5031, 0.2145],
+                        "MG": [294.4, 128, 3.2, 227.2],
+                        "Tag": 84746627,
+                        "@": 84746628,
+                        "Alpha": 255,
+                        "Name": "box_under",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/box_up.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -6, 33, 1, 1, 252.8, 156.8, 0, 0, 0.4749, 0.4742
+                        ],
+                        "MG": [104.0, -52.8, -9.6, 243.2],
+                        "Tag": 84746625,
+                        "@": 84746626,
+                        "Alpha": 255,
+                        "Name": "box_up",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/light_in.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            23, -3, 0.4397, 0.4413, 155.2, 100.8, 0, 0, 0.5087,
+                            0.501
+                        ],
+                        "MG": [105.6, 4.8, 36.8, 192],
+                        "Tag": 84746623,
+                        "@": 84746624,
+                        "Alpha": 255,
+                        "Name": "light",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_box_btn_green_start_@6x.json"
+                        },
+                        "Pos": [0, -225, 0.3545, 0.3545, 194, 119, 0, 0, 0, 0],
+                        "MG": [-344, 225, 0, -194],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746621,
+                        "@": 84746622,
+                        "Alpha": 0,
+                        "Name": "botton",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/week_game_panel_get_ticket_button@6x.json"
+                        },
+                        "Pos": [-170, -178, 1, 1, 360, 413, 0, 0, 0, 0],
+                        "MG": [-591, 178, -170, -190],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746619,
+                        "@": 84746620,
+                        "Alpha": 255,
+                        "Name": "getButton",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            2, -1, 0.2051, 0.2051, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "MG": [102.4, 1.6, 3.2, 104],
+                        "Tag": 84746617,
+                        "@": 84746618,
+                        "Alpha": 0,
+                        "Name": "tiket",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

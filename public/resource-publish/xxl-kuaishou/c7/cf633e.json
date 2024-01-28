@@ -1,0 +1,98 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, -11, 1, 1, 475.5744, 528.791, 0, 0, 0.001, 0.9989
+                        ],
+                        "PrePos": [0, -0.0212, 0.2043, 0.1815],
+                        "MG": [112, 17.6, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84752979,
+                        "@": 84752980,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_bottom_btn_green_start2@6x.json"
+                        },
+                        "Pos": [232, -449, 1, 1, 194, 104, 0, 0, 0, 0],
+                        "PrePos": [0.4936, -0.8635, 0.4128, 0.2],
+                        "MG": [-33, 449, 232, 44],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752977,
+                        "@": 84752978,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [159, -49, 1, 1, 165, 49, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "PrePos": [0.3383, -0.0942, 0.3511, 0.0942],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [422, 49, 159, 146],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "规则说明\\n",
+                        "FontSize": 35,
+                        "Shadow": [2, -2],
+                        "Tag": 84752973,
+                        "@": 84752974,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [27, -112, 1, 1, 412, 284, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0574, -0.2154, 0.8766, 0.5462],
+                        "MG": [124, 112, 27, 31],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "1.新游客任务共7天，每天1-2个任务",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84752971,
+                        "@": 84752972,
+                        "Name": "word",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 470, "Y": 520 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

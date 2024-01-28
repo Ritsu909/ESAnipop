@@ -1,0 +1,83 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/tab_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [66, -33, 0.75, 1, 176, 51.2, 0, 0, 0.4977, 0.5],
+                        "PrePos": [0.5, -0.5593, 1.3333, 0.8678],
+                        "MG": [104, 52.8, 105.6, 281.6],
+                        "Tag": 111239,
+                        "@": 111240,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/tab_selected.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [66, -29, 0.75, 1, 176, 59.2, 0, 0, 0.5006, 0.5],
+                        "PrePos": [0.5, -0.4915, 1.3333, 1.0034],
+                        "MG": [105.6, 46.4, 105.6, 281.6],
+                        "Tag": 111237,
+                        "@": 111238,
+                        "Alpha": 255,
+                        "Name": "selected",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/market_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [66, -35, 1, 1, 112, 32, 0, 0, 0.4964, 0.4969],
+                        "PrePos": [0.5, -0.5932, 0.8485, 0.5424],
+                        "MG": [88, 56, 105.6, 217.6],
+                        "Tag": 111235,
+                        "@": 111236,
+                        "Alpha": 255,
+                        "Name": "label_normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/market_selected.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            66, -35, 1, 1, 115.2, 33.6, 0, 0, 0.4957, 0.506
+                        ],
+                        "PrePos": [0.5, -0.5932, 0.8727, 0.5695],
+                        "MG": [89.6, 56, 105.6, 220.8],
+                        "Tag": 111233,
+                        "@": 111234,
+                        "Alpha": 255,
+                        "Name": "label_selected",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 132, "Y": 59 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

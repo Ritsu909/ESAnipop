@@ -1,0 +1,97 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common03.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -297, 222, 1, 1, 599.7549, 445.273, 0, 0, 0.0002,
+                            0.9993
+                        ],
+                        "PrePos": [-0.4958, 0.5, 1.0364, 0.3135],
+                        "MG": [-216, -355.2, -475.2, 145.6],
+                        "Scale9": [300, 64, 15, 6],
+                        "Tag": 1051273,
+                        "@": 1051274,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-240, 129, 1, 1, 480, 202, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 121, "G": 88, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4007, 0.2905, 0.8013, 0.455],
+                        "MG": [371, -129, -240, 359],
+                        "IsCustomSize": true,
+                        "LabelText": "摇到结果中出现的是巴拉巴拉\\n",
+                        "FontSize": 29,
+                        "Shadow": [2, -2],
+                        "Tag": 1051271,
+                        "@": 1051272,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_ui_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [0, -128, 0.982, 0.982, 194, 122, 0, 0, 0, 0],
+                        "PrePos": [0, -0.2883, 0.3239, 0.2748],
+                        "MG": [194, 128, 0, 405],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 1051269,
+                        "@": 1051270,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-113, 194, 1, 1, 227, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1886, 0.4369, 0.379, 0.1239],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_greenstroke@6x.fnt"
+                        },
+                        "MG": [583, -194, -113, 485],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "规 则 说 明",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051267,
+                        "@": 1051268,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 599, "Y": 444 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

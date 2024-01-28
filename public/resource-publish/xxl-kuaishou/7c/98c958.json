@@ -1,0 +1,108 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/disable.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -76, 29, 1, 1.01, 153.6, 62.4, 0, 0, 0.0007, 0.9984
+                        ],
+                        "PrePos": [-0.4967, 0.4603, 1.0039, 0.9905],
+                        "MG": [16, -46.4, -121.6, 32],
+                        "Tag": 111209,
+                        "@": 111210,
+                        "Alpha": 255,
+                        "Name": "disable",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/green_click.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -76, 28, 1, 1, 153.6, 62.4, 0, 0, 0.0007, 0.9984
+                        ],
+                        "PrePos": [-0.4967, 0.4444, 1.0039, 0.9905],
+                        "MG": [17.6, -44.8, -121.6, 32],
+                        "Tag": 111207,
+                        "@": 111208,
+                        "Alpha": 255,
+                        "Name": "chick",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/green_normal.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            -76, 29, 1, 1.01, 153.6, 62.4, 0, 0, 0.0007, 0.9984
+                        ],
+                        "PrePos": [-0.4967, 0.4603, 1.0039, 0.9905],
+                        "MG": [16, -46.4, -121.6, 32],
+                        "Tag": 111205,
+                        "@": 111206,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "h5library/reddot.png",
+                            "Plist": "cocos/h5library@6x.plist"
+                        },
+                        "Pos": [60, 31, 1, 1, 16, 16, 0, 0, 0.0062, 0.9938],
+                        "PrePos": [0.3922, 0.4921, 0.1046, 0.254],
+                        "MG": [-33.6, -49.6, 96, 112],
+                        "Tag": 111203,
+                        "@": 111204,
+                        "Alpha": 255,
+                        "Name": "reddot",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-46, 16, 1, 1, 93, 36, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3007, 0.254, 0.6078, 0.5714],
+                        "MG": [43, -16, -46, 106],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "取消",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 111201,
+                        "@": 111202,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 153, "Y": 63 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [265, -56, 1.2, 1.2, 159, 68, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 4, "G": 93, "B": 33 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.7201, -0.8116, 0.4321, 0.9855],
+                        "MG": [-55, 56, 265, -56],
+                        "IsCustomSize": true,
+                        "LabelText": "60\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84755871,
+                        "@": 84755872,
+                        "Name": "goldNum",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_ui_buttons_ui_button_label@6x.json"
+                        },
+                        "Pos": [548, -90, 0.7, 0.7, 256, 83, 0, 0, 0, 0],
+                        "PrePos": [1.4891, -1.3043, 0.6957, 1.2029],
+                        "MG": [-104, 90, 548, -436],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755869,
+                        "@": 84755870,
+                        "Alpha": 255,
+                        "Name": "buyBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 368, "Y": 69 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,131 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -126, 43, 1, 1, 278.7456, 123.0714, 0, 0, 0.012,
+                            0.9947
+                        ],
+                        "PrePos": [-0.4051, 0.1972, 0.6277, 0.5578],
+                        "MG": [52.8, -68.8, -201.6, -6.4],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 1163332,
+                        "@": 1163333,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -126, 44, 1, 1, 278.7456, 121.452, 0, 0, 0.0225,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4051, 0.2018, 0.6277, 0.5505],
+                        "MG": [49.6, -70.4, -201.6, -6.4],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 1163330,
+                        "@": 1163331,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -126, 44, 1, 1, 278.7456, 121.452, 0, 0, 0.0225,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4051, 0.2018, 0.6277, 0.5505],
+                        "MG": [49.6, -70.4, -201.6, -6.4],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 1163328,
+                        "@": 1163329,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-102, 25, 1, 1, 211, 68, 0, 0, 0, 1],
+                        "PrePos": [-0.328, 0.1147, 0.6785, 0.3119],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [175, -25, -102, 202],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "分享",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 1163326,
+                        "@": 1163327,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "luckybuy/panel9_bubble.png",
+                            "Plist": "cocos/luckybuy@6x.plist"
+                        },
+                        "Pos": [
+                            -20, 141, 1.09, 0.73, 184, 160, 0, 0, 0.0005, 0.9994
+                        ],
+                        "PrePos": [-0.0643, 0.6468, 0.5916, 0.7339],
+                        "MG": [-65.6, -225.6, -32, 152],
+                        "Tag": 1163324,
+                        "@": 1163325,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [5, 115, 0.75, 0.75, 149, 51, 0, 0, 0, 1],
+                        "PrePos": [0.0161, 0.5275, 0.4791, 0.2339],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [282, -115, 5, 157],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "减4小时",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 1163322,
+                        "@": 1163323,
+                        "Name": "bubble_label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 311, "Y": 218 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

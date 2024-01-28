@@ -1,0 +1,215 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/woodbanbanshop.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            64, -128, 1, 0.8027, 132.8, 59.2, 0, 0, 0.4947,
+                            0.8243
+                        ],
+                        "PrePos": [0.4, -0.6009, 0.83, 0.2779],
+                        "MG": [264, 204.8, 102.4, 235.2],
+                        "Tag": 84755967,
+                        "@": 84755968,
+                        "Alpha": 255,
+                        "Name": "Layer 3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/bubble_market.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [60, -65, 1, 1, 128, 129.6, 0, 0, 0.4699, 0.505],
+                        "PrePos": [0.375, -0.3052, 0.8, 0.6085],
+                        "MG": [233.6, 104, 96, 224],
+                        "Tag": 84755965,
+                        "@": 84755966,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/shopitembg.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -1, -142, 0.8335, 0.8644, 168, 62.4, 0, 0, 0.0006,
+                            0.9984
+                        ],
+                        "PrePos": [-0.0062, -0.6667, 1.05, 0.293],
+                        "MG": [289.6, 227.2, -1.6, 166.4],
+                        "Tag": 84755963,
+                        "@": 84755964,
+                        "Alpha": 255,
+                        "Name": "bottomBg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_gold.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            22, -166, 0.253, 0.253, 118.4, 123.2, 0, 0, 0.4992,
+                            0.5
+                        ],
+                        "PrePos": [0.1375, -0.7793, 0.74, 0.5784],
+                        "MG": [388.8, 265.6, 35.2, 153.6],
+                        "Tag": 84755961,
+                        "@": 84755962,
+                        "Alpha": 255,
+                        "Name": "coin",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [43, -152, 1, 1, 45, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 177, "B": 140 },
+                        "PrePos": [0.2688, -0.7136, 0.2812, 0.1221],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [35, 152, 43, 72],
+                        "IsCustomSize": true,
+                        "LabelText": "500",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84755959,
+                        "@": 84755960,
+                        "Name": "originprice",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [82, -147, 1, 1, 56, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 222, "G": 97, "B": 38 },
+                        "PrePos": [0.5125, -0.6901, 0.35, 0.1502],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [34, 147, 82, 22],
+                        "IsCustomSize": true,
+                        "LabelText": "230",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84755957,
+                        "@": 84755958,
+                        "Name": "number",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/dealline.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            46, -162, 1, 1, 38.4, 11.2, 0, 0, 0.0286, 0.9018
+                        ],
+                        "PrePos": [0.2875, -0.7606, 0.24, 0.0526],
+                        "MG": [270.4, 259.2, 73.6, 112],
+                        "Tag": 84755955,
+                        "@": 84755956,
+                        "Alpha": 255,
+                        "Name": "line",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/soldoutIcon.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            6, -150, 1, 1, 30.4, 30.4, 0, 0, 0.0033, 0.9967
+                        ],
+                        "PrePos": [0.0375, -0.7042, 0.19, 0.1427],
+                        "MG": [270.4, 240, 9.6, 40],
+                        "Tag": 84755953,
+                        "@": 84755954,
+                        "Alpha": 255,
+                        "Name": "soldout",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [50, -150, 1, 1, 70, 32, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 243, "G": 128, "B": 73 },
+                        "PrePos": [0.3125, -0.7042, 0.4375, 0.1502],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [31, 150, 50, 40],
+                        "IsCustomSize": true,
+                        "LabelText": "已售完",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84755951,
+                        "@": 84755952,
+                        "Name": "soldoutText",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [100, -85, 1, 1, 33, 42, 0, 0, 0, 1],
+                        "PrePos": [0.625, -0.3991, 0.2062, 0.1972],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [86, 85, 100, 27],
+                        "IsCustomSize": true,
+                        "LabelText": "×2",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84755949,
+                        "@": 84755950,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_discount@6x.json"
+                        },
+                        "Pos": [
+                            118, -20, 0.9989, 0.9989, 76, 52, 20.02, 20.02, 0, 0
+                        ],
+                        "PrePos": [0.7375, -0.0939, 0.475, 0.2441],
+                        "MG": [141, 20, 118, -34],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755947,
+                        "@": 84755948,
+                        "Alpha": 255,
+                        "Name": "discount",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 160, "Y": 213 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

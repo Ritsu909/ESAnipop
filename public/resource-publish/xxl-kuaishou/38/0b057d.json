@@ -1,0 +1,44 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 2,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Alpha",
+                        82455165,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 102, "I": 1, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "NationalDay_bird/nd_bird_we24444.png",
+                            "Plist": "cocos/NationalDay_bird@6x.plist"
+                        },
+                        "Pos": [0, 0, 1.21, 1.21, 14.4, 14.4, 0, 0, 0.5, 0.5],
+                        "MG": [14.4, 0, 0, 14.4],
+                        "Tag": 82455164,
+                        "@": 82455165,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

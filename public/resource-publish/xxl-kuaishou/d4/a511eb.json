@@ -1,0 +1,47 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 21,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84748941,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0.6, 0.5], "I": 7 },
+                            { "P": [0.85, -0.1], "I": 11 },
+                            { "P": [0, -0.75], "I": 16 },
+                            { "P": [0, 0], "I": 20, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/eye_wen2.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 9.6, 8, 0, 0, 0.5781, 0.4875],
+                        "MG": [8, 0, 0, 9.6],
+                        "Tag": 84748940,
+                        "@": 84748941,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

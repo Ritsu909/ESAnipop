@@ -1,0 +1,151 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_green_start1_icon_askfor@6x.json"
+                        },
+                        "Pos": [428, -850, 0.9, 0.9, 279, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7768, -0.9793, 0.5064, 0.1406],
+                        "MG": [-104, 850, 428, -156],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746597,
+                        "@": 84746598,
+                        "Alpha": 255,
+                        "Name": "askforBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_btn_green_start1_send@6x.json"
+                        },
+                        "Pos": [149, -850, 0.9, 0.9, 282, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2704, -0.9793, 0.5118, 0.1406],
+                        "MG": [-104, 850, 149, 120],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84746595,
+                        "@": 84746596,
+                        "Alpha": 255,
+                        "Name": "sendBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friend_whiteblue.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            7, -106, 1, 1, 559.7682, 633.109, 0, 0, 0.0013,
+                            0.9992
+                        ],
+                        "PrePos": [0.0127, -0.1221, 0.1423, 0.1493],
+                        "MG": [299.2, 169.6, 11.2, 89.6],
+                        "Scale9": [20, 32, 40, 64],
+                        "Tag": 84746593,
+                        "@": 84746594,
+                        "Alpha": 255,
+                        "Name": "viewRect",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/no_msg_icon.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -198, -8, 2, 2, 241.6, 203.2, 0, 0, -0.4973, 1.4966
+                        ],
+                        "PrePos": [-0.3593, -0.0092, 0.4385, 0.2341],
+                        "MG": [216, 12.8, -316.8, -75.2],
+                        "Tag": 84746591,
+                        "@": 84746592,
+                        "Alpha": 255,
+                        "Name": "noMsg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [83, -626, 1, 1, 383, 92, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 43,
+                            "G": 43,
+                            "B": 43
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1506, -0.7212, 0.6951, 0.106],
+                        "MG": [150, 626, 83, 85],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "当前没有新的礼物消息哟~",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84746589,
+                        "@": 84746590,
+                        "Name": "noMsgText",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [202, -48, 1, 1, 164, 55, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 27,
+                            "G": 126,
+                            "B": 145
+                        },
+                        "PrePos": [0.3666, -0.0553, 0.2976, 0.0634],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [765, 48, 202, 185],
+                        "IsCustomSize": true,
+                        "LabelText": "好友礼物",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746587,
+                        "@": 84746588,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 551,
+                    "Y": 868
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

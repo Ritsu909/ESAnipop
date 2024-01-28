@@ -1,0 +1,113 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/chatArrow.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            217, -365, 1, 1, 28.8, 33.6, 0, 0, 0.4757, 0.0357
+                        ],
+                        "PrePos": [0.4214, -0.8372, 0.0559, 0.0771],
+                        "MG": [617.6, 584, 347.2, 376],
+                        "Tag": 84753071,
+                        "@": 84753072,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/chatBubble.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            228, -260, 1, 1, 339.5779, 144.2586, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0.4427, -0.5963, 0.2517, 0.2716],
+                        "MG": [534.4, 416, 364.8, 494.4],
+                        "Scale9": [32, 29, 64, 58],
+                        "Tag": 84753069,
+                        "@": 84753070,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/hatRacoon.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            51, -231, 1, 1, 161.6, 198.4, 0, 0, 0.0006, 0.9995
+                        ],
+                        "PrePos": [0.099, -0.5298, 0.3138, 0.455],
+                        "MG": [568, 369.6, 81.6, 243.2],
+                        "Tag": 84753067,
+                        "@": 84753068,
+                        "Alpha": 255,
+                        "Name": "racoon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_btn_green_start_remind@6x.json"
+                        },
+                        "Pos": [320, -609, 0.8, 0.8, 282, 122, 0, 0, 0, 0],
+                        "PrePos": [0.6214, -1.3968, 0.5476, 0.2798],
+                        "MG": [-295, 609, 320, -87],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84753081,
+                        "@": 84753082,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [247, -259, 1, 1, 300, 144, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 225, "G": 104, "B": 71 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4796, -0.594, 0.5825, 0.3303],
+                        "MG": [33, 259, 247, -32],
+                        "IsCustomSize": true,
+                        "LabelText": "恭喜您今天的任务全部都\\n完成了！\\n明天的任务奖励很丰富哦！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84753079,
+                        "@": 84753080,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 515, "Y": 436 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

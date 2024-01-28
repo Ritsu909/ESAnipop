@@ -1,0 +1,112 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "MG": [72, 0, 0, 70.4],
+                        "Tag": 84844781,
+                        "@": 84844782,
+                        "Alpha": 255,
+                        "Name": "fox7677_20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [-209, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.4988, 0, 0.168, 1.0286],
+                        "MG": [72, 0, -334.4, -264],
+                        "Tag": 84844779,
+                        "@": 84844780,
+                        "Alpha": 255,
+                        "Name": "fox7677_15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [
+                            -140, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [-0.3341, 0, 0.168, 1.0057],
+                        "MG": [70.4, 0, -224, -153.6],
+                        "Tag": 84844777,
+                        "@": 84844778,
+                        "Alpha": 255,
+                        "Name": "frog1343434_14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [-70, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [-0.1671, 0, 0.168, 1.0057],
+                        "MG": [70.4, 0, -112, -41.6],
+                        "Tag": 84844881,
+                        "@": 84844882,
+                        "Alpha": 255,
+                        "Name": "frog1343434_15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/fox7677.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [69, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.1647, 0, 0.168, 1.0286],
+                        "MG": [72, 0, 110.4, 180.8],
+                        "Tag": 84844775,
+                        "@": 84844776,
+                        "Alpha": 255,
+                        "Name": "fox7677_13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_colorless_fish/frog1343434.png",
+                            "Plist": "cocos/obstacle_anim_colorless_fish@6x.plist"
+                        },
+                        "Pos": [140, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.3341, 0, 0.168, 1.0057],
+                        "MG": [70.4, 0, 224, 294.4],
+                        "Tag": 84844773,
+                        "@": 84844774,
+                        "Alpha": 255,
+                        "Name": "frog1343434_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 419, "Y": 70 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

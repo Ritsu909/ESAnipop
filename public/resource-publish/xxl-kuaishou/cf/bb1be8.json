@@ -1,0 +1,104 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/rewardpanel_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 719.9992, 386.1496, 0, 0, 0.0125, 0.9875
+                        ],
+                        "MG": [8, 0, 0, 8],
+                        "Scale9": [2, 2, 4, 4],
+                        "Tag": 29325841,
+                        "@": 29325842,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_fa.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [219, -79, 1, 1, 72, 72, 0, 0, 0.5014, 0.5056],
+                        "PrePos": [0.3042, -0.2047, 0.1, 0.1865],
+                        "MG": [198.4, 126.4, 350.4, 422.4],
+                        "Tag": 29325839,
+                        "@": 29325840,
+                        "Alpha": 255,
+                        "Name": "title1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_xian.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            308, -79, 1, 1, 70.4, 75.2, 0, 0, 0.4986, 0.5066
+                        ],
+                        "PrePos": [0.4278, -0.2047, 0.0978, 0.1948],
+                        "MG": [201.6, 126.4, 492.8, 563.2],
+                        "Tag": 29325837,
+                        "@": 29325838,
+                        "Alpha": 255,
+                        "Name": "title2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_bao.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            398, -79, 1, 1, 73.6, 75.2, 0, 0, 0.4973, 0.5066
+                        ],
+                        "PrePos": [0.5528, -0.2047, 0.1022, 0.1948],
+                        "MG": [201.6, 126.4, 636.8, 710.4],
+                        "Tag": 29325835,
+                        "@": 29325836,
+                        "Alpha": 255,
+                        "Name": "title3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_wu.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            488, -79, 1, 1, 73.6, 73.6, 0, 0, 0.4973, 0.5027
+                        ],
+                        "PrePos": [0.6778, -0.2047, 0.1022, 0.1907],
+                        "MG": [200, 126.4, 780.8, 854.4],
+                        "Tag": 29325833,
+                        "@": 29325834,
+                        "Alpha": 255,
+                        "Name": "title4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 720, "Y": 386 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

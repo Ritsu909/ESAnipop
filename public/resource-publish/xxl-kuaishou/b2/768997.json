@@ -1,0 +1,106 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_littleline.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [45, 2, 1, 1, 24, 3.2, 0, 0, 0.4729, 0.6562],
+                        "PrePos": [0.2586, 0.0202, 0.1379, 0.0323],
+                        "MG": [0, -3.2, 72, 96],
+                        "Tag": 29325913,
+                        "@": 29325914,
+                        "Alpha": 255,
+                        "Name": "littleline",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_reward_bg2.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -117, 42, 1, 1, 118.4, 80, 0, 0, -0.0034, 1.005
+                        ],
+                        "PrePos": [-0.6724, 0.4242, 0.6805, 0.8081],
+                        "MG": [12.8, -67.2, -187.2, -68.8],
+                        "Tag": 29325387,
+                        "@": 29325388,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/yellow_star_sp.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -9, 5, 0.8, 0.8, 30.4, 27.2, 0, 0, 0.4211, 0.4982
+                        ],
+                        "PrePos": [-0.0517, 0.0505, 0.1747, 0.2747],
+                        "MG": [19.2, -8, -14.4, 16.0],
+                        "Tag": 29325383,
+                        "@": 29325384,
+                        "Alpha": 255,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [1, 14, 0.5, 0.5, 35, 24, 0, 0, 0, 1],
+                        "PrePos": [0.0057, 0.1414, 0.2011, 0.2424],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [89, -14, 1, 138],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "250",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29325381,
+                        "@": 29325382,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_res_reward_icon2@6x.json"
+                        },
+                        "Pos": [-52, 4, 0.9, 0.9, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [-0.2989, 0.0404, 0, 0],
+                        "MG": [103, -4, -52, 226],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325385,
+                        "@": 29325386,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 174, "Y": 99 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

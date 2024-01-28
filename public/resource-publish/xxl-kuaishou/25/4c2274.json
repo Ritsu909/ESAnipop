@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "smtm_panel/discount_bg.png",
+                            "Plist": "cocos/smtm_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 105.6, 136, 0, 0, 0.4981, 0.5029],
+                        "MG": [136, 0, 0, 105.6],
+                        "Tag": 9417320,
+                        "@": 9417321,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-51, 38, 1, 1, 104, 38, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 182, "G": 120, "B": 25 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4857, 0.2815, 0.9905, 0.2815],
+                        "MG": [135, -38, -51, 52],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "1折\\n",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 9417318,
+                        "@": 9417319,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 105, "Y": 135 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

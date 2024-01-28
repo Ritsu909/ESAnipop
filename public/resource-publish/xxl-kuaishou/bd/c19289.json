@@ -1,0 +1,264 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 0, 1, 1, 590.352, 532.652, 0, 0, 0.001, 0.9989
+                        ],
+                        "PrePos": [-0.0034, 0, 0.1644, 0.1802],
+                        "MG": [94.4, 0, -3.2, 92.8],
+                        "Scale9": [22, 22, 17, 15],
+                        "Tag": 87401564,
+                        "@": 87401565,
+                        "Alpha": 255,
+                        "Name": "toast_bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [65, -74, 1, 1, 164, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.1412, 0.2808, 0.0821],
+                        "MG": [407, 74, 65, 355],
+                        "IsCustomSize": true,
+                        "LabelText": "购买商品：",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401562,
+                        "@": 87401563,
+                        "Name": "panel_item",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [65, -136, 1, 1, 86, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.2595, 0.1473, 0.0821],
+                        "MG": [345, 136, 65, 433],
+                        "IsCustomSize": true,
+                        "LabelText": "金额:",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401560,
+                        "@": 87401561,
+                        "Name": "panel_price",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [65, -243, 1, 1, 441, 107, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.4637, 0.7551, 0.2042],
+                        "MG": [174, 243, 65, 78],
+                        "IsCustomSize": true,
+                        "LabelText": "通过本机电信话费支付,信息费由中国电信代为收取 (不含短信通知费)",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401558,
+                        "@": 87401559,
+                        "Name": "pay_desc",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [65, -198, 1, 1, 152, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1113, -0.3779, 0.2603, 0.0821],
+                        "MG": [283, 198, 65, 367],
+                        "IsCustomSize": true,
+                        "LabelText": "支付方式：",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401556,
+                        "@": 87401557,
+                        "Name": "pay_type",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [228, -74, 1, 1, 277, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 233, "G": 76, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3904, -0.1412, 0.4743, 0.0821],
+                        "MG": [407, 74, 228, 79],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "60风车币",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401554,
+                        "@": 87401555,
+                        "Name": "label_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [342, -136, 1, 1, 164, 43, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 233, "G": 76, "B": 32 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5856, -0.2595, 0.2808, 0.0821],
+                        "MG": [345, 136, 342, 78],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "6.00元/次",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87401552,
+                        "@": 87401553,
+                        "Name": "label_price",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pay_duandai_confirm_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [538, -45, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9212, -0.0859, 0.1455, 0.1584],
+                        "MG": [396, 45, 538, -39],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87401550,
+                        "@": 87401551,
+                        "Alpha": 255,
+                        "Name": "offbottom_light_x",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pay_duandai_confirm_bottom_startuistartbottommmm22@6x.json"
+                        },
+                        "Pos": [286, -389, 0.85, 0.85, 497, 123, 0, 0, 0, 0],
+                        "PrePos": [0.4897, -0.7424, 0.851, 0.2347],
+                        "MG": [12, 389, 286, -199],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87401548,
+                        "@": 87401549,
+                        "Alpha": 255,
+                        "Name": "startuistartbottommmm22",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [97, -459, 1, 1, 184, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 114, "G": 66, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1661, -0.876, 0.3151, 0.0706],
+                        "MG": [28, 459, 97, 303],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "客服电话： ",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 87401546,
+                        "@": 87401547,
+                        "Name": "tel_label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pay_duandai_confirm/tel.png",
+                            "Plist": "cocos/pay_duandai_confirm@6x.plist"
+                        },
+                        "Pos": [
+                            250, -461, 1, 1, 28.8, 28.8, 0, 0, 0.0035, 0.9965
+                        ],
+                        "PrePos": [0.4281, -0.8798, 0.0493, 0.055],
+                        "MG": [766.4, 737.6, 400, 428.8],
+                        "Tag": 87401544,
+                        "@": 87401545,
+                        "Alpha": 255,
+                        "Name": "tel_sp",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [263, -458, 1, 1, 184, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 91, "B": 255 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4503, -0.874, 0.3151, 0.0706],
+                        "MG": [29, 458, 263, 137],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "4008289289",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 87401542,
+                        "@": 87401543,
+                        "Name": "tel_num",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 584, "Y": 524 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

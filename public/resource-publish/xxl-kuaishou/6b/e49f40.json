@@ -1,0 +1,39 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/tkt1.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [
+                            24, -22, 0.3734, 0.3735, 147.2, 75.2, -10.66, -10,
+                            0.3978, 0.3883
+                        ],
+                        "PrePos": [0.4286, -0.6471, 2.6286, 2.2118],
+                        "MG": [110.4, 35.2, 38.4, 185.6],
+                        "Tag": 84746943,
+                        "@": 84746944,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 56, "Y": 34 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

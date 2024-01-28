@@ -1,0 +1,76 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/mainpicture_page1.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -10, -8, 1, 1, 556.8, 486.4, 0, 0, 0.0002, 0.9998
+                        ],
+                        "PrePos": [-0.018, -0.011, 1.0014, 0.6718],
+                        "MG": [499.2, 12.8, -16, 540.8],
+                        "Tag": 84747159,
+                        "@": 84747160,
+                        "Alpha": 255,
+                        "Name": "board",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/bottom_btn_question2.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            76, -515, 0.8, 0.8, 48, 48, 0, 0, 0.476, 0.5229
+                        ],
+                        "PrePos": [0.1367, -0.7113, 0.0863, 0.0663],
+                        "MG": [872, 824, 121.6, 169.6],
+                        "Tag": 84747157,
+                        "@": 84747158,
+                        "Alpha": 255,
+                        "Name": "btn_question",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/friend_panel_bottom_btn_green_start1_namecard@6x.json"
+                        },
+                        "Pos": [284, -663, 0.8732, 0.873, 329, 122, 0, 0, 0, 0],
+                        "PrePos": [0.5108, -0.9157, 0.5917, 0.1685],
+                        "MG": [-61, 663, 284, -57],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84747155,
+                        "@": 84747156,
+                        "Alpha": 255,
+                        "Name": "btn_invite",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 556,
+                    "Y": 724
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

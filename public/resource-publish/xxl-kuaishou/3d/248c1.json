@@ -1,0 +1,146 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/captain_misson_board_new.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 613.8038, 623.687, 0, 0, 0.0089, 0.9988
+                        ],
+                        "MG": [254.4, 0, 0, 219.2],
+                        "Scale9": [95, 120, 24, 23],
+                        "Tag": 84753103,
+                        "@": 84753104,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/dots.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [32, -366, 1, 1, 539.2, 8, 0, 0, 0.0002, 0.9875],
+                        "PrePos": [0.0527, -0.5865, 0.8883, 0.0128],
+                        "MG": [593.6, 585.6, 51.2, 590.4],
+                        "Tag": 84753101,
+                        "@": 84753102,
+                        "Alpha": 255,
+                        "Name": "dot",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/btn_prompt_1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            555, -140, 0.9, 0.9, 49.6, 48, 0, 0, 0.5141, 0.4979
+                        ],
+                        "PrePos": [0.9143, -0.2244, 0.0817, 0.0769],
+                        "MG": [272, 224, 888, 937.6],
+                        "Tag": 84753099,
+                        "@": 84753100,
+                        "Alpha": 255,
+                        "Name": "help",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/close_green.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            555, -39, 1, 1, 86.4, 83.2, 0, 0, 0.4988, 0.4934
+                        ],
+                        "PrePos": [0.9143, -0.0625, 0.1423, 0.1333],
+                        "MG": [145.6, 62.4, 888, 974.4],
+                        "Tag": 84753097,
+                        "@": 84753098,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/daybg.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            241, -12, 1, 1, 132.8, 44.8, 0, 0, 0.0008, 0.9978
+                        ],
+                        "PrePos": [0.397, -0.0192, 0.2188, 0.0718],
+                        "MG": [64, 19.2, 385.6, 518.4],
+                        "Tag": 84753095,
+                        "@": 84753096,
+                        "Alpha": 255,
+                        "Name": "taskTextBg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [233, -15, 1, 1, 149, 37, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3839, -0.024, 0.2455, 0.0593],
+                        "MG": [572, 15, 233, 225],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "第1天",
+                        "FontSize": 23,
+                        "Shadow": [2, -2],
+                        "Tag": 84753093,
+                        "@": 84753094,
+                        "Name": "taskText",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [134, -63, 1, 1, 346, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 251, "G": 255, "B": 236 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2208, -0.101, 0.57, 0.0481],
+                        "MG": [531, 63, 134, 127],
+                        "IsCustomSize": true,
+                        "LabelText": "今日任务剩余时间：00:00:00",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84753091,
+                        "@": 84753092,
+                        "Name": "leftTime",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 607, "Y": 624 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,112 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -178, 37, 1, 1, 279.3312, 127.4246, 0, 0, 0.012,
+                            0.9947
+                        ],
+                        "PrePos": [-0.6335, 0.2937, 0.6947, 0.9651],
+                        "MG": [62.4, -59.2, -284.8, -89.6],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84755819,
+                        "@": 84755820,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -177, 38, 1, 1, 279.3312, 125.748, 0, 0, 0.0225,
+                            0.9992
+                        ],
+                        "PrePos": [-0.6299, 0.3016, 0.6947, 0.9524],
+                        "MG": [59.2, -60.8, -283.2, -88],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84755817,
+                        "@": 84755818,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_blue_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -179, 38, 1, 1, 279.3312, 125.748, 0, 0, 0.0225,
+                            0.9992
+                        ],
+                        "PrePos": [-0.637, 0.3016, 0.6947, 0.9524],
+                        "MG": [59.2, -60.8, -286.4, -91.2],
+                        "Scale9": [84, 51, 3, 2],
+                        "Tag": 84755815,
+                        "@": 84755816,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-70, 21, 1, 1, 93, 60, 0, 0, 0, 1],
+                        "PrePos": [-0.2491, 0.1667, 0.331, 0.4762],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_bluestroke@6x.fnt"
+                        },
+                        "MG": [87, -21, -70, 258],
+                        "IsCustomSize": true,
+                        "LabelText": "200",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 84755813,
+                        "@": 84755814,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/rmbsymbol.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -120, -14, 1, 1, 38.4, 49.6, 0, 0, 0.4909, 0.5111
+                        ],
+                        "PrePos": [-0.427, -0.1111, 0.1367, 0.3937],
+                        "MG": [72, 22.4, -192, -153.6],
+                        "Tag": 84755811,
+                        "@": 84755812,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 281, "Y": 126 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

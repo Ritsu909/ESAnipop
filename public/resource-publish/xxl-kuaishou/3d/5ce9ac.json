@@ -1,0 +1,72 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "GuideLines": {
+                "4": [
+                    { "X": 378.75, "Y": -336.8 },
+                    { "X": 494.15, "Y": -296.45 },
+                    { "X": 620.0, "Y": -277.75 },
+                    { "X": 728.85, "Y": -261.6 },
+                    { "X": 858.95, "Y": -259.95 }
+                ]
+            },
+            "Animation": {
+                "Duration": 98,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "GuidePosition",
+                        50007,
+                        [
+                            { "P": [378.75, -336.8], "I": 0, "Tag": "4" },
+                            {
+                                "P": [423, -322.25],
+                                "I": 39,
+                                "Tag": "4",
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [856.1, -260.8],
+                                "I": 59,
+                                "Tag": "4",
+                                "T": 0
+                            },
+                            {
+                                "P": [856.1, -260.8],
+                                "I": 97,
+                                "Tag": "4",
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "water_dig_fish_collect/fish_actor.png",
+                            "Plist": "cocos/water_dig_fish_collect@6x.plist"
+                        },
+                        "Pos": [
+                            378, -336, 1, 1, 70.4, 70.4, 0, 0, 0.4986, 0.5014
+                        ],
+                        "MG": [608, 537.6, 604.8, 675.2],
+                        "Tag": 50006,
+                        "@": 50007,
+                        "Alpha": 255,
+                        "Name": "fish_actor",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

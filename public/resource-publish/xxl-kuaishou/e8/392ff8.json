@@ -1,0 +1,412 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_tail.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            62, 53, 0.6684, 0.6572, 105.6, 97.6, 48.53, -135.07,
+                            0.9953, 0.1076
+                        ],
+                        "PrePos": [0.1065, 0.1468, 0.1814, 0.2704],
+                        "MG": [12.8, -84.8, 99.2, 204.8],
+                        "Tag": 80499318,
+                        "@": 80499319,
+                        "Alpha": 255,
+                        "Name": "racoon_tail",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_leg2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            51, 57, 0.7299, 0.8009, 68.8, 48, 44.21, -143.69,
+                            0.0015, 0.9979
+                        ],
+                        "PrePos": [0.0876, 0.1579, 0.1182, 0.133],
+                        "MG": [-43.2, -91.2, 81.6, 150.4],
+                        "Tag": 80499316,
+                        "@": 80499317,
+                        "Alpha": 255,
+                        "Name": "racoon_leg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_body.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            39, 37, 0.6275, 0.6636, 94.4, 126.4, 33.72, -153.09,
+                            0.4989, 0.0024
+                        ],
+                        "PrePos": [0.067, 0.1025, 0.1622, 0.3501],
+                        "MG": [67.2, -59.2, 62.4, 156.8],
+                        "Tag": 80499314,
+                        "@": 80499315,
+                        "Alpha": 255,
+                        "Name": "racoon_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_pants.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            58, 64, 0.6321, 0.6578, 92.8, 56, 28.36, -157.67,
+                            0.4968, 0.9982
+                        ],
+                        "PrePos": [0.0997, 0.1773, 0.1595, 0.1551],
+                        "MG": [-46.4, -102.4, 92.8, 185.6],
+                        "Tag": 80499312,
+                        "@": 80499313,
+                        "Alpha": 255,
+                        "Name": "racoon_pants",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_ear2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            78, 194, 0.7428, 0.7264, 86.4, 140.8, 4.31, -166.78,
+                            0.2095, 0.1996
+                        ],
+                        "PrePos": [0.134, 0.5374, 0.1485, 0.39],
+                        "MG": [-169.6, -310.4, 124.8, 211.2],
+                        "Tag": 80499310,
+                        "@": 80499311,
+                        "Alpha": 255,
+                        "Name": "racoon_ear2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_head.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            69, 79, 0.7543, 0.7365, 232, 204.8, 12.12, -166.79,
+                            0.503, 0.0005
+                        ],
+                        "PrePos": [0.1186, 0.2188, 0.3986, 0.5673],
+                        "MG": [78.4, -126.4, 110.4, 342.4],
+                        "Tag": 80499308,
+                        "@": 80499309,
+                        "Alpha": 255,
+                        "Name": "racoon_head",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_ear.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            135, 171, 0.76, 0.7596, 128, 129.6, 11.66, -165.3,
+                            0.693, 0.3156
+                        ],
+                        "PrePos": [0.232, 0.4737, 0.2199, 0.359],
+                        "MG": [-144.0, -273.6, 216, 344],
+                        "Tag": 80499306,
+                        "@": 80499307,
+                        "Alpha": 255,
+                        "Name": "racoon_ear 副本 4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_hair.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            97, 213, 0.7355, 0.7666, 52.8, 56, -3.89, 177.22,
+                            0.0019, -0.0018
+                        ],
+                        "PrePos": [0.1667, 0.59, 0.0907, 0.1551],
+                        "MG": [-284.8, -340.8, 155.2, 208],
+                        "Tag": 80499304,
+                        "@": 80499305,
+                        "Alpha": 255,
+                        "Name": "racoon_hair 副本 5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyeblack.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            66, 139, 0.7644, 0.7141, 180.8, 72, 12.12, -166.79,
+                            0.5003, 0.4771
+                        ],
+                        "PrePos": [0.1134, 0.385, 0.3107, 0.1994],
+                        "MG": [-150.4, -222.4, 105.6, 286.4],
+                        "Tag": 80499302,
+                        "@": 80499303,
+                        "Alpha": 255,
+                        "Name": "racoon_eyeblack 副本 2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyerow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            63, 177, 0.7428, 0.7593, 48, 11.2, 12.12, -166.78,
+                            0.5146, 0.5446
+                        ],
+                        "PrePos": [0.1082, 0.4903, 0.0825, 0.031],
+                        "MG": [-272, -283.2, 100.8, 148.8],
+                        "Tag": 80499300,
+                        "@": 80499301,
+                        "Alpha": 255,
+                        "Name": "racoon_eyerow 副本 13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_nose.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            47, 129, 0.7428, 0.7593, 24, 20.8, 12.12, -166.78,
+                            0.5292, 0.5144
+                        ],
+                        "PrePos": [0.0808, 0.3573, 0.0412, 0.0576],
+                        "MG": [-185.6, -206.4, 75.2, 99.2],
+                        "Tag": 80499298,
+                        "@": 80499299,
+                        "Alpha": 255,
+                        "Name": "racoon_nose 副本 13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_hand2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            78, 67, 0.8352, 0.7004, 49.6, 54.4, 28.52, 23.43,
+                            0.1935, 0.1434
+                        ],
+                        "PrePos": [0.134, 0.1856, 0.0852, 0.1507],
+                        "MG": [-52.8, -107.2, 124.8, 174.4],
+                        "Tag": 80499296,
+                        "@": 80499297,
+                        "Alpha": 255,
+                        "Name": "racoon_hand2 副本 5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_leg1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            70, 49, 0.6966, 0.6737, 67.2, 59.2, -14.15, 169.55,
+                            0.0015, 0.9983
+                        ],
+                        "PrePos": [0.1203, 0.1357, 0.1155, 0.164],
+                        "MG": [-19.2, -78.4, 112, 179.2],
+                        "Tag": 80499294,
+                        "@": 80499295,
+                        "Alpha": 255,
+                        "Name": "racoon_leg1 副本 4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_eyehappy.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            61, 139, 0.7642, 0.7165, 128, 24, 14.22, -166.13,
+                            0.498, 0.5167
+                        ],
+                        "PrePos": [0.1048, 0.385, 0.2199, 0.0665],
+                        "MG": [-198.4, -222.4, 97.6, 225.6],
+                        "Tag": 80499292,
+                        "@": 80499293,
+                        "Alpha": 255,
+                        "Name": "racoon_eyehappy 副本 5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_mouthhappy.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            58, 114, 0.6747, 0.7042, 59.2, 48, 42.03, -152.18,
+                            0.5777, 0.6396
+                        ],
+                        "PrePos": [0.0997, 0.3158, 0.1017, 0.133],
+                        "MG": [-134.4, -182.4, 92.8, 152],
+                        "Tag": 80499290,
+                        "@": 80499291,
+                        "Alpha": 255,
+                        "Name": "racoon_mouthhappy",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/gan_1.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            99, 75, 0.5746, 0.7884, 305.6, 99.2, 85.19, -101.06,
+                            0.063, 0.2283
+                        ],
+                        "PrePos": [0.1701, 0.2078, 0.5251, 0.2748],
+                        "MG": [-20.8, -120, 158.4, 464],
+                        "Tag": 80499288,
+                        "@": 80499289,
+                        "Alpha": 255,
+                        "Name": "gan_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/racoon_hand1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            37, 87, 0.7461, 0.742, 80, 41.6, 7.07, 13.24,
+                            0.0012, 0.5048
+                        ],
+                        "PrePos": [0.0636, 0.241, 0.1375, 0.1152],
+                        "MG": [-97.6, -139.2, 59.2, 139.2],
+                        "Tag": 80499320,
+                        "@": 80499321,
+                        "Alpha": 255,
+                        "Name": "图层 7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/fishwire.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            -213, 329, 1, 1, 332.8, 166.4, 0, 0, 0.0003, 0.9994
+                        ],
+                        "PrePos": [-0.366, 0.9114, 0.5718, 0.4609],
+                        "MG": [-360, -526.4, -340.8, -8],
+                        "Tag": 80499286,
+                        "@": 80499287,
+                        "Alpha": 255,
+                        "Name": "图层 6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/fish.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            -331, 185, 1, 1, 177.6, 169.6, 0, 0, 0.0006, 0.9994
+                        ],
+                        "PrePos": [-0.5687, 0.5125, 0.3052, 0.4698],
+                        "MG": [-126.4, -296, -529.6, -352],
+                        "Tag": 80499284,
+                        "@": 80499285,
+                        "Alpha": 255,
+                        "Name": "元件 74",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/fishstar1.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            -297, 253, 1, 1, 67.2, 60.8, 0, 0, 0.0015, 0.9984
+                        ],
+                        "PrePos": [-0.5103, 0.7008, 0.1155, 0.1684],
+                        "MG": [-344, -404.8, -475.2, -408],
+                        "Tag": 80499282,
+                        "@": 80499283,
+                        "Alpha": 255,
+                        "Name": "图层 4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/fishstar2.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            -148, 175, 1, 1, 54.4, 48, 0, 0, 0.0018, 0.9979
+                        ],
+                        "PrePos": [-0.2543, 0.4848, 0.0935, 0.133],
+                        "MG": [-232, -280, -236.8, -182.4],
+                        "Tag": 80499280,
+                        "@": 80499281,
+                        "Alpha": 255,
+                        "Name": "图层 3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_unlockFishMode/fishwater.png",
+                            "Plist": "cocos/share_unlockFishMode@6x.plist"
+                        },
+                        "Pos": [
+                            -369, 84, 1, 1, 180.8, 118.4, 0, 0, 0.0006, 0.9992
+                        ],
+                        "PrePos": [-0.634, 0.2327, 0.3107, 0.328],
+                        "MG": [-16, -134.4, -590.4, -409.6],
+                        "Tag": 80499278,
+                        "@": 80499279,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 582, "Y": 361 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

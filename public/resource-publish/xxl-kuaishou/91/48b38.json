@@ -1,0 +1,353 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/transrec.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 22.4666, 13.4292, 33.6, 32, 0, 0, 0.003,
+                            0.9969
+                        ],
+                        "MG": [32, 0, 0, 33.6],
+                        "Tag": 84749008,
+                        "@": 84749009,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/transrec.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 22.4663, 18.7818, 33.6, 32, 0, 0, 0.003,
+                            0.9969
+                        ],
+                        "MG": [32, 0, 0, 33.6],
+                        "Tag": 84749006,
+                        "@": 84749007,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_chicken_buy2@6x.json"
+                        },
+                        "Pos": [177, -340, 1, 1, 216, 210, 0, 0, 0, 0],
+                        "PrePos": [0.2458, -0.5657, 0.3, 0.3494],
+                        "MG": [51, 340, 177, 327],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749004,
+                        "@": 84749005,
+                        "Alpha": 255,
+                        "Name": "animal",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [365, -80, 1, 1, 500.8, 46.4, 0, 0, 0.4987, 0.5],
+                        "PrePos": [0.5069, -0.1331, 0.6956, 0.0772],
+                        "MG": [174.4, 128, 584, 1084.8],
+                        "Tag": 84749002,
+                        "@": 84749003,
+                        "Alpha": 255,
+                        "Name": "text",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip2.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            461, -175, 1, 1, 401.6, 38.4, 0, 0, 0.5232, 0.5156
+                        ],
+                        "PrePos": [0.6403, -0.2912, 0.5578, 0.0639],
+                        "MG": [318.4, 280, 737.6, 1139.2],
+                        "Tag": 84749000,
+                        "@": 84749001,
+                        "Alpha": 255,
+                        "Name": "tip2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/tip1.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            183, -81, 1, 1, 108.8, 30.4, 0, 0, 0.5009, 0.4967
+                        ],
+                        "PrePos": [0.2542, -0.1348, 0.1511, 0.0506],
+                        "MG": [160, 129.6, 292.8, 401.6],
+                        "Tag": 84748998,
+                        "@": 84748999,
+                        "Alpha": 255,
+                        "Name": "tip1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            679, -32, 1.5, 1.5, 46.4, 46.4, 0, 0, 0.4871, 0.514
+                        ],
+                        "PrePos": [0.9431, -0.0532, 0.0644, 0.0772],
+                        "MG": [97.6, 51.2, 1086.4, 1132.8],
+                        "Tag": 84748996,
+                        "@": 84748997,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn2@6x.json"
+                        },
+                        "Pos": [473, -279, 0.95, 0.95, 333, 135, 0, 0, 0, 0],
+                        "PrePos": [0.6569, -0.4642, 0.4625, 0.2246],
+                        "MG": [187, 279, 473, -86],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749048,
+                        "@": 84749049,
+                        "Alpha": 255,
+                        "Name": "buyBtn1a",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn@6x.json"
+                        },
+                        "Pos": [484, -280, 0.95, 0.95, 330, 135, 0, 0, 0, 0],
+                        "PrePos": [0.6722, -0.4659, 0.4583, 0.2246],
+                        "MG": [186, 280, 484, -94],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749046,
+                        "@": 84749047,
+                        "Alpha": 255,
+                        "Name": "buyBtn1b",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn2@6x.json"
+                        },
+                        "Pos": [194, -526, 0.95, 0.9499, 333, 135, 0, 0, 0, 0],
+                        "PrePos": [0.2694, -0.8752, 0.4625, 0.2246],
+                        "MG": [-60, 526, 194, 193],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749044,
+                        "@": 84749045,
+                        "Alpha": 255,
+                        "Name": "buyBtn2a",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn@6x.json"
+                        },
+                        "Pos": [195, -527, 0.95, 0.95, 330, 135, 0, 0, 0, 0],
+                        "PrePos": [0.2708, -0.8769, 0.4583, 0.2246],
+                        "MG": [-61, 527, 195, 195],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749042,
+                        "@": 84749043,
+                        "Alpha": 255,
+                        "Name": "buyBtn2b",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn2@6x.json"
+                        },
+                        "Pos": [518, -526, 0.95, 0.9499, 333, 135, 0, 0, 0, 0],
+                        "PrePos": [0.7194, -0.8752, 0.4625, 0.2246],
+                        "MG": [-60, 526, 518, -131],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749040,
+                        "@": 84749041,
+                        "Alpha": 255,
+                        "Name": "buyBtn3a",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_buyBtn@6x.json"
+                        },
+                        "Pos": [519, -527, 0.95, 0.9497, 330, 135, 0, 0, 0, 0],
+                        "PrePos": [0.7208, -0.8769, 0.4583, 0.2246],
+                        "MG": [-61, 527, 519, -129],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749038,
+                        "@": 84749039,
+                        "Alpha": 255,
+                        "Name": "buyBtn3b",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_useBtn@6x.json"
+                        },
+                        "Pos": [488, -280, 0.95, 0.95, 303, 135, 0, 0, 0, 0],
+                        "PrePos": [0.6778, -0.4659, 0.4208, 0.2246],
+                        "MG": [186, 280, 488, -71],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84748988,
+                        "@": 84748989,
+                        "Alpha": 255,
+                        "Name": "useBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [419, -137, 1, 0.9999, 71, 82, 0, 0, 0, 1],
+                        "PrePos": [0.5819, -0.228, 0.0986, 0.1364],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_70_bluestroke@6x.fnt"
+                        },
+                        "MG": [382, 137, 419, 230],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "10",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 84748986,
+                        "@": 84748987,
+                        "Name": "time",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/transrec.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [
+                            310, -47, 2.1, 2.1, 33.6, 32, 0, 0, 0.003, 0.9969
+                        ],
+                        "PrePos": [0.4306, -0.0782, 0.0467, 0.0532],
+                        "MG": [107.2, 75.2, 496, 529.6],
+                        "Tag": 84748984,
+                        "@": 84748985,
+                        "Alpha": 255,
+                        "Name": "prop",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "game_revive_panel/devider.png",
+                            "Plist": "cocos/game_revive_panel@6x.plist"
+                        },
+                        "Pos": [360, -427, 1, 1, 678.4, 3.2, 0, 0, 0.4991, 0.5],
+                        "PrePos": [0.5, -0.7105, 0.9422, 0.0053],
+                        "MG": [686.4, 683.2, 576, 1254.4],
+                        "Tag": 84749014,
+                        "@": 84749015,
+                        "Alpha": 255,
+                        "Name": "devider",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [39, -435, 1, 1, 147, 33, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0542, -0.7238, 0.2042, 0.0549],
+                        "MG": [133, 435, 39, 534],
+                        "IsCustomSize": true,
+                        "LabelText": " 其他方式：",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 84749012,
+                        "@": 84749013,
+                        "Name": "text2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/game_revive_panel_text@6x.json"
+                        },
+                        "Pos": [471, -374, 1, 1, 137, 30, 0, 0, 0, 0],
+                        "PrePos": [0.6542, -0.6223, 0.1903, 0.0499],
+                        "MG": [197, 374, 471, 112],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84749020,
+                        "@": 84749021,
+                        "Alpha": 255,
+                        "Name": "more",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 720, "Y": 601 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

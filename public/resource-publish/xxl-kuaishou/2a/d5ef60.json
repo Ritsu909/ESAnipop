@@ -1,0 +1,51 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/place_holder.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [1, 0, 1, 1, 35.2, 35.2, 0, 0, 0.4886, 0.5114],
+                        "PrePos": [0.0294, 0, 1.0353, 1.0353],
+                        "MG": [35.2, 0, 1.6, 36.8],
+                        "Tag": 84746689,
+                        "@": 84746690,
+                        "Alpha": 255,
+                        "Name": "label1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/place_holder.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [1, 0, 1, 1, 35.2, 35.2, 0, 0, 0.4886, 0.5114],
+                        "PrePos": [0.0294, 0, 1.0353, 1.0353],
+                        "MG": [35.2, 0, 1.6, 36.8],
+                        "Tag": 84746687,
+                        "@": 84746688,
+                        "Alpha": 255,
+                        "Name": "label2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 34, "Y": 34 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

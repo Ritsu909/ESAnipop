@@ -1,0 +1,594 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 55,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        87595005,
+                        [
+                            { "P": [7.95, -15], "I": 0 },
+                            {
+                                "P": [7.95, 35.25],
+                                "I": 4,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [7.95, -18.35], "I": 8 },
+                            { "P": [7.95, -15], "I": 11, "T": 0 },
+                            { "P": [7.95, -15], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595003,
+                        [
+                            { "P": [14.55, -3.55], "I": 0 },
+                            {
+                                "P": [14.55, 46.7],
+                                "I": 4,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [14.55, -6.9], "I": 8 },
+                            { "P": [14.55, -3.55], "I": 11, "T": 0 },
+                            { "P": [14.55, -3.55], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87595001,
+                        [
+                            {
+                                "P": [-46.85, -18.45],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [-46.85, 31.8],
+                                "I": 5,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-46.85, -21.8], "I": 9 },
+                            { "P": [-46.85, -18.45], "I": 12, "T": 0 },
+                            { "P": [-46.85, -18.45], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87595001,
+                        [
+                            { "P": [1.1889, 1.2896], "I": 0 },
+                            { "P": [1.1889, 1.2896], "I": 5 },
+                            { "P": [1.1889, 1.2896], "I": 9 },
+                            { "P": [1.1889, 1.2896], "I": 12, "T": 0 },
+                            { "P": [1.1889, 1.2896], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "CColor",
+                        87595001,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 5 },
+                            { "P": [0, 0], "I": 9 },
+                            { "P": [0, 0], "I": 12, "T": 0 },
+                            { "P": [0, 0], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594999,
+                        [
+                            {
+                                "P": [38.6, -21.45],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [38.6, 28.8],
+                                "I": 7,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [38.6, -24.8], "I": 11 },
+                            { "P": [38.6, -21.45], "I": 14, "T": 0 },
+                            { "P": [38.6, -21.45], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594997,
+                        [
+                            {
+                                "P": [-21.6, -25.2],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [-21.6, 25.05],
+                                "I": 6,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-21.6, -28.55], "I": 10 },
+                            { "P": [-21.6, -25.2], "I": 13, "T": 0 },
+                            { "P": [-21.6, -25.2], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "CColor",
+                        87594997,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 6 },
+                            { "P": [0, 0], "I": 10 },
+                            { "P": [0, 0], "I": 13, "T": 0 },
+                            { "P": [0, 0], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594995,
+                        [
+                            {
+                                "P": [-17.75, -5.15],
+                                "I": 0,
+                                "E": [0.3333, 0.6667, 0.6667, 1]
+                            },
+                            {
+                                "P": [-17.75, 45.1],
+                                "I": 7,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-17.75, -8.5], "I": 11 },
+                            { "P": [-17.75, -5.15], "I": 13, "T": 0 },
+                            { "P": [-17.75, -5.15], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594993,
+                        [
+                            { "P": [-6.4, 10.1], "I": 0 },
+                            { "P": [-6.4, 31.4], "I": 3 },
+                            {
+                                "P": [-6.4, 60.35],
+                                "I": 8,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [-6.4, 6.75], "I": 12 },
+                            { "P": [-6.4, 10.1], "I": 15, "T": 0 },
+                            { "P": [-6.4, 10.1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        87594993,
+                        [
+                            { "P": [6.98, 6.98], "I": 0 },
+                            { "P": [6.98, 6.98], "I": 3 },
+                            {
+                                "P": [-8.02, -8.01],
+                                "I": 8,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [12.19, 12.19], "I": 12 },
+                            { "P": [6.98, 6.98], "I": 15, "T": 0 },
+                            { "P": [6.98, 6.98], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594991,
+                        [
+                            { "P": [14.8, -22.4], "I": 0 },
+                            { "P": [14.8, -22.4], "I": 2 },
+                            {
+                                "P": [14.8, 27.85],
+                                "I": 7,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [14.8, -25.75], "I": 11 },
+                            { "P": [14.8, -22.4], "I": 14, "T": 0 },
+                            { "P": [14.8, -22.4], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87594991,
+                        [
+                            { "P": [1.189, 1.2896], "I": 0 },
+                            { "P": [1.189, 1.2896], "I": 2 },
+                            { "P": [1.1889, 1.2896], "I": 7 },
+                            { "P": [1.1889, 1.2896], "I": 11 },
+                            { "P": [1.189, 1.2896], "I": 14, "T": 0 },
+                            { "P": [1.189, 1.2896], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        87594991,
+                        [
+                            { "P": [28.54, 28.54], "I": 0 },
+                            { "P": [28.54, 28.54], "I": 2 },
+                            {
+                                "P": [13.54, 13.54],
+                                "I": 7,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [32.75, 32.75], "I": 11 },
+                            { "P": [28.54, 28.54], "I": 14, "T": 0 },
+                            { "P": [28.54, 28.54], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87594989,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 14,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 43,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 54,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594989,
+                        [
+                            { "P": [-17.6, 20.75], "I": 0, "T": 0 },
+                            { "P": [-17.6, 20.75], "I": 14, "T": 0 },
+                            { "P": [-20.75, 20.75], "I": 43, "T": 0 },
+                            { "P": [-20.75, 20.75], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87594989,
+                        [
+                            { "P": [1.5, 1.5], "I": 0, "T": 0 },
+                            { "P": [1.5, 1.5], "I": 14, "T": 0 },
+                            { "P": [1, 1], "I": 43, "T": 0 },
+                            { "P": [1, 1], "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87594989,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 14, "T": 0 },
+                            { "V": 0, "I": 43, "T": 0 },
+                            { "V": 0, "I": 54, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87594987,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 19,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 48,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594987,
+                        [
+                            { "P": [23.35, -13.55], "I": 0, "T": 0 },
+                            { "P": [23.35, -13.55], "I": 19, "T": 0 },
+                            { "P": [13.55, -13.55], "I": 48, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87594987,
+                        [
+                            { "P": [1.5, 1.5], "I": 0, "T": 0 },
+                            { "P": [1.5, 1.5], "I": 19, "T": 0 },
+                            { "P": [1, 1], "I": 48, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87594987,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 19, "T": 0 },
+                            { "V": 0, "I": 48, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        87594985,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 23,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 52,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        87594985,
+                        [
+                            { "P": [-36.95, -3.5], "I": 0, "T": 0 },
+                            { "P": [-36.95, -3.5], "I": 23, "T": 0 },
+                            { "P": [3.5, -3.5], "I": 52, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        87594985,
+                        [
+                            { "P": [1.5, 1.5], "I": 0, "T": 0 },
+                            { "P": [1.5, 1.5], "I": 23, "T": 0 },
+                            { "P": [1, 1], "I": 52, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        87594985,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 23, "T": 0 },
+                            { "V": 0, "I": 52, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            7, -15, 1.189, 1.2896, 36.8, 24, 0, 0, 0.5, 0.5542
+                        ],
+                        "MG": [48, 24, 11.2, 48],
+                        "Tag": 87595004,
+                        "@": 87595005,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            14, -3, 1.189, 1.2896, 36.8, 24, 0, 0, 0.5, 0.5542
+                        ],
+                        "MG": [28.8, 4.8, 22.4, 59.2],
+                        "Tag": 87595002,
+                        "@": 87595003,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -46, -18, 1.1889, 1.2895, 36.8, 24, -15, -15, 0.5,
+                            0.5542
+                        ],
+                        "CColor": { "A": 255, "R": 201, "G": 219, "B": 227 },
+                        "MG": [52.8, 28.8, -73.6, -36.8],
+                        "Tag": 87595000,
+                        "@": 87595001,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            38, -21, 1.189, 1.2896, 36.8, 24, 5.72, 5.72, 0.5,
+                            0.5542
+                        ],
+                        "MG": [57.6, 33.6, 60.8, 97.6],
+                        "Tag": 87594998,
+                        "@": 87594999,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -21, -25, 1.189, 1.2896, 36.8, 24, 0, 0, 0.5, 0.5542
+                        ],
+                        "CColor": { "A": 255, "R": 206, "G": 227, "B": 247 },
+                        "MG": [64, 40, -33.6, 3.2],
+                        "Tag": 87594996,
+                        "@": 87594997,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -17, -5, 1.189, 1.2896, 36.8, 24, 0, 0, 0.5, 0.5542
+                        ],
+                        "MG": [32, 8, -27.2, 9.6],
+                        "Tag": 87594994,
+                        "@": 87594995,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -6, 10, 1.189, 1.2895, 36.8, 24, 6.98, 6.98, 0.5,
+                            0.5542
+                        ],
+                        "MG": [8, -16, -9.6, 27.2],
+                        "Tag": 87594992,
+                        "@": 87594993,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_animation/coinlaydown.png",
+                            "Plist": "cocos/shake_animation@6x.plist"
+                        },
+                        "Pos": [
+                            14, -22, 1.189, 1.2896, 36.8, 24, 28.54, 28.54, 0.5,
+                            0.5542
+                        ],
+                        "MG": [59.2, 35.2, 22.4, 59.2],
+                        "Tag": 87594990,
+                        "@": 87594991,
+                        "Alpha": 255,
+                        "Name": "coinlaydown_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_animation_star_animat@6x.json"
+                        },
+                        "Pos": [-17, 20, 1.5, 1.5, 0, 0, 0, 0, 0, 0],
+                        "MG": [20, -20, -17, 17],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87594988,
+                        "@": 87594989,
+                        "Alpha": 0,
+                        "Name": "star3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_animation_star_animat@6x.json"
+                        },
+                        "Pos": [23, -13, 1.5, 1.5, 0, 0, 0, 0, 0, 0],
+                        "MG": [-13, 13, 23, -23],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87594986,
+                        "@": 87594987,
+                        "Alpha": 0,
+                        "Name": "star2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/shake_animation_star_animat@6x.json"
+                        },
+                        "Pos": [-36, -3, 1.5, 1.5, 0, 0, 0, 0, 0, 0],
+                        "MG": [-3, 3, -36, 36],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87594984,
+                        "@": 87594985,
+                        "Alpha": 0,
+                        "Name": "star1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

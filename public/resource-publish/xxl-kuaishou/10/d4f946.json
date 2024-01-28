@@ -1,0 +1,192 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_quick_pay_cells_splitLine.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 648, 8, 0, 0, 0.0002, 0.9875],
+                        "MG": [8, 0, 0, 648],
+                        "Tag": 50018,
+                        "@": 50019,
+                        "Alpha": 255,
+                        "Name": "splitLine",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [58, -200, 1, 1, 440, 35, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 91,
+                            "B": 91
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0895, -0.8475, 0.679, 0.1483],
+                        "MG": [1, 200, 58, 150],
+                        "IsCustomSize": true,
+                        "LabelText": "支付宝快付，每笔随机立减！",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 50020,
+                        "@": 50021,
+                        "Name": "reduceText",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ali_promotion_cells_fasdfdsa78fdsghjgf78ds7g8fdsg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            21, -207, 1, 1, 27.2, 27.2, 0, 0, 0.0037, 0.9963
+                        ],
+                        "PrePos": [0.0324, -0.8771, 0.042, 0.1153],
+                        "MG": [358.4, 331.2, 33.6, 60.8],
+                        "Tag": 50022,
+                        "@": 50023,
+                        "Alpha": 255,
+                        "Name": "reduceIcon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [20, -167, 1, 1, 555, 38, 0, 0, 0, 1],
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0309, -0.7076, 0.8565, 0.161],
+                        "MG": [31, 167, 20, 73],
+                        "IsCustomSize": true,
+                        "LabelText": "2.此操作仅授权给开心消消乐。",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 50024,
+                        "@": 50025,
+                        "Name": "tip4",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [20, -133, 1, 1, 555, 38, 0, 0, 0, 1],
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0309, -0.5636, 0.8565, 0.161],
+                        "MG": [65, 133, 20, 73],
+                        "IsCustomSize": true,
+                        "LabelText": "1.安全保障，仅限小额支付。",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 50026,
+                        "@": 50027,
+                        "Name": "tip3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [20, -64, 1, 1, 565, 67, 0, 0, 0, 1],
+                        "CColor": {
+                            "A": 255,
+                            "R": 55,
+                            "G": 200,
+                            "B": 255
+                        },
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0309, -0.2712, 0.8719, 0.2839],
+                        "MG": [105, 64, 20, 63],
+                        "IsCustomSize": true,
+                        "LabelText": "开通快捷支付后，每次小额支付时不再需要反复输入密码，方便安全。\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Name": "tip2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [20, -17, 1, 1, 447, 46, 0, 0, 0, 1],
+                        "OutlineColor": {
+                            "A": 255,
+                            "R": 255,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0309, -0.072, 0.6898, 0.1949],
+                        "MG": [173, 17, 20, 181],
+                        "IsCustomSize": true,
+                        "LabelText": "什么是支付宝快捷支付？",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Name": "tip1",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 648,
+                    "Y": 236
+                },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,48 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [1, "gameScene/background.png", "cocos/gameScene@6x"],
+                    "Pos": [-28, 26, 1, 1, 129.6, 128, 0, 0, 0.0131, 0.9867],
+                    "Tag": 2060,
+                    "@": 2061,
+                    "#": "background",
+                    "$": "IV"
+                },
+                {
+                    "F": [0, "cocos/gameScene_progress@6x.json", ""],
+                    "Pos": [-21, 34, 1, 1, 153, 168, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2062,
+                    "@": 2063,
+                    "#": "progress",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/gameScene_data@6x.json", ""],
+                    "Pos": [34, -5, 1, 1, 67, 76, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2064,
+                    "@": 2065,
+                    "#": "data",
+                    "$": "PN"
+                },
+                {
+                    "F": [0, "cocos/gameScene_label@6x.json", ""],
+                    "Pos": [2, -146, 1, 1, 95, 27, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 2066,
+                    "@": 2067,
+                    "#": "label",
+                    "$": "PN"
+                }
+            ],
+            "Size": { "X": 160, "Y": 195 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

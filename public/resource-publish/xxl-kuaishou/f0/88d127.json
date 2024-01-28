@@ -1,0 +1,166 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 612.2227, 391.848, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 84755863,
+                        "@": 84755864,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            272, -85, 1, 1, 312.8285, 141.7176, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0.4452, -0.2174, 0.2121, 0.3315],
+                        "MG": [265.6, 136, 435.2, 564.8],
+                        "Scale9": [49, 44, 30, 39],
+                        "Tag": 84755861,
+                        "@": 84755862,
+                        "Alpha": 255,
+                        "Name": "speakbubble",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/speakingbubble01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            334, -225, 1, 1, 32, 25.6, 0, 0, 0.4875, 0.9961
+                        ],
+                        "PrePos": [0.5466, -0.5754, 0.0524, 0.0655],
+                        "MG": [385.6, 360, 534.4, 566.4],
+                        "Tag": 84755859,
+                        "@": 84755860,
+                        "Alpha": 255,
+                        "Name": "bubbletail",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_bottom_btn_blue_start2@6x.json"
+                        },
+                        "Pos": [404, -298, 0.9, 0.9, 280, 120, 0, 0, 0, 0],
+                        "PrePos": [0.6612, -0.7621, 0.4583, 0.3069],
+                        "MG": [-27, 298, 404, -73],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755857,
+                        "@": 84755858,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/poorracoon.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            194, -224, 1, 1, 299.2, 297.6, 0, 0, 0.5486, 0.4753
+                        ],
+                        "PrePos": [0.3175, -0.5729, 0.4897, 0.7611],
+                        "MG": [656, 358.4, 310.4, 609.6],
+                        "Tag": 84755855,
+                        "@": 84755856,
+                        "Alpha": 255,
+                        "Name": "racoon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [312, -114, 1, 1, 237, 80, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 60, "G": 147, "B": 189 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5106, -0.2916, 0.3879, 0.2046],
+                        "MG": [197, 114, 312, 62],
+                        "IsCustomSize": true,
+                        "LabelText": "去商店补充一些风车币吧~",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84755853,
+                        "@": 84755854,
+                        "Name": "words",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [203, -26, 1, 1, 296, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 180, "G": 119, "B": 59 },
+                        "PrePos": [0.3322, -0.0665, 0.4845, 0.1407],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [310, 26, 203, 112],
+                        "IsCustomSize": true,
+                        "LabelText": "风车币不足",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84755851,
+                        "@": 84755852,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_ui_buttons_ui_button_close_brown@6x.json"
+                        },
+                        "Pos": [555, -43, 1, 1, 34, 34, 0, 0, 0, 0],
+                        "PrePos": [0.9083, -0.11, 0.0556, 0.087],
+                        "MG": [314, 43, 555, 22],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755849,
+                        "@": 84755850,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 611, "Y": 391 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,337 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/dish.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [1, -22, 1, 1, 168, 147.2, 0, 0, 0.5045, 0.5251],
+                        "PrePos": [0.0061, -0.1384, 1.0182, 0.9258],
+                        "MG": [182.4, 35.2, 1.6, 169.6],
+                        "Tag": 81283786,
+                        "@": 81283787,
+                        "Alpha": 255,
+                        "Name": "dish",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake7.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 161.6, 148.8, 0, 0, 0.4904,
+                            0.5276
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.9794, 0.9358],
+                        "MG": [158.4, 9.6, 1.6, 163.2],
+                        "Tag": 81283784,
+                        "@": 81283785,
+                        "Alpha": 255,
+                        "Name": "cake7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry7.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 27.2, 27.2, 0, 0, -0.2831,
+                            -1.4577
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.1648, 0.1711],
+                        "MG": [36.8, 9.6, 1.6, 28.8],
+                        "Tag": 81283782,
+                        "@": 81283783,
+                        "Alpha": 255,
+                        "Name": "berry7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake8.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 161.6, 144, 0, 0, 0.4904,
+                            0.5413
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.9794, 0.9057],
+                        "MG": [153.6, 9.6, 1.6, 163.2],
+                        "Tag": 81283780,
+                        "@": 81283781,
+                        "Alpha": 255,
+                        "Name": "cake8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry8.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 27.2, 27.2, 0, 0, -1.3382,
+                            -0.4577
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.1648, 0.1711],
+                        "MG": [36.8, 9.6, 1.6, 28.8],
+                        "Tag": 81283778,
+                        "@": 81283779,
+                        "Alpha": 255,
+                        "Name": "berry8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake6.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 161.6, 148.8, 0, 0, 0.4904,
+                            0.5376
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.9794, 0.9358],
+                        "MG": [158.4, 9.6, 1.6, 163.2],
+                        "Tag": 81283776,
+                        "@": 81283777,
+                        "Alpha": 255,
+                        "Name": "cake6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry6.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 24, 25.6, 0, 0, 1.325,
+                            -1.5957
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.1455, 0.161],
+                        "MG": [35.2, 9.6, 1.6, 25.6],
+                        "Tag": 81283774,
+                        "@": 81283775,
+                        "Alpha": 255,
+                        "Name": "berry6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake5.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 163.2, 144, 0, 0, 0.4975,
+                            0.5413
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.9891, 0.9057],
+                        "MG": [153.6, 9.6, 1.6, 164.8],
+                        "Tag": 81283772,
+                        "@": 81283773,
+                        "Alpha": 255,
+                        "Name": "cake5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry5.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -6, 0.9526, 0.9526, 27.2, 27.2, 0, 0, 2.2371,
+                            -0.4412
+                        ],
+                        "PrePos": [0.0061, -0.0377, 0.1648, 0.1711],
+                        "MG": [36.8, 9.6, 1.6, 28.8],
+                        "Tag": 81283770,
+                        "@": 81283771,
+                        "Alpha": 255,
+                        "Name": "berry5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake4.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 161.6, 144, 0, 0, 0.4904,
+                            0.5413
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.9794, 0.9057],
+                        "MG": [152, 8, 1.6, 163.2],
+                        "Tag": 81283768,
+                        "@": 81283769,
+                        "Alpha": 255,
+                        "Name": "cake4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry4.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 28.8, 28.8, 0, 0, 2.1128,
+                            0.901
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.1745, 0.1811],
+                        "MG": [36.8, 8, 1.6, 30.4],
+                        "Tag": 81283766,
+                        "@": 81283767,
+                        "Alpha": 255,
+                        "Name": "berry4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake1.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 161.6, 144, 0, 0, 0.4904,
+                            0.5413
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.9794, 0.9057],
+                        "MG": [152, 8, 1.6, 163.2],
+                        "Tag": 81283764,
+                        "@": 81283765,
+                        "Alpha": 255,
+                        "Name": "cake1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry1.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 28.8, 30.4, 0, 0, -1.1962,
+                            0.8816
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.1745, 0.1912],
+                        "MG": [38.4, 8, 1.6, 30.4],
+                        "Tag": 81283762,
+                        "@": 81283763,
+                        "Alpha": 255,
+                        "Name": "berry1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake3.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 161.6, 148.8, 0, 0, 0.4904,
+                            0.5561
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.9794, 0.9358],
+                        "MG": [156.8, 8, 1.6, 163.2],
+                        "Tag": 81283760,
+                        "@": 81283761,
+                        "Alpha": 255,
+                        "Name": "cake3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry3.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 27.2, 30.4, 0, 0, 1.1985,
+                            1.6908
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.1648, 0.1912],
+                        "MG": [38.4, 8, 1.6, 28.8],
+                        "Tag": 81283758,
+                        "@": 81283759,
+                        "Alpha": 255,
+                        "Name": "berry3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/cake2.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            1, -5, 0.9526, 0.9526, 161.6, 148.8, 0, 0, 0.4904,
+                            0.5561
+                        ],
+                        "PrePos": [0.0061, -0.0314, 0.9794, 0.9358],
+                        "MG": [156.8, 8, 1.6, 163.2],
+                        "Tag": 81283756,
+                        "@": 81283757,
+                        "Alpha": 255,
+                        "Name": "cake2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/heart.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 54.4, 41.6, 0, 0, 0.4256, 0.4087],
+                        "MG": [41.6, 0, 0, 54.4],
+                        "Tag": 81283754,
+                        "@": 81283755,
+                        "Alpha": 255,
+                        "Name": "heart",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_cake/berry2.png",
+                            "Plist": "cocos/obstacle_anim_cake@6x.plist"
+                        },
+                        "Pos": [
+                            2, -6, 0.935, 0.935, 27.2, 32, 0, 0, -0.2721, 1.6516
+                        ],
+                        "PrePos": [0.0121, -0.0377, 0.1648, 0.2013],
+                        "MG": [41.6, 9.6, 3.2, 30.4],
+                        "Tag": 81283752,
+                        "@": 81283753,
+                        "Alpha": 255,
+                        "Name": "berry2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 165, "Y": 159 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

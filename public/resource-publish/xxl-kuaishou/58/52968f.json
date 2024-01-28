@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 58,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        27382640,
+                        [
+                            { "P": [32.15, -5.1], "I": 0, "T": 0 },
+                            { "P": [32.15, -5.1], "I": 57, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        27382638,
+                        [
+                            { "P": [46.2, -5.65], "I": 0, "T": 0 },
+                            {
+                                "P": [46.2, -5.65],
+                                "I": 1,
+                                "E": [0.2744, 0.8459, 0.7093, 1]
+                            },
+                            { "P": [47.25, -29.65], "I": 3 },
+                            { "P": [46.65, -27.2], "I": 8 },
+                            { "P": [47.05, -28.9], "I": 12 },
+                            { "P": [46.7, -27.35], "I": 16, "T": 0 },
+                            { "P": [46.7, -27.35], "I": 26 },
+                            { "P": [46.2, -5.65], "I": 57, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        27382638,
+                        [
+                            { "P": [15, 15], "I": 0, "T": 0 },
+                            {
+                                "P": [15, 15],
+                                "I": 1,
+                                "E": [0.2744, 0.8459, 0.7093, 1]
+                            },
+                            { "P": [-11.73, -11.73], "I": 3 },
+                            { "P": [-8.99, -8.99], "I": 8 },
+                            { "P": [-10.94, -10.94], "I": 12 },
+                            { "P": [-9.2, -9.2], "I": 16, "T": 0 },
+                            { "P": [-9.2, -9.2], "I": 26 },
+                            { "P": [15, 15], "I": 57, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        27382636,
+                        [
+                            { "P": [43.4, -8.5], "I": 0, "T": 0 },
+                            { "P": [43.4, -8.5], "I": 57, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [
+                {
+                    "StartIndex": 0,
+                    "EndIndex": 1,
+                    "Name": "normal",
+                    "RenderColor": { "A": 150, "R": 152, "G": 254, "B": 152 }
+                },
+                {
+                    "StartIndex": 1,
+                    "EndIndex": 57,
+                    "Name": "action",
+                    "RenderColor": { "A": 150, "R": 255, "G": 60, "B": 255 }
+                }
+            ],
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_scene/holeshake.png",
+                            "Plist": "cocos/shake_scene@6x.plist"
+                        },
+                        "Pos": [32, -5, 1, 1, 28.8, 92.8, 0, 0, 0.4913, 0.5043],
+                        "MG": [100.8, 8, 51.2, 80],
+                        "Tag": 27382639,
+                        "@": 27382640,
+                        "Alpha": 255,
+                        "Name": "3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_scene/btnyellow.png",
+                            "Plist": "cocos/shake_scene@6x.plist"
+                        },
+                        "Pos": [46, -5, 1, 1, 99.2, 56, 15, 15, 1.0272, 0.3955],
+                        "MG": [64, 8, 73.6, 172.8],
+                        "Tag": 27382637,
+                        "@": 27382638,
+                        "Alpha": 255,
+                        "Name": "2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "shake_scene/hideup.png",
+                            "Plist": "cocos/shake_scene@6x.plist"
+                        },
+                        "Pos": [43, -8, 1, 1, 16, 78.4, 0, 0, 0.475, 0.5217],
+                        "MG": [91.2, 12.8, 68.8, 84.8],
+                        "Tag": 27382635,
+                        "@": 27382636,
+                        "Alpha": 255,
+                        "Name": "1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

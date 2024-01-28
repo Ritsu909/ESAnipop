@@ -1,0 +1,195 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0, -0.493, 0.2505, 0.2479],
+                        "MG": [294.4, 224, 0, 70.4],
+                        "Tag": 92744482,
+                        "@": 92744483,
+                        "Alpha": 255,
+                        "Name": "owl1113434_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [70, 0, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.2491, 0, 0.2505, 0.2535],
+                        "MG": [72, 0, 112, 182.4],
+                        "Tag": 92744480,
+                        "@": 92744481,
+                        "Alpha": 255,
+                        "Name": "chicken3434_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -140, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7473, -0.493, 0.2505, 0.2479],
+                        "MG": [294.4, 224, 336, 406.4],
+                        "Tag": 92744478,
+                        "@": 92744479,
+                        "Alpha": 255,
+                        "Name": "hippo343434_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/butterfly.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [209, -1, 1, 1, 72, 75.2, 0, 0, 0.0014, 0.9987],
+                        "PrePos": [0.7438, -0.0035, 0.2562, 0.2648],
+                        "MG": [76.8, 1.6, 334.4, 406.4],
+                        "Tag": 92744476,
+                        "@": 92744477,
+                        "Alpha": 255,
+                        "Name": "butterfly_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/butterfly.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, -210, 1, 1, 72, 75.2, 0, 0, 0.0014, 0.9987],
+                        "PrePos": [0, -0.7394, 0.2562, 0.2648],
+                        "MG": [411.2, 336, 0, 72],
+                        "Tag": 92744474,
+                        "@": 92744475,
+                        "Alpha": 255,
+                        "Name": "butterfly_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/butterfly.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, -70, 1, 1, 72, 75.2, 0, 0, 0.0014, 0.9987],
+                        "PrePos": [0, -0.2465, 0.2562, 0.2648],
+                        "MG": [187.2, 112, 0, 72],
+                        "Tag": 92744472,
+                        "@": 92744473,
+                        "Alpha": 255,
+                        "Name": "butterfly_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/butterfly.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 72, 75.2, 0, 0, 0.0014, 0.9987],
+                        "MG": [75.2, 0, 0, 72],
+                        "Tag": 92744470,
+                        "@": 92744471,
+                        "Alpha": 255,
+                        "Name": "butterfly_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            70, -210, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2491, -0.7394, 0.2505, 0.2479],
+                        "MG": [406.4, 336, 112, 182.4],
+                        "Tag": 92744468,
+                        "@": 92744469,
+                        "Alpha": 255,
+                        "Name": "owl1113434_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/owl1113434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            70, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2491, -0.2465, 0.2505, 0.2479],
+                        "MG": [182.4, 112, 112, 182.4],
+                        "Tag": 92744466,
+                        "@": 92744467,
+                        "Alpha": 255,
+                        "Name": "owl1113434_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/chicken3434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [210, -69, 1, 1, 70.4, 72, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0.7473, -0.243, 0.2505, 0.2535],
+                        "MG": [182.4, 110.4, 336, 406.4],
+                        "Tag": 92744464,
+                        "@": 92744465,
+                        "Alpha": 255,
+                        "Name": "chicken3434_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/hippo343434.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            210, -210, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.7473, -0.7394, 0.2505, 0.2479],
+                        "MG": [406.4, 336, 336, 406.4],
+                        "Tag": 92744462,
+                        "@": 92744463,
+                        "Alpha": 255,
+                        "Name": "hippo343434_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 281, "Y": 284 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

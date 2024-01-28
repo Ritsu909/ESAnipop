@@ -1,0 +1,79 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [0, -5, 1, 1, 145, 78, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0, -0.045, 0.6042, 0.7027],
+                        "MG": [28, 5, 0, 95],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请新用户奖励：\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 10108058,
+                        "@": 10108059,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [136, -70, 1, 1, 104, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 40, "G": 60, "B": 130 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.5667, -0.6306, 0.4333, 0.3694],
+                        "MG": [0, 70, 136, 0],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "X20\\n",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 10108056,
+                        "@": 10108057,
+                        "Name": "num",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_result/gold.png",
+                            "Plist": "cocos/pvp_result@6x.plist"
+                        },
+                        "Pos": [139, 0, 0.8, 0.8, 96, 96, 0, 0, 0.001, 0.999],
+                        "PrePos": [0.5792, 0, 0.4, 0.8649],
+                        "MG": [96, 0, 222.4, 318.4],
+                        "Tag": 10108054,
+                        "@": 10108055,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 240, "Y": 111 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

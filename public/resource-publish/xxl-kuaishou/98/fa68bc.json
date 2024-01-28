@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 200,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50011,
+                        [
+                            { "P": [0, 61.05], "I": 0 },
+                            { "P": [0, 61.05], "I": 100 },
+                            { "P": [0, 61.05], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50011,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0.49, 0, 0.49, 1] },
+                            {
+                                "P": [1, 1.2645],
+                                "I": 100,
+                                "E": [0.4939, 0, 0.4939, 1]
+                            },
+                            { "P": [1, 1], "I": 199, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_ocean.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [0, 61, 1, 1, 960, 136, 0, 0, 0.5001, 0.9518],
+                        "MG": [38.4, -97.6, 0, 960],
+                        "Tag": 50010,
+                        "@": 50011,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

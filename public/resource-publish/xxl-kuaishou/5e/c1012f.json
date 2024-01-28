@@ -1,0 +1,235 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_surpassFriend/chick_body_new.png",
+                            "Plist": "cocos/share_surpassFriend@6x.plist"
+                        },
+                        "Pos": [
+                            -52, 151, 1, 1, 147.2, 142.4, 0, 0, 0.0007, 0.9993
+                        ],
+                        "PrePos": [-0.3291, 0.9679, 0.9316, 0.9128],
+                        "MG": [-99.2, -241.6, -83.2, 64.0],
+                        "Tag": 81685429,
+                        "@": 81685430,
+                        "Alpha": 255,
+                        "Name": "body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chicke_face_L.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            53, 89, 0.6673, 0.6616, 136, 43.2, -16.27, 159.93,
+                            0.2092, 0.5197
+                        ],
+                        "PrePos": [0.3354, 0.5705, 0.8608, 0.2769],
+                        "MG": [-99.2, -142.4, 84.8, 220.8],
+                        "Tag": 81685427,
+                        "@": 81685428,
+                        "Alpha": 255,
+                        "Name": "chicke_face_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            46, 101, 0.7828, 0.774, 38.4, 41.6, -18.97, 160.51,
+                            0.4844, 0.5048
+                        ],
+                        "PrePos": [0.2911, 0.6474, 0.243, 0.2667],
+                        "MG": [-120, -161.6, 73.6, 112],
+                        "Tag": 81685425,
+                        "@": 81685426,
+                        "Alpha": 255,
+                        "Name": "chick_eyeball-aaa",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            45, 100, 0.8727, 0.8628, 27.2, 27.2, -18.97, 160.51,
+                            0.5, 0.5
+                        ],
+                        "PrePos": [0.2848, 0.641, 0.1722, 0.1744],
+                        "MG": [-132.8, -160, 72, 99.2],
+                        "Tag": 81685423,
+                        "@": 81685424,
+                        "Alpha": 255,
+                        "Name": "chick_eyeinside_bbb",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeball.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -1, 85, 0.8542, 0.8446, 38.4, 41.6, -18.97, 160.44,
+                            0.4844, 0.5048
+                        ],
+                        "PrePos": [-0.0063, 0.5449, 0.243, 0.2667],
+                        "MG": [-94.4, -136, -1.6, 36.8],
+                        "Tag": 81685421,
+                        "@": 81685422,
+                        "Alpha": 255,
+                        "Name": "chick_eyeball_bbb",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            2, 87, 0.8948, 0.8848, 27.2, 27.2, -18.97, 160.45,
+                            0.5, 0.5
+                        ],
+                        "PrePos": [0.0127, 0.5577, 0.1722, 0.1744],
+                        "MG": [-112.0, -139.2, 3.2, 30.4],
+                        "Tag": 81685419,
+                        "@": 81685420,
+                        "Alpha": 255,
+                        "Name": "chick_eyeinside_aaa",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_eyerow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            18, 112, 0.6647, 0.2616, 54.4, 14.4, -20.23, 162.47,
+                            0.489, 0.5069
+                        ],
+                        "PrePos": [0.1139, 0.7179, 0.3443, 0.0923],
+                        "MG": [-164.8, -179.2, 28.8, 83.2],
+                        "Tag": 81685417,
+                        "@": 81685418,
+                        "Alpha": 255,
+                        "Name": "chick_eyerow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hat1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            17, 130, 0.5788, 0.673, 60.8, 64, -51.85, 130.04,
+                            0.2048, -0.0016
+                        ],
+                        "PrePos": [0.1076, 0.8333, 0.3848, 0.4103],
+                        "MG": [-144, -208, 27.2, 88],
+                        "Tag": 81685415,
+                        "@": 81685416,
+                        "Alpha": 255,
+                        "Name": "chick_hat1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "share_surpassFriend/swimmingRing.png",
+                            "Plist": "cocos/share_surpassFriend@6x.plist"
+                        },
+                        "Pos": [
+                            -44, 95, 1, 1, 150.4, 89.6, 0, 0, 0.0007, 0.9989
+                        ],
+                        "PrePos": [-0.2785, 0.609, 0.9519, 0.5744],
+                        "MG": [-62.4, -152, -70.4, 80],
+                        "Tag": 81685413,
+                        "@": 81685414,
+                        "Alpha": 255,
+                        "Name": "chick_yongquan",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hand3.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -17, 54, 0.5267, 0.5428, 56, 44.8, -0.53, 176.83,
+                            0.8152, 0.7812
+                        ],
+                        "PrePos": [-0.1076, 0.3462, 0.3544, 0.2872],
+                        "MG": [-41.6, -86.4, -27.2, 28.8],
+                        "Tag": 81685411,
+                        "@": 81685412,
+                        "Alpha": 255,
+                        "Name": "chick_hand3_bbb",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_upsetmouth.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            28, 84, 0.6074, 0.6268, 36.8, 22.4, -16.47, -16.47,
+                            0.4918, 0.5268
+                        ],
+                        "PrePos": [0.1772, 0.5385, 0.2329, 0.1436],
+                        "MG": [-112, -134.4, 44.8, 81.6],
+                        "Tag": 81685409,
+                        "@": 81685410,
+                        "Alpha": 255,
+                        "Name": "chick_upsetmouth",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/chick_hand3.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            75, 88, 0.5267, 0.5428, 56, 44.8, -59.12, -56.47,
+                            0.8152, 0.7812
+                        ],
+                        "PrePos": [0.4747, 0.5641, 0.3544, 0.2872],
+                        "MG": [-96.0, -140.8, 120, 176],
+                        "Tag": 81685407,
+                        "@": 81685408,
+                        "Alpha": 255,
+                        "Name": "chick_hand3_aaa",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 158, "Y": 156 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

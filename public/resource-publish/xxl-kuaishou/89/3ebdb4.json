@@ -1,0 +1,44 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 10,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "RotationSkew",
+                        90062648,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [74.95, 74.95], "I": 9, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_tilecolorcollector/zai.png",
+                            "Plist": "cocos/obstacle_anim_tilecolorcollector@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 22.4, 0, 0, 0.5, 0.5022],
+                        "MG": [22.4, 0, 0, 24],
+                        "Tag": 90062647,
+                        "@": 90062648,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,427 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 200,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50019,
+                        [
+                            { "P": [481, -382.4], "I": 0, "T": 0 },
+                            { "P": [481, -382.4], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50021,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50021,
+                        [
+                            { "P": [481.95, -280.95], "I": 0, "T": 0 },
+                            { "P": [481.95, -280.95], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50023,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50023,
+                        [
+                            { "P": [481, -295.5], "I": 0, "T": 0 },
+                            { "P": [481, -295.5], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50025,
+                        [
+                            {
+                                "P": [480, -283.6],
+                                "I": 0,
+                                "E": [0.4949, 0, 0.4949, 1]
+                            },
+                            {
+                                "P": [480, -293.55],
+                                "I": 99,
+                                "E": [0.5061, 0, 0.5, 1]
+                            },
+                            { "P": [480, -283.6], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50025,
+                        [
+                            {
+                                "P": [1, 0.9021],
+                                "I": 0,
+                                "E": [0.4949, 0, 0.4949, 1]
+                            },
+                            {
+                                "P": [1, 1.4659],
+                                "I": 99,
+                                "E": [0.5061, 0, 0.5, 1]
+                            },
+                            { "P": [1, 0.9021], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50025,
+                        [
+                            { "V": 124, "I": 0 },
+                            { "V": 255, "I": 99 },
+                            { "V": 124, "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50027,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50029,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50029,
+                        [
+                            { "P": [-80.55, -10.45], "I": 0, "T": 0 },
+                            { "P": [-80.55, -10.45], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50031,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50031,
+                        [
+                            { "P": [224.4, -22.45], "I": 0, "T": 0 },
+                            { "P": [224.4, -22.45], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50033,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 199,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50033,
+                        [
+                            { "P": [117.45, -69.05], "I": 0, "T": 0 },
+                            { "P": [117.45, -69.05], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50035,
+                        [
+                            { "P": [-80.55, -93.95], "I": 0, "T": 0 },
+                            { "P": [-80.55, -93.95], "I": 199, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50037,
+                        [
+                            { "P": [484.5, -27.5], "I": 0, "T": 0 },
+                            { "P": [484.5, -27.5], "I": 199, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_sky.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 0.8168, 960, 382.4, 0, 0, 0.0001, 0.9997
+                        ],
+                        "MG": [382.4, 0, 0, 960],
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "sky",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_sand.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            481, -382, 1, 0.9021, 960, 224, 0, 0, 0.5001, 0.4996
+                        ],
+                        "MG": [835.2, 611.2, 769.6, 1729.6],
+                        "Tag": 50018,
+                        "@": 50019,
+                        "Alpha": 255,
+                        "Name": "sand",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_shadowmove@6x.json"
+                        },
+                        "Pos": [481, -280, 1, 0.8777, 0, 0, 0, 0, 0, 0],
+                        "MG": [-280, 280, 481, -481],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50020,
+                        "@": 50021,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_oceanmove@6x.json"
+                        },
+                        "Pos": [481, -295, 1, 0.9021, 0, 0, 0, 0, 0, 0],
+                        "MG": [-295, 295, 481, -481],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50022,
+                        "@": 50023,
+                        "Alpha": 255,
+                        "Name": "ocean",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_wave.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [
+                            480, -283, 1, 0.9021, 960, 32, 0, 0, 0.5001, 0.4969
+                        ],
+                        "MG": [484.8, 452.8, 768, 1728],
+                        "Tag": 50024,
+                        "@": 50025,
+                        "Alpha": 125,
+                        "Name": "wave",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_l1move@6x.json"
+                        },
+                        "Pos": [851, -69, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-69, 69, 851, -851],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50026,
+                        "@": 50027,
+                        "Alpha": 255,
+                        "Name": "l1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_l2move@6x.json"
+                        },
+                        "Pos": [-80, -10, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-10, 10, -80, 80],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Alpha": 255,
+                        "Name": "l2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_l3move@6x.json"
+                        },
+                        "Pos": [224, -22, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-22, 22, 224, -224],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "l31",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/order_assets_l4move@6x.json"
+                        },
+                        "Pos": [117, -69, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [-69, 69, 117, -117],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "l4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_trunk.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [-80, -93, 1, 1, 272, 256, 0, 0, 0.4985, 0.5016],
+                        "MG": [404.8, 148.8, -128, 144],
+                        "Tag": 50034,
+                        "@": 50035,
+                        "Alpha": 255,
+                        "Name": "tree",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "order/assets_roof.png",
+                            "Plist": "cocos/order@6x.plist"
+                        },
+                        "Pos": [484, -27, 1, 1, 952, 56, 0, 0, 0.4996, 0.5071],
+                        "MG": [99.2, 43.2, 774.4, 1726.4],
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "roof",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

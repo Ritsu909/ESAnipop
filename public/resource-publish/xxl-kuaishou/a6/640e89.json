@@ -1,0 +1,120 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/HE_1.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            228, -162, 1, 1, 456, 326.4, 0, 0, 0.5002, 0.5018
+                        ],
+                        "PrePos": [0.5, -0.4985, 1, 1.0043],
+                        "MG": [585.6, 259.2, 364.8, 820.8],
+                        "Tag": 111127,
+                        "@": 111128,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [223, -64, 1, 1, 184, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 50, "G": 66, "B": 170 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.489, -0.1969, 0.4035, 0.0923],
+                        "MG": [231, 64, 223, 49],
+                        "IsCustomSize": true,
+                        "LabelText": "鸟不会飞",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111217,
+                        "@": 111218,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [107, -64, 1, 1, 115, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2346, -0.1969, 0.2522, 0.0923],
+                        "MG": [231, 64, 107, 234],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "第一名：",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111215,
+                        "@": 111216,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [96, -99, 1, 1, 259, 129, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 153, "G": 102, "B": 205 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2105, -0.3046, 0.568, 0.3969],
+                        "MG": [97, 99, 96, 101],
+                        "IsCustomSize": true,
+                        "LabelText": "帮您完成了悬赏关卡，获得：",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111213,
+                        "@": 111214,
+                        "Name": "msg",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_rank_panel_btn@6x.json"
+                        },
+                        "Pos": [227, -248, 1.3, 1.3, 130, 51, 0, 0, 0, 0],
+                        "PrePos": [0.4978, -0.7631, 0.2851, 0.1569],
+                        "MG": [26, 248, 227, 99],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111125,
+                        "@": 111126,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 456, "Y": 325 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

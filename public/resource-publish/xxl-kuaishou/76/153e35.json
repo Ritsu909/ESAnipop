@@ -1,0 +1,126 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 525.2544, 496.2797, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [22, 22, 17, 15],
+                        "Tag": 84754034,
+                        "@": 84754035,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "coupon_panel/couponbear.png",
+                            "Plist": "cocos/coupon_panel@6x.plist"
+                        },
+                        "Pos": [
+                            49, -204, 1, 1, 427.2, 264, 0, 0, -0.0035, 0.9964
+                        ],
+                        "PrePos": [0.0944, -0.418, 0.8231, 0.541],
+                        "MG": [590.4, 326.4, 78.4, 505.6],
+                        "Tag": 84754032,
+                        "@": 84754033,
+                        "Alpha": 255,
+                        "Name": "bear",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "coupon_panel/inputname1.png",
+                            "Plist": "cocos/coupon_panel@6x.plist"
+                        },
+                        "Pos": [
+                            38, -105, 1, 1, 446.5715, 81.4416, 0, 0, 0.002,
+                            0.9979
+                        ],
+                        "PrePos": [0.0732, -0.2152, 0.0987, 0.0984],
+                        "MG": [216, 168, 60.8, 112],
+                        "Scale9": [14, 13, 4, 4],
+                        "Tag": 84754030,
+                        "@": 84754031,
+                        "Alpha": 255,
+                        "Name": "input",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/coupon_panel_get_button@6x.json"
+                        },
+                        "Pos": [479, -144, 1, 1, 112, 80, 0, 0, 0, 0],
+                        "PrePos": [0.9229, -0.2951, 0.2158, 0.1639],
+                        "MG": [264, 144, 479, -72],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84754036,
+                        "@": 84754037,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "coupon_panel/title.png",
+                            "Plist": "cocos/coupon_panel@6x.plist"
+                        },
+                        "Pos": [
+                            160, -26, 1, 1, 208, 60.8, 0, 0, 0.0005, 0.9984
+                        ],
+                        "PrePos": [0.3083, -0.0533, 0.4008, 0.1246],
+                        "MG": [102.4, 41.6, 256, 464],
+                        "Tag": 84754028,
+                        "@": 84754029,
+                        "Alpha": 255,
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            477, -41, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.9191, -0.084, 0.1665, 0.1705],
+                        "MG": [148.8, 65.6, 763.2, 849.6],
+                        "Tag": 84754026,
+                        "@": 84754027,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 519, "Y": 488 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

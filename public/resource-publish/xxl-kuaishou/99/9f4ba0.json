@@ -1,0 +1,120 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/res_selct_item_bg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -302, 122, 1, 1, 612.1709, 131.4144, 0, 0, 0.0011,
+                            0.999
+                        ],
+                        "PrePos": [-0.5, 0.9385, 0.151, 0.7385],
+                        "MG": [-99.2, -195.2, -483.2, -392],
+                        "Scale9": [40, 40, 10, 10],
+                        "Tag": 84757936,
+                        "@": 84757937,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "select_payment_panel/res_icn_bg.png",
+                            "Plist": "cocos/select_payment_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -273, 109, 1, 1, 97.9878, 97.9878, 0, 0, 0.0017,
+                            0.9983
+                        ],
+                        "PrePos": [-0.452, 0.8385, 0.098, 0.4554],
+                        "MG": [-115.2, -174.4, -436.8, -377.6],
+                        "Scale9": [24, 24, 10, 10],
+                        "Tag": 84757934,
+                        "@": 84757935,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/select_payment_panel_btn_blue_start@6x.json"
+                        },
+                        "Pos": [148, 60, 0.65, 0.6499, 368, 135, 0, 0, 0, 0],
+                        "PrePos": [0.245, 0.4615, 0.6093, 1.0385],
+                        "MG": [55, -60, 148, 88],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84757932,
+                        "@": 84757933,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [-164, 80, 1, 1, 195, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 154, "G": 89, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.2715, 0.6154, 0.3228, 0.3154],
+                        "MG": [169, -80, -164, 573],
+                        "IsCustomSize": true,
+                        "LabelText": "支付宝",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84757930,
+                        "@": 84757931,
+                        "Name": "payment",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [69, 80, 1, 1, 161, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 154, "G": 89, "B": 0 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1142, 0.6154, 0.2666, 0.3154],
+                        "MG": [169, -80, 69, 374],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "已达到限额",
+                        "FontSize": 28,
+                        "Shadow": [2, -2],
+                        "Tag": 84757968,
+                        "@": 84757969,
+                        "Name": "limit",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 604, "Y": 130 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,730 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 37,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50001,
+                        [
+                            { "P": [54, -33.9], "I": 0 },
+                            { "P": [54, -33.9], "I": 4 },
+                            { "P": [54, -33.9], "I": 9, "T": 0 },
+                            { "P": [54, -33.9], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50001,
+                        [
+                            {
+                                "P": [0.926, 0.6627],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.0062, 0.6627],
+                                "I": 4,
+                                "E": [0.4736, 0, 0.5, 1]
+                            },
+                            { "P": [0.437, 0.2878], "I": 9, "T": 0 },
+                            { "P": [0.437, 0.2878], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50001,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 4 },
+                            { "V": 0, "I": 9, "T": 0 },
+                            { "V": 0, "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50003,
+                        [
+                            { "P": [-1, 97.65], "I": 0, "T": 0 },
+                            { "P": [-97.65, 97.65], "I": 4, "T": 0 },
+                            {
+                                "P": [-1, 97.65],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-1, 95.15],
+                                "I": 27,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-1, 99.15],
+                                "I": 31,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-1, 97.65], "I": 34, "T": 0 },
+                            { "P": [-1, 97.65], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50003,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 4, "T": 0 },
+                            { "V": 255, "I": 22 },
+                            { "V": 255, "I": 27 },
+                            { "V": 255, "I": 31 },
+                            { "V": 255, "I": 34, "T": 0 },
+                            { "V": 255, "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50017,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50031,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50045,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50059,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50073,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50087,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50101,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 36,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50103,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            {
+                                "P": [1, 1],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [1.0231, 0.9748],
+                                "I": 27,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0.9846, 1.0157],
+                                "I": 31,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1, 1], "I": 34, "T": 0 },
+                            { "P": [1, 1], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50105,
+                        [
+                            {
+                                "P": [53.35, -9.05],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [53.85, -11.1],
+                                "I": 4,
+                                "E": [0.4675, 0, 0.3659, 1]
+                            },
+                            {
+                                "P": [17.8, 172.35],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            {
+                                "P": [-1.55, 116.7],
+                                "I": 22,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-1.55, 114.2],
+                                "I": 27,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [-1.55, 118.2],
+                                "I": 31,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-1.55, 116.7], "I": 34, "T": 0 },
+                            { "P": [-1.55, 116.7], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50105,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.07, 0.9412], "I": 4 },
+                            {
+                                "P": [1.07, 0.9412],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            { "P": [1, 1], "I": 22 },
+                            { "P": [1, 1], "I": 27 },
+                            { "P": [1, 1], "I": 31 },
+                            { "P": [1, 1], "I": 34, "T": 0 },
+                            { "P": [1, 1], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50105,
+                        [
+                            {
+                                "P": [0.71, 0.71],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0.81, 0.62],
+                                "I": 4,
+                                "E": [0.4675, 0, 0.3659, 1]
+                            },
+                            {
+                                "P": [20.5, 20.32],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            { "P": [0.56, 0.52], "I": 22 },
+                            { "P": [0.56, 0.52], "I": 27 },
+                            { "P": [0.56, 0.52], "I": 31 },
+                            { "P": [0.56, 0.52], "I": 34, "T": 0 },
+                            { "P": [0.56, 0.52], "I": 36, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50107,
+                        [
+                            {
+                                "P": [53.65, -29.15],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [54.2, -30.05],
+                                "I": 4,
+                                "E": [0.4675, 0, 0.3659, 1]
+                            },
+                            {
+                                "P": [11.65, 154.4],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            {
+                                "P": [11.7, 154.25],
+                                "I": 15,
+                                "E": [0.4005, 0.0115, 0.9958, 0.1124]
+                            },
+                            {
+                                "P": [11.5, 153.8],
+                                "I": 16,
+                                "E": [0.4495, 0.0365, 0.9957, 0.2065]
+                            },
+                            {
+                                "P": [11.2, 152.65],
+                                "I": 17,
+                                "E": [0.4888, 0.0682, 0.9955, 0.2885]
+                            },
+                            {
+                                "P": [10.85, 150.65],
+                                "I": 18,
+                                "E": [0.5223, 0.1041, 0.9951, 0.3619]
+                            },
+                            {
+                                "P": [9.95, 147.3],
+                                "I": 19,
+                                "E": [0.5523, 0.1434, 0.9945, 0.4294]
+                            },
+                            {
+                                "P": [8.75, 141.7],
+                                "I": 20,
+                                "E": [0.5803, 0.1865, 0.9936, 0.4938]
+                            },
+                            {
+                                "P": [6.45, 132],
+                                "I": 21,
+                                "E": [0.608, 0.2368, 0.9913, 0.5597]
+                            },
+                            { "P": [-132, 132], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50107,
+                        [
+                            {
+                                "P": [1, 1],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [1.07, 0.9412], "I": 4 },
+                            {
+                                "P": [1.07, 0.9412],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            {
+                                "P": [1.0688, 0.9403],
+                                "I": 15,
+                                "E": [0.4005, 0.0115, 0.9958, 0.1124]
+                            },
+                            {
+                                "P": [1.0682, 0.9408],
+                                "I": 16,
+                                "E": [0.4495, 0.0365, 0.9957, 0.2065]
+                            },
+                            {
+                                "P": [1.0668, 0.9419],
+                                "I": 17,
+                                "E": [0.4888, 0.0682, 0.9955, 0.2885]
+                            },
+                            {
+                                "P": [1.0643, 0.9441],
+                                "I": 18,
+                                "E": [0.5223, 0.1041, 0.9951, 0.3619]
+                            },
+                            {
+                                "P": [1.0602, 0.9476],
+                                "I": 19,
+                                "E": [0.5523, 0.1434, 0.9945, 0.4294]
+                            },
+                            {
+                                "P": [1.0535, 0.9535],
+                                "I": 20,
+                                "E": [0.5803, 0.1865, 0.9936, 0.4938]
+                            },
+                            {
+                                "P": [1.0417, 0.9637],
+                                "I": 21,
+                                "E": [0.608, 0.2368, 0.9913, 0.5597]
+                            },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50107,
+                        [
+                            {
+                                "P": [0.71, 0.71],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0.81, 0.62],
+                                "I": 4,
+                                "E": [0.4675, 0, 0.3659, 1]
+                            },
+                            {
+                                "P": [20.5, 20.32],
+                                "I": 14,
+                                "E": [0.3333, 0, 0.9959, 0]
+                            },
+                            {
+                                "P": [20.33, 20.28],
+                                "I": 15,
+                                "E": [0.4005, 0.0115, 0.9958, 0.1124]
+                            },
+                            {
+                                "P": [20.29, 20.05],
+                                "I": 16,
+                                "E": [0.4495, 0.0365, 0.9957, 0.2065]
+                            },
+                            {
+                                "P": [19.81, 19.58],
+                                "I": 17,
+                                "E": [0.4888, 0.0682, 0.9955, 0.2885]
+                            },
+                            {
+                                "P": [19.07, 19.02],
+                                "I": 18,
+                                "E": [0.5223, 0.1041, 0.9951, 0.3619]
+                            },
+                            {
+                                "P": [17.83, 17.79],
+                                "I": 19,
+                                "E": [0.5523, 0.1434, 0.9945, 0.4294]
+                            },
+                            {
+                                "P": [16.02, 15.8],
+                                "I": 20,
+                                "E": [0.5803, 0.1865, 0.9936, 0.4938]
+                            },
+                            {
+                                "P": [12.54, 12.51],
+                                "I": 21,
+                                "E": [0.608, 0.2368, 0.9913, 0.5597]
+                            },
+                            { "P": [0, 0], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50107,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 255, "I": 4 },
+                            { "V": 255, "I": 14 },
+                            { "V": 255, "I": 15 },
+                            { "V": 255, "I": 16 },
+                            { "V": 255, "I": 17 },
+                            { "V": 255, "I": 18 },
+                            { "V": 255, "I": 19 },
+                            { "V": 255, "I": 20 },
+                            { "V": 255, "I": 21 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_shadow.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            54, -33, 0.926, 0.6627, 75.2, 32, 0, 0, 0.5, 0.4969
+                        ],
+                        "MG": [84.8, 52.8, 86.4, 161.6],
+                        "Tag": 50000,
+                        "@": 50001,
+                        "Alpha": 255,
+                        "Name": "shadow2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_cap03.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [-1, 97, 1, 1, 70.4, 30.4, 0, 0, 0.4915, 0.5197],
+                        "MG": [-124.8, -155.2, -1.6, 68.8],
+                        "Tag": 50002,
+                        "@": 50003,
+                        "Alpha": 0,
+                        "Name": "cap03",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_color@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50016,
+                        "@": 50017,
+                        "Alpha": 255,
+                        "Name": "color",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_red@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "red",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_yellow@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50044,
+                        "@": 50045,
+                        "Alpha": 255,
+                        "Name": "yellow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_purple@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50058,
+                        "@": 50059,
+                        "Alpha": 255,
+                        "Name": "purple",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_green@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50072,
+                        "@": 50073,
+                        "Alpha": 255,
+                        "Name": "green",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_brown@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50086,
+                        "@": 50087,
+                        "Alpha": 255,
+                        "Name": "brown",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_blue@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50100,
+                        "@": 50101,
+                        "Alpha": 255,
+                        "Name": "blue",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_bottle.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            -2, -11, 1, 1, 153.6, 195.2, 0, 0, 0.5736, 0.1849
+                        ],
+                        "MG": [212.8, 17.6, -3.2, 150.4],
+                        "Tag": 50102,
+                        "@": 50103,
+                        "Alpha": 255,
+                        "Name": "base",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_cap01.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            53, -9, 1, 1, 72, 32, 0.71, 0.71, 0.4944, 0.5125
+                        ],
+                        "MG": [46.4, 14.4, 84.8, 156.8],
+                        "Tag": 50104,
+                        "@": 50105,
+                        "Alpha": 255,
+                        "Name": "cap01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_cap02.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            53, -29, 1, 1, 70.4, 30.4, 0.71, 0.71, 0.4915,
+                            0.5197
+                        ],
+                        "MG": [76.8, 46.4, 84.8, 155.2],
+                        "Tag": 50106,
+                        "@": 50107,
+                        "Alpha": 255,
+                        "Name": "cap02",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

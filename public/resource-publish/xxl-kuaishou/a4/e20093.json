@@ -1,0 +1,275 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 30,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3035309,
+                        [
+                            { "P": [0, -0.05], "I": 0 },
+                            { "P": [0, -0.05], "I": 9, "T": 0 },
+                            { "P": [0.05, -0.05], "I": 10, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035309,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 25, "I": 9, "T": 0 },
+                            { "V": 0, "I": 10, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3035307,
+                        [
+                            { "P": [-14.5, 13.45], "I": 0, "T": 0 },
+                            { "P": [-14.5, 13.45], "I": 9, "T": 0 },
+                            { "P": [-14.5, 13.45], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035307,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 9, "T": 0 },
+                            { "V": 255, "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3035305,
+                        [
+                            { "P": [-14.5, 13.45], "I": 0, "T": 0 },
+                            { "P": [-14.5, 13.45], "I": 1 },
+                            { "P": [-14.95, 13.85], "I": 9 },
+                            { "P": [-14.5, 13.45], "I": 21, "T": 0 },
+                            { "P": [-13.45, 13.45], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3035305,
+                        [
+                            { "P": [1, 1], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 1 },
+                            { "P": [1.03, 1.03], "I": 9 },
+                            { "P": [1, 1], "I": 21, "T": 0 },
+                            { "P": [1, 1], "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035305,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 25, "I": 1 },
+                            { "V": 255, "I": 9 },
+                            { "V": 25, "I": 21, "T": 0 },
+                            { "V": 0, "I": 22, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        3035303,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 9,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 29,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3035303,
+                        [
+                            { "P": [15, 18.3], "I": 0, "T": 0 },
+                            { "P": [15, 18.3], "I": 9, "T": 0 },
+                            { "P": [-18.3, 18.3], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3035303,
+                        [
+                            { "P": [1.5727, 1.5727], "I": 0, "T": 0 },
+                            { "P": [1.5727, 1.5727], "I": 9, "T": 0 },
+                            { "P": [1, 1], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035303,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 9, "T": 0 },
+                            { "V": 0, "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3035301,
+                        [
+                            { "P": [0.1, 0.1], "I": 0, "T": 0 },
+                            { "P": [0.1, 0.1], "I": 1 },
+                            { "P": [0.1, 0.1], "I": 9 },
+                            { "P": [0.1, 0.1], "I": 17, "T": 0 },
+                            { "P": [0.1, 0.1], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        3035301,
+                        [
+                            { "P": [2.9767, 2.9767], "I": 0, "T": 0 },
+                            {
+                                "P": [2.9767, 2.9767],
+                                "I": 1,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [1, 1], "I": 9 },
+                            { "P": [2.0035, 2.0035], "I": 17, "T": 0 },
+                            { "P": [2.0035, 2.0035], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        3035301,
+                        [
+                            { "P": [-44.7, -44.7], "I": 0, "T": 0 },
+                            {
+                                "P": [-44.7, -44.7],
+                                "I": 1,
+                                "E": [0.3333, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [0, 0], "I": 9 },
+                            { "P": [0, 0], "I": 17, "T": 0 },
+                            { "P": [0, 0], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        3035301,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 0, "I": 1 },
+                            { "V": 255, "I": 9 },
+                            { "V": 0, "I": 17, "T": 0 },
+                            { "V": 0, "I": 29, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/star_nocolour.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 30.4, 27.2, 0, 0, 0.4803, 0.5],
+                        "MG": [27.2, 0, 0, 30.4],
+                        "Tag": 3035308,
+                        "@": 3035309,
+                        "Alpha": 255,
+                        "Name": "star_nocolour",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/brightstar.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -14, 13, 1, 1, 30.4, 27.2, 0, 0, 0.0033, 0.9963
+                        ],
+                        "MG": [6.4, -20.8, -22.4, 8],
+                        "Tag": 3035306,
+                        "@": 3035307,
+                        "Alpha": 0,
+                        "Name": "star",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/faguang.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [-14, 13, 1, 1, 48, 48, 0, 0, 0.2021, 0.7979],
+                        "MG": [27.2, -20.8, -22.4, 25.6],
+                        "Tag": 3035304,
+                        "@": 3035305,
+                        "Alpha": 0,
+                        "Name": "brightstar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/gameScene_lv222@6x.json"
+                        },
+                        "Pos": [15, 18, 1.5727, 1.5727, 0, 0, 0, 0, 0, 0],
+                        "MG": [18, -18, 15, -15],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3035302,
+                        "@": 3035303,
+                        "Alpha": 0,
+                        "Name": "starboom",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/star_round.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 2.9767, 2.9767, 36.8, 33.6, -44.7, -44.7,
+                            0.519, 0.497
+                        ],
+                        "MG": [33.6, 0, 0, 36.8],
+                        "Tag": 3035300,
+                        "@": 3035301,
+                        "Alpha": 0,
+                        "Name": "down",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

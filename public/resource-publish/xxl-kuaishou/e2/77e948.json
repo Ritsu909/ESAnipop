@@ -1,0 +1,100 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_damage_item_line.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [0, 20, 1, 1, 84.8, 3.2, 0, 0, 0.5254, 0.7812],
+                        "PrePos": [0, 0.4762, 1.0095, 0.0762],
+                        "MG": [-28.8, -32, 0, 84.8],
+                        "Tag": 84759057,
+                        "@": 84759058,
+                        "Alpha": 255,
+                        "Name": "line_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_damage_item_line.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [0, -19, 1, 1, 84.8, 3.2, 0, 0, 0.5254, 0.7812],
+                        "PrePos": [0, -0.4524, 1.0095, 0.0762],
+                        "MG": [33.6, 30.4, 0, 84.8],
+                        "Tag": 84759055,
+                        "@": 84759056,
+                        "Alpha": 255,
+                        "Name": "line_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_damage_heart_half.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [
+                            22, 0, 0.7293, 0.7293, 40, 40, 0, 0, 0.48, 0.5875
+                        ],
+                        "PrePos": [0.2619, 0, 0.4762, 0.9524],
+                        "MG": [40, 0, 35.2, 75.2],
+                        "Tag": 84759051,
+                        "@": 84759052,
+                        "Alpha": 255,
+                        "Name": "heart_half",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_damage_item_arror.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.0772, 1.0772, 20.8, 20.8, 0, 0, 0.6346,
+                            0.6418
+                        ],
+                        "MG": [20.8, 0, 0, 20.8],
+                        "Tag": 84759049,
+                        "@": 84759050,
+                        "Alpha": 255,
+                        "Name": "damage_item_arror",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_common_res/cell_item_damage_143.png",
+                            "Plist": "cocos/boss_common_res@6x.plist"
+                        },
+                        "Pos": [-29, 0, 1, 1, 38.4, 38.4, 0, 0, 0.487, 0.5547],
+                        "PrePos": [-0.3452, 0, 0.4571, 0.9143],
+                        "MG": [38.4, 0, -46.4, -8],
+                        "Tag": 84759047,
+                        "@": 84759048,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 84, "Y": 42 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,209 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_shadow.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            54, -33, 0.926, 0.6627, 75.2, 32, 0, 0, 0.5, 0.4969
+                        ],
+                        "PrePos": [0.3017, -0.1692, 0.4201, 0.1641],
+                        "MG": [84.8, 52.8, 86.4, 161.6],
+                        "Tag": 50192,
+                        "@": 50193,
+                        "Alpha": 255,
+                        "Name": "shadow2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_color@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50194,
+                        "@": 50195,
+                        "Alpha": 255,
+                        "Name": "color",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_red@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50196,
+                        "@": 50197,
+                        "Alpha": 255,
+                        "Name": "red",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_yellow@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50198,
+                        "@": 50199,
+                        "Alpha": 255,
+                        "Name": "yellow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_purple@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50200,
+                        "@": 50201,
+                        "Alpha": 255,
+                        "Name": "purple",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_green@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50202,
+                        "@": 50203,
+                        "Alpha": 255,
+                        "Name": "green",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_brown@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50204,
+                        "@": 50205,
+                        "Alpha": 255,
+                        "Name": "brown",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/racoon_finish_candy_candy_finish_blue@6x.json"
+                        },
+                        "Pos": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "MG": [195, 0, 0, 179],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50206,
+                        "@": 50207,
+                        "Alpha": 255,
+                        "Name": "blue",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_bottle.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            -2, -11, 1, 1, 153.6, 195.2, 0, 0, 0.5736, 0.1849
+                        ],
+                        "PrePos": [-0.0112, -0.0564, 0.8581, 1.001],
+                        "MG": [212.8, 17.6, -3.2, 150.4],
+                        "Tag": 50208,
+                        "@": 50209,
+                        "Alpha": 255,
+                        "Name": "base",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_cap01.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            53, -9, 1, 1, 72, 32, 0.71, 0.71, 0.4944, 0.5125
+                        ],
+                        "PrePos": [0.2961, -0.0462, 0.4022, 0.1641],
+                        "MG": [46.4, 14.4, 84.8, 156.8],
+                        "Tag": 50210,
+                        "@": 50211,
+                        "Alpha": 255,
+                        "Name": "cap01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "racoon_finish/candy_cap02.png",
+                            "Plist": "cocos/racoon_finish@6x.plist"
+                        },
+                        "Pos": [
+                            53, -29, 1, 1, 70.4, 30.4, 0.71, 0.71, 0.4915,
+                            0.5197
+                        ],
+                        "PrePos": [0.2961, -0.1487, 0.3933, 0.1559],
+                        "MG": [76.8, 46.4, 84.8, 155.2],
+                        "Tag": 50212,
+                        "@": 50213,
+                        "Alpha": 255,
+                        "Name": "cap02",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 179, "Y": 195 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

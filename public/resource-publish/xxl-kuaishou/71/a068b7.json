@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -325, 97, 1, 1, 662.4, 147.2, 0, 0, 0.0026, 0.9993
+                        ],
+                        "PrePos": [-0.4932, 0.5052, 1.0052, 0.7667],
+                        "MG": [-8, -155.2, -520, 142.4],
+                        "Tag": 85084240,
+                        "@": 85084241,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-243, 67, 1, 1, 511, 162, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [-0.3687, 0.349, 0.7754, 0.8438],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_32_redstroke@6x.fnt"
+                        },
+                        "MG": [97, -67, -243, 391],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "领跑全球，全部关卡通关！",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 85084238,
+                        "@": 85084239,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 659, "Y": 192 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

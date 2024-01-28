@@ -1,0 +1,116 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/whitebubblespeak_red.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            23, -20, 1, 1, 503.327, 484.1731, 0, 0, 0.0469,
+                            0.9531
+                        ],
+                        "PrePos": [0.046, -0.0416, 0.2752, 0.2861],
+                        "MG": [169.6, 32, 36.8, 174.4],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 84746789,
+                        "@": 84746790,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            22, -69, 1, 1, 456.5184, 391.6973, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0.044, -0.1435, 0.2496, 0.2595],
+                        "MG": [235.2, 110.4, 35.2, 160],
+                        "Scale9": [58, 52, 7, 20],
+                        "Tag": 84746787,
+                        "@": 84746788,
+                        "Alpha": 255,
+                        "Name": "whitebg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [50, -102, 1, 1, 401, 268, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 77, "G": 31, "B": 31 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1, -0.2121, 0.802, 0.5572],
+                        "MG": [111, 102, 50, 49],
+                        "IsCustomSize": true,
+                        "LabelText": "1.当达到相应目标即可向所有好友发送红包礼物。\\n2.接收到的礼物消息请在好友礼物页签查看。\\n3.发送红包礼物不会消耗自己的道具。",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84746785,
+                        "@": 84746786,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_friend.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            465, -32, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.93, -0.0665, 0.0928, 0.0965],
+                        "MG": [97.6, 51.2, 744, 790.4],
+                        "Tag": 84746783,
+                        "@": 84746784,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [167, -13, 1, 1, 171, 55, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 210, "B": 63 },
+                        "PrePos": [0.334, -0.027, 0.342, 0.1143],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [413, 13, 167, 162],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "红包规则",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84746781,
+                        "@": 84746782,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 500, "Y": 481 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

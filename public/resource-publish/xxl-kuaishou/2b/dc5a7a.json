@@ -1,0 +1,778 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 50,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50023,
+                        [
+                            { "P": [-2.35, 8.95], "I": 0 },
+                            { "P": [-2.35, 8.95], "I": 24 },
+                            { "P": [-2.35, 8.95], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50025,
+                        [
+                            {
+                                "P": [89.35, 121.55],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [89.35, 129.55],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [89.35, 121.55], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50025,
+                        [
+                            {
+                                "P": [2.33, 2.33],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.38, 0.38],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [2.33, 2.33], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50027,
+                        [
+                            { "P": [-0.25, 0.05], "I": 0 },
+                            { "P": [-0.25, 0.05], "I": 24 },
+                            { "P": [-0.25, 0.05], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50027,
+                        [
+                            {
+                                "P": [1, 1.0001],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.9667, 1.0567],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [1, 1.0001], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50027,
+                        [
+                            {
+                                "P": [-0.83, 180],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-1.11, 180],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-0.83, 180], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50029,
+                        [
+                            {
+                                "P": [-12.1, 124.65],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-14.6, 136.15],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-12.1, 124.65], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50031,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50031,
+                        [
+                            {
+                                "P": [-20.45, 126.75],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-22.95, 138.25],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-20.45, 126.75], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50033,
+                        [
+                            {
+                                "P": [-13.45, 127.75],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-16.95, 140.25],
+                                "I": 27,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-13.45, 127.75], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50035,
+                        [
+                            {
+                                "P": [52.85, 124.65],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [49.7, 134.4],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [52.85, 124.65], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50035,
+                        [
+                            {
+                                "P": [0.6837, 0.9676],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.6781, 0.9676],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0.6837, 0.9676], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50035,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0.75, 0, 0.4451, 1] },
+                            {
+                                "P": [-1.45, -1.45],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0, 0], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50037,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50037,
+                        [
+                            {
+                                "P": [57.8, 130.25],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [54.45, 140.15],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [57.8, 130.25], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50037,
+                        [
+                            {
+                                "P": [0.6837, 0.9333],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.6781, 0.9333],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0.6837, 0.9333], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50037,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0.75, 0, 0.4451, 1] },
+                            {
+                                "P": [-1.45, -1.45],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0, 0], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50039,
+                        [
+                            {
+                                "P": [52.35, 131.2],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [52.85, 141.5],
+                                "I": 27,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [52.35, 131.2], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50039,
+                        [
+                            {
+                                "P": [0.6837, 0.9333],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.6781, 0.9333],
+                                "I": 27,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0.6837, 0.9333], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50039,
+                        [
+                            {
+                                "P": [0, 180],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-1.45, 178.55],
+                                "I": 27,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0, 180], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50041,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 25,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50041,
+                        [
+                            {
+                                "P": [18.55, 38.7],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [20.35, 52.2],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [18.55, 38.7], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50041,
+                        [
+                            {
+                                "P": [0.9221, 1],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [0.9398, 1.0613],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0.9221, 1], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50041,
+                        [
+                            {
+                                "P": [0.32, 180],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-1.03, 180],
+                                "I": 25,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0.32, 180], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50043,
+                        [
+                            {
+                                "P": [-95.95, 115.95],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-95.95, 128.25],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-95.95, 115.95], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50043,
+                        [
+                            {
+                                "P": [0, 180],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-2.19, 177.81],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0, 180], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50045,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 49,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50045,
+                        [
+                            {
+                                "P": [-28.35, 173.4],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-31.45, 178.4],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [-28.35, 173.4], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50045,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0.75, 0, 0.4451, 1] },
+                            {
+                                "P": [0.9986, 1.0055],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [1, 1], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50045,
+                        [
+                            {
+                                "P": [0, 180],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [-6.09, 179.09],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [0, 180], "I": 49, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50047,
+                        [
+                            {
+                                "P": [27.7, 114.5],
+                                "I": 0,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            {
+                                "P": [28.2, 122.65],
+                                "I": 24,
+                                "E": [0.75, 0, 0.4451, 1]
+                            },
+                            { "P": [27.7, 114.5], "I": 49, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_shadow.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -2, 8, 3.4044, 3.0761, 64, 20.8, 0, 180, 0.5047,
+                            0.4928
+                        ],
+                        "MG": [8, -12.8, -3.2, 60.8],
+                        "Tag": 50022,
+                        "@": 50023,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_hand1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            89, 121, 1, 1, 35.2, 92.8, 2.33, 2.33, 0.4957,
+                            0.8755
+                        ],
+                        "MG": [-100.8, -193.6, 142.4, 177.6],
+                        "Tag": 50024,
+                        "@": 50025,
+                        "Alpha": 255,
+                        "Name": "attack_hand_R",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_body.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1.0001, 212.8, 193.6, -0.83, 180, 0.4972,
+                            0.0356
+                        ],
+                        "MG": [193.6, 0, 0, 212.8],
+                        "Tag": 50026,
+                        "@": 50027,
+                        "Alpha": 255,
+                        "Name": "owl_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyeback.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -12, 124, 1, 1, 89.6, 76.8, 0, 180, 0.3638, 0.4993
+                        ],
+                        "MG": [-121.6, -198.4, -19.2, 70.4],
+                        "Tag": 50028,
+                        "@": 50029,
+                        "Alpha": 255,
+                        "Name": "owl_eyeback2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_eye_combine@6x.json"
+                        },
+                        "Pos": [-20, 126, 1, 1, 80, 73, 0, 180, 0, 0],
+                        "MG": [53, -126, -20, -60],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50030,
+                        "@": 50031,
+                        "Alpha": 255,
+                        "Name": "owl_eyeball_L",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -13, 127, 1, 1, 51.2, 51.2, 0, 180, 0.501, 0.5059
+                        ],
+                        "MG": [-152, -203.2, -20.8, 30.4],
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "owl_eyeinside_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyeback.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            52, 124, 0.6837, 0.9676, 89.6, 76.8, 0, 0, 0.3638,
+                            0.4993
+                        ],
+                        "MG": [-121.6, -198.4, 83.2, 172.8],
+                        "Tag": 50034,
+                        "@": 50035,
+                        "Alpha": 255,
+                        "Name": "owl_eyeback1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_eye_combine@6x.json"
+                        },
+                        "Pos": [57, 130, 0.6837, 0.9333, 80, 73, 0, 0, 0, 0],
+                        "MG": [57, -130, 57, -137],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "owl_eyeball_R",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_eyeinside.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            52, 131, 0.6837, 0.9333, 51.2, 51.2, 0, 180, 0.501,
+                            0.5059
+                        ],
+                        "MG": [-158.4, -209.6, 83.2, 134.4],
+                        "Tag": 50038,
+                        "@": 50039,
+                        "Alpha": 255,
+                        "Name": "owl_eyeinside_R",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_belly_combine@6x.json"
+                        },
+                        "Pos": [18, 38, 0.9221, 1, 135, 82, 0.32, 180, 0, 0],
+                        "MG": [-44, -38, 18, -153],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50040,
+                        "@": 50041,
+                        "Alpha": 255,
+                        "Name": "owl_dupi",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_hand1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -95, 115, 1, 1, 35.2, 92.8, 0, 180, 0.4957, 0.8755
+                        ],
+                        "MG": [-91.2, -184, -152, -116.8],
+                        "Tag": 50042,
+                        "@": 50043,
+                        "Alpha": 255,
+                        "Name": "owl_hand1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/clover_animation_owl_owl_forehead_combine@6x.json"
+                        },
+                        "Pos": [-28, 173, 1, 1, 183, 76, 0, 180, 0, 0],
+                        "MG": [97, -173, -28, -155],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50044,
+                        "@": 50045,
+                        "Alpha": 255,
+                        "Name": "owl_eyerow",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_owl_mouth1.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            27, 114, 1, 1, 16, 27.2, 0, 180, 0.4906, 0.4963
+                        ],
+                        "MG": [-155.2, -182.4, 43.2, 59.2],
+                        "Tag": 50046,
+                        "@": 50047,
+                        "Alpha": 255,
+                        "Name": "owl_mouth1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,113 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 90,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        29325812,
+                        [
+                            { "P": [0.2, 12.2], "I": 0, "T": 0 },
+                            { "P": [0.2, 12.2], "I": 4 },
+                            { "P": [0.2, 11.2], "I": 20 },
+                            { "P": [0.2, 11.2], "I": 36, "T": 0 },
+                            { "P": [-11.2, 11.2], "I": 37, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        29325812,
+                        [
+                            { "P": [0.3452, 1], "I": 0, "T": 0 },
+                            { "P": [0.3452, 1], "I": 4 },
+                            { "P": [1, 2.4501], "I": 20 },
+                            { "P": [0.8504, 2.9335], "I": 36, "T": 0 },
+                            { "P": [1, 1], "I": 37, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        29325812,
+                        [
+                            { "V": 0, "I": 0, "T": 0 },
+                            { "V": 255, "I": 4 },
+                            { "V": 255, "I": 20 },
+                            { "V": 25, "I": 36, "T": 0 },
+                            { "V": 0, "I": 37, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        29325810,
+                        [
+                            {
+                                "P": [0, 10],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "P": [0, 9],
+                                "I": 19,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            { "P": [0, 8], "I": 43, "T": 0 },
+                            { "P": [-8, 8], "I": 44, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        29325810,
+                        [
+                            { "V": 25, "I": 0 },
+                            { "V": 255, "I": 19 },
+                            { "V": 25, "I": 43, "T": 0 },
+                            { "V": 0, "I": 44, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_liquid_top_light.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            0, 12, 0.3452, 1, 174.4, 33.6, 0, 0, 0.4994, 0.5045
+                        ],
+                        "MG": [14.4, -19.2, 0, 174.4],
+                        "Tag": 29325811,
+                        "@": 29325812,
+                        "Alpha": 0,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/bottle_liquid_top_star_sprite.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [0, 10, 1, 1, 65.6, 59.2, 0, 0, 0.4901, 0.5059],
+                        "MG": [43.2, -16, 0, 65.6],
+                        "Tag": 29325809,
+                        "@": 29325810,
+                        "Alpha": 26,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

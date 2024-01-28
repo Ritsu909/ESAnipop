@@ -1,0 +1,104 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 75,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84280952,
+                        [
+                            { "P": [-11.45, 85.5], "I": 0, "T": 0 },
+                            { "P": [-11.45, 85.5], "I": 74, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84280950,
+                        [
+                            { "P": [-58.65, 164.55], "I": 0, "T": 0 },
+                            { "P": [-58.65, 164.55], "I": 74, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84280948,
+                        [
+                            { "P": [-58.65, 164.5], "I": 0 },
+                            { "P": [-58.65, 164.5], "I": 29 },
+                            { "P": [-58.65, 164.5], "I": 64, "T": 0 },
+                            { "P": [-58.65, 164.5], "I": 74, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        84280948,
+                        [
+                            { "V": 0, "I": 0 },
+                            { "V": 255, "I": 29 },
+                            { "V": 0, "I": 64, "T": 0 },
+                            { "V": 0, "I": 74, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_statue/frog_stone_down.png",
+                            "Plist": "cocos/homeAnim_statue@6x.plist"
+                        },
+                        "Pos": [
+                            -11, 85, 1, 1, 131.2, 225.6, 0, 0, 0.5076, 0.5027
+                        ],
+                        "MG": [89.6, -136, -17.6, 113.6],
+                        "Tag": 84280951,
+                        "@": 84280952,
+                        "Alpha": 255,
+                        "Name": "frog_stone_down",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_statue/frog_stone_fire.png",
+                            "Plist": "cocos/homeAnim_statue@6x.plist"
+                        },
+                        "Pos": [-58, 164, 1, 1, 38.4, 48, 0, 0, 0.4844, 0.5083],
+                        "MG": [-214.4, -262.4, -92.8, -54.4],
+                        "Tag": 84280949,
+                        "@": 84280950,
+                        "Alpha": 255,
+                        "Name": "frog_stone_fire",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_statue/frog_fire_light.png",
+                            "Plist": "cocos/homeAnim_statue@6x.plist"
+                        },
+                        "Pos": [
+                            -58, 164, 1, 1, 161.6, 132.8, 0, 0, 0.4059, 0.506
+                        ],
+                        "MG": [-129.6, -262.4, -92.8, 68.8],
+                        "Tag": 84280947,
+                        "@": 84280948,
+                        "Alpha": 0,
+                        "Name": "fire",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

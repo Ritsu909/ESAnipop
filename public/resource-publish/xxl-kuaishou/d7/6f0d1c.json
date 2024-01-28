@@ -1,0 +1,55 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [67, 0, 1.1999, 1.1999, 49, 39, 0, 0, 0, 1],
+                        "PrePos": [0.5826, 0, 0.4261, 1],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_25_redstroke@6x.fnt"
+                        },
+                        "MG": [0, 0, 67, -1],
+                        "IsCustomSize": true,
+                        "LabelText": "+1\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 87640450,
+                        "@": 87640451,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "video_ad_btn/coinText.png",
+                            "Plist": "cocos/video_ad_btn@6x.plist"
+                        },
+                        "Pos": [
+                            33, -22, 1, 1, 67.2, 27.2, 0, 0, 0.4963, 0.5257
+                        ],
+                        "PrePos": [0.287, -0.5641, 0.5843, 0.6974],
+                        "MG": [62.4, 35.2, 52.8, 120],
+                        "Tag": 87640448,
+                        "@": 87640449,
+                        "Alpha": 255,
+                        "Name": "coinText",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 115, "Y": 39 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

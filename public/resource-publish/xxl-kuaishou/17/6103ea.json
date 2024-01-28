@@ -1,0 +1,174 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            8, 16, 0.9692, 0.9692, 27.2, 27.2, 19.03, 19.03,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.0283, 0.2162, 0.0961, 0.3676],
+                        "MG": [1.6, -25.6, 12.8, 40],
+                        "Tag": 2720,
+                        "@": 2721,
+                        "Name": "star1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            67, 43, 0.5581, 0.5581, 27.2, 27.2, -23.2, -23.2,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.2367, 0.5811, 0.0961, 0.3676],
+                        "MG": [-41.6, -68.8, 107.2, 134.4],
+                        "Tag": 2722,
+                        "@": 2723,
+                        "Name": "star2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            96, 68, 0.6754, 0.6754, 27.2, 27.2, 0, 0, 0.4908,
+                            0.511
+                        ],
+                        "PrePos": [0.3392, 0.9189, 0.0961, 0.3676],
+                        "MG": [-81.6, -108.8, 153.6, 180.8],
+                        "Tag": 2724,
+                        "@": 2725,
+                        "Name": "star3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            176, 76, 0.8, 0.8, 27.2, 27.2, -4.27, -4.27, 0.4908,
+                            0.511
+                        ],
+                        "PrePos": [0.6219, 1.027, 0.0961, 0.3676],
+                        "MG": [-94.4, -121.6, 281.6, 308.8],
+                        "Tag": 2726,
+                        "@": 2727,
+                        "Name": "star4",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            276, 57, 0.8375, 0.8375, 27.2, 27.2, 25.19, 25.19,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.9753, 0.7703, 0.0961, 0.3676],
+                        "MG": [-64, -91.2, 441.6, 468.8],
+                        "Tag": 2728,
+                        "@": 2729,
+                        "Name": "star5",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            244, 68, 0.6727, 0.6727, 27.2, 27.2, 18.45, 18.45,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.8622, 0.9189, 0.0961, 0.3676],
+                        "MG": [-81.6, -108.8, 390.4, 417.6],
+                        "Tag": 2730,
+                        "@": 2731,
+                        "Name": "star6",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            201, 35, 0.6716, 0.6716, 27.2, 27.2, -10.97, -10.97,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.7102, 0.473, 0.0961, 0.3676],
+                        "MG": [-28.8, -56, 321.6, 348.8],
+                        "Tag": 2732,
+                        "@": 2733,
+                        "Name": "star7",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            136, 57, 0.7242, 0.7242, 27.2, 27.2, 25.19, 25.19,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.4806, 0.7703, 0.0961, 0.3676],
+                        "MG": [-64, -91.2, 217.6, 244.8],
+                        "Tag": 2734,
+                        "@": 2735,
+                        "Name": "star8",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/star3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            119, 27, 0.5581, 0.5581, 27.2, 27.2, -23.2, -23.2,
+                            0.4908, 0.511
+                        ],
+                        "PrePos": [0.4205, 0.3649, 0.0961, 0.3676],
+                        "MG": [-16, -43.2, 190.4, 217.6],
+                        "Tag": 2736,
+                        "@": 2737,
+                        "Name": "star9",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 283, "Y": 74 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

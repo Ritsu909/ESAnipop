@@ -1,0 +1,72 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 85,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        28250534,
+                        [
+                            { "P": [-13.8, 13.65], "I": 0 },
+                            { "P": [132.65, 93.15], "I": 25, "T": 0 },
+                            { "P": [132.65, 93.15], "I": 84, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        28250534,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.3, 0.3], "I": 25, "T": 0 },
+                            { "P": [0.3, 0.3], "I": 84, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        28250534,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [0, 0], "I": 25, "T": 0 },
+                            { "P": [0, 0], "I": 84, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        28250534,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 25, "T": 0 },
+                            { "V": 0, "I": 84, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/res_light.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [-13, 13, 1, 1, 38.4, 38.4, 0, 0, 0.138, 0.8685],
+                        "MG": [17.6, -20.8, -20.8, 17.6],
+                        "Tag": 28250533,
+                        "@": 28250534,
+                        "Alpha": 255,
+                        "Name": "Layer2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

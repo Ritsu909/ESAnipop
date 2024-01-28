@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [7, 24, 0.7432, 0.7432, 93, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 102, "B": 153 },
+                        "PrePos": [0.0366, 0.3871, 0.4869, 0.6613],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [45, -24, 7, 91],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "鲸鱼岛\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9417026,
+                        "@": 9417027,
+                        "Name": "desc",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [-90, 45, 1.66, 1.66, 79, 62, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 191, "G": 61, "B": 61 },
+                        "PrePos": [-0.4712, 0.7258, 0.4136, 1],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [45, -45, -90, 202],
+                        "IsCustomSize": true,
+                        "LabelText": "28",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 9417024,
+                        "@": 9417025,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 191, "Y": 62 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

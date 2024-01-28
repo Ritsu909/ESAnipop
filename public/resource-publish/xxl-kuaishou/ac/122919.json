@@ -1,0 +1,173 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_panel_bg.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 483.3856, 355.296, 0, 0, 0.0007, 0.9994
+                        ],
+                        "MG": [160, 0, 0, 150.4],
+                        "Scale9": [60, 50, 30, 30],
+                        "Tag": 29325557,
+                        "@": 29325558,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_panel_bg2.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            54, -77, 1, 1, 379.0637, 138.7768, 0, 0, 0.0011,
+                            0.9985
+                        ],
+                        "PrePos": [0.112, -0.2169, 0.1892, 0.1848],
+                        "MG": [188.8, 123.2, 86.4, 177.6],
+                        "Scale9": [30, 20, 30, 20],
+                        "Tag": 29325555,
+                        "@": 29325556,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [
+                            329, -269, 0.7501, 0.7501, 273, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.6826, -0.7577, 0.5664, 0.338],
+                        "MG": [-34, 269, 329, -120],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325553,
+                        "@": 29325554,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_bottom_btn_blue_start_@6x.json"
+                        },
+                        "Pos": [125, -268, 0.75, 0.75, 194, 120, 0, 0, 0, 0],
+                        "PrePos": [0.2593, -0.7549, 0.4025, 0.338],
+                        "MG": [-33, 268, 125, 163],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325551,
+                        "@": 29325552,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/teamgetstar_user_elem2@6x.json"
+                        },
+                        "Pos": [129, -138, 1, 1, 100, 100, 0, 0, 0, 0],
+                        "PrePos": [0.2676, -0.3887, 0.2075, 0.2817],
+                        "MG": [117, 138, 129, 253],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 29325549,
+                        "@": 29325550,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [197, -154, 1, 1, 218, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 122, "B": 208 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4087, -0.4338, 0.4523, 0.1042],
+                        "MG": [164, 154, 197, 67],
+                        "IsCustomSize": true,
+                        "LabelText": "ID:1234567890",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325547,
+                        "@": 29325548,
+                        "Name": "invite",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [197, -102, 1, 1, 218, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 122, "B": 208 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4087, -0.2873, 0.4523, 0.1042],
+                        "MG": [216, 102, 197, 67],
+                        "IsCustomSize": true,
+                        "LabelText": "XXXX",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325545,
+                        "@": 29325546,
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [108, -22, 0.8, 0.8, 265, 44, 0, 0, 0, 1],
+                        "PrePos": [0.2241, -0.062, 0.5498, 0.1239],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [289, 22, 108, 109],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "确认加入队伍吗？",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29325543,
+                        "@": 29325544,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 482, "Y": 355 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

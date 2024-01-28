@@ -1,0 +1,89 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/CHICK_IDLE.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            53, -72, 1.0007, 1.0013, 75.2, 76.8, 0, 0, 0.4827,
+                            0.0794
+                        ],
+                        "PrePos": [0.3193, -0.5217, 0.453, 0.5565],
+                        "MG": [192, 115.2, 84.8, 160],
+                        "Tag": 84190130,
+                        "@": 84190131,
+                        "Alpha": 255,
+                        "Name": "CHICK_IDLE",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/energy_empty.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [16, -57, 1, 1, 33.6, 49.6, 0, 0, 0.4926, 0.624],
+                        "PrePos": [0.0964, -0.413, 0.2024, 0.3594],
+                        "MG": [140.8, 91.2, 25.6, 59.2],
+                        "Tag": 84190128,
+                        "@": 84190129,
+                        "Alpha": 255,
+                        "Name": "energy_empty",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/hippo_idle.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            136, -132, 0.4997, 0.4999, 136, 219.2, 0, 0, 0.5467,
+                            0.068
+                        ],
+                        "PrePos": [0.8193, -0.9565, 0.8193, 1.5884],
+                        "MG": [430.4, 211.2, 217.6, 353.6],
+                        "Tag": 84190126,
+                        "@": 84190127,
+                        "Alpha": 255,
+                        "Name": "hippo_idle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_lighthouse/energy3.png",
+                            "Plist": "cocos/obstacle_anim_lighthouse@6x.plist"
+                        },
+                        "Pos": [
+                            107, -115, 1, 1, 35.2, 48, 0, 0, 0.5014, 0.5979
+                        ],
+                        "PrePos": [0.6446, -0.8333, 0.212, 0.3478],
+                        "MG": [232, 184, 171.2, 206.4],
+                        "Tag": 84190124,
+                        "@": 84190125,
+                        "Alpha": 255,
+                        "Name": "energy3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 166, "Y": 138 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

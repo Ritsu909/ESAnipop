@@ -1,0 +1,116 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/background.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -28, 26, 1, 1, 179.2, 134.4, 0, 0, 0.0145, 0.9807
+                        ],
+                        "PrePos": [-0.1321, 0.1226, 0.8453, 0.634],
+                        "MG": [92.8, -41.6, -44.8, 134.4],
+                        "Tag": 3035352,
+                        "@": 3035353,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/gameScene_progress@6x.json"
+                        },
+                        "Pos": [33, -35, 1, 1, 212, 212, 0, 0, 0, 0],
+                        "PrePos": [0.1557, -0.1651, 1, 1],
+                        "MG": [-35, 35, 33, -33],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3035350,
+                        "@": 3035351,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [7, -31, 1, 1, 67, 51, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.033, -0.1462, 0.316, 0.2406],
+                        "MG": [130, 31, 7, 138],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "34\\n",
+                        "FontSize": 36,
+                        "Shadow": [2, -2],
+                        "Tag": 3035348,
+                        "@": 3035349,
+                        "Name": "data",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [9, -6, 1, 1, 64, 23, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0425, -0.0283, 0.3019, 0.1085],
+                        "MG": [183, 6, 9, 139],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "剩余步数",
+                        "FontSize": 15,
+                        "Shadow": [2, -2],
+                        "Tag": 3035346,
+                        "@": 3035347,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/gameScene_label@6x.json"
+                        },
+                        "Pos": [2, -146, 1, 1, 95, 31, 0, 0, 0, 0],
+                        "PrePos": [0.0094, -0.6887, 0.4481, 0.1462],
+                        "MG": [35, 146, 2, 115],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3035344,
+                        "@": 3035345,
+                        "Alpha": 255,
+                        "Name": "label",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 212, "Y": 212 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

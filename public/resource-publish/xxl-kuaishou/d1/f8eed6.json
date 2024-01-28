@@ -1,0 +1,163 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/marketcashbg.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 619.8864, 148.9997, 0, 0, 0.0007, 0.9993
+                        ],
+                        "MG": [139.2, 0, 0, 152],
+                        "Scale9": [71, 62, 5, 5],
+                        "Tag": 84755847,
+                        "@": 84755848,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/cashBg.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            145, -25, 1, 1, 262.4, 107.2, 0, 0, -0.013, 0.9991
+                        ],
+                        "PrePos": [0.2342, -0.1701, 0.4239, 0.7293],
+                        "MG": [147.2, 40, 232, 494.4],
+                        "Tag": 84755845,
+                        "@": 84755846,
+                        "Alpha": 255,
+                        "Name": "pricebg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/pricebg2.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [
+                            159, -28, 1, 1, 208, 78.4, 6.52, 6.52, 0.0082,
+                            0.9796
+                        ],
+                        "PrePos": [0.2569, -0.1905, 0.336, 0.5333],
+                        "MG": [123.2, 44.8, 254.4, 462.4],
+                        "Tag": 84756005,
+                        "@": 84756006,
+                        "Alpha": 255,
+                        "Name": "pricebg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "market_panel/moneypile.png",
+                            "Plist": "cocos/market_panel@6x.plist"
+                        },
+                        "Pos": [38, -39, 1, 1, 115.2, 72, 0, 0, 0.0009, 1.0215],
+                        "PrePos": [0.0614, -0.2653, 0.1861, 0.4898],
+                        "MG": [134.4, 62.4, 60.8, 176],
+                        "Tag": 84755843,
+                        "@": 84755844,
+                        "Alpha": 255,
+                        "Name": "money",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [158, -34, 1, 1, 134, 48, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 224, "G": 111, "B": 57 },
+                        "PrePos": [0.2553, -0.2313, 0.2165, 0.3265],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [65, 34, 158, 327],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "600",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84755841,
+                        "@": 84755842,
+                        "Name": "cashnum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [329, -70, 1, 1, 51, 37, 0, 0, 0, 1],
+                        "PrePos": [0.5315, -0.4762, 0.0824, 0.2517],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30@6x.fnt"
+                        },
+                        "MG": [40, 70, 329, 239],
+                        "IsCustomSize": true,
+                        "LabelText": "298",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 84755839,
+                        "@": 84755840,
+                        "Name": "extranum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [297, -62, 1, 1, 24, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 229, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4798, -0.4218, 0.0388, 0.2041],
+                        "MG": [55, 62, 297, 298],
+                        "IsCustomSize": true,
+                        "LabelText": "送",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84755837,
+                        "@": 84755838,
+                        "Name": "give",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/market_panel_btn_buy_cash@6x.json"
+                        },
+                        "Pos": [521, -74, 0.6, 0.6, 281, 126, 0, 0, 0, 0],
+                        "PrePos": [0.8417, -0.5034, 0.454, 0.8571],
+                        "MG": [-53, 74, 521, -183],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84755835,
+                        "@": 84755836,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 619, "Y": 147 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

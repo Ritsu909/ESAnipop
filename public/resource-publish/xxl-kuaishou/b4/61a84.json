@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        85383288,
+                        [
+                            { "P": [0, 3.55], "I": 0 },
+                            { "P": [0, 3.55], "I": 17 },
+                            { "P": [0, 3.55], "I": 41, "T": 0 },
+                            { "P": [0, 3.55], "I": 59, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Filter",
+                        85383288,
+                        [
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 17,
+                                "E": [0.3367, 0, 0.6667, 0.3333]
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 41,
+                                "T": 0
+                            },
+                            {
+                                "advanced_color": {
+                                    "u_rate": [1, 1, 1, 1],
+                                    "u_delta": [0, 0, 0, 0]
+                                },
+                                "P": [0, 0],
+                                "I": 59,
+                                "T": 0
+                            }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/point.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [0, 3, 1, 1, 81.6, 68.8, 0, 0, 0.4933, 0.508],
+                        "MG": [64, -4.8, 0, 81.6],
+                        "Tag": 85383287,
+                        "@": 85383288,
+                        "Alpha": 255,
+                        "Name": "point",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

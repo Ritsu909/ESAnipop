@@ -1,0 +1,111 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 130,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84175749,
+                        [
+                            { "P": [3.95, 48], "I": 0, "T": 0 },
+                            { "P": [3.95, 48], "I": 129, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        84175747,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 129,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84175747,
+                        [
+                            { "P": [25.1, 98.65], "I": 0, "T": 0 },
+                            { "P": [25.1, 98.65], "I": 129, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84175745,
+                        [
+                            { "P": [26.35, 97.75], "I": 0, "T": 0 },
+                            { "P": [26.35, 97.75], "I": 129, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_windmillhouse/wind_weel_house.png",
+                            "Plist": "cocos/homeAnim_windmillhouse@6x.plist"
+                        },
+                        "Pos": [3, 48, 1, 1, 187.2, 208, 0, 0, 0.5126, 0.5089],
+                        "MG": [131.2, -76.8, 4.8, 192],
+                        "Tag": 84175748,
+                        "@": 84175749,
+                        "Alpha": 255,
+                        "Name": "wind_weel_house",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeAnim_windmillhouse_wind_weel_house_weel@6x.json"
+                        },
+                        "Pos": [25, 98, 0.7014, 0.7128, 0, 0, 0, -32.61, 0, 0],
+                        "MG": [98, -98, 25, -25],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84175746,
+                        "@": 84175747,
+                        "Alpha": 255,
+                        "Name": "weel",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeAnim_windmillhouse/ball_ph.png",
+                            "Plist": "cocos/homeAnim_windmillhouse@6x.plist"
+                        },
+                        "Pos": [26, 97, 1, 1, 6.4, 6.4, 0, 0, 0.4688, 0.4922],
+                        "MG": [-148.8, -155.2, 41.6, 48],
+                        "Tag": 84175744,
+                        "@": 84175745,
+                        "Alpha": 255,
+                        "Name": "ball_ph",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

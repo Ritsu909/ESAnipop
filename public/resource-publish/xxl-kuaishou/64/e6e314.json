@@ -1,0 +1,54 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [2, 0, 1, 1, 195.2, 120, 0, 0, 0.012, 0.9992],
+                        "PrePos": [0.0103, 0, 1.0062, 1.0084],
+                        "MG": [120, 0, 3.2, 198.4],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 84747181,
+                        "@": 84747182,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [49, -26, 1, 1, 91, 55, 0, 0, 0, 1],
+                        "PrePos": [0.2526, -0.2185, 0.4691, 0.4622],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [38, 26, 49, 54],
+                        "IsCustomSize": true,
+                        "LabelText": "领取",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 84747179,
+                        "@": 84747180,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 194, "Y": 119 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

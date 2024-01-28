@@ -1,0 +1,105 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "verified_panel/btn_send_disable.png",
+                            "Plist": "cocos/verified_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 108.8, 78.4, 0, 0, 0.5142, 0.5051],
+                        "MG": [78.4, 0, 0, 108.8],
+                        "Tag": 84744280,
+                        "@": 84744281,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "verified_panel/btn_send_click.png",
+                            "Plist": "cocos/verified_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 108.8, 78.4, 0, 0, 0.5142, 0.5051],
+                        "MG": [78.4, 0, 0, 108.8],
+                        "Tag": 84744278,
+                        "@": 84744279,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "verified_panel/btn_send_normal.png",
+                            "Plist": "cocos/verified_panel@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 108.8, 78.4, 0, 0, 0.5142, 0.5051],
+                        "MG": [78.4, 0, 0, 108.8],
+                        "Tag": 84744276,
+                        "@": 84744277,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-50, 18, 1, 1, 100, 40, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4, 0.2338, 0.8, 0.5195],
+                        "MG": [55, -18, -50, 75],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "重发",
+                        "FontSize": 32,
+                        "Shadow": [2, -2],
+                        "Tag": 84744274,
+                        "@": 84744275,
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-59, 13, 0.9001, 0.9001, 125, 32, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.472, 0.1688, 1, 0.4156],
+                        "MG": [58, -13, -59, 59],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "重发(600)",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 84744272,
+                        "@": 84744273,
+                        "Name": "label2",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 125, "Y": 77 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

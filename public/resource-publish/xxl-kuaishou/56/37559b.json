@@ -1,0 +1,95 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            40, 0, 1, 1, 618.0288, 321.7718, 0, 0, 0.001, 0.9989
+                        ],
+                        "PrePos": [0.0596, 0, 0.1431, 0.2978],
+                        "MG": [94.4, 0, 64, 160],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 84752877,
+                        "@": 84752878,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/rewardRacoon.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -59, 4, 1, 1, 294.4, 294.4, 0, 0, -0.1342, 1.0674
+                        ],
+                        "PrePos": [-0.0879, 0.0126, 0.4387, 0.9287],
+                        "MG": [288, -6.4, -94.4, 200.0],
+                        "Tag": 84752875,
+                        "@": 84752876,
+                        "Alpha": 255,
+                        "Name": "racoon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/novice_task_panel_bottom_btn_green_start2@6x.json"
+                        },
+                        "Pos": [436, -243, 1, 1, 194, 104, 0, 0, 0, 0],
+                        "PrePos": [0.6498, -0.7666, 0.2891, 0.3281],
+                        "MG": [-30, 243, 436, 41],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84752873,
+                        "@": 84752874,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [251, -24, 1, 1, 373, 107, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 181, "G": 120, "B": 60 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.3741, -0.0757, 0.5559, 0.3375],
+                        "MG": [186, 24, 251, 47],
+                        "IsCustomSize": true,
+                        "LabelText": "之前你是不是忘记领奖啦？别怕！我已经帮你放到背包里啦！\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84752871,
+                        "@": 84752872,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 671, "Y": 317 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

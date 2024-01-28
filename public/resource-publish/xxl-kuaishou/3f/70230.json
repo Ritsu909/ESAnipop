@@ -1,0 +1,62 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/Boss_animal_power_tip.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -104, 36, 1, 1, 209.4288, 72.4019, 0, 0, 0.0004,
+                            0.9997
+                        ],
+                        "PrePos": [-0.5, 0.5, 1.2385, 3.9778],
+                        "MG": [228.8, -57.6, -166.4, 91.2],
+                        "Scale9": [20, 19, 218, 247],
+                        "Tag": 1051349,
+                        "@": 1051350,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-94, 17, 1, 1, 193, 46, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 67, "G": 105, "B": 126 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.4519, 0.2361, 0.9279, 0.6389],
+                        "MG": [43, -17, -94, 109],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "气儿不够不能领奖！\\n",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 1051347,
+                        "@": 1051348,
+                        "Name": "txt",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 208, "Y": 72 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

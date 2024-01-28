@@ -1,0 +1,931 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Scale",
+                        85383202,
+                        [
+                            { "P": [0.8, 0.8], "I": 0 },
+                            { "P": [0.799, 0.799], "I": 24 },
+                            { "P": [0.7999, 0.7999], "I": 49 },
+                            { "P": [0.7993, 0.7993], "I": 74 },
+                            { "P": [0.7999, 0.7999], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        85383202,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [24.81, 24.81], "I": 24 },
+                            { "P": [50, 50], "I": 49 },
+                            { "P": [75.22, 75.22], "I": 74 },
+                            { "P": [89.52, 89.52], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383200,
+                        [
+                            { "P": [0.72, 0.72], "I": 0 },
+                            { "P": [0.72, 0.72], "I": 24 },
+                            { "P": [0.72, 0.72], "I": 49 },
+                            { "P": [0.72, 0.72], "I": 74 },
+                            { "P": [0.7995, 0.7995], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        85383200,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [-25, -25], "I": 24 },
+                            { "P": [-75, -75], "I": 49 },
+                            { "P": [-100, -100], "I": 74 },
+                            { "P": [-135.01, -135.01], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383198,
+                        [
+                            { "P": [-1.85, -0.15], "I": 0 },
+                            { "P": [-1.85, -0.15], "I": 25 },
+                            { "P": [-1.85, -0.15], "I": 50 },
+                            { "P": [-1.85, -0.15], "I": 75 },
+                            { "P": [-1.85, -0.15], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383198,
+                        [
+                            { "P": [0.96, 0.96], "I": 0 },
+                            { "P": [0.8, 0.8], "I": 25 },
+                            { "P": [0.96, 0.96], "I": 50 },
+                            { "P": [0.8, 0.8], "I": 75 },
+                            { "P": [0.96, 0.96], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383196,
+                        [
+                            { "P": [0.6, -2.25], "I": 0 },
+                            { "P": [0.6, -2.25], "I": 20 },
+                            { "P": [0.6, -2.25], "I": 46 },
+                            { "P": [0.6, -2.25], "I": 77 },
+                            { "P": [0.6, -2.25], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383196,
+                        [
+                            { "P": [0.8, 0.8], "I": 0 },
+                            { "P": [0.96, 0.96], "I": 20 },
+                            { "P": [0.96, 0.96], "I": 46 },
+                            { "P": [0.96, 0.96], "I": 77 },
+                            { "P": [0.8, 0.8], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383194,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383192,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383192,
+                        [
+                            { "P": [0.8, 0], "I": 0, "T": 0 },
+                            { "P": [0.8, 0], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383190,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383188,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383186,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383184,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383182,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383180,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383178,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383176,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383176,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383174,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383174,
+                        [
+                            { "P": [-0.45, 11.65], "I": 0, "T": 0 },
+                            { "P": [-0.45, 11.65], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383172,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383172,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383170,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383170,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383168,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383168,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383166,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383166,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383164,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383164,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383162,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383162,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        85383160,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 99,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        85383160,
+                        [
+                            { "P": [-0.55, 10.85], "I": 0, "T": 0 },
+                            { "P": [-0.55, 10.85], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        85383160,
+                        [
+                            { "P": [0.8, 0.8], "I": 0, "T": 0 },
+                            { "P": [0.8, 0.8], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/stargolow0002.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.8, 0.8, 206.4, 206.4, 0, 0, 0.4995, 0.5007
+                        ],
+                        "MG": [206.4, 0, 0, 206.4],
+                        "Tag": 85383201,
+                        "@": 85383202,
+                        "Alpha": 255,
+                        "Name": "a444_21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/stargolow0002.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.72, 0.72, 206.4, 206.4, 0, 0, 0.4995, 0.5007
+                        ],
+                        "MG": [206.4, 0, 0, 206.4],
+                        "Tag": 85383199,
+                        "@": 85383200,
+                        "Alpha": 102,
+                        "Name": "a333_20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/stargolow0004.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            -1, 0, 0.96, 0.96, 156.8, 156.8, 0, 0, 0.4968,
+                            0.5035
+                        ],
+                        "MG": [156.8, 0, -1.6, 155.2],
+                        "Tag": 85383197,
+                        "@": 85383198,
+                        "Alpha": 255,
+                        "Name": "a2222_19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionAnim/stargolow0003.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionAnim@6x.plist"
+                        },
+                        "Pos": [
+                            0, -2, 0.8, 0.8, 107.2, 107.2, 0, 0, 0.4939, 0.5061
+                        ],
+                        "MG": [110.4, 3.2, 0, 107.2],
+                        "Tag": 85383195,
+                        "@": 85383196,
+                        "Alpha": 255,
+                        "Name": "a111_18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00012@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, -56.22, -56.22, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383193,
+                        "@": 85383194,
+                        "Alpha": 255,
+                        "Name": "stargolow000121_17",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00021@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, -22.51, -22.51, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383191,
+                        "@": 85383192,
+                        "Alpha": 255,
+                        "Name": "stargolow000211_16",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00020@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, 22.49, 22.49, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383189,
+                        "@": 85383190,
+                        "Alpha": 255,
+                        "Name": "stargolow000201_15",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00018@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, 61.98, 61.98, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383187,
+                        "@": 85383188,
+                        "Alpha": 255,
+                        "Name": "stargolow000181_14",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00017@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, 106.98, 106.98, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383185,
+                        "@": 85383186,
+                        "Alpha": 255,
+                        "Name": "stargolow000171_13",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00015@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, 145.19, 145.19, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383183,
+                        "@": 85383184,
+                        "Alpha": 255,
+                        "Name": "stargolow000151_12",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00011@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, -174.59, -174.59, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383181,
+                        "@": 85383182,
+                        "Alpha": 255,
+                        "Name": "stargolow000111_11",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00014@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, -135.54, -135.54, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383179,
+                        "@": 85383180,
+                        "Alpha": 255,
+                        "Name": "stargolow000141_10",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00013@6x.json"
+                        },
+                        "Pos": [0, 0, 0.8, 0.8, 0, 0, -91.85, -91.85, 0, 0],
+                        "MG": [0, 0, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383177,
+                        "@": 85383178,
+                        "Alpha": 255,
+                        "Name": "stargolow000131_9",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00012@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, -139.7, -139.7, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383175,
+                        "@": 85383176,
+                        "Alpha": 255,
+                        "Name": "stargolow00012_8",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00021@6x.json"
+                        },
+                        "Pos": [0, 11, 0.8, 0.8, 0, 0, -105.99, -105.99, 0, 0],
+                        "MG": [11, -11, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383173,
+                        "@": 85383174,
+                        "Alpha": 255,
+                        "Name": "stargolow00021_7",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00020@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, -60.99, -60.99, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383171,
+                        "@": 85383172,
+                        "Alpha": 255,
+                        "Name": "stargolow00020_6",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00018@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, -21.5, -21.5, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383169,
+                        "@": 85383170,
+                        "Alpha": 255,
+                        "Name": "stargolow00018_5",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00017@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, 23.5, 23.5, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383167,
+                        "@": 85383168,
+                        "Alpha": 255,
+                        "Name": "stargolow00017_4",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00015@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, 61.71, 61.71, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383165,
+                        "@": 85383166,
+                        "Alpha": 255,
+                        "Name": "stargolow00015_3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00011@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, 101.94, 101.94, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383163,
+                        "@": 85383164,
+                        "Alpha": 255,
+                        "Name": "stargolow00011_2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00014@6x.json"
+                        },
+                        "Pos": [0, 10, 0.8, 0.8, 0, 0, 140.98, 140.98, 0, 0],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383161,
+                        "@": 85383162,
+                        "Alpha": 255,
+                        "Name": "stargolow00014_1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMissionAnim_stargolow00013@6x.json"
+                        },
+                        "Pos": [
+                            0, 10, 0.7999, 0.7999, 0, 0, -175.33, -175.33, 0, 0
+                        ],
+                        "MG": [10, -10, 0, 0],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 85383159,
+                        "@": 85383160,
+                        "Alpha": 255,
+                        "Name": "stargolow00013_0",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

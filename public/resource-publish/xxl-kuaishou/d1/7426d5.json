@@ -1,0 +1,124 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 523.6, 542.1192, 0, 0, 0.005, 0.9998
+                        ],
+                        "MG": [488, 0, 0, 616],
+                        "Scale9": [353, 176, 7, 6],
+                        "Tag": 86041936,
+                        "@": 86041937,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "colorless_fish_noti/zhezhe.png",
+                            "Plist": "cocos/colorless_fish_noti@6x.plist"
+                        },
+                        "Pos": [463, -54, 1, 1, 80, 59.2, 0, 0, 0.5094, 0.5],
+                        "PrePos": [0.8853, -0.0998, 0.153, 0.1094],
+                        "MG": [145.6, 86.4, 740.8, 820.8],
+                        "Tag": 86041934,
+                        "@": 86041935,
+                        "Alpha": 255,
+                        "Name": "mask",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            152, -66, 1, 1, 211.0451, 194.9965, 0, 0, 0.0012,
+                            0.9987
+                        ],
+                        "PrePos": [0.2906, -0.122, 0.1591, 0.1449],
+                        "MG": [184, 105.6, 243.2, 326.4],
+                        "Scale9": [38, 35, 5, 5],
+                        "Tag": 86041932,
+                        "@": 86041933,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "colorless_fish_noti/res_colorless_fish.png",
+                            "Plist": "cocos/colorless_fish_noti@6x.plist"
+                        },
+                        "Pos": [
+                            262, -172, 1, 1, 121.6, 94.4, 0, 0, 0.4984, 0.5011
+                        ],
+                        "PrePos": [0.501, -0.3179, 0.2325, 0.1745],
+                        "MG": [369.6, 275.2, 419.2, 540.8],
+                        "Tag": 86041930,
+                        "@": 86041931,
+                        "Alpha": 255,
+                        "Name": "fish",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/colorless_fish_noti_btn_green_1d15_1d@6x.json"
+                        },
+                        "Pos": [258, -439, 1, 1, 244, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4933, -0.8115, 0.4665, 0.2218],
+                        "MG": [-18, 439, 258, 21],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 86041928,
+                        "@": 86041929,
+                        "Alpha": 255,
+                        "Name": "btn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "colorless_fish_noti/res_noti_text.png",
+                            "Plist": "cocos/colorless_fish_noti@6x.plist"
+                        },
+                        "Pos": [
+                            259, -328, 1, 1, 390.4, 75.2, 0, 0, 0.4981, 0.5199
+                        ],
+                        "PrePos": [0.4952, -0.6063, 0.7465, 0.139],
+                        "MG": [600, 524.8, 414.4, 804.8],
+                        "Tag": 86041926,
+                        "@": 86041927,
+                        "Alpha": 255,
+                        "Name": "text",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 523, "Y": 541 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

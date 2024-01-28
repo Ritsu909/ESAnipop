@@ -1,0 +1,201 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/coinnnnnnnnn.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            195, -162, 1, 1, 150.4, 120, 0, 0, 0.5037, 0.5054
+                        ],
+                        "PrePos": [0.3207, -0.4525, 0.2474, 0.3352],
+                        "MG": [379.2, 259.2, 312, 462.4],
+                        "Tag": 87667260,
+                        "@": 87667261,
+                        "Alpha": 255,
+                        "Name": "coinnnnnnnnn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/rmb_buy_img.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            196, -170, 1, 1, 140.8, 113.6, 0, 0, 0.4972, 0.4956
+                        ],
+                        "PrePos": [0.3224, -0.4749, 0.2316, 0.3173],
+                        "MG": [385.6, 272, 313.6, 454.4],
+                        "Tag": 87667308,
+                        "@": 87667309,
+                        "Alpha": 255,
+                        "Name": "rmb_buy_img",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/groupppppppppp.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            503, -166, 1, 1, 140.8, 108.8, 0, 0, 0.4972, 0.4986
+                        ],
+                        "PrePos": [0.8273, -0.4637, 0.2316, 0.3039],
+                        "MG": [374.4, 265.6, 804.8, 945.6],
+                        "Tag": 87667258,
+                        "@": 87667259,
+                        "Alpha": 255,
+                        "Name": "groupppppppppp",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [124, -215, 1, 1, 154, 43, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2039, -0.6006, 0.2533, 0.1201],
+                        "MG": [100, 215, 124, 330],
+                        "IsCustomSize": true,
+                        "LabelText": "风车币购买",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 87667256,
+                        "@": 87667257,
+                        "Name": "descb1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [407, -215, 1, 1, 195, 43, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.6694, -0.6006, 0.3207, 0.1201],
+                        "MG": [100, 215, 407, 6],
+                        "IsCustomSize": true,
+                        "LabelText": "求助好友+1次",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 87667254,
+                        "@": 87667255,
+                        "Name": "descb2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_green_start2@6x.json"
+                        },
+                        "Pos": [172, -306, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.2829, -0.8547, 0.4605, 0.3408],
+                        "MG": [-70, 306, 172, 156],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667252,
+                        "@": 87667253,
+                        "Alpha": 255,
+                        "Name": "btn1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_btn_blue_start@6x.json"
+                        },
+                        "Pos": [480, -302, 0.8, 0.8, 280, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7895, -0.8436, 0.4605, 0.3408],
+                        "MG": [-66, 302, 480, -152],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667250,
+                        "@": 87667251,
+                        "Alpha": 255,
+                        "Name": "btn2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMission/close_btn_blue.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMission@6x.plist"
+                        },
+                        "Pos": [
+                            650, -44, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [1.0691, -0.1229, 0.1421, 0.2413],
+                        "MG": [156.8, 70.4, 1040, 1126.4],
+                        "Tag": 87667248,
+                        "@": 87667249,
+                        "Alpha": 255,
+                        "Name": "closebtn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [194, -26, 1, 1, 322, 55, 0, 0, 0, 1],
+                        "PrePos": [0.3191, -0.0726, 0.5296, 0.1536],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [277, 26, 194, 92],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "获得闯关次数",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 87667246,
+                        "@": 87667247,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/ActivityMission/cocos/ActivityMission_discount@6x.json"
+                        },
+                        "Pos": [288, -277, 1, 1, 76, 52, 14, 14, 0, 0],
+                        "PrePos": [0.4737, -0.7737, 0.125, 0.1453],
+                        "MG": [29, 277, 288, 244],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 87667350,
+                        "@": 87667351,
+                        "Alpha": 255,
+                        "Name": "discount1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 608, "Y": 358 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

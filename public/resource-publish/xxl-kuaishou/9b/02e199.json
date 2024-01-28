@@ -1,0 +1,94 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/progress_bg.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -71, -63, 1, 1, 193.6, 108.8, -45, -45, 0.0005,
+                            0.9991
+                        ],
+                        "PrePos": [-0.3349, -0.2972, 0.9132, 0.5132],
+                        "MG": [209.6, 100.8, -113.6, 80],
+                        "Tag": 3035298,
+                        "@": 3035299,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/progress_foreground.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -58, -68, 1, 1, 182.4, 86.4, -45, -45, 0.0005,
+                            0.9988
+                        ],
+                        "PrePos": [-0.2736, -0.3208, 0.8604, 0.4075],
+                        "MG": [195.2, 108.8, -92.8, 89.6],
+                        "Tag": 3035296,
+                        "@": 3035297,
+                        "Alpha": 255,
+                        "Name": "foreground",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/gameScene_head@6x.json"
+                        },
+                        "Pos": [
+                            0, 0, 0.9984, 0.9984, 9, 28, 36.71, 36.71, 0, 0
+                        ],
+                        "MG": [184, 0, 0, 203],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3035294,
+                        "@": 3035295,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameScene/progress_dec.png",
+                            "Plist": "cocos/gameScene@6x.plist"
+                        },
+                        "Pos": [
+                            -55, -57, 1, 1, 158.4, 76.8, -45, -45, 0.0006,
+                            0.9987
+                        ],
+                        "PrePos": [-0.2594, -0.2689, 0.7472, 0.3623],
+                        "MG": [168, 91.2, -88, 70.4],
+                        "Tag": 3035292,
+                        "@": 3035293,
+                        "Alpha": 255,
+                        "Name": "decoration",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 212, "Y": 212 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

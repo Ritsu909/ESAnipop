@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -300, 81, 1, 1, 623.4758, 174.695, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "CColor": { "A": 255, "R": 0, "G": 0, "B": 0 },
+                        "PrePos": [-0.4754, 0.4355, 0.1978, 0.671],
+                        "MG": [-4.8, -129.6, -480, -355.2],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 1051423,
+                        "@": 1051424,
+                        "Alpha": 51,
+                        "Name": "bg_shadow",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak1.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -310, 93, 1, 1, 623.4758, 174.695, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [-0.4913, 0.5, 0.1978, 0.671],
+                        "MG": [-24.0, -148.8, -496, -371.2],
+                        "Scale9": [58, 52, 7, 26],
+                        "Tag": 1051421,
+                        "@": 1051422,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    }
+                ],
+                "Size": { "X": 631, "Y": 186 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

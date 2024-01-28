@@ -1,0 +1,154 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 100,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        9447820,
+                        [
+                            { "P": [1.6, 45.45], "I": 0, "T": 0 },
+                            { "P": [1.6, 45.45], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447818,
+                        [
+                            { "P": [-21.35, 58.2], "I": 0, "T": 0 },
+                            { "P": [-21.35, 58.2], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447816,
+                        [
+                            { "P": [-8.1, 62.7], "I": 0, "T": 0 },
+                            { "P": [-8.1, 62.7], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447814,
+                        [
+                            { "P": [19.2, 66.4], "I": 0, "T": 0 },
+                            { "P": [19.2, 66.4], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447812,
+                        [
+                            { "P": [-22.45, 52.25], "I": 0, "T": 0 },
+                            { "P": [-22.45, 52.25], "I": 99, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        9447810,
+                        [
+                            { "P": [1.6, 45.45], "I": 0, "T": 0 },
+                            { "P": [1.6, 45.45], "I": 99, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/icecreamback.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [1, 45, 1, 1, 113.6, 144, 0, 0, 0.4938, 0.5024],
+                        "MG": [72, -72, 1.6, 115.2],
+                        "Tag": 9447819,
+                        "@": 9447820,
+                        "Alpha": 255,
+                        "Name": "icecreamback.png",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/icecreambar1.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [-21, 58, 1, 1, 38.4, 48, 0, 0, 0.7435, 0.176],
+                        "MG": [-44.8, -92.8, -33.6, 4.8],
+                        "Tag": 9447817,
+                        "@": 9447818,
+                        "Alpha": 255,
+                        "Name": "icecreambar1.png",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/icecreambar2.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [-8, 62, 1, 1, 35.2, 57.6, 0, 0, 0.767, 0.1276],
+                        "MG": [-41.6, -99.2, -12.8, 22.4],
+                        "Tag": 9447815,
+                        "@": 9447816,
+                        "Alpha": 255,
+                        "Name": "icecreambar2.png",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/ball1_fox_finish.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [19, 66, 1, 1, 70.4, 65.6, 0, 0, 0.4936, 0.5046],
+                        "MG": [-40, -105.6, 30.4, 100.8],
+                        "Tag": 9447813,
+                        "@": 9447814,
+                        "Alpha": 255,
+                        "Name": "ball1.png",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/ball2.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [-22, 52, 1, 1, 52.8, 48, 0, 0, 0.4489, 0.5062],
+                        "MG": [-35.2, -83.2, -35.2, 17.6],
+                        "Tag": 9447811,
+                        "@": 9447812,
+                        "Alpha": 255,
+                        "Name": "ball2.png",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "fox_finish/icecreamfront.png",
+                            "Plist": "cocos/fox_finish@6x.plist"
+                        },
+                        "Pos": [1, 45, 1, 1, 113.6, 144, 0, 0, 0.4938, 0.5024],
+                        "MG": [72, -72, 1.6, 115.2],
+                        "Tag": 9447809,
+                        "@": 9447810,
+                        "Alpha": 255,
+                        "Name": "icecreamfront.png",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,175 @@
+{
+    "Version": "3.10.0.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/sand_bg.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -129, 1, 1, 736, 651.7181, 0, 0, 0.0023, 0.9979
+                        ],
+                        "PrePos": [0, -0.1656, 0.9281, 1.0413],
+                        "MG": [1017.6, 206.4, 736],
+                        "Scale9": [117, 369, 229, 100],
+                        "Tag": 2000,
+                        "@": 2001,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco1.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [697, -602, 1, 1, 22.4, 19.2, 0, 0, 0.5, 0.4948],
+                        "PrePos": [0.8789, -0.7728, 0.0282, 0.0246],
+                        "MG": [982.4, 963.2, 1115.2, 1137.6],
+                        "Tag": 2002,
+                        "@": 2003,
+                        "Name": "deco1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco2.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            707, -669, 1, 1, 144, 123.2, 0, 0, 0.4979, 0.4943
+                        ],
+                        "PrePos": [0.8916, -0.8588, 0.1816, 0.1582],
+                        "MG": [1193.6, 1070.4, 1131.2, 1275.2],
+                        "Tag": 2004,
+                        "@": 2005,
+                        "Name": "deco2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco3.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [614, -655, 1, 1, 54.4, 51.2, 0, 0, 0.5, 0.5078],
+                        "PrePos": [0.7743, -0.8408, 0.0686, 0.0657],
+                        "MG": [1099.2, 1048, 982.4, 1036.8],
+                        "Tag": 2006,
+                        "@": 2007,
+                        "Name": "deco3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco4.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [30, -681, 1, 1, 56, 59.2, 0, 0, 0.5036, 0.4882],
+                        "PrePos": [0.0378, -0.8742, 0.0706, 0.076],
+                        "MG": [1148.8, 1089.6, 48, 104],
+                        "Tag": 2008,
+                        "@": 2009,
+                        "Name": "deco4",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/deco6.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [26, -749, 1, 1, 48, 52.8, 0, 0, 0.5042, 0.5038],
+                        "PrePos": [0.0328, -0.9615, 0.0605, 0.0678],
+                        "MG": [1251.2, 1198.4, 41.6, 89.6],
+                        "Tag": 2010,
+                        "@": 2011,
+                        "Name": "deco6",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/upleft.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [86, -134, 1, 1, 208, 272, 0, 0, 0.501, 0.4993],
+                        "PrePos": [0.1084, -0.172, 0.2623, 0.3492],
+                        "MG": [486.4, 214.4, 137.6, 345.6],
+                        "Tag": 2012,
+                        "@": 2013,
+                        "Name": "upleft",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "level_panel/table.png",
+                            "Plist": "cocos/level_panel@6x.plist"
+                        },
+                        "Pos": [
+                            116, -318, 1, 1, 504, 212.8, 0, 0, 0.0034, 0.992
+                        ],
+                        "PrePos": [0.1463, -0.4082, 0.6356, 0.2732],
+                        "MG": [721.6, 508.8, 185.6, 689.6],
+                        "Tag": 2014,
+                        "@": 2015,
+                        "Name": "table",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/level_panel_racoon@6x.json"
+                        },
+                        "Pos": [210, -163, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.2648, -0.2092, 0, 0],
+                        "MG": [616, 163, 210, 583],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 2062,
+                        "@": 2063,
+                        "Name": "anim",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [380, -613, 1, 1, 300, 126, 0, 0, 0.5, 0.5],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4792, -0.7869, 0.3783, 0.1617],
+                        "MG": [40, 613, 380, 113],
+                        "FontSize": 60,
+                        "Shadow": [2, -2],
+                        "Tag": 2064,
+                        "@": 2065,
+                        "Name": "btn",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": { "X": 793, "Y": 779 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

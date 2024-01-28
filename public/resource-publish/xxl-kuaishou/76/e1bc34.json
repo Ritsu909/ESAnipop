@@ -1,0 +1,85 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "h5library/top_btn_bg.png",
+                            "Plist": "cocos/h5library@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 320, 136, 0, 0, 0.4988, 0.5029],
+                        "MG": [136, 0, 0, 320],
+                        "Tag": 29448672,
+                        "@": 29448673,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -83, 5, 0.7, 0.7, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [-0.2602, 0.037, 0.3611, 0.8533],
+                        "MG": [107.2, -8, -132.8, -17.6],
+                        "Tag": 29448670,
+                        "@": 29448671,
+                        "Alpha": 255,
+                        "Name": "avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/tx01.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [-82, 6, 1, 1, 88, 88, 0, 0, 0.4955, 0.5045],
+                        "PrePos": [-0.2571, 0.0444, 0.2759, 0.6519],
+                        "MG": [78.4, -9.6, -131.2, -43.2],
+                        "Tag": 29448668,
+                        "@": 29448669,
+                        "Alpha": 255,
+                        "Name": "avatar_box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-45, 16, 0.6, 0.6, 187, 33, 0, 0, 0, 1],
+                        "PrePos": [-0.1411, 0.1185, 0.5862, 0.2444],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [118, -16, -45, 177],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 29448666,
+                        "@": 29448667,
+                        "Name": "name",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 319, "Y": 135 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

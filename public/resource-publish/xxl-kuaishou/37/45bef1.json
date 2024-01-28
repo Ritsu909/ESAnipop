@@ -1,0 +1,312 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_invite/background.png",
+                            "Plist": "cocos/pvp_invite@6x.plist"
+                        },
+                        "Pos": [
+                            480, -640, 1, 1, 960, 1280, 0, 0, 0.5001, 0.4999
+                        ],
+                        "PrePos": [0.5, -0.5, 1, 1],
+                        "MG": [2304, 1024, 768, 1728],
+                        "Tag": 9312014,
+                        "@": 9312015,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_invite/panel_bg.png",
+                            "Plist": "cocos/pvp_invite@6x.plist"
+                        },
+                        "Pos": [
+                            175, -143, 1, 1, 609.6, 734.4, 0, 0, 0.0002, 0.9999
+                        ],
+                        "PrePos": [0.1823, -0.1117, 0.635, 0.5738],
+                        "MG": [963.2, 228.8, 280, 889.6],
+                        "Tag": 9312024,
+                        "@": 9312025,
+                        "Alpha": 255,
+                        "Name": "panel_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pvp_invite_btn_question@6x.json"
+                        },
+                        "Pos": [706, -226, 1, 1, 47, 47, 0, 0, 0, 0],
+                        "PrePos": [0.7354, -0.1766, 0.049, 0.0367],
+                        "MG": [1007, 226, 706, 207],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9312012,
+                        "@": 9312013,
+                        "Alpha": 255,
+                        "Name": "btn_question",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            315, -318, 1, 1, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [0.3281, -0.2484, 0.12, 0.09],
+                        "MG": [624, 508.8, 504, 619.2],
+                        "Tag": 9312010,
+                        "@": 9312011,
+                        "Alpha": 255,
+                        "Name": "my_avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_head.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            640, -691, 1, 1, 115.2, 115.2, 0, 0, 0.5, 0.5043
+                        ],
+                        "PrePos": [0.6667, -0.5398, 0.12, 0.09],
+                        "MG": [1220.8, 1105.6, 1024, 1139.2],
+                        "Tag": 9312008,
+                        "@": 9312009,
+                        "Alpha": 255,
+                        "Name": "enemy_avatar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pvp_invite_btn_add@6x.json"
+                        },
+                        "Pos": [639, -692, 1.5, 1.5, 73, 73, 0, 0, 0, 0],
+                        "PrePos": [0.6656, -0.5406, 0.076, 0.057],
+                        "MG": [515, 692, 639, 248],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9312006,
+                        "@": 9312007,
+                        "Alpha": 255,
+                        "Name": "btn_add",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle2.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            315, -315, 1, 1, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.3281, -0.2461, 0.13, 0.0975],
+                        "MG": [628.8, 504, 504, 628.8],
+                        "Tag": 9312004,
+                        "@": 9312005,
+                        "Alpha": 255,
+                        "Name": "my_circle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/friendboard_circle.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            640, -691, 1, 1, 124.8, 124.8, 0, 0, 0.498, 0.502
+                        ],
+                        "PrePos": [0.6667, -0.5398, 0.13, 0.0975],
+                        "MG": [1230.4, 1105.6, 1024, 1148.8],
+                        "Tag": 9312002,
+                        "@": 9312003,
+                        "Alpha": 255,
+                        "Name": "enemy_circle",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [258, -385, 1, 1, 116, 74, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.2688, -0.3008, 0.1208, 0.0578],
+                        "MG": [821, 385, 258, 586],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "玩家",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 9312000,
+                        "@": 9312001,
+                        "Name": "my_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [529, -761, 1, 1, 261, 56, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.551, -0.5945, 0.2719, 0.0438],
+                        "MG": [463, 761, 529, 170],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "等待好友……",
+                        "FontSize": 26,
+                        "Shadow": [2, -2],
+                        "Tag": 9311998,
+                        "@": 9311999,
+                        "Name": "enemy_name",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pvp_invite_btn_invite@6x.json"
+                        },
+                        "Pos": [473, -969, 1, 1, 281, 141, 0, 0, 0, 0],
+                        "PrePos": [0.4927, -0.757, 0.2927, 0.1102],
+                        "MG": [170, 969, 473, 206],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9311996,
+                        "@": 9311997,
+                        "Alpha": 255,
+                        "Name": "btn_invite",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_invite/back.png",
+                            "Plist": "cocos/pvp_invite@6x.plist"
+                        },
+                        "Pos": [230, -72, 1, 1, 64, 64, 0, 0, 0.5109, 0.4891],
+                        "PrePos": [0.2396, -0.0562, 0.0667, 0.05],
+                        "MG": [179.2, 115.2, 368, 432],
+                        "Tag": 9311994,
+                        "@": 9311995,
+                        "Alpha": 255,
+                        "Name": "btn_back",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_invite/tab.png",
+                            "Plist": "cocos/pvp_invite@6x.plist"
+                        },
+                        "Pos": [
+                            342, -349, 1, 1, 48, 43.2, 0, 0, 0.5146, 0.5116
+                        ],
+                        "PrePos": [0.3562, -0.2727, 0.05, 0.0338],
+                        "MG": [601.6, 558.4, 547.2, 595.2],
+                        "Tag": 9311992,
+                        "@": 9311993,
+                        "Alpha": 255,
+                        "Name": "owner_flag",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [217, -1159, 1, 1, 521, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 74, "G": 99, "B": 222 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.226, -0.9055, 0.5427, 0.0305],
+                        "MG": [82, 1159, 217, 222],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "每日通过对战，可累计获得20000银币哦！\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 9311990,
+                        "@": 9311991,
+                        "Name": "bottom_tip2",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [168, -1110, 1, 1, 628, 47, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 74, "G": 99, "B": 222 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.175, -0.8672, 0.6542, 0.0367],
+                        "MG": [123, 1110, 168, 164],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "邀请新用户对战，双方均可获得          风车币哦！\\n",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 9311988,
+                        "@": 9311989,
+                        "Name": "bottom_tip1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pvp_invite/number.png",
+                            "Plist": "cocos/pvp_invite@6x.plist"
+                        },
+                        "Pos": [
+                            594, -1128, 1, 1, 49.6, 35.2, 0, 0, 0.496, 0.5142
+                        ],
+                        "PrePos": [0.6188, -0.8812, 0.0517, 0.0275],
+                        "MG": [1840, 1804.8, 950.4, 1000],
+                        "Tag": 9311986,
+                        "@": 9311987,
+                        "Alpha": 255,
+                        "Name": "cash",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 960, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

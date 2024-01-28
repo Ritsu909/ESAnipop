@@ -1,0 +1,230 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/back_blue1.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -1235, 1, 1, 687.0475, 44.8, 0, 0, 0.0012, 0.9978
+                        ],
+                        "PrePos": [0, -0.9581, 0.1211, 0.0348],
+                        "MG": [2020.8, 1976, 0, 81.6],
+                        "Scale9": [30, 11, 24, 22],
+                        "Tag": 84751229,
+                        "@": 84751230,
+                        "Alpha": 255,
+                        "Name": "bg2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_res_tab_title@6x.json"
+                        },
+                        "Pos": [216, -207, 1, 1, 240, 61, 0, 0, 0, 0],
+                        "PrePos": [0.3205, -0.1606, 0.3561, 0.0473],
+                        "MG": [1021, 207, 216, 218],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751267,
+                        "@": 84751268,
+                        "Alpha": 255,
+                        "Name": "tab1",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_res_tab_title@6x.json"
+                        },
+                        "Pos": [457, -207, 1, 1, 240, 61, 0, 0, 0, 0],
+                        "PrePos": [0.678, -0.1606, 0.3561, 0.0473],
+                        "MG": [1021, 207, 457, -23],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751265,
+                        "@": 84751266,
+                        "Alpha": 255,
+                        "Name": "tab2",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/newback.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -206, 1, 1, 676.5853, 1029.7427, 0, 0, 0.0006,
+                            0.9996
+                        ],
+                        "PrePos": [0, -0.1598, 0.2516, 0.2023],
+                        "MG": [590.4, 329.6, 0, 169.6],
+                        "Scale9": [72, 102, 28, 63],
+                        "Tag": 84751225,
+                        "@": 84751226,
+                        "Alpha": 255,
+                        "Name": "bg1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/bottom_btn_question3.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            496, -92, 0.8, 0.8, 97.6, 97.6, 0, 0, 0.5005, 0.4995
+                        ],
+                        "PrePos": [0.7359, -0.0714, 0.1448, 0.0757],
+                        "MG": [244.8, 147.2, 793.6, 891.2],
+                        "Tag": 84751293,
+                        "@": 84751294,
+                        "Alpha": 255,
+                        "Name": "ques",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_title5.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [442, 5, 1, 1, 52.8, 128, 0, 0, 0.5133, 0.9992],
+                        "PrePos": [0.6558, 0.0039, 0.0783, 0.0993],
+                        "MG": [120, -8, 707.2, 760],
+                        "Tag": 84751223,
+                        "@": 84751224,
+                        "Alpha": 255,
+                        "Name": "title5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_title4.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            383, 8, 1, 1, 51.2, 121.6, 0, 0, 0.5244, 0.9992
+                        ],
+                        "PrePos": [0.5682, 0.0062, 0.076, 0.0943],
+                        "MG": [108.8, -12.8, 612.8, 664],
+                        "Tag": 84751221,
+                        "@": 84751222,
+                        "Alpha": 255,
+                        "Name": "title4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_title3.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            325, 10, 1, 1, 54.4, 123.2, 0, 0, 0.5717, 0.9992
+                        ],
+                        "PrePos": [0.4822, 0.0078, 0.0807, 0.0956],
+                        "MG": [107.2, -16, 520, 574.4],
+                        "Tag": 84751219,
+                        "@": 84751220,
+                        "Alpha": 255,
+                        "Name": "title3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_title2.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [
+                            264, 9, 1, 1, 46.4, 118.4, 0, 0, 0.5032, 0.9992
+                        ],
+                        "PrePos": [0.3917, 0.007, 0.0688, 0.0919],
+                        "MG": [104, -14.4, 422.4, 468.8],
+                        "Tag": 84751217,
+                        "@": 84751218,
+                        "Alpha": 255,
+                        "Name": "title2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "star_rank_panel/res_title1.png",
+                            "Plist": "cocos/star_rank_panel@6x.plist"
+                        },
+                        "Pos": [209, 9, 1, 1, 48, 129.6, 0, 0, 0.4396, 0.9992],
+                        "PrePos": [0.3101, 0.007, 0.0712, 0.1005],
+                        "MG": [115.2, -14.4, 334.4, 382.4],
+                        "Tag": 84751215,
+                        "@": 84751216,
+                        "Alpha": 255,
+                        "Name": "title1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [244, -1237, 1, 1, 170, 37, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.362, -0.9597, 0.2522, 0.0287],
+                        "MG": [15, 1237, 244, 260],
+                        "IsCustomSize": true,
+                        "LabelText": "我的排名：99",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 84751213,
+                        "@": 84751214,
+                        "Name": "rank",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/star_rank_panel_bottom_btn_green_cancel@6x.json"
+                        },
+                        "Pos": [632, -50, 1, 1, 55, 57, 0, 0, 0, 0],
+                        "PrePos": [0.9377, -0.0388, 0.0816, 0.0442],
+                        "MG": [1182, 50, 632, -13],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 84751269,
+                        "@": 84751270,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 674, "Y": 1289 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

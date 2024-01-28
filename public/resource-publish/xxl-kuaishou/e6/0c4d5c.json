@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -307, 125, 1, 1, 617.6, 126.4, 0, 0, 0.0028, 0.9992
+                        ],
+                        "PrePos": [-0.4992, 1, 1.0042, 1.0112],
+                        "MG": [-73.6, -200, -491.2, 126.4],
+                        "Tag": 80574853,
+                        "@": 80574854,
+                        "Alpha": 255,
+                        "Name": "banner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-190, 99, 0.9333, 0.863, 395, 50, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [-0.3089, 0.792, 0.6423, 0.4],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_32_redstroke@6x.fnt"
+                        },
+                        "MG": [174, -99, -190, 410],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "一起打章鱼BOSS!！",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 80574851,
+                        "@": 80574852,
+                        "Name": "text",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 615, "Y": 125 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

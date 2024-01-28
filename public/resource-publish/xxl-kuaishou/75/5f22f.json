@@ -1,0 +1,35 @@
+{
+    "V": 2,
+    "C": {
+        "A": { "T": [] },
+        "D": {
+            "C": [
+                {
+                    "F": [0, "cocos/preloadScene_blue_button@6x.json", ""],
+                    "Pos": [0, -494, 1, 1, 271, 119, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 81947060,
+                    "@": 81947061,
+                    "#": "blue_button",
+                    "$": "PN"
+                },
+                {
+                    "F": [
+                        0,
+                        "cocos/preloadScene_bottom_startuistartbottommmm@6x.json",
+                        ""
+                    ],
+                    "Pos": [0, -345, 1, 1, 372, 123, 0, 0, 0, 0],
+                    "CustomSizeEnabled": false,
+                    "Tag": 81947058,
+                    "@": 81947059,
+                    "#": "green_button",
+                    "$": "PN"
+                }
+            ],
+            "Size": { "X": 372, "Y": 270 },
+            "$": "N"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,77 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/inputname.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -158, 41, 1, 1, 319.5443, 84.6864, 0, 0, 0.002,
+                            0.9979
+                        ],
+                        "PrePos": [-0.5, 0.494, 0.162, 0.5783],
+                        "MG": [-17.6, -65.6, -252.8, -201.6],
+                        "Scale9": [22, 20, 6, 5],
+                        "Tag": 29325823,
+                        "@": 29325824,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-54, 14, 1, 1, 177, 35, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 75, "G": 79, "B": 95 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.1709, 0.1687, 0.5601, 0.4217],
+                        "MG": [62, -14, -54, 193],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "发送给朋友",
+                        "FontSize": 24,
+                        "Shadow": [2, -2],
+                        "Tag": 29325821,
+                        "@": 29325822,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_selecticon_session.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [-99, 5, 1, 1, 65.6, 64, 0, 0, 0.4954, 0.5039],
+                        "PrePos": [-0.3133, 0.0602, 0.2076, 0.7711],
+                        "MG": [56, -8, -158.4, -92.8],
+                        "Tag": 29325819,
+                        "@": 29325820,
+                        "Alpha": 255,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 316, "Y": 83 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

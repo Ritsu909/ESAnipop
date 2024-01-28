@@ -1,0 +1,36 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_butterfly/huahua.png",
+                            "Plist": "cocos/obstacle_anim_butterfly@6x.plist"
+                        },
+                        "Pos": [0, -1, 1, 1, 65.6, 62.4, 0, 0, 0.0015, 0.9792],
+                        "PrePos": [0, -0.0164, 1.025, 1.023],
+                        "MG": [64, 1.6, 0, 65.6],
+                        "Tag": 92744460,
+                        "@": 92744461,
+                        "Alpha": 255,
+                        "Name": "Layer 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 64, "Y": 61 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

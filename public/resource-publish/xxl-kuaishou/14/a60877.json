@@ -1,0 +1,1379 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            46, -101, 1, 1, 644.6931, 736.3123, 0, 0, 0.0002,
+                            1.0056
+                        ],
+                        "PrePos": [0.0624, -0.1174, 0.6035, 0.3237],
+                        "MG": [440, 161.6, 73.6, 518.4],
+                        "Scale9": [143, 79, 10, 9],
+                        "Tag": 42772372,
+                        "@": 42772373,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon1.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            563, -226, 1, 1, 270.4, 128, 43, 43, 0.5006, 0.3969
+                        ],
+                        "PrePos": [0.7639, -0.2628, 0.3669, 0.1488],
+                        "MG": [489.6, 361.6, 900.8, 1171.2],
+                        "Tag": 42772370,
+                        "@": 42772371,
+                        "Alpha": 255,
+                        "Name": "icon1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -384, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.4465, 0.1085, 0.0447],
+                        "MG": [652.8, 614.4, 128, 208],
+                        "Tag": 42772490,
+                        "@": 42772491,
+                        "Alpha": 176,
+                        "Name": "icon80",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -411, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.4779, 0.1085, 0.0447],
+                        "MG": [696, 657.6, 128, 208],
+                        "Tag": 42772488,
+                        "@": 42772489,
+                        "Alpha": 176,
+                        "Name": "icon79",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -438, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.5093, 0.1085, 0.0447],
+                        "MG": [739.2, 700.8, 128, 208],
+                        "Tag": 42772486,
+                        "@": 42772487,
+                        "Alpha": 176,
+                        "Name": "icon78",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -465, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.5407, 0.1085, 0.0447],
+                        "MG": [782.4, 744, 128, 208],
+                        "Tag": 42772484,
+                        "@": 42772485,
+                        "Alpha": 176,
+                        "Name": "icon77",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -492, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.5721, 0.1085, 0.0447],
+                        "MG": [825.6, 787.2, 128, 208],
+                        "Tag": 42772482,
+                        "@": 42772483,
+                        "Alpha": 176,
+                        "Name": "icon76",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -519, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.6035, 0.1085, 0.0447],
+                        "MG": [868.8, 830.4, 128, 208],
+                        "Tag": 42772480,
+                        "@": 42772481,
+                        "Alpha": 176,
+                        "Name": "icon75",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -546, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.6349, 0.1085, 0.0447],
+                        "MG": [912, 873.6, 128, 208],
+                        "Tag": 42772478,
+                        "@": 42772479,
+                        "Alpha": 176,
+                        "Name": "icon74",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -573, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.6663, 0.1085, 0.0447],
+                        "MG": [955.2, 916.8, 128, 208],
+                        "Tag": 42772476,
+                        "@": 42772477,
+                        "Alpha": 176,
+                        "Name": "icon73",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -601, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.6988, 0.1085, 0.0447],
+                        "MG": [1000, 961.6, 128, 208],
+                        "Tag": 42772474,
+                        "@": 42772475,
+                        "Alpha": 176,
+                        "Name": "icon72",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -703, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.8174, 0.1085, 0.0447],
+                        "MG": [1163.2, 1124.8, 128, 208],
+                        "Tag": 42772508,
+                        "@": 42772509,
+                        "Alpha": 176,
+                        "Name": "icon82",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -730, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.8488, 0.1085, 0.0447],
+                        "MG": [1206.4, 1168, 128, 208],
+                        "Tag": 42772506,
+                        "@": 42772507,
+                        "Alpha": 176,
+                        "Name": "icon83",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -627, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.7291, 0.1085, 0.0447],
+                        "MG": [1041.6, 1003.2, 128, 208],
+                        "Tag": 42772472,
+                        "@": 42772473,
+                        "Alpha": 176,
+                        "Name": "icon71",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -653, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.7593, 0.1085, 0.0447],
+                        "MG": [1083.2, 1044.8, 128, 208],
+                        "Tag": 42772470,
+                        "@": 42772471,
+                        "Alpha": 176,
+                        "Name": "icon70",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -678, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.7884, 0.1085, 0.0447],
+                        "MG": [1123.2, 1084.8, 128, 208],
+                        "Tag": 42772468,
+                        "@": 42772469,
+                        "Alpha": 176,
+                        "Name": "icon69",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -328, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.3814, 0.1085, 0.0447],
+                        "MG": [563.2, 524.8, 1044.8, 1124.8],
+                        "Tag": 42772466,
+                        "@": 42772467,
+                        "Alpha": 176,
+                        "Name": "icon68",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -355, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.4128, 0.1085, 0.0447],
+                        "MG": [606.4, 568, 1044.8, 1124.8],
+                        "Tag": 42772464,
+                        "@": 42772465,
+                        "Alpha": 176,
+                        "Name": "icon67",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            652, -754, 0.3414, 0.4, 80, 38.4, -77.91, 107.11,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.8847, -0.8767, 0.1085, 0.0447],
+                        "MG": [1244.8, 1206.4, 1043.2, 1123.2],
+                        "Tag": 42772462,
+                        "@": 42772463,
+                        "Alpha": 176,
+                        "Name": "icon66",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            652, -382, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.8847, -0.4442, 0.1085, 0.0447],
+                        "MG": [649.6, 611.2, 1043.2, 1123.2],
+                        "Tag": 42772460,
+                        "@": 42772461,
+                        "Alpha": 176,
+                        "Name": "icon65",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -409, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.4756, 0.1085, 0.0447],
+                        "MG": [692.8, 654.4, 1044.8, 1124.8],
+                        "Tag": 42772458,
+                        "@": 42772459,
+                        "Alpha": 176,
+                        "Name": "icon64",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -436, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.507, 0.1085, 0.0447],
+                        "MG": [736, 697.6, 1044.8, 1124.8],
+                        "Tag": 42772456,
+                        "@": 42772457,
+                        "Alpha": 176,
+                        "Name": "icon63",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -463, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.5384, 0.1085, 0.0447],
+                        "MG": [779.2, 740.8, 1044.8, 1124.8],
+                        "Tag": 42772454,
+                        "@": 42772455,
+                        "Alpha": 176,
+                        "Name": "icon62",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -490, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.5698, 0.1085, 0.0447],
+                        "MG": [822.4, 784, 1044.8, 1124.8],
+                        "Tag": 42772452,
+                        "@": 42772453,
+                        "Alpha": 176,
+                        "Name": "icon61",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -517, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.6012, 0.1085, 0.0447],
+                        "MG": [865.6, 827.2, 1044.8, 1124.8],
+                        "Tag": 42772450,
+                        "@": 42772451,
+                        "Alpha": 176,
+                        "Name": "icon60",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -545, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.6337, 0.1085, 0.0447],
+                        "MG": [910.4, 872, 1044.8, 1124.8],
+                        "Tag": 42772448,
+                        "@": 42772449,
+                        "Alpha": 176,
+                        "Name": "icon59",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -572, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.6651, 0.1085, 0.0447],
+                        "MG": [953.6, 915.2, 1044.8, 1124.8],
+                        "Tag": 42772446,
+                        "@": 42772447,
+                        "Alpha": 176,
+                        "Name": "icon58",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -599, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.6965, 0.1085, 0.0447],
+                        "MG": [996.8, 958.4, 1044.8, 1124.8],
+                        "Tag": 42772444,
+                        "@": 42772445,
+                        "Alpha": 176,
+                        "Name": "icon57",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -701, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.8151, 0.1085, 0.0447],
+                        "MG": [1160, 1121.6, 1044.8, 1124.8],
+                        "Tag": 42772504,
+                        "@": 42772505,
+                        "Alpha": 176,
+                        "Name": "icon84",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -625, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.7267, 0.1085, 0.0447],
+                        "MG": [1038.4, 1000, 1044.8, 1124.8],
+                        "Tag": 42772442,
+                        "@": 42772443,
+                        "Alpha": 176,
+                        "Name": "icon56",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -728, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.8465, 0.1085, 0.0447],
+                        "MG": [1203.2, 1164.8, 1044.8, 1124.8],
+                        "Tag": 42772502,
+                        "@": 42772503,
+                        "Alpha": 176,
+                        "Name": "icon85",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -651, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.757, 0.1085, 0.0447],
+                        "MG": [1080, 1041.6, 1044.8, 1124.8],
+                        "Tag": 42772440,
+                        "@": 42772441,
+                        "Alpha": 176,
+                        "Name": "icon55",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -675, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.7849, 0.1085, 0.0447],
+                        "MG": [1118.4, 1080, 1044.8, 1124.8],
+                        "Tag": 42772438,
+                        "@": 42772439,
+                        "Alpha": 176,
+                        "Name": "icon54",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -331, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.3849, 0.1085, 0.0447],
+                        "MG": [568, 529.6, 128, 208],
+                        "Tag": 42772436,
+                        "@": 42772437,
+                        "Alpha": 176,
+                        "Name": "icon53",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -358, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.4163, 0.1085, 0.0447],
+                        "MG": [611.2, 572.8, 128, 208],
+                        "Tag": 42772434,
+                        "@": 42772435,
+                        "Alpha": 176,
+                        "Name": "icon52",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            369, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.5007, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 590.4, 670.4],
+                        "Tag": 42772432,
+                        "@": 42772433,
+                        "Alpha": 176,
+                        "Name": "icon51",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            338, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.4586, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 540.8, 620.8],
+                        "Tag": 42772430,
+                        "@": 42772431,
+                        "Alpha": 176,
+                        "Name": "icon50",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            307, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.4166, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 491.2, 571.2],
+                        "Tag": 42772428,
+                        "@": 42772429,
+                        "Alpha": 176,
+                        "Name": "icon49",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            276, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.3745, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 441.6, 521.6],
+                        "Tag": 42772426,
+                        "@": 42772427,
+                        "Alpha": 176,
+                        "Name": "icon48",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            182, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.2469, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 291.2, 371.2],
+                        "Tag": 42772500,
+                        "@": 42772501,
+                        "Alpha": 176,
+                        "Name": "icon87",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            245, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.3324, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 392, 472],
+                        "Tag": 42772424,
+                        "@": 42772425,
+                        "Alpha": 176,
+                        "Name": "icon47",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            150, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.2035, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 240, 320],
+                        "Tag": 42772498,
+                        "@": 42772499,
+                        "Alpha": 176,
+                        "Name": "icon88",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            89, -779, 0.3976, 0.3443, 80, 38.4, 21.94, 15.67,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1208, -0.9058, 0.1085, 0.0447],
+                        "MG": [1284.8, 1246.4, 142.4, 222.4],
+                        "Tag": 42772496,
+                        "@": 42772497,
+                        "Alpha": 176,
+                        "Name": "icon90",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            82, -755, 0.3414, 0.4, 80, 38.4, 77.91, 72.89,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1113, -0.8779, 0.1085, 0.0447],
+                        "MG": [1246.4, 1208, 131.2, 211.2],
+                        "Tag": 42772494,
+                        "@": 42772495,
+                        "Alpha": 176,
+                        "Name": "icon91",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            213, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.289, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 340.8, 420.8],
+                        "Tag": 42772422,
+                        "@": 42772423,
+                        "Alpha": 176,
+                        "Name": "icon46",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            491, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.6662, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 785.6, 865.6],
+                        "Tag": 42772418,
+                        "@": 42772419,
+                        "Alpha": 176,
+                        "Name": "icon44",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            460, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.6242, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 736, 816],
+                        "Tag": 42772416,
+                        "@": 42772417,
+                        "Alpha": 176,
+                        "Name": "icon43",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            430, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.5834, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 688, 768],
+                        "Tag": 42772414,
+                        "@": 42772415,
+                        "Alpha": 176,
+                        "Name": "icon42",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            398, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.54, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 636.8, 716.8],
+                        "Tag": 42772412,
+                        "@": 42772413,
+                        "Alpha": 176,
+                        "Name": "icon41",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            617, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.8372, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 987.2, 1067.2],
+                        "Tag": 42772410,
+                        "@": 42772411,
+                        "Alpha": 176,
+                        "Name": "icon40",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            585, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.7938, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 936, 1016],
+                        "Tag": 42772408,
+                        "@": 42772409,
+                        "Alpha": 176,
+                        "Name": "icon39",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            555, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.7531, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 888, 968],
+                        "Tag": 42772406,
+                        "@": 42772407,
+                        "Alpha": 176,
+                        "Name": "icon38",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            646, -778, 0.3976, 0.3443, 80, 38.4, -21.94, 164.33,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.8765, -0.9047, 0.1085, 0.0447],
+                        "MG": [1283.2, 1244.8, 1033.6, 1113.6],
+                        "Tag": 42772404,
+                        "@": 42772405,
+                        "Alpha": 176,
+                        "Name": "icon37",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            523, -786, 0.4039, 0.3369, 80, 38.4, -0.72, 179.5,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.7096, -0.914, 0.1085, 0.0447],
+                        "MG": [1296, 1257.6, 836.8, 916.8],
+                        "Tag": 42772402,
+                        "@": 42772403,
+                        "Alpha": 176,
+                        "Name": "icon36",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -224, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.2605, 0.1085, 0.0447],
+                        "MG": [396.8, 358.4, 128, 208],
+                        "Tag": 42772400,
+                        "@": 42772401,
+                        "Alpha": 176,
+                        "Name": "icon35",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -251, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.2919, 0.1085, 0.0447],
+                        "MG": [440, 401.6, 128, 208],
+                        "Tag": 42772398,
+                        "@": 42772399,
+                        "Alpha": 176,
+                        "Name": "icon34",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -278, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.3233, 0.1085, 0.0447],
+                        "MG": [483.2, 444.8, 128, 208],
+                        "Tag": 42772396,
+                        "@": 42772397,
+                        "Alpha": 176,
+                        "Name": "icon33",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -305, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.3547, 0.1085, 0.0447],
+                        "MG": [526.4, 488, 128, 208],
+                        "Tag": 42772394,
+                        "@": 42772395,
+                        "Alpha": 176,
+                        "Name": "icon32",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -221, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.257, 0.1085, 0.0447],
+                        "MG": [392, 353.6, 1044.8, 1124.8],
+                        "Tag": 42772392,
+                        "@": 42772393,
+                        "Alpha": 176,
+                        "Name": "icon31",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            652, -248, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.8847, -0.2884, 0.1085, 0.0447],
+                        "MG": [435.2, 396.8, 1043.2, 1123.2],
+                        "Tag": 42772390,
+                        "@": 42772391,
+                        "Alpha": 176,
+                        "Name": "icon29",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -276, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.3209, 0.1085, 0.0447],
+                        "MG": [480, 441.6, 1044.8, 1124.8],
+                        "Tag": 42772388,
+                        "@": 42772389,
+                        "Alpha": 176,
+                        "Name": "icon28",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -303, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.3523, 0.1085, 0.0447],
+                        "MG": [523.2, 484.8, 1044.8, 1124.8],
+                        "Tag": 42772386,
+                        "@": 42772387,
+                        "Alpha": 176,
+                        "Name": "icon27",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -195, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.2267, 0.1085, 0.0447],
+                        "MG": [350.4, 312, 1044.8, 1124.8],
+                        "Tag": 42772384,
+                        "@": 42772385,
+                        "Alpha": 176,
+                        "Name": "icon26",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -197, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.2291, 0.1085, 0.0447],
+                        "MG": [353.6, 315.2, 128, 208],
+                        "Tag": 42772382,
+                        "@": 42772383,
+                        "Alpha": 176,
+                        "Name": "icon25",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -172, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.2, 0.1085, 0.0447],
+                        "MG": [313.6, 275.2, 128, 208],
+                        "Tag": 42772380,
+                        "@": 42772381,
+                        "Alpha": 176,
+                        "Name": "icon24",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            80, -145, 0.3369, 0.4039, 80, 38.4, 90.5, 90.72,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.1085, -0.1686, 0.1085, 0.0447],
+                        "MG": [270.4, 232, 128, 208],
+                        "Tag": 42772378,
+                        "@": 42772379,
+                        "Alpha": 176,
+                        "Name": "icon23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -169, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.1965, 0.1085, 0.0447],
+                        "MG": [308.8, 270.4, 1044.8, 1124.8],
+                        "Tag": 42772376,
+                        "@": 42772377,
+                        "Alpha": 176,
+                        "Name": "icon22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/icon2.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            653, -143, 0.3369, 0.4039, 80, 38.4, -90.5, 89.28,
+                            -0.0119, 1.026
+                        ],
+                        "PrePos": [0.886, -0.1663, 0.1085, 0.0447],
+                        "MG": [267.2, 228.8, 1044.8, 1124.8],
+                        "Tag": 42772374,
+                        "@": 42772375,
+                        "Alpha": 176,
+                        "Name": "icon21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "SpringFestival2017/top_banner.png",
+                            "Plist": "activity/SpringFestival2017/cocos/SpringFestival2017@6x.plist"
+                        },
+                        "Pos": [
+                            355, -71, 1, 1, 739.2, 192, 0, 0, 0.4642, 0.5107
+                        ],
+                        "PrePos": [0.4817, -0.0826, 1.003, 0.2233],
+                        "MG": [305.6, 113.6, 568, 1307.2],
+                        "Tag": 42772368,
+                        "@": 42772369,
+                        "Alpha": 255,
+                        "Name": "topBanner",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/SpringFestival2017/cocos/SpringFestival2017_animate@6x.json"
+                        },
+                        "Pos": [354, -425, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.4803, -0.4942, 0, 0],
+                        "MG": [435, 425, 354, 383],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 42772366,
+                        "@": 42772367,
+                        "Alpha": 255,
+                        "Name": "gift",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/offbottom.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            644, -128, 1, 1, 86.4, 83.2, 0, 0, 0.4931, 0.5192
+                        ],
+                        "PrePos": [0.8738, -0.1488, 0.1172, 0.0967],
+                        "MG": [288, 204.8, 1030.4, 1116.8],
+                        "Tag": 42772364,
+                        "@": 42772365,
+                        "Alpha": 255,
+                        "Name": "btnClose",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "activity/SpringFestival2017/cocos/SpringFestival2017_bottom_btn_blue_start2@6x.json"
+                        },
+                        "Pos": [355, -665, 1, 1, 342, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4817, -0.7733, 0.464, 0.1395],
+                        "MG": [75, 665, 355, 40],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 42772362,
+                        "@": 42772363,
+                        "Alpha": 255,
+                        "Name": "button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/uilibrary_howmuchoffall@6x.json"
+                        },
+                        "Pos": [
+                            502, -638, 1.218, 1.218, 78, 56, 23.24, 23.24, 0, 0
+                        ],
+                        "PrePos": [0.6811, -0.7419, 0.1058, 0.0651],
+                        "MG": [166, 638, 502, 157],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 42772360,
+                        "@": 42772361,
+                        "Alpha": 255,
+                        "Name": "sellTip",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [89, -556, 1, 1, 559, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 112, "G": 97, "B": 71 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1208, -0.6465, 0.7585, 0.0453],
+                        "MG": [265, 556, 89, 89],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "小木槌x1  精力瓶x5  银币x10000",
+                        "FontSize": 22,
+                        "Shadow": [2, -2],
+                        "Tag": 42772358,
+                        "@": 42772359,
+                        "Name": "propTip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [92, -735, 1, 1, 547, 38, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 112, "G": 97, "B": 71 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1248, -0.8547, 0.7422, 0.0442],
+                        "MG": [87, 735, 92, 98],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "倒计时：6天23:59:59",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 42772356,
+                        "@": 42772357,
+                        "Name": "timeTip",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 737, "Y": 860 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

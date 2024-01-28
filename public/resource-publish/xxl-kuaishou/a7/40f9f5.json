@@ -1,0 +1,86 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        28633863,
+                        [
+                            { "P": [-4.55, 1.6], "I": 0 },
+                            { "P": [-6.5, -2.15], "I": 19 },
+                            { "P": [-4.55, 1.6], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        28633863,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [1.4016, 1.0125], "I": 19 },
+                            { "P": [1, 1], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        28633861,
+                        [
+                            { "P": [-4.55, 3.35], "I": 0 },
+                            { "P": [-3.6, -0.9], "I": 19 },
+                            { "P": [-4.55, 3.35], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        28633861,
+                        [
+                            { "P": [1, 1], "I": 0 },
+                            { "P": [0.8, 0.8], "I": 19 },
+                            { "P": [1, 1], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_anim/yii.png",
+                            "Plist": "cocos/unlock_anim@6x.plist"
+                        },
+                        "Pos": [-4, 1, 1, 1, 9.6, 9.6, 0, 0, 0.0104, 0.8125],
+                        "MG": [8, -1.6, -6.4, 3.2],
+                        "Tag": 28633862,
+                        "@": 28633863,
+                        "Alpha": 255,
+                        "Name": "yii",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "unlock_anim/eery.png",
+                            "Plist": "cocos/unlock_anim@6x.plist"
+                        },
+                        "Pos": [-4, 3, 1, 1, 9.6, 8, 0, 0, 0.0104, 0.9875],
+                        "MG": [3.2, -4.8, -6.4, 3.2],
+                        "Tag": 28633860,
+                        "@": 28633861,
+                        "Alpha": 255,
+                        "Name": "eery",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

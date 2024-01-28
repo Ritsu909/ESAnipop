@@ -1,0 +1,109 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 13,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        373652,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0, 1, 0.6667, 1] },
+                            { "P": [0, 0.05], "I": 6 },
+                            { "P": [0, 0.05], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        373652,
+                        [
+                            {
+                                "P": [0.0808, 0.0808],
+                                "I": 0,
+                                "E": [0, 1, 0.6667, 1]
+                            },
+                            { "P": [0.833, 0.833], "I": 6 },
+                            { "P": [0.9713, 0.8979], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        373652,
+                        [
+                            { "V": 109, "I": 0 },
+                            { "V": 109, "I": 6 },
+                            { "V": 0, "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        373650,
+                        [
+                            {
+                                "P": [0.1223, 0.1223],
+                                "I": 0,
+                                "E": [0, 1, 0.6667, 1]
+                            },
+                            { "P": [0.833, 0.833], "I": 6 },
+                            { "P": [0.8563, 0.8141], "I": 12, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        373650,
+                        [
+                            { "V": 234, "I": 0 },
+                            { "V": 234, "I": 6 },
+                            { "V": 0, "I": 12, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "starFly/1.png",
+                            "Plist": "cocos/starFly@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.0808, 0.0808, 195.2, 121.6, 0, 0, 0.5003,
+                            0.5058
+                        ],
+                        "MG": [121.6, 0, 0, 195.2],
+                        "Tag": 373651,
+                        "@": 373652,
+                        "Alpha": 110,
+                        "Name": "bo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "starFly/13.png",
+                            "Plist": "cocos/starFly@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 0.1223, 0.1223, 142.4, 102.4, 0, 0, 0.493,
+                            0.5024
+                        ],
+                        "MG": [102.4, 0, 0, 142.4],
+                        "Tag": 373649,
+                        "@": 373650,
+                        "Alpha": 235,
+                        "Name": "13",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

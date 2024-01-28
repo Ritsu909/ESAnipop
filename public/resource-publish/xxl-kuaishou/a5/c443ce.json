@@ -1,0 +1,105 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/item_blue_bg.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [
+                            304, -82, 0.9643, 1.3016, 633.6, 110.4, 0, 0,
+                            0.4993, 0.4221
+                        ],
+                        "PrePos": [0.4992, -0.5775, 1.0404, 0.7775],
+                        "MG": [241.6, 131.2, 486.4, 1120],
+                        "Tag": 82591506,
+                        "@": 82591507,
+                        "Alpha": 255,
+                        "Name": "元件 43 副本",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/blueback.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [63, -69, 1, 1, 80, 80, 0, 0, 0.5012, 0.4988],
+                        "PrePos": [0.1034, -0.4859, 0.1314, 0.5634],
+                        "MG": [190.4, 110.4, 100.8, 180.8],
+                        "Tag": 82591504,
+                        "@": 82591505,
+                        "Alpha": 255,
+                        "Name": "blueback",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/rm_get_playtime_btn_coin@6x.json"
+                        },
+                        "Pos": [463, -64, 0.8, 0.8, 251, 122, 0, 0, 0, 0],
+                        "PrePos": [0.7603, -0.4507, 0.4122, 0.8592],
+                        "MG": [-44, 64, 463, -105],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 82591502,
+                        "@": 82591503,
+                        "Alpha": 255,
+                        "Name": "btn_green_start3",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_get_playtime/重复项目文件夹_silver.png",
+                            "Plist": "cocos/rm_get_playtime@6x.plist"
+                        },
+                        "Pos": [29, -37, 0.7, 0.7, 96, 96, 0, 0, 0.001, 0.999],
+                        "PrePos": [0.0476, -0.2606, 0.1576, 0.6761],
+                        "MG": [155.2, 59.2, 46.4, 142.4],
+                        "Tag": 82591500,
+                        "@": 82591501,
+                        "Alpha": 255,
+                        "Name": "silver",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [120, -50, 1, 1, 204, 36, 0, 0, 0, 1],
+                        "PrePos": [0.197, -0.3521, 0.335, 0.2535],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_25_bluestroke@6x.fnt"
+                        },
+                        "MG": [56, 50, 120, 285],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "银币购买，次数+1",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 82591498,
+                        "@": 82591499,
+                        "Name": "desc",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 609, "Y": 142 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

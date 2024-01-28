@@ -1,0 +1,273 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/panel_bg.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            361, -640, 1, 1, 720, 1280, 0, 0, 0.5001, 0.4999
+                        ],
+                        "PrePos": [0.5007, -0.5, 0.9986, 1],
+                        "MG": [2304, 1024, 577.6, 1297.6],
+                        "Tag": 111157,
+                        "@": 111158,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/chick.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            246, -384, 1, 1, 248, 172.8, 0, 0, 0.0004, 0.9994
+                        ],
+                        "PrePos": [0.3412, -0.3, 0.344, 0.135],
+                        "MG": [787.2, 614.4, 393.6, 641.6],
+                        "Tag": 111227,
+                        "@": 111228,
+                        "Alpha": 255,
+                        "Name": "chick",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [128, -528, 1, 1, 484, 111, 0, 0, 0, 1],
+                        "PrePos": [0.1775, -0.4125, 0.6713, 0.0867],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [641, 528, 128, 109],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "没有参与的悬赏，\\n快去参与一个吧！",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 111155,
+                        "@": 111156,
+                        "Name": "text",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_tab@6x.json"
+                        },
+                        "Pos": [101, -203, 1, 1, 132, 59, 0, 0, 0, 0],
+                        "PrePos": [0.1401, -0.1586, 0.1831, 0.0461],
+                        "MG": [1018, 203, 101, 488],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111153,
+                        "@": 111154,
+                        "Alpha": 255,
+                        "Name": "tab_market",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_tab@6x.json"
+                        },
+                        "Pos": [233, -203, 1, 1, 132, 59, 0, 0, 0, 0],
+                        "PrePos": [0.3232, -0.1586, 0.1831, 0.0461],
+                        "MG": [1018, 203, 233, 356],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111151,
+                        "@": 111152,
+                        "Alpha": 255,
+                        "Name": "tab_my_paticipated",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_tab@6x.json"
+                        },
+                        "Pos": [365, -203, 1, 1, 132, 59, 0, 0, 0, 0],
+                        "PrePos": [0.5062, -0.1586, 0.1831, 0.0461],
+                        "MG": [1018, 203, 365, 224],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111149,
+                        "@": 111150,
+                        "Alpha": 255,
+                        "Name": "tab_my_started",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/wanted_tab@6x.json"
+                        },
+                        "Pos": [495, -203, 1, 1, 132, 59, 0, 0, 0, 0],
+                        "PrePos": [0.6865, -0.1586, 0.1831, 0.0461],
+                        "MG": [1018, 203, 495, 94],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 111249,
+                        "@": 111250,
+                        "Alpha": 255,
+                        "Name": "tab_hunter",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/off_btn_light.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            679, -33, 1.2, 1.2, 46.4, 46.4, 0, 0, 0.4871, 0.514
+                        ],
+                        "PrePos": [0.9417, -0.0258, 0.0644, 0.0362],
+                        "MG": [99.2, 52.8, 1086.4, 1132.8],
+                        "Tag": 111141,
+                        "@": 111142,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [0, -171, 1, 1, 718, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 200, "G": 204, "B": 247 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0, -0.1336, 0.9958, 0.0234],
+                        "MG": [1079, 171, 0, 3],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "活动时间：即日起-某年某月某日24:00",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111229,
+                        "@": 111230,
+                        "Name": "activity_time_label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/bar.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            363, -1238, 1, 1, 598.4, 60.8, 0, 0, 0.499, 0.5049
+                        ],
+                        "PrePos": [0.5035, -0.9672, 0.83, 0.0475],
+                        "MG": [2041.6, 1980.8, 580.8, 1179.2],
+                        "Tag": 111231,
+                        "@": 111232,
+                        "Alpha": 255,
+                        "Name": "bar",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [344, -1223, 1, 1, 308, 30, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.4771, -0.9555, 0.4272, 0.0234],
+                        "MG": [27, 1223, 344, 69],
+                        "IsCustomSize": true,
+                        "LabelText": "今日还可以接受           悬赏任务",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111139,
+                        "@": 111140,
+                        "Name": "remain_count_label",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [132, -1222, 1, 1, 515, 36, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1831, -0.9547, 0.7143, 0.0281],
+                        "MG": [22, 1222, 132, 74],
+                        "IsCustomSize": true,
+                        "LabelText": "只显示我能参与的悬赏",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 111135,
+                        "@": 111136,
+                        "Name": "refresh_text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/wenhao_bottom.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [
+                            510, -97, 0.9, 0.9, 40, 38.4, 0, 0, 0.5038, 0.5182
+                        ],
+                        "PrePos": [0.7074, -0.0758, 0.0555, 0.03],
+                        "MG": [193.6, 155.2, 816, 856],
+                        "Tag": 111243,
+                        "@": 111244,
+                        "Alpha": 255,
+                        "Name": "ques",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "wanted/check_box_bg.png",
+                            "Plist": "cocos/wanted@6x.plist"
+                        },
+                        "Pos": [75, -1216, 1, 1, 48, 49.6, 0, 0, 0.0021, 0.998],
+                        "PrePos": [0.104, -0.95, 0.0666, 0.0388],
+                        "MG": [1995.2, 1945.6, 120, 168],
+                        "Tag": 111137,
+                        "@": 111138,
+                        "Alpha": 255,
+                        "Name": "refresh_icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 721, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

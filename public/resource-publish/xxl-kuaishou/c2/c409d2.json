@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "Pos": [37, 10, 1, 1, 169, 30, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 132, "G": 71, "B": 21 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1787, 0.3226, 0.8164, 0.9677],
+                        "MG": [11, -10, 37, 1],
+                        "IsCustomSize": true,
+                        "LabelText": "单次成绩排名",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 84746681,
+                        "@": 84746682,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "week_game_panel/rank_noti_icon.png",
+                            "Plist": "cocos/week_game_panel@6x.plist"
+                        },
+                        "Pos": [14, -3, 1, 1, 30.4, 30.4, 0, 0, 0.4885, 0.5115],
+                        "PrePos": [0.0676, -0.0968, 0.1469, 0.9806],
+                        "MG": [35.2, 4.8, 22.4, 52.8],
+                        "Tag": 84746679,
+                        "@": 84746680,
+                        "Alpha": 229,
+                        "Name": "icon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 207, "Y": 31 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

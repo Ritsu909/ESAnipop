@@ -1,0 +1,52 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 14,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84747224,
+                        [
+                            {
+                                "P": [-0.05, -37],
+                                "I": 0,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-0.05, -32], "I": 4 },
+                            { "P": [-0.05, -40], "I": 8 },
+                            { "P": [-0.05, -37], "I": 13, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/hippoBubble.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -37, 1, 1, 379.2, 116.8, 0, 0, 0.4993, 0.0985
+                        ],
+                        "MG": [176, 59.2, 0, 379.2],
+                        "Tag": 84747223,
+                        "@": 84747224,
+                        "Alpha": 255,
+                        "Name": "bubble",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

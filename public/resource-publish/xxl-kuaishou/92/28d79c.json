@@ -1,0 +1,200 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/boxTipTail.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [0, 16, 1, 1, 27.2, 16, 0, 0, 0.5018, 0.9906],
+                        "PrePos": [0, 0.1119, 0.0842, 0.1119],
+                        "MG": [-9.6, -25.6, 0, 27.2],
+                        "Tag": 29325957,
+                        "@": 29325958,
+                        "Alpha": 255,
+                        "Name": "bg_sub",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/bagTipBg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -271, 144, 1, 1, 324.5962, 129.6, 0, 0, 0, 1.0012
+                        ],
+                        "PrePos": [-0.839, 1.007, 0.4012, 0.9063],
+                        "MG": [-100.8, -230.4, -433.6, -304],
+                        "Scale9": [40, 40, 46, 45],
+                        "Tag": 29325955,
+                        "@": 29325956,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/stars_icon.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -59, 49, 0.6088, 0.6088, 43.2, 40, 0, 0, 0.4838,
+                            0.515
+                        ],
+                        "PrePos": [-0.1827, 0.3427, 0.1337, 0.2797],
+                        "MG": [-38.4, -78.4, -94.4, -51.2],
+                        "Tag": 29325961,
+                        "@": 29325962,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/stars_icon.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [
+                            -38, 90, 0.6088, 0.6088, 43.2, 40, 0, 0, 0.4838,
+                            0.515
+                        ],
+                        "PrePos": [-0.1176, 0.6294, 0.1337, 0.2797],
+                        "MG": [-104, -144, -60.8, -17.6],
+                        "Tag": 29325959,
+                        "@": 29325960,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-42, 61, 1, 1, 73, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 133, "G": 117, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.13, 0.4266, 0.226, 0.2587],
+                        "MG": [167, -61, -42, 292],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "20",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325953,
+                        "@": 29325954,
+                        "Name": "star_activity",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-23, 103, 1, 1, 54, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 133, "G": 117, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.0712, 0.7203, 0.1672, 0.2587],
+                        "MG": [209, -103, -23, 292],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "20",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325951,
+                        "@": 29325952,
+                        "Name": "star_before",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-166, 138, 1, 1, 104, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 133, "G": 117, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.5139, 0.965, 0.322, 0.2587],
+                        "MG": [244, -138, -166, 385],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "初始星星",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325949,
+                        "@": 29325950,
+                        "Name": "label1",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-253, 63, 1, 1, 179, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 133, "G": 117, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.7833, 0.4406, 0.5542, 0.2587],
+                        "MG": [169, -63, -253, 397],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "活动期间获得：",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325947,
+                        "@": 29325948,
+                        "Name": "label3",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "Pos": [-254, 102, 1, 1, 204, 37, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 133, "G": 117, "B": 112 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.7864, 0.7133, 0.6316, 0.2587],
+                        "MG": [208, -102, -254, 373],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "活动前星星奖励：",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 29325945,
+                        "@": 29325946,
+                        "Name": "label2",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 323, "Y": 143 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

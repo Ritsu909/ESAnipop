@@ -1,0 +1,187 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/toast_bg.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 545.6832, 355.1894, 0, 0, 0.001, 0.9989
+                        ],
+                        "MG": [94.4, 0, 0, 96],
+                        "Scale9": [34, 34, 27, 23],
+                        "Tag": 28249887,
+                        "@": 28249888,
+                        "Alpha": 255,
+                        "Name": "panel",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/pnl_common02.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            61, -99, 1, 1, 422.6477, 83.0883, 0, 0, 0.0012,
+                            0.9987
+                        ],
+                        "PrePos": [0.1117, -0.2758, 0.1524, 0.2184],
+                        "MG": [236.8, 158.4, 97.6, 180.8],
+                        "Scale9": [38, 35, 5, 5],
+                        "Tag": 28249885,
+                        "@": 28249886,
+                        "Alpha": 255,
+                        "Name": "pit",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "pause_panel/help.png",
+                            "Plist": "cocos/pause_panel@6x.plist"
+                        },
+                        "Pos": [
+                            415, -133, 0.7515, 0.7466, 99.2, 94.4, 0, 0, 0.6003,
+                            0.571
+                        ],
+                        "PrePos": [0.7601, -0.3705, 0.1817, 0.263],
+                        "MG": [307.2, 212.8, 664, 763.2],
+                        "Tag": 28249883,
+                        "@": 28249884,
+                        "Alpha": 255,
+                        "Name": "help_button",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pause_panel_sound@6x.json"
+                        },
+                        "Pos": [266, -140, 1, 1, 73, 84, 0, 0, 0, 0],
+                        "PrePos": [0.4872, -0.39, 0.1337, 0.234],
+                        "MG": [135, 140, 266, 207],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249881,
+                        "@": 28249882,
+                        "Alpha": 255,
+                        "Name": "sound_button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pause_panel_music@6x.json"
+                        },
+                        "Pos": [131, -137, 1, 1, 78, 88, 0, 0, 0, 0],
+                        "PrePos": [0.2399, -0.3816, 0.1429, 0.2451],
+                        "MG": [134, 137, 131, 337],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249879,
+                        "@": 28249880,
+                        "Alpha": 255,
+                        "Name": "music_button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [204, -27, 0.901, 0.901, 125, 50, 0, 0, 0, 1],
+                        "PrePos": [0.3736, -0.0752, 0.2289, 0.1393],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_black_white@6x.fnt"
+                        },
+                        "MG": [282, 27, 204, 217],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "已暂停",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 28249877,
+                        "@": 28249878,
+                        "Name": "pause_txt",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pause_panel_btn_green_restart@6x.json"
+                        },
+                        "Pos": [
+                            164, -255, 0.8167, 0.8167, 277, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.3004, -0.7103, 0.5073, 0.3343],
+                        "MG": [-16, 255, 164, 105],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249873,
+                        "@": 28249874,
+                        "Alpha": 255,
+                        "Name": "restart_button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pause_panel_btn_orange_quit@6x.json"
+                        },
+                        "Pos": [
+                            397, -257, 0.8167, 0.8167, 205, 120, 0, 0, 0, 0
+                        ],
+                        "PrePos": [0.7271, -0.7159, 0.3755, 0.3343],
+                        "MG": [-18, 257, 397, -56],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249875,
+                        "@": 28249876,
+                        "Alpha": 255,
+                        "Name": "exit_button",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pause_panel_bottom_offbottom_light_x@6x.json"
+                        },
+                        "Pos": [503, -32, 1, 1, 85, 83, 0, 0, 0, 0],
+                        "PrePos": [0.9212, -0.0891, 0.1557, 0.2312],
+                        "MG": [244, 32, 503, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 28249871,
+                        "@": 28249872,
+                        "Alpha": 255,
+                        "Name": "close_button",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 546, "Y": 359 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,69 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_exchange/bg.png",
+                            "Plist": "cocos/rm_exchange@6x.plist"
+                        },
+                        "Pos": [
+                            304, -82, 0.9643, 1.3016, 633.6, 110.4, 0, 0,
+                            0.4993, 0.4221
+                        ],
+                        "PrePos": [0.4992, -0.5775, 1.0404, 0.7775],
+                        "MG": [241.6, 131.2, 486.4, 1120],
+                        "Tag": 27116297,
+                        "@": 27116298,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_exchange/元件_1.png",
+                            "Plist": "cocos/rm_exchange@6x.plist"
+                        },
+                        "Pos": [541, -67, 1, 1, 84.8, 80, 0, 0, 0.4953, 0.5044],
+                        "PrePos": [0.8883, -0.4718, 0.1392, 0.5634],
+                        "MG": [187.2, 107.2, 865.6, 950.4],
+                        "Tag": 27116295,
+                        "@": 27116296,
+                        "Alpha": 255,
+                        "Name": "gift_box",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_exchange/arrow.png",
+                            "Plist": "cocos/rm_exchange@6x.plist"
+                        },
+                        "Pos": [437, -75, 1, 1, 84.8, 64, 0, 0, 0.4965, 0.4891],
+                        "PrePos": [0.7176, -0.5282, 0.1392, 0.4507],
+                        "MG": [184, 120, 699.2, 784],
+                        "Tag": 27116293,
+                        "@": 27116294,
+                        "Alpha": 255,
+                        "Name": "arrow",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 609, "Y": 142 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

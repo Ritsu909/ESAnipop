@@ -1,0 +1,35 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "propPrompt/huaban.png",
+                            "Plist": "cocos/propPrompt@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 96, 96, 0, 0, 0.001, 0.999],
+                        "MG": [96, 0, 0, 96],
+                        "Tag": 10128071,
+                        "@": 10128072,
+                        "Alpha": 255,
+                        "Name": "Layer 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 96, "Y": 96 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

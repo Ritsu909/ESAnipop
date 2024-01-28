@@ -1,0 +1,70 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_reward/bg.png",
+                            "Plist": "cocos/rm_reward@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 622.4, 500.8, 0, 0, 0.0002, 0.9998],
+                        "MG": [500.8, 0, 0, 622.4],
+                        "Tag": 3052825,
+                        "@": 3052826,
+                        "Alpha": 255,
+                        "Name": "background3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [186, -64, 1.2, 1.2, 247, 66, 0, 0, 0, 1],
+                        "PrePos": [0.2995, -0.128, 0.3977, 0.132],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_aquastroke@6x.fnt"
+                        },
+                        "MG": [370, 64, 186, 188],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "奖励详情",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 3052823,
+                        "@": 3052824,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_reward/close_btn_blue.png",
+                            "Plist": "cocos/rm_reward@6x.plist"
+                        },
+                        "Pos": [
+                            565, -44, 1, 1, 86.4, 86.4, 0, 0, 0.4525, 0.5706
+                        ],
+                        "PrePos": [0.9098, -0.088, 0.1391, 0.1728],
+                        "MG": [156.8, 70.4, 904, 990.4],
+                        "Tag": 3052821,
+                        "@": 3052822,
+                        "Alpha": 255,
+                        "Name": "close_btn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 621, "Y": 500 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

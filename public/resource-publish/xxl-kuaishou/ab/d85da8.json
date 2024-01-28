@@ -1,0 +1,52 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/popo.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [
+                            -76, 76, 1.2, 1.2, 128, 129.6, 0, 0, 0.0008, 0.9985
+                        ],
+                        "PrePos": [-0.5, 0.4967, 0.8421, 0.8471],
+                        "MG": [8, -121.6, -121.6, 6.4],
+                        "Tag": 81341436,
+                        "@": 81341437,
+                        "Alpha": 255,
+                        "Name": "popo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "ActivityMissionExchange/act13_p10.png",
+                            "Plist": "activity/ActivityMission/cocos/ActivityMissionExchange@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 100.8, 100.8, 0, 0, 0.497, 0.503],
+                        "MG": [100.8, 0, 0, 100.8],
+                        "Tag": 81341434,
+                        "@": 81341435,
+                        "Alpha": 255,
+                        "Name": "iconplaceholder",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 152, "Y": 153 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

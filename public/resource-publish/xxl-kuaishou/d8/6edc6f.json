@@ -1,0 +1,243 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/background.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [
+                            480, -640, 1, 1, 960, 1280, 0, 0, 0.5001, 0.4999
+                        ],
+                        "PrePos": [0.5, -0.5, 1, 1],
+                        "MG": [2304, 1024, 768, 1728],
+                        "Tag": 81724245,
+                        "@": 81724246,
+                        "Alpha": 255,
+                        "Name": "background",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/whitebubblespeak.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            188, -11, 1, 1, 586.585, 131.04, 0, 0, 0.0008,
+                            0.9992
+                        ],
+                        "PrePos": [0.1958, -0.0086, 0.13, 0.0975],
+                        "MG": [142.4, 17.6, 300.8, 425.6],
+                        "Scale9": [58, 52, 7, 20],
+                        "Tag": 81724243,
+                        "@": 81724244,
+                        "Alpha": 255,
+                        "Name": "whitebubblespeak",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/chicken.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [254, -48, 1, 1, 72, 72, 0, 0, 0.4944, 0.5056],
+                        "PrePos": [0.2646, -0.0375, 0.075, 0.0562],
+                        "MG": [148.8, 76.8, 406.4, 478.4],
+                        "Tag": 81724241,
+                        "@": 81724242,
+                        "Alpha": 255,
+                        "Name": "chicken_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/fox.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [390, -52, 1, 1, 62.4, 64, 0, 0, 0.4904, 0.4984],
+                        "PrePos": [0.4062, -0.0406, 0.065, 0.05],
+                        "MG": [147.2, 83.2, 624, 686.4],
+                        "Tag": 81724239,
+                        "@": 81724240,
+                        "Alpha": 255,
+                        "Name": "fox_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/fog.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [
+                            530, -55, 1, 1, 67.2, 57.6, 0, 0, 0.4926, 0.5035
+                        ],
+                        "PrePos": [0.5521, -0.043, 0.07, 0.045],
+                        "MG": [145.6, 88, 848, 915.2],
+                        "Tag": 81724237,
+                        "@": 81724238,
+                        "Alpha": 255,
+                        "Name": "frog_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/hippo.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [670, -49, 1, 1, 72, 70.4, 0, 0, 0.5014, 0.5014],
+                        "PrePos": [0.6979, -0.0383, 0.075, 0.055],
+                        "MG": [148.8, 78.4, 1072, 1144],
+                        "Tag": 81724235,
+                        "@": 81724236,
+                        "Alpha": 255,
+                        "Name": "hippo_icon",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "rm_inner_game/pause.png",
+                            "Plist": "cocos/rm_inner_game@6x.plist"
+                        },
+                        "Pos": [
+                            156, -49, 1, 1, 70.4, 70.4, 0, 0, 0.4915, 0.5085
+                        ],
+                        "PrePos": [0.1625, -0.0383, 0.0733, 0.055],
+                        "MG": [148.8, 78.4, 249.6, 320],
+                        "Tag": 81724233,
+                        "@": 81724234,
+                        "Alpha": 255,
+                        "Name": "pause",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [253, -51, 1, 1, 54, 42, 0, 0, 0, 1],
+                        "PrePos": [0.2635, -0.0398, 0.0562, 0.0328],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1187, 51, 253, 653],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "890",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 81724231,
+                        "@": 81724232,
+                        "Name": "chicken_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [393, -51, 1, 1, 54, 42, 0, 0, 0, 1],
+                        "PrePos": [0.4094, -0.0398, 0.0562, 0.0328],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1187, 51, 393, 513],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "890",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 81724229,
+                        "@": 81724230,
+                        "Name": "fox_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [543, -51, 1, 1, 54, 42, 0, 0, 0, 1],
+                        "PrePos": [0.5656, -0.0398, 0.0562, 0.0328],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1187, 51, 543, 363],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "890",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 81724227,
+                        "@": 81724228,
+                        "Name": "frog_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [683, -51, 1, 1, 54, 42, 0, 0, 0, 1],
+                        "PrePos": [0.7115, -0.0398, 0.0562, 0.0328],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_30_bluestroke@6x.fnt"
+                        },
+                        "MG": [1187, 51, 683, 223],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "890",
+                        "FontSize": 30,
+                        "Shadow": [2, -2],
+                        "Tag": 81724225,
+                        "@": 81724226,
+                        "Name": "hippo_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [463, -91, 1.5, 1.5, 93, 48, 0, 0, 0, 1],
+                        "PrePos": [0.4823, -0.0711, 0.0969, 0.0375],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_25_redstroke@6x.fnt"
+                        },
+                        "MG": [1141, 91, 463, 404],
+                        "IsCustomSize": true,
+                        "LabelText": "8902\\n",
+                        "FontSize": 25,
+                        "Shadow": [2, -2],
+                        "Tag": 81724223,
+                        "@": 81724224,
+                        "Name": "score_num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "Pos": [372, -101, 0.75, 0.75, 115, 82, 0, 0, 0, 1],
+                        "PrePos": [0.3875, -0.0789, 0.1198, 0.0641],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [1097, 101, 372, 473],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "分数 ：",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 81724221,
+                        "@": 81724222,
+                        "Name": "cur_score",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 960, "Y": 1280 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

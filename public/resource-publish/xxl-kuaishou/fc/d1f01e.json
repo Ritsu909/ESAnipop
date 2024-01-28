@@ -1,0 +1,84 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/ice.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "MG": [70.4, 0, 0, 70.4],
+                        "Tag": 80343824,
+                        "@": 80343825,
+                        "Alpha": 255,
+                        "Name": "ice1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/ice.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [0, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986],
+                        "PrePos": [0, -0.5, 0.144, 0.5029],
+                        "MG": [182.4, 112, 0, 70.4],
+                        "Tag": 80343822,
+                        "@": 80343823,
+                        "Alpha": 255,
+                        "Name": "ice2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/ice.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            140, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.2863, -0.5, 0.144, 0.5029],
+                        "MG": [182.4, 112, 224, 294.4],
+                        "Tag": 80343820,
+                        "@": 80343821,
+                        "Alpha": 255,
+                        "Name": "ice3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "obstacle_anim_res/ice.png",
+                            "Plist": "cocos/obstacle_anim_res@6x.plist"
+                        },
+                        "Pos": [
+                            419, -70, 1, 1, 70.4, 70.4, 0, 0, 0.0014, 0.9986
+                        ],
+                        "PrePos": [0.8569, -0.5, 0.144, 0.5029],
+                        "MG": [182.4, 112, 670.4, 740.8],
+                        "Tag": 80343818,
+                        "@": 80343819,
+                        "Alpha": 255,
+                        "Name": "ice4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 489, "Y": 140 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

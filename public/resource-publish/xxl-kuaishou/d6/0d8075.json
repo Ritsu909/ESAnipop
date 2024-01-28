@@ -1,0 +1,145 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 25,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        50217,
+                        [
+                            {
+                                "P": [-3.6, -8.35],
+                                "I": 0,
+                                "E": [0.15, 0.9247, 0.6667, 1]
+                            },
+                            { "P": [88.4, -8.35], "I": 20, "T": 0 },
+                            { "P": [8.35, -8.35], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50217,
+                        [
+                            {
+                                "P": [0.4445, 0.5575],
+                                "I": 0,
+                                "E": [0.15, 0.9247, 0.6667, 1]
+                            },
+                            { "P": [1.9634, 2.7836], "I": 20, "T": 0 },
+                            { "P": [1, 1], "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50217,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 20, "T": 0 },
+                            { "V": 0, "I": 21, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        50219,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 24,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "BlankFrame"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        50219,
+                        [
+                            { "P": [-458.45, -157.75], "I": 0, "T": 0 },
+                            { "P": [157.75, -157.75], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        50219,
+                        [
+                            { "P": [2.1446, 1.7576], "I": 0, "T": 0 },
+                            { "P": [1, 1], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        50219,
+                        [
+                            { "P": [71.22, 71.22], "I": 0, "T": 0 },
+                            { "P": [0, 0], "I": 24, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        50219,
+                        [
+                            { "V": 255, "I": 0, "T": 0 },
+                            { "V": 0, "I": 24, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "clover_animation/owl_effect_ring_filtered2.png",
+                            "Plist": "cocos/clover_animation@6x.plist"
+                        },
+                        "Pos": [
+                            -3, -8, 0.4445, 0.5575, 337.6, 337.6, 0, 0, 0.4991,
+                            0.5009
+                        ],
+                        "MG": [350.4, 12.8, -4.8, 332.8],
+                        "Tag": 50216,
+                        "@": 50217,
+                        "Alpha": 255,
+                        "Name": "attackeffect4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/pets_owl_attack_owl_effect_dot_move_group@6x.json"
+                        },
+                        "Pos": [
+                            -458, -157, 2.1445, 1.7576, 0, 0, 71.22, 71.22, 0, 0
+                        ],
+                        "MG": [-157, 157, -458, 458],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50218,
+                        "@": 50219,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

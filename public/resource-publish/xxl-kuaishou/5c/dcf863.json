@@ -1,0 +1,92 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/buy_confirm_panel_cells_bubbleBg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            -1, -10, 1.04, 1.05, 179.2, 166.4, 0, 0, 0.0006,
+                            0.9994
+                        ],
+                        "PrePos": [-0.0051, -0.0543, 0.919, 0.9043],
+                        "MG": [182.4, 16, -1.6, 177.6],
+                        "Tag": 50032,
+                        "@": 50033,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_fontsize_rect.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            28, -30, 14.9971, 14.3746, 8, 8, 0, 0, 0.0125,
+                            0.9875
+                        ],
+                        "PrePos": [0.1436, -0.163, 0.041, 0.0435],
+                        "MG": [56, 48, 44.8, 52.8],
+                        "Tag": 50034,
+                        "@": 50035,
+                        "Alpha": 255,
+                        "Name": "targetIconPlaceHolder",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/ui_bubble_1.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1.1428, 1.1038, 155.2, 155.2, 0, 0, 0.0006,
+                            0.9994
+                        ],
+                        "MG": [155.2, 0, 0, 155.2],
+                        "Tag": 50036,
+                        "@": 50037,
+                        "Alpha": 255,
+                        "Name": "front",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/BuyConfirmPanel_buy_confirm_panel_cells_questionMark@6x.json"
+                        },
+                        "Pos": [129, -117, 1, 1, 65, 66, 0, 0, 0, 0],
+                        "PrePos": [0.6615, -0.6359, 0.3333, 0.3587],
+                        "MG": [1, 117, 129, 1],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50042,
+                        "@": 50043,
+                        "Alpha": 255,
+                        "Name": "questionMark",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 195, "Y": 184 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

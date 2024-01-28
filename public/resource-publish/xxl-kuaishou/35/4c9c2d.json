@@ -1,0 +1,166 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 80,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        1053317,
+                        [
+                            { "P": [-7.05, 116.35], "I": 0 },
+                            {
+                                "P": [-7.05, 111.15],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [-7.05, 116.35], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        1053317,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            {
+                                "P": [-10.47, -10.47],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        1053315,
+                        [
+                            { "P": [0.05, 0], "I": 0, "T": 0 },
+                            { "P": [0.05, 0], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        1053313,
+                        [
+                            { "P": [24, 91.05], "I": 0 },
+                            {
+                                "P": [23.35, 87.85],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [24, 91.05], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        1053313,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            {
+                                "P": [2.99, 2.99],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        1053311,
+                        [
+                            { "P": [20.45, 86.8], "I": 0 },
+                            {
+                                "P": [18.5, 87.45],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [20.45, 86.8], "I": 79, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        1053311,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            {
+                                "P": [10.19, 10.19],
+                                "I": 35,
+                                "E": [0.3293, 0.6747, 0.6667, 1]
+                            },
+                            { "P": [0, 0], "I": 79, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/polarbear_hand_L.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [
+                            -7, 116, 1, 1, 67.2, 99.2, 0, 0, 0.7344, 0.0691
+                        ],
+                        "MG": [-86.4, -185.6, -11.2, 56],
+                        "Tag": 1053316,
+                        "@": 1053317,
+                        "Alpha": 255,
+                        "Name": "polarbear_hand_L",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/polarbear_body.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 172.8, 249.6, 0, 0, 0.48, 0.2576],
+                        "MG": [249.6, 0, 0, 172.8],
+                        "Tag": 1053314,
+                        "@": 1053315,
+                        "Alpha": 255,
+                        "Name": "polarbear_body",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/polarbear_shadow.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [24, 91, 1, 1, 27.2, 30.4, 0, 0, 0.2279, 0.8289],
+                        "MG": [-115.2, -145.6, 38.4, 65.6],
+                        "Tag": 1053312,
+                        "@": 1053313,
+                        "Alpha": 255,
+                        "Name": "shadow",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene_anim/polarbear_hand_R.png",
+                            "Plist": "cocos/homeScene_anim@6x.plist"
+                        },
+                        "Pos": [20, 86, 1, 1, 72, 67.2, 0, 0, 0.0368, 0.2545],
+                        "MG": [-70.4, -137.6, 32, 104],
+                        "Tag": 1053310,
+                        "@": 1053311,
+                        "Alpha": 255,
+                        "Name": "polarbear_hand_R",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

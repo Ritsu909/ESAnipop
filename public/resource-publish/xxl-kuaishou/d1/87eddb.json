@@ -1,0 +1,88 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "properties/adddaoju.png",
+                            "Plist": "cocos/properties@6x.plist"
+                        },
+                        "Pos": [-18, 19, 1, 1, 41.6, 40, 0, 0, 0.0024, 0.9975],
+                        "PrePos": [-0.439, 0.4634, 1.0146, 0.9756],
+                        "MG": [9.6, -30.4, -28.8, 12.8],
+                        "Tag": 9842329,
+                        "@": 9842330,
+                        "Alpha": 255,
+                        "Name": "bg_plus",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "properties/green-pai.png",
+                            "Plist": "cocos/properties@6x.plist"
+                        },
+                        "Pos": [-18, 20, 1, 1, 40, 40, 0, 0, 0.0025, 0.9975],
+                        "PrePos": [-0.439, 0.4878, 0.9756, 0.9756],
+                        "MG": [8, -32, -28.8, 11.2],
+                        "Tag": 9842327,
+                        "@": 9842328,
+                        "Alpha": 255,
+                        "Name": "bg_green",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "properties/red-pai.png",
+                            "Plist": "cocos/properties@6x.plist"
+                        },
+                        "Pos": [-19, 19, 1, 1, 41.6, 40, 0, 0, 0.0024, 0.9975],
+                        "PrePos": [-0.4634, 0.4634, 1.0146, 0.9756],
+                        "MG": [9.6, -30.4, -30.4, 11.2],
+                        "Tag": 9842325,
+                        "@": 9842326,
+                        "Alpha": 255,
+                        "Name": "bg_red",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-14, 13, 1, 1, 28, 26, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 193, "G": 123, "B": 36 },
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [-0.3415, 0.3171, 0.6829, 0.6341],
+                        "MG": [28, -13, -14, 27],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "\\n",
+                        "FontSize": 4,
+                        "Shadow": [2, -2],
+                        "Tag": 9842323,
+                        "@": 9842324,
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": { "X": 41, "Y": 41 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,130 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_green03_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 48, 1, 1, 283.9184, 121.6, 0, 0, 0.012, 0.9947
+                        ],
+                        "PrePos": [-0.4752, 0.4, 0.6922, 1.0133],
+                        "MG": [44.8, -76.8, -214.4, -19.2],
+                        "Scale9": [86, 51, 3, 2],
+                        "Tag": 1051253,
+                        "@": 1051254,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_orange02_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 48, 1, 1, 283.9184, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4752, 0.4, 0.6922, 1],
+                        "MG": [43.2, -76.8, -214.4, -19.2],
+                        "Scale9": [92, 48, 3, 2],
+                        "Tag": 1051251,
+                        "@": 1051252,
+                        "Alpha": 255,
+                        "Name": "click",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/b_orange_cut.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -134, 48, 1, 1, 283.9184, 120, 0, 0, 0.012, 0.9992
+                        ],
+                        "PrePos": [-0.4752, 0.4, 0.6922, 1],
+                        "MG": [43.2, -76.8, -214.4, -19.2],
+                        "Scale9": [92, 48, 3, 2],
+                        "Tag": 1051249,
+                        "@": 1051250,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [-88, 15, 0.8018, 0.8018, 44, 39, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 255, "B": 0 },
+                        "PrePos": [-0.3121, 0.125, 0.156, 0.325],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/berlinsansfb_40_dropshadow@6x.fnt"
+                        },
+                        "MG": [96, -15, -88, 326],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "10",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051247,
+                        "@": 1051248,
+                        "Name": "num",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/coin_gold.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -108, 0, 0.2566, 0.2566, 118.4, 123.2, 0, 0, 0.4992,
+                            0.5
+                        ],
+                        "PrePos": [-0.383, 0, 0.4199, 1.0267],
+                        "MG": [123.2, 0, -172.8, -54.4],
+                        "Tag": 1051245,
+                        "@": 1051246,
+                        "Alpha": 255,
+                        "Name": "coin_gold",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-49, 22, 1, 1, 174, 55, 0, 0, 0, 1],
+                        "PrePos": [-0.1738, 0.1833, 0.617, 0.4583],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40_brownstroke@6x.fnt"
+                        },
+                        "MG": [87, -22, -49, 157],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "重摇试试",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 1051243,
+                        "@": 1051244,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 282, "Y": 120 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

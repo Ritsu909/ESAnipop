@@ -1,0 +1,58 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 90,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        29325818,
+                        [
+                            { "P": [0.3, -0.35], "I": 0 },
+                            { "P": [-0.1, 2.7], "I": 19 },
+                            { "P": [-2.85, 1.1], "I": 32, "T": 0 },
+                            { "P": [3.2, -5.35], "I": 68 },
+                            { "P": [0.3, -0.35], "I": 89, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        29325818,
+                        [
+                            { "V": 102, "I": 0 },
+                            { "V": 25, "I": 19 },
+                            { "V": 0, "I": 32, "T": 0 },
+                            { "V": 25, "I": 68 },
+                            { "V": 127, "I": 89, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "teamgetstar/res_particle_basic.png",
+                            "Plist": "cocos/teamgetstar@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 20.8, 30.4, 0, 0, 0.5048, 0.4967],
+                        "MG": [30.4, 0, 0, 20.8],
+                        "Tag": 29325817,
+                        "@": 29325818,
+                        "Alpha": 102,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

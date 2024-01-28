@@ -1,0 +1,1511 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/bg.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            0, -71, 1, 1, 710.4, 867.2, 0, 0, 0.0128, 0.993
+                        ],
+                        "PrePos": [0, -0.0595, 0.951, 0.7263],
+                        "MG": [980.8, 113.6, 0, 710.4],
+                        "Tag": 9417022,
+                        "@": 9417023,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_animal.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [20, 68, 1, 1, 195.2, 168, 0, 0, 0.0005, 0.9994],
+                        "PrePos": [0.0268, 0.057, 0.2613, 0.1407],
+                        "MG": [59.2, -108.8, 32, 227.2],
+                        "Tag": 9417020,
+                        "@": 9417021,
+                        "Alpha": 255,
+                        "Name": "animal",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_zero.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [70, -252, 1, 1, 41.6, 40, 0, 0, 0.4952, 0.4975],
+                        "PrePos": [0.0937, -0.2111, 0.0557, 0.0335],
+                        "MG": [443.2, 403.2, 112, 153.6],
+                        "Tag": 9417018,
+                        "@": 9417019,
+                        "Alpha": 255,
+                        "Name": "dot0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            116, -320, 1, 1, 27.2, 30.4, -26.24, -26.24, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.1553, -0.268, 0.0364, 0.0255],
+                        "MG": [542.4, 512, 185.6, 212.8],
+                        "Tag": 9417016,
+                        "@": 9417017,
+                        "Alpha": 255,
+                        "Name": "line1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            153, -368, 1, 1, 27.2, 30.4, -58.19, -58.19, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.2048, -0.3082, 0.0364, 0.0255],
+                        "MG": [619.2, 588.8, 244.8, 272],
+                        "Tag": 9417014,
+                        "@": 9417015,
+                        "Alpha": 255,
+                        "Name": "line2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            230, -384, 1, 1, 27.2, 30.4, -104.19, -104.19,
+                            0.4816, 0.5033
+                        ],
+                        "PrePos": [0.3079, -0.3216, 0.0364, 0.0255],
+                        "MG": [644.8, 614.4, 368, 395.2],
+                        "Tag": 9417012,
+                        "@": 9417013,
+                        "Alpha": 255,
+                        "Name": "line3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            291, -364, 1, 1, 27.2, 30.4, -122.32, -122.32,
+                            0.4816, 0.5033
+                        ],
+                        "PrePos": [0.3896, -0.3049, 0.0364, 0.0255],
+                        "MG": [612.8, 582.4, 465.6, 492.8],
+                        "Tag": 9417010,
+                        "@": 9417011,
+                        "Alpha": 255,
+                        "Name": "line4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            355, -326, 1, 1, 27.2, 30.4, -120.55, -120.55,
+                            0.4816, 0.5033
+                        ],
+                        "PrePos": [0.4752, -0.273, 0.0364, 0.0255],
+                        "MG": [552, 521.6, 568, 595.2],
+                        "Tag": 9417008,
+                        "@": 9417009,
+                        "Alpha": 255,
+                        "Name": "line5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            419, -301, 1, 1, 27.2, 30.4, -95.79, -95.79, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.5609, -0.2521, 0.0364, 0.0255],
+                        "MG": [512, 481.6, 670.4, 697.6],
+                        "Tag": 9417006,
+                        "@": 9417007,
+                        "Alpha": 255,
+                        "Name": "line6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            497, -311, 1, 1, 27.2, 30.4, -64.99, -64.99, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.6653, -0.2605, 0.0364, 0.0255],
+                        "MG": [528, 497.6, 795.2, 822.4],
+                        "Tag": 9417004,
+                        "@": 9417005,
+                        "Alpha": 255,
+                        "Name": "line7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            544, -348, 1, 1, 27.2, 30.4, -42.28, -42.28, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.7282, -0.2915, 0.0364, 0.0255],
+                        "MG": [587.2, 556.8, 870.4, 897.6],
+                        "Tag": 9417002,
+                        "@": 9417003,
+                        "Alpha": 255,
+                        "Name": "line8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            565, -399, 1, 1, 27.2, 30.4, -16.7, -16.7, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.7564, -0.3342, 0.0364, 0.0255],
+                        "MG": [668.8, 638.4, 904, 931.2],
+                        "Tag": 9417000,
+                        "@": 9417001,
+                        "Alpha": 255,
+                        "Name": "line9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            567, -457, 1, 1, 27.2, 30.4, 11.22, 11.22, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.759, -0.3827, 0.0364, 0.0255],
+                        "MG": [761.6, 731.2, 907.2, 934.4],
+                        "Tag": 9416998,
+                        "@": 9416999,
+                        "Alpha": 255,
+                        "Name": "line10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            529, -527, 1, 1, 27.2, 30.4, 56.93, 56.93, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.7082, -0.4414, 0.0364, 0.0255],
+                        "MG": [873.6, 843.2, 846.4, 873.6],
+                        "Tag": 9416996,
+                        "@": 9416997,
+                        "Alpha": 255,
+                        "Name": "line11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            472, -543, 1, 1, 27.2, 30.4, 83.98, 83.98, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.6319, -0.4548, 0.0364, 0.0255],
+                        "MG": [899.2, 868.8, 755.2, 782.4],
+                        "Tag": 9416994,
+                        "@": 9416995,
+                        "Alpha": 255,
+                        "Name": "line12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            410, -544, 1, 1, 27.2, 30.4, 95.56, 95.56, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.5489, -0.4556, 0.0364, 0.0255],
+                        "MG": [900.8, 870.4, 656, 683.2],
+                        "Tag": 9416992,
+                        "@": 9416993,
+                        "Alpha": 255,
+                        "Name": "line13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            346, -534, 1, 1, 27.2, 30.4, 102.5, 102.5, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.4632, -0.4472, 0.0364, 0.0255],
+                        "MG": [884.8, 854.4, 553.6, 580.8],
+                        "Tag": 9416990,
+                        "@": 9416991,
+                        "Alpha": 255,
+                        "Name": "line14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            273, -522, 1, 1, 27.2, 30.4, 101.28, 101.28, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.3655, -0.4372, 0.0364, 0.0255],
+                        "MG": [865.6, 835.2, 436.8, 464],
+                        "Tag": 9416988,
+                        "@": 9416989,
+                        "Alpha": 255,
+                        "Name": "line15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            211, -522, 1, 1, 27.2, 30.4, -103.3, -103.3, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.2825, -0.4372, 0.0364, 0.0255],
+                        "MG": [865.6, 835.2, 337.6, 364.8],
+                        "Tag": 9416986,
+                        "@": 9416987,
+                        "Alpha": 255,
+                        "Name": "line16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            148, -547, 1, 1, 27.2, 30.4, -124.52, -124.52,
+                            0.4816, 0.5033
+                        ],
+                        "PrePos": [0.1981, -0.4581, 0.0364, 0.0255],
+                        "MG": [905.6, 875.2, 236.8, 264],
+                        "Tag": 9416984,
+                        "@": 9416985,
+                        "Alpha": 255,
+                        "Name": "line17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            98, -600, 1, 1, 27.2, 30.4, -156.3, -156.3, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.1312, -0.5025, 0.0364, 0.0255],
+                        "MG": [990.4, 960, 156.8, 184],
+                        "Tag": 9416982,
+                        "@": 9416983,
+                        "Alpha": 255,
+                        "Name": "line18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            91, -671, 1, 1, 27.2, 30.4, 164.22, 164.22, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.1218, -0.562, 0.0364, 0.0255],
+                        "MG": [1104, 1073.6, 145.6, 172.8],
+                        "Tag": 9416980,
+                        "@": 9416981,
+                        "Alpha": 255,
+                        "Name": "line19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            139, -721, 1, 1, 27.2, 30.4, 121.72, 121.72, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.1861, -0.6039, 0.0364, 0.0255],
+                        "MG": [1184, 1153.6, 222.4, 249.6],
+                        "Tag": 9416978,
+                        "@": 9416979,
+                        "Alpha": 255,
+                        "Name": "line20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            217, -763, 1, 1, 27.2, 30.4, 102.42, 102.42, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.2905, -0.639, 0.0364, 0.0255],
+                        "MG": [1251.2, 1220.8, 347.2, 374.4],
+                        "Tag": 9416976,
+                        "@": 9416977,
+                        "Alpha": 255,
+                        "Name": "line21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            275, -757, 1, 1, 27.2, 30.4, 67.23, 67.23, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.3681, -0.634, 0.0364, 0.0255],
+                        "MG": [1241.6, 1211.2, 440, 467.2],
+                        "Tag": 9416974,
+                        "@": 9416975,
+                        "Alpha": 255,
+                        "Name": "line22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            325, -724, 1, 1, 27.2, 30.4, 28.19, 28.19, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.4351, -0.6064, 0.0364, 0.0255],
+                        "MG": [1188.8, 1158.4, 520, 547.2],
+                        "Tag": 9416972,
+                        "@": 9416973,
+                        "Alpha": 255,
+                        "Name": "line23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            367, -666, 1, 1, 27.2, 30.4, 38.22, 38.22, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.4913, -0.5578, 0.0364, 0.0255],
+                        "MG": [1096, 1065.6, 587.2, 614.4],
+                        "Tag": 9416970,
+                        "@": 9416971,
+                        "Alpha": 255,
+                        "Name": "line24",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            420, -613, 1, 1, 27.2, 30.4, 48.98, 48.98, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.5622, -0.5134, 0.0364, 0.0255],
+                        "MG": [1011.2, 980.8, 672, 699.2],
+                        "Tag": 9416968,
+                        "@": 9416969,
+                        "Alpha": 255,
+                        "Name": "line25",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            480, -594, 1, 1, 27.2, 30.4, 94.3, 94.3, 0.4816,
+                            0.5033
+                        ],
+                        "PrePos": [0.6426, -0.4975, 0.0364, 0.0255],
+                        "MG": [980.8, 950.4, 768, 795.2],
+                        "Tag": 9416966,
+                        "@": 9416967,
+                        "Alpha": 255,
+                        "Name": "line26",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_line.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            525, -623, 1, 0.9659, 27.2, 30.4, 163.28, 163.28,
+                            0.4816, 0.5033
+                        ],
+                        "PrePos": [0.7028, -0.5218, 0.0364, 0.0255],
+                        "MG": [1027.2, 996.8, 840, 867.2],
+                        "Tag": 9416964,
+                        "@": 9416965,
+                        "Alpha": 255,
+                        "Name": "line27",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            104, -294, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.1392, -0.2462, 0.0621, 0.0389],
+                        "MG": [516.8, 470.4, 166.4, 212.8],
+                        "Tag": 9416962,
+                        "@": 9416963,
+                        "Alpha": 255,
+                        "Name": "dot1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            132, -345, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.1767, -0.2889, 0.0621, 0.0389],
+                        "MG": [598.4, 552, 211.2, 257.6],
+                        "Tag": 9416960,
+                        "@": 9416961,
+                        "Alpha": 255,
+                        "Name": "dot2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            194, -369, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.2597, -0.309, 0.0621, 0.0389],
+                        "MG": [636.8, 590.4, 310.4, 356.8],
+                        "Tag": 9416958,
+                        "@": 9416959,
+                        "Alpha": 255,
+                        "Name": "dot3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            263, -378, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.3521, -0.3166, 0.0621, 0.0389],
+                        "MG": [651.2, 604.8, 420.8, 467.2],
+                        "Tag": 9416956,
+                        "@": 9416957,
+                        "Alpha": 255,
+                        "Name": "dot4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            324, -346, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.4337, -0.2898, 0.0621, 0.0389],
+                        "MG": [600, 553.6, 518.4, 564.8],
+                        "Tag": 9416954,
+                        "@": 9416955,
+                        "Alpha": 255,
+                        "Name": "dot5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            389, -310, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.5207, -0.2596, 0.0621, 0.0389],
+                        "MG": [542.4, 496, 622.4, 668.8],
+                        "Tag": 9416952,
+                        "@": 9416953,
+                        "Alpha": 255,
+                        "Name": "dot6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            460, -285, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.6158, -0.2387, 0.0621, 0.0389],
+                        "MG": [502.4, 456, 736, 782.4],
+                        "Tag": 9416950,
+                        "@": 9416951,
+                        "Alpha": 255,
+                        "Name": "dot7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            524, -332, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.7015, -0.2781, 0.0621, 0.0389],
+                        "MG": [577.6, 531.2, 838.4, 884.8],
+                        "Tag": 9416948,
+                        "@": 9416949,
+                        "Alpha": 255,
+                        "Name": "dot8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            558, -372, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.747, -0.3116, 0.0621, 0.0389],
+                        "MG": [641.6, 595.2, 892.8, 939.2],
+                        "Tag": 9416946,
+                        "@": 9416947,
+                        "Alpha": 255,
+                        "Name": "dot9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            570, -429, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.7631, -0.3593, 0.0621, 0.0389],
+                        "MG": [732.8, 686.4, 912, 958.4],
+                        "Tag": 9416944,
+                        "@": 9416945,
+                        "Alpha": 255,
+                        "Name": "dot10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            556, -476, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.7443, -0.3987, 0.0621, 0.0389],
+                        "MG": [808, 761.6, 889.6, 936],
+                        "Tag": 9416942,
+                        "@": 9416943,
+                        "Alpha": 255,
+                        "Name": "dot11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            501, -537, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.6707, -0.4497, 0.0621, 0.0389],
+                        "MG": [905.6, 859.2, 801.6, 848],
+                        "Tag": 9416940,
+                        "@": 9416941,
+                        "Alpha": 255,
+                        "Name": "dot12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            441, -542, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.5904, -0.4539, 0.0621, 0.0389],
+                        "MG": [913.6, 867.2, 705.6, 752],
+                        "Tag": 9416938,
+                        "@": 9416939,
+                        "Alpha": 255,
+                        "Name": "dot13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            379, -538, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.5074, -0.4506, 0.0621, 0.0389],
+                        "MG": [907.2, 860.8, 606.4, 652.8],
+                        "Tag": 9416936,
+                        "@": 9416937,
+                        "Alpha": 255,
+                        "Name": "dot14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            309, -496, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.4137, -0.4154, 0.0621, 0.0389],
+                        "MG": [840, 793.6, 494.4, 540.8],
+                        "Tag": 9416934,
+                        "@": 9416935,
+                        "Alpha": 255,
+                        "Name": "dot15",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            244, -519, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.3266, -0.4347, 0.0621, 0.0389],
+                        "MG": [876.8, 830.4, 390.4, 436.8],
+                        "Tag": 9416932,
+                        "@": 9416933,
+                        "Alpha": 255,
+                        "Name": "dot16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            179, -531, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.2396, -0.4447, 0.0621, 0.0389],
+                        "MG": [896, 849.6, 286.4, 332.8],
+                        "Tag": 9416930,
+                        "@": 9416931,
+                        "Alpha": 255,
+                        "Name": "dot17",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            120, -569, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.1606, -0.4765, 0.0621, 0.0389],
+                        "MG": [956.8, 910.4, 192, 238.4],
+                        "Tag": 9416928,
+                        "@": 9416929,
+                        "Alpha": 255,
+                        "Name": "dot18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            85, -633, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.1138, -0.5302, 0.0621, 0.0389],
+                        "MG": [1059.2, 1012.8, 136, 182.4],
+                        "Tag": 9416926,
+                        "@": 9416927,
+                        "Alpha": 255,
+                        "Name": "dot19",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            108, -697, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.1446, -0.5838, 0.0621, 0.0389],
+                        "MG": [1161.6, 1115.2, 172.8, 219.2],
+                        "Tag": 9416924,
+                        "@": 9416925,
+                        "Alpha": 255,
+                        "Name": "dot20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            162, -713, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.2169, -0.5972, 0.0621, 0.0389],
+                        "MG": [1187.2, 1140.8, 259.2, 305.6],
+                        "Tag": 9416922,
+                        "@": 9416923,
+                        "Alpha": 255,
+                        "Name": "dot21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            247, -764, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.3307, -0.6399, 0.0621, 0.0389],
+                        "MG": [1268.8, 1222.4, 395.2, 441.6],
+                        "Tag": 9416920,
+                        "@": 9416921,
+                        "Alpha": 255,
+                        "Name": "dot22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            301, -747, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.4029, -0.6256, 0.0621, 0.0389],
+                        "MG": [1241.6, 1195.2, 481.6, 528],
+                        "Tag": 9416918,
+                        "@": 9416919,
+                        "Alpha": 255,
+                        "Name": "dot23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            347, -698, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.4645, -0.5846, 0.0621, 0.0389],
+                        "MG": [1163.2, 1116.8, 555.2, 601.6],
+                        "Tag": 9416916,
+                        "@": 9416917,
+                        "Alpha": 255,
+                        "Name": "dot24",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            390, -638, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.5221, -0.5343, 0.0621, 0.0389],
+                        "MG": [1067.2, 1020.8, 624, 670.4],
+                        "Tag": 9416914,
+                        "@": 9416915,
+                        "Alpha": 255,
+                        "Name": "dot25",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            448, -598, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.5997, -0.5008, 0.0621, 0.0389],
+                        "MG": [1003.2, 956.8, 716.8, 763.2],
+                        "Tag": 9416912,
+                        "@": 9416913,
+                        "Alpha": 255,
+                        "Name": "dot26",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            511, -598, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.6841, -0.5008, 0.0621, 0.0389],
+                        "MG": [1003.2, 956.8, 817.6, 864],
+                        "Tag": 9416910,
+                        "@": 9416911,
+                        "Alpha": 255,
+                        "Name": "dot27",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_dot_s.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            544, -643, 1, 1, 46.4, 46.4, 0, 0, 0.4871, 0.5129
+                        ],
+                        "PrePos": [0.7282, -0.5385, 0.0621, 0.0389],
+                        "MG": [1075.2, 1028.8, 870.4, 916.8],
+                        "Tag": 9416908,
+                        "@": 9416909,
+                        "Alpha": 255,
+                        "Name": "dot28",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            194, -383, 0.5214, 0.5214, 140.8, 140.8, 0, 0,
+                            0.4979, 0.5021
+                        ],
+                        "PrePos": [0.2597, -0.3208, 0.1885, 0.1179],
+                        "MG": [753.6, 612.8, 310.4, 451.2],
+                        "Tag": 9416906,
+                        "@": 9416907,
+                        "Alpha": 255,
+                        "Name": "rwbg1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            460, -303, 0.5857, 0.5857, 140.8, 140.8, 0, 0,
+                            0.4979, 0.5021
+                        ],
+                        "PrePos": [0.6158, -0.2538, 0.1885, 0.1179],
+                        "MG": [625.6, 484.8, 736, 876.8],
+                        "Tag": 9416904,
+                        "@": 9416905,
+                        "Alpha": 255,
+                        "Name": "rwbg2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            556, -497, 0.65, 0.65, 140.8, 140.8, 0, 0, 0.4979,
+                            0.5021
+                        ],
+                        "PrePos": [0.7443, -0.4162, 0.1885, 0.1179],
+                        "MG": [936, 795.2, 889.6, 1030.4],
+                        "Tag": 9416902,
+                        "@": 9416903,
+                        "Alpha": 255,
+                        "Name": "rwbg3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            309, -522, 0.7143, 0.7143, 140.8, 140.8, 0, 0,
+                            0.4979, 0.5021
+                        ],
+                        "PrePos": [0.4137, -0.4372, 0.1885, 0.1179],
+                        "MG": [976, 835.2, 494.4, 635.2],
+                        "Tag": 9416900,
+                        "@": 9416901,
+                        "Alpha": 255,
+                        "Name": "rwbg4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            162, -750, 0.8428, 0.8428, 140.8, 140.8, 0, 0,
+                            0.4979, 0.5021
+                        ],
+                        "PrePos": [0.2169, -0.6281, 0.1885, 0.1179],
+                        "MG": [1340.8, 1200, 259.2, 400],
+                        "Tag": 9416898,
+                        "@": 9416899,
+                        "Alpha": 255,
+                        "Name": "rwbg5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_reward_bg2.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            543, -691, 1, 1, 140.8, 140.8, 0, 0, 0.4979, 0.5021
+                        ],
+                        "PrePos": [0.7269, -0.5787, 0.1885, 0.1179],
+                        "MG": [1246.4, 1105.6, 868.8, 1009.6],
+                        "Tag": 9416896,
+                        "@": 9416897,
+                        "Alpha": 255,
+                        "Name": "rwbg6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            194, -383, 0.4585, 0.4582, 100.8, 100.8, 0, 0,
+                            0.497, 0.503
+                        ],
+                        "PrePos": [0.2597, -0.3208, 0.1349, 0.0844],
+                        "MG": [713.6, 612.8, 310.4, 411.2],
+                        "Tag": 9416894,
+                        "@": 9416895,
+                        "Alpha": 255,
+                        "Name": "rw1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            460, -303, 0.5113, 0.5095, 100.8, 100.8, 0, 0,
+                            0.497, 0.503
+                        ],
+                        "PrePos": [0.6158, -0.2538, 0.1349, 0.0844],
+                        "MG": [585.6, 484.8, 736, 836.8],
+                        "Tag": 9416892,
+                        "@": 9416893,
+                        "Alpha": 255,
+                        "Name": "rw2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            556, -498, 0.5617, 0.5612, 100.8, 100.8, 0, 0,
+                            0.497, 0.503
+                        ],
+                        "PrePos": [0.7443, -0.4171, 0.1349, 0.0844],
+                        "MG": [897.6, 796.8, 889.6, 990.4],
+                        "Tag": 9416890,
+                        "@": 9416891,
+                        "Alpha": 255,
+                        "Name": "rw3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            309, -523, 0.6182, 0.6173, 100.8, 100.8, 0, 0,
+                            0.497, 0.503
+                        ],
+                        "PrePos": [0.4137, -0.438, 0.1349, 0.0844],
+                        "MG": [937.6, 836.8, 494.4, 595.2],
+                        "Tag": 9416888,
+                        "@": 9416889,
+                        "Alpha": 255,
+                        "Name": "rw4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            162, -750, 0.7438, 0.743, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.2169, -0.6281, 0.1349, 0.0844],
+                        "MG": [1300.8, 1200, 259.2, 360],
+                        "Tag": 9416886,
+                        "@": 9416887,
+                        "Alpha": 255,
+                        "Name": "rw5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/iconplaceholder.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            543, -691, 0.882, 0.8822, 100.8, 100.8, 0, 0, 0.497,
+                            0.503
+                        ],
+                        "PrePos": [0.7269, -0.5787, 0.1349, 0.0844],
+                        "MG": [1206.4, 1105.6, 868.8, 969.6],
+                        "Tag": 9416884,
+                        "@": 9416885,
+                        "Alpha": 255,
+                        "Name": "rw6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            529, -736, 1, 1, 28.8, 30.4, 0, 0, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.7082, -0.6164, 0.0386, 0.0255],
+                        "MG": [1208, 1177.6, 846.4, 875.2],
+                        "Tag": 9416882,
+                        "@": 9416883,
+                        "Alpha": 255,
+                        "Name": "star1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            505, -702, 0.8502, 0.8803, 28.8, 30.4, -104.68,
+                            -104.68, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.676, -0.5879, 0.0386, 0.0255],
+                        "MG": [1153.6, 1123.2, 808, 836.8],
+                        "Tag": 9416880,
+                        "@": 9416881,
+                        "Alpha": 255,
+                        "Name": "star2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            567, -692, 0.8502, 0.8803, 28.8, 30.4, -164.68,
+                            -164.67, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.759, -0.5796, 0.0386, 0.0255],
+                        "MG": [1137.6, 1107.2, 907.2, 936],
+                        "Tag": 9416878,
+                        "@": 9416879,
+                        "Alpha": 255,
+                        "Name": "star3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            521, -691, 1, 1, 28.8, 30.4, 0, 0, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.6975, -0.5787, 0.0386, 0.0255],
+                        "MG": [1136, 1105.6, 833.6, 862.4],
+                        "Tag": 9416876,
+                        "@": 9416877,
+                        "Alpha": 255,
+                        "Name": "star4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            554, -717, 1, 1, 28.8, 30.4, 0, 0, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.7416, -0.6005, 0.0386, 0.0255],
+                        "MG": [1177.6, 1147.2, 886.4, 915.2],
+                        "Tag": 9416874,
+                        "@": 9416875,
+                        "Alpha": 255,
+                        "Name": "star5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mark_panel/res_star1.png",
+                            "Plist": "cocos/mark_panel@6x.plist"
+                        },
+                        "Pos": [
+                            580, -725, 1, 1, 28.8, 30.4, 0, 0, 0.4549, 0.5362
+                        ],
+                        "PrePos": [0.7764, -0.6072, 0.0386, 0.0255],
+                        "MG": [1190.4, 1160, 928, 956.8],
+                        "Tag": 9416872,
+                        "@": 9416873,
+                        "Alpha": 255,
+                        "Name": "star6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_res_medal@6x.json"
+                        },
+                        "Pos": [540, -773, 1, 1, 0, 0, 0, 0, 0, 0],
+                        "PrePos": [0.7229, -0.6474, 0, 0],
+                        "MG": [421, 773, 540, 207],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416870,
+                        "@": 9416871,
+                        "Alpha": 255,
+                        "Name": "rw6fin",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_res_head@6x.json"
+                        },
+                        "Pos": [103, -296, 1, 1, 102, 216, 0, 0, 0, 0],
+                        "PrePos": [0.1379, -0.2479, 0.1365, 0.1809],
+                        "MG": [682, 296, 103, 542],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416868,
+                        "@": 9416869,
+                        "Alpha": 255,
+                        "Name": "head",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [357, -991, 1, 1, 323, 137, 0, 0, 0, 0],
+                        "PrePos": [0.4779, -0.83, 0.4324, 0.1147],
+                        "MG": [66, 991, 357, 67],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416866,
+                        "@": 9416867,
+                        "Alpha": 255,
+                        "Name": "mark",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_bottom_btn_blue_start2@6x.json"
+                        },
+                        "Pos": [360, -977, 1, 1, 280, 120, 0, 0, 0, 0],
+                        "PrePos": [0.4819, -0.8183, 0.3748, 0.1005],
+                        "MG": [97, 977, 360, 107],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416864,
+                        "@": 9416865,
+                        "Alpha": 255,
+                        "Name": "remark",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_bottom_btn_green_start@6x.json"
+                        },
+                        "Pos": [213, -1057, 1, 1, 323, 137, 0, 0, 0, 0],
+                        "PrePos": [0.2851, -0.8853, 0.4324, 0.1147],
+                        "MG": [0, 1057, 213, 211],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416862,
+                        "@": 9416863,
+                        "Alpha": 255,
+                        "Name": "fin",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_close@6x.json"
+                        },
+                        "Pos": [642, -75, 1, 1, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.8594, -0.0628, 0.1058, 0.0662],
+                        "MG": [1040, 75, 642, 26],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416860,
+                        "@": 9416861,
+                        "Alpha": 255,
+                        "Name": "close",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [217, -3, 1, 1, 427, 94, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 242, "B": 130 },
+                        "PrePos": [0.2905, -0.0025, 0.5716, 0.0787],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_70_greenstroke@6x.fnt"
+                        },
+                        "MG": [1097, 3, 217, 103],
+                        "IsCustomSize": true,
+                        "LabelText": "每日签到",
+                        "FontSize": 70,
+                        "Shadow": [2, -2],
+                        "Tag": 9416858,
+                        "@": 9416859,
+                        "Name": "title",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/mark_panel_remainDay@6x.json"
+                        },
+                        "Pos": [371, -845, 1, 1, 191, 62, 0, 0, 0, 0],
+                        "PrePos": [0.4967, -0.7077, 0.2557, 0.0519],
+                        "MG": [287, 845, 371, 185],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 9416856,
+                        "@": 9416857,
+                        "Alpha": 255,
+                        "Name": "remain",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [310, -819, 0.7432, 0.7432, 93, 41, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 0, "G": 102, "B": 153 },
+                        "PrePos": [0.415, -0.6859, 0.1245, 0.0343],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_40@6x.fnt"
+                        },
+                        "MG": [334, 819, 310, 344],
+                        "IsCustomSize": true,
+                        "LabelText": "鲸鱼岛\\n",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 9416854,
+                        "@": 9416855,
+                        "Name": "finished",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 747, "Y": 1194 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

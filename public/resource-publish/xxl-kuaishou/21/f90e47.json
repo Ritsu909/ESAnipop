@@ -1,0 +1,60 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 20,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        88474159,
+                        [
+                            { "P": [0, 0], "I": 0, "E": [0, 1, 0.6768, 1] },
+                            { "P": [0, 142.05], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Scale",
+                        88474159,
+                        [
+                            { "P": [1, 1], "I": 0, "E": [0, 1, 0.6768, 1] },
+                            { "P": [0.3881, 1.9405], "I": 19, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Alpha",
+                        88474159,
+                        [
+                            { "V": 255, "I": 0 },
+                            { "V": 0, "I": 19, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "boss_big_enter/Octopus_plashdrop.png",
+                            "Plist": "cocos/boss_big_enter@6x.plist"
+                        },
+                        "Pos": [0, 0, 1, 1, 24, 24, 0, 0, 0.5062, 0.4938],
+                        "MG": [24, 0, 0, 24],
+                        "Tag": 88474158,
+                        "@": 88474159,
+                        "Alpha": 255,
+                        "Name": "图层 1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

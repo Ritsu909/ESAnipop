@@ -1,0 +1,57 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/redbanner.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            -307, 125, 1, 1, 617.6, 126.4, 0, 0, 0.0028, 0.9992
+                        ],
+                        "PrePos": [-0.4992, 1, 1.0042, 1.0112],
+                        "MG": [-73.6, -200, -491.2, 126.4],
+                        "Tag": 80499276,
+                        "@": 80499277,
+                        "Alpha": 255,
+                        "Name": "red",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "Pos": [-179, 98, 0.9333, 0.863, 375, 94, 0, 0, 0, 1],
+                        "CColor": { "A": 255, "R": 255, "G": 245, "B": 114 },
+                        "PrePos": [-0.2911, 0.784, 0.6098, 0.752],
+                        "LabelBMFontFile_CNB": {
+                            "Type": 0,
+                            "Path": "font/zzgftongxin_32_redstroke@6x.fnt"
+                        },
+                        "MG": [129, -98, -179, 419],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "哇，好多漂亮的小鱼！",
+                        "FontSize": 40,
+                        "Shadow": [2, -2],
+                        "Tag": 80499274,
+                        "@": 80499275,
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": { "X": 615, "Y": 125 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

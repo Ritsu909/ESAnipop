@@ -1,0 +1,75 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/blueStar.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            1, 18, 0.68, 0.68, 46.4, 43.2, 15, 15, 0.0022,
+                            0.9977
+                        ],
+                        "PrePos": [0.0192, 0.4865, 0.8923, 1.1676],
+                        "MG": [14.4, -28.8, 1.6, 48],
+                        "Tag": 84746261,
+                        "@": 84746262,
+                        "Alpha": 255,
+                        "Name": "图层 6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/orangeStar.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -10, 15, 0.68, 0.68, 46.4, 43.2, 0, 0, 0.0022,
+                            0.9977
+                        ],
+                        "PrePos": [-0.1923, 0.4054, 0.8923, 1.1676],
+                        "MG": [19.2, -24, -16, 30.4],
+                        "Tag": 84746259,
+                        "@": 84746260,
+                        "Alpha": 255,
+                        "Name": "图层 5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/yellowStar.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -21, 9, 0.68, 0.68, 46.4, 43.2, -15, -15, 0.0022,
+                            0.9977
+                        ],
+                        "PrePos": [-0.4038, 0.2432, 0.8923, 1.1676],
+                        "MG": [28.8, -14.4, -33.6, 12.8],
+                        "Tag": 84746257,
+                        "@": 84746258,
+                        "Alpha": 255,
+                        "Name": "图层 2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 52, "Y": 37 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

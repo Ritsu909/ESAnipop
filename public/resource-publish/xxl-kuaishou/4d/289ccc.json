@@ -1,0 +1,76 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 30,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        84753228,
+                        [
+                            { "P": [-779, -13.15], "I": 0, "T": 0 },
+                            { "P": [-779, -13.15], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        84753226,
+                        [
+                            { "P": [96.1, -74.55], "I": 0 },
+                            { "P": [99.25, -85.8], "I": 29, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "RotationSkew",
+                        84753226,
+                        [
+                            { "P": [0, 0], "I": 0 },
+                            { "P": [140.02, 140.02], "I": 29, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/Duplicate_Items_Folder_yuio.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [
+                            -779, -13, 1, 1, 864, 123.2, 0, 0, 0.0017, 1.0373
+                        ],
+                        "MG": [144, 20.8, -1246.4, -382.4],
+                        "Tag": 84753227,
+                        "@": 84753228,
+                        "Alpha": 255,
+                        "Name": "Layer2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "novice_task_panel/ryu.png",
+                            "Plist": "cocos/novice_task_panel@6x.plist"
+                        },
+                        "Pos": [96, -74, 1, 1, 201.6, 200, 0, 0, 0.503, 0.5012],
+                        "MG": [318.4, 118.4, 153.6, 355.2],
+                        "Tag": 84753225,
+                        "@": 84753226,
+                        "Alpha": 255,
+                        "Name": "Layer1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

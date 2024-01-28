@@ -1,0 +1,196 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "uilibrary/twoboard.png",
+                            "Plist": "cocos/uilibrary@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 651.0538, 856.4141, 0, 0, 0.0002, 1.0056
+                        ],
+                        "MG": [278.4, 0, 0, 444.8],
+                        "Scale9": [228, 126, 15, 13],
+                        "Tag": 52816852,
+                        "@": 52816853,
+                        "Alpha": 255,
+                        "Name": "twoboard",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [88, -55, 1, 1, 484, 94, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.1354, -0.0643, 0.7446, 0.1098],
+                        "MG": [707, 55, 88, 78],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "在线时长礼包",
+                        "FontSize": 65,
+                        "Shadow": [2, -2],
+                        "Tag": 52816850,
+                        "@": 52816851,
+                        "Name": "title",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/shichangchahua.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            322, -399, 1, 1, 596.8, 361.6, 0, 0, 0.4995, 0.5006
+                        ],
+                        "PrePos": [0.4954, -0.4661, 0.9182, 0.4224],
+                        "MG": [1000, 638.4, 515.2, 1112],
+                        "Tag": 52816848,
+                        "@": 52816849,
+                        "Alpha": 255,
+                        "Name": "shichangchahua",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/progress_bg.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            90, -721, 1, 1, 476.8, 22.4, 0, 0, 0.0002, 0.9955
+                        ],
+                        "PrePos": [0.1385, -0.8423, 0.7335, 0.0262],
+                        "MG": [1176, 1153.6, 144, 620.8],
+                        "Tag": 52816846,
+                        "@": 52816847,
+                        "Alpha": 255,
+                        "Name": "progress_bg",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/progress.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            91, -722, 1, 1, 120, 19.2, 0, 0, 0.0008, 0.9948
+                        ],
+                        "PrePos": [0.14, -0.8435, 0.1846, 0.0224],
+                        "MG": [1174.4, 1155.2, 145.6, 265.6],
+                        "Tag": 52816844,
+                        "@": 52816845,
+                        "Alpha": 255,
+                        "Name": "progress",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/gift1.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            178, -663, 1, 1, 62.4, 72, 0, 0, 0.0016, 0.9986
+                        ],
+                        "PrePos": [0.2738, -0.7745, 0.096, 0.0841],
+                        "MG": [1132.8, 1060.8, 284.8, 347.2],
+                        "Tag": 52816842,
+                        "@": 52816843,
+                        "Alpha": 255,
+                        "Name": "gift1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/gift2.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            291, -661, 1, 1, 62.4, 72, 0, 0, 0.0016, 0.9986
+                        ],
+                        "PrePos": [0.4477, -0.7722, 0.096, 0.0841],
+                        "MG": [1129.6, 1057.6, 465.6, 528],
+                        "Tag": 52816840,
+                        "@": 52816841,
+                        "Alpha": 255,
+                        "Name": "gift2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/gift3.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            409, -662, 1, 1, 62.4, 72, 0, 0, 0.0016, 0.9986
+                        ],
+                        "PrePos": [0.6292, -0.7734, 0.096, 0.0841],
+                        "MG": [1131.2, 1059.2, 654.4, 716.8],
+                        "Tag": 52816838,
+                        "@": 52816839,
+                        "Alpha": 255,
+                        "Name": "gift3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "online_gift_panel_2/gift4.png",
+                            "Plist": "cocos/online_gift_panel_2@6x.plist"
+                        },
+                        "Pos": [
+                            530, -662, 1, 1, 62.4, 72, 0, 0, 0.0016, 0.9986
+                        ],
+                        "PrePos": [0.8154, -0.7734, 0.096, 0.0841],
+                        "MG": [1131.2, 1059.2, 848, 910.4],
+                        "Tag": 52816836,
+                        "@": 52816837,
+                        "Alpha": 255,
+                        "Name": "gift4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/online_gift_panel_2_bottom_btn_close@6x.json"
+                        },
+                        "Pos": [613, -34, 0.8797, 0.8797, 79, 79, 0, 0, 0, 0],
+                        "PrePos": [0.9431, -0.0397, 0.1215, 0.0923],
+                        "MG": [743, 34, 613, -42],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 52816834,
+                        "@": 52816835,
+                        "Alpha": 255,
+                        "Name": "btn_close",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 650, "Y": 856 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

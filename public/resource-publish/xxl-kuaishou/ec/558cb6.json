@@ -1,0 +1,89 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 40,
+                "Speed": 0.5,
+                "Timelines": [
+                    [
+                        "Position",
+                        3035548,
+                        [
+                            { "P": [-0.15, -22.95], "I": 0, "T": 0 },
+                            { "P": [-0.15, -22.95], "I": 39, "T": 0 }
+                        ]
+                    ],
+                    [
+                        "ActionValue",
+                        3035546,
+                        [
+                            {
+                                "P": [0, 0],
+                                "I": 0,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            },
+                            {
+                                "P": [0, 0],
+                                "I": 39,
+                                "SingleFrameIndex": "0",
+                                "CurrentAniamtionName": "-- ALL --",
+                                "InnerActionType": "LoopAction"
+                            }
+                        ]
+                    ],
+                    [
+                        "Position",
+                        3035546,
+                        [
+                            { "P": [6, -56.1], "I": 0, "T": 0 },
+                            { "P": [6, -56.1], "I": 39, "T": 0 }
+                        ]
+                    ]
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "homeScene/big_hat_i.png",
+                            "Plist": "cocos/homeScene@6x.plist"
+                        },
+                        "Pos": [0, -22, 1, 1, 78.4, 51.2, 0, 0, 0.5006, 0.5127],
+                        "MG": [86.4, 35.2, 0, 78.4],
+                        "Tag": 3035547,
+                        "@": 3035548,
+                        "Alpha": 255,
+                        "Name": "hat",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/homeScene_wjo@6x.json"
+                        },
+                        "Pos": [6, -56, 0.932, 0.932, 0, 0, 0, 0, 0, 0],
+                        "MG": [-56, 56, 6, -6],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 3035545,
+                        "@": 3035546,
+                        "Alpha": 255,
+                        "Name": "rabbit",
+                        "ctype": "ProjectNodeObjectData"
+                    }
+                ],
+                "Size": { "X": 0, "Y": 0 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

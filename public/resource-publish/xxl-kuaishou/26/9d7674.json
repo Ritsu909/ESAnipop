@@ -1,0 +1,151 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/buy_confirm_panel_cells_bg.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            0, 0, 1, 1, 727.469, 405.3506, 0, 0, 0.0033, 0.9967
+                        ],
+                        "MG": [30.4, 0, 0, 30.4],
+                        "Scale9": [7, 7, 7, 7],
+                        "Tag": 50068,
+                        "@": 50069,
+                        "Alpha": 255,
+                        "Name": "bg",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "Pos": [11, -358, 1, 1, 695, 30, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0153, -0.5585, 0.9693, 0.0468],
+                        "MG": [253, 358, 11, 11],
+                        "HorizontalAlignmentType": "HT_Right",
+                        "IsCustomSize": true,
+                        "LabelText": "我是可能出现的tip",
+                        "FontSize": 20,
+                        "Shadow": [2, -2],
+                        "Tag": 50070,
+                        "@": 50071,
+                        "Name": "extraTip",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/BuyConfirmPanel_market_buyExtendedPanel@6x.json"
+                        },
+                        "Pos": [200, -361, 1, 1, 648, 279, 0, 0, 0, 0],
+                        "PrePos": [0.2789, -0.5632, 0.9038, 0.4353],
+                        "MG": [1, 361, 200, -131],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50072,
+                        "@": 50073,
+                        "Alpha": 255,
+                        "Name": "extendedPanel",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/BuyConfirmPanel_ui_buttons_button_label_long@6x.json"
+                        },
+                        "Pos": [508, -212, 0.85, 0.85, 352, 130, 0, 0, 0, 0],
+                        "PrePos": [0.7085, -0.3307, 0.4909, 0.2028],
+                        "MG": [299, 212, 508, -143],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50084,
+                        "@": 50085,
+                        "Alpha": 255,
+                        "Name": "buyBtn",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "Pos": [26, -18, 0.9998, 0.9998, 665, 70, 0, 0, 0, 1],
+                        "OutlineColor": { "A": 255, "R": 255, "G": 0, "B": 0 },
+                        "ShadowColor": {
+                            "A": 255,
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "PrePos": [0.0363, -0.0281, 0.9275, 0.1092],
+                        "MG": [553, 18, 26, 26],
+                        "HorizontalAlignmentType": "HT_Center",
+                        "IsCustomSize": true,
+                        "LabelText": "购买道具",
+                        "FontSize": 50,
+                        "Shadow": [2, -2],
+                        "Tag": 50086,
+                        "@": 50087,
+                        "Name": "panelTitle",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": 0,
+                            "Path": "cocos/BuyConfirmPanel_buy_confirm_panel_cells_itemBubble@6x.json"
+                        },
+                        "Pos": [78, -126, 1, 1, 195, 184, 0, 0, 0, 0],
+                        "PrePos": [0.1088, -0.1966, 0.272, 0.2871],
+                        "MG": [331, 126, 78, 444],
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "CustomSizeEnabled": false,
+                        "Tag": 50088,
+                        "@": 50089,
+                        "Alpha": 255,
+                        "Name": "itemBubble",
+                        "ctype": "ProjectNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "BuyConfirmPanel/closeBtn.png",
+                            "Plist": "cocos/BuyConfirmPanel@6x.plist"
+                        },
+                        "Pos": [
+                            673, -41, 1, 1, 86.4, 86.4, 0, 0, 0.4873, 0.5127
+                        ],
+                        "PrePos": [0.9386, -0.064, 0.1205, 0.1348],
+                        "MG": [152, 65.6, 1076.8, 1163.2],
+                        "Tag": 50090,
+                        "@": 50091,
+                        "Alpha": 255,
+                        "Name": "closeBtn",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 717, "Y": 641 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

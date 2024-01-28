@@ -1,0 +1,51 @@
+{
+    "Version": "2.3.3.0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.5,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "ObjectData": {
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/requestItemDisabled.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [-57, 25, 1, 1, 123.2, 72, 0, 0, 0.0008, 0.9986],
+                        "PrePos": [-0.4524, 0.3472, 0.9778, 1],
+                        "MG": [32, -40, -91.2, 32],
+                        "Tag": 84746403,
+                        "@": 84746404,
+                        "Alpha": 255,
+                        "Name": "disabled",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "friend_panel/requestItemBtn.png",
+                            "Plist": "cocos/friend_panel@6x.plist"
+                        },
+                        "Pos": [-59, 25, 1, 1, 126.4, 72, 0, 0, 0.0008, 0.9986],
+                        "PrePos": [-0.4683, 0.3472, 1.0032, 1],
+                        "MG": [32, -40, -94.4, 32],
+                        "Tag": 84746399,
+                        "@": 84746400,
+                        "Alpha": 255,
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": { "X": 126, "Y": 72 },
+                "ctype": "SingleNodeObjectData"
+            },
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}
