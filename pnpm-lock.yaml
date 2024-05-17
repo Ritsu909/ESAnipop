@@ -23,8 +23,8 @@ dependencies:
 
 devDependencies:
   '@rushstack/eslint-patch':
-    specifier: ^1.10.2
-    version: 1.10.2
+    specifier: ^1.10.3
+    version: 1.10.3
   '@trivago/prettier-plugin-sort-imports':
     specifier: ^4.3.0
     version: 4.3.0(prettier@3.2.5)
@@ -599,8 +599,8 @@ packages:
     requiresBuild: true
     optional: true
 
-  /@rushstack/eslint-patch@1.10.2:
-    resolution: {integrity: sha512-hw437iINopmQuxWPSUEvqE56NCPsiU8N4AYtfHmJFckclktzK9YQJieD3XkDCDH4OjL+C7zgPUh73R/nrcHrqw==}
+  /@rushstack/eslint-patch@1.10.3:
+    resolution: {integrity: sha512-qC/xYId4NMebE6w/V33Fh9gWxLgURiNYgVNObbJl2LZv0GUUItCcCqC5axQSwRaAgaxl2mELq1rMzlswaQ0Zxg==}
     dev: true
 
   /@trivago/prettier-plugin-sort-imports@4.3.0(prettier@3.2.5):
