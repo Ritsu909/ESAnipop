@@ -18,8 +18,8 @@ importers:
         specifier: ^3.5.12
         version: 3.5.12(typescript@5.6.3)
       vuetify:
-        specifier: ^3.7.3
-        version: 3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
+        specifier: ^3.7.4
+        version: 3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
       webfontloader:
         specifier: ^1.6.28
         version: 1.6.28
@@ -59,7 +59,7 @@ importers:
         version: 5.4.10(@types/node@20.11.9)(terser@5.27.0)
       vite-plugin-vuetify:
         specifier: ^2.0.4
-        version: 2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.3)
+        version: 2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.4)
       vue-cli-plugin-vuetify:
         specifier: ^2.5.8
         version: 2.5.8(vue@3.5.12(typescript@5.6.3))(webpack@5.90.0)
@@ -673,6 +673,7 @@ packages:
 
   acorn-import-assertions@1.9.0:
     resolution: {integrity: sha512-cmMwop9x+8KFhxvKrKfPYmN6/pKTYYHBqLa0DfvVZcKMJWNyWLnaqND7dx/qn66R7ewM1UX5XMaDVP5wlVTaVA==}
+    deprecated: package has been renamed to acorn-import-attributes
     peerDependencies:
       acorn: ^8
 
@@ -1535,8 +1536,8 @@ packages:
       typescript:
         optional: true
 
-  vuetify@3.7.3:
-    resolution: {integrity: sha512-bpuvBpZl1/+nLlXDgdVXekvMNR6W/ciaoa8CYlpeAzAARbY8zUFSoBq05JlLhkIHI58AnzKVy4c09d0OtfYAPg==}
+  vuetify@3.7.4:
+    resolution: {integrity: sha512-Y8UU5wUDQXC3oz2uumPb8IOdvB4XMCxtxnmqdOc+LihNuPlkSgxIwf92ndRzbOtJFKHsggFUxpyLqpQp+A+5kg==}
     engines: {node: ^12.20 || >=14.13}
     peerDependencies:
       typescript: '>=4.7'
@@ -2127,11 +2128,11 @@ snapshots:
 
   '@vue/shared@3.5.12': {}
 
-  '@vuetify/loader-shared@2.0.3(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)))':
+  '@vuetify/loader-shared@2.0.3(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)))':
     dependencies:
       upath: 2.0.1
       vue: 3.5.12(typescript@5.6.3)
-      vuetify: 3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
+      vuetify: 3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
 
   '@webassemblyjs/ast@1.11.6':
     dependencies:
@@ -2961,14 +2962,14 @@ snapshots:
 
   util-deprecate@1.0.2: {}
 
-  vite-plugin-vuetify@2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.3):
+  vite-plugin-vuetify@2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.4):
     dependencies:
-      '@vuetify/loader-shared': 2.0.3(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)))
+      '@vuetify/loader-shared': 2.0.3(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)))
       debug: 4.3.4
       upath: 2.0.1
       vite: 5.4.10(@types/node@20.11.9)(terser@5.27.0)
       vue: 3.5.12(typescript@5.6.3)
-      vuetify: 3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
+      vuetify: 3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3))
     transitivePeerDependencies:
       - supports-color
 
@@ -3022,12 +3023,12 @@ snapshots:
     optionalDependencies:
       typescript: 5.6.3
 
-  vuetify@3.7.3(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)):
+  vuetify@3.7.4(typescript@5.6.3)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.3)):
     dependencies:
       vue: 3.5.12(typescript@5.6.3)
     optionalDependencies:
       typescript: 5.6.3
-      vite-plugin-vuetify: 2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.3)
+      vite-plugin-vuetify: 2.0.4(vite@5.4.10(@types/node@20.11.9)(terser@5.27.0))(vue@3.5.12(typescript@5.6.3))(vuetify@3.7.4)
 
   watchpack@2.4.0:
     dependencies:
