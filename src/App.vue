@@ -18,10 +18,9 @@ const itemMap = new Map([
 
 const gamePageRoot = "game.html";
 
-// eslint-disable-next-line no-self-compare
 const formRef = ref<HTMLFormElement | null>(null);
 const character = ref("");
-// eslint-disable-next-line no-magic-numbers
+
 const itemID = ref(0);
 
 /* eslint-enable no-magic-numbers */
